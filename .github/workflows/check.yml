@@ -11,8 +11,8 @@ jobs:
   check:
     runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
       - name: Theme contract
@@ -24,4 +24,4 @@ jobs:
       - name: Python syntax
         run: python3 -m py_compile tools/*.py src/*.py src/*/*.py
       - name: Licensing (REUSE)
-        uses: fsfe/reuse-action@v5
+        uses: fsfe/reuse-action@v6
