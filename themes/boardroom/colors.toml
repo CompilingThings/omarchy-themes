@@ -1,0 +1,39 @@
+mode = "dark"
+
+# Boardroom: the cyberdeck's own boards. Purple solder mask, white silkscreen,
+# gold (ENIG) pads, on a dark purple drawing sheet.
+
+accent = "#ECC65C"
+selection = "#3D1768"
+muted = "#4E3A66"
+
+background = "#0C0612"
+dark_background = "#08040D"
+darker_background = "#040207"
+lighter_background = "#1A0E28"
+
+foreground = "#EEE8F6"
+dark_foreground = "#7C6A92"
+light_foreground = "#C8BADB"
+bright_foreground = "#FFFFFF"
+
+# The focused window in ENIG gold, deepening slightly across
+hyprland_active_border = "rgba(f5d46bff) rgba(d9a830ff) 45deg"
+hyprland_inactive_border = "rgba(2c1844cc)"
+
+red = "#F2647A"
+orange = "#F0A060"
+# gold, like the pads
+yellow = "#ECC65C"
+green = "#7EE0A0"
+cyan = "#7FD8E8"
+blue = "#93A6FF"
+magenta = "#C48DFF"
+brown = "#A06A3A"
+
+bright_red = "#FF94A4"
+bright_yellow = "#F7E09A"
+bright_green = "#A8F0C2"
+bright_cyan = "#AEEAF4"
+bright_blue = "#BCC8FF"
+bright_magenta = "#DDBDFF"

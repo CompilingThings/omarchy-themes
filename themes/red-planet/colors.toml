@@ -1,0 +1,43 @@
+mode = "dark"
+
+# Red Planet: real photos of Mars (Perseverance, Curiosity, Spirit, HiRISE, Mars Express, Viking).
+# Rust-black night, dusty cream text, iron-oxide rust, butterscotch sky, and the blue of a Martian sunset.
+
+accent = "#E07A4F"
+selection = "#3B231A"
+muted = "#5C4A42"
+
+background = "#110C0A"
+dark_background = "#0C0807"
+darker_background = "#060403"
+lighter_background = "#1E1613"
+
+foreground = "#EFE2D6"
+dark_foreground = "#9A8576"
+light_foreground = "#CDB9A9"
+bright_foreground = "#FFFFFF"
+
+# The focused window: rust fading into the blue glow around the Sun at a Martian sunset
+hyprland_active_border = "rgba(e07a4fff) rgba(8db4dcff) 45deg"
+hyprland_inactive_border = "rgba(2a1d18cc)"
+
+# red: iron oxide, the dust that makes Mars red
+red = "#E5574B"
+# orange: rust
+orange = "#E07A4F"
+# yellow: the butterscotch daytime sky
+yellow = "#EBC17D"
+# green: olivine sand
+green = "#A9C48A"
+cyan = "#86C7D3"
+# blue: sunset
+blue = "#8DB4DC"
+magenta = "#C99AB8"
+brown = "#9A6A4A"
+
+bright_red = "#F58A7E"
+bright_yellow = "#F5DCAE"
+bright_green = "#C7DDB0"
+bright_cyan = "#B3E0E8"
+bright_blue = "#B7D1EC"
+bright_magenta = "#DFC0D4"

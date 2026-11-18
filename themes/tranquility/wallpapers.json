@@ -1,0 +1,93 @@
+{
+  "accent": "#8CBFE8",
+  "wallpapers": [
+    {
+      "file": "1-earthset",
+      "by": "NASA",
+      "licence": "LicenseRef-NASA-Media",
+      "url": "https://images-assets.nasa.gov/image/art002e009288/art002e009288~orig.jpg",
+      "page": "https://images.nasa.gov/details/art002e009288",
+      "title": "EARTHSET",
+      "line1": "Earth sinks behind the Moon's Ohm crater, seen through Orion's window. Clouds over Australia on the day side.",
+      "line2": "Artemis II crew  ·  6 April 2026  ·  NASA",
+      "crop": [0.5, 0.5, 1.0]
+    },
+    {
+      "file": "2-earthrise",
+      "by": "NASA",
+      "licence": "LicenseRef-NASA-Media",
+      "url": "https://images-assets.nasa.gov/image/as08-14-2383/as08-14-2383~orig.jpg",
+      "page": "https://images.nasa.gov/details/as08-14-2383",
+      "title": "EARTHRISE",
+      "line1": "Earth rising over the Moon's horizon on Christmas Eve. On Earth, the sunset line crosses Africa.",
+      "line2": "Apollo 8 crew  ·  24 December 1968  ·  NASA",
+      "crop": [0.5, 0.6, 1.0]
+    },
+    {
+      "file": "3-crescent-moon",
+      "by": "NASA",
+      "licence": "LicenseRef-NASA-Media",
+      "url": "https://images-assets.nasa.gov/image/art002e019570/art002e019570~orig.jpg",
+      "page": "https://images.nasa.gov/details/art002e019570",
+      "title": "CRESCENT MOON",
+      "line1": "The Moon behind them on the way home. Low sunlight along the edge of night throws long shadows.",
+      "line2": "Artemis II crew  ·  7 April 2026  ·  NASA",
+      "crop": [0.5, 0.5, 1.0]
+    },
+    {
+      "file": "4-edge-of-two-worlds",
+      "by": "NASA",
+      "licence": "LicenseRef-NASA-Media",
+      "url": "https://images-assets.nasa.gov/image/art002e009285/art002e009285~orig.jpg",
+      "page": "https://images.nasa.gov/details/art002e009285",
+      "title": "THE EDGE OF TWO WORLDS",
+      "line1": "A crescent Earth six minutes before it passes behind the Moon. The rows of small pits are chains of secondary craters.",
+      "line2": "Artemis II crew  ·  6 April 2026  ·  NASA",
+      "crop": [0.5, 0.5, 1.0]
+    },
+    {
+      "file": "5-terminator",
+      "by": "NASA",
+      "licence": "LicenseRef-NASA-Media",
+      "url": "https://images-assets.nasa.gov/image/art002e014055/art002e014055~orig.jpg",
+      "page": "https://images.nasa.gov/details/art002e014055",
+      "title": "THE TERMINATOR",
+      "line1": "The line between lunar day and night. Low sunlight casts long shadows that show how deep each crater is.",
+      "line2": "Artemis II crew  ·  6 April 2026  ·  NASA",
+      "crop": [0.5, 0.5, 1.0]
+    },
+    {
+      "file": "6-hadley-delta",
+      "by": "NASA (photo: Jim Irwin)",
+      "licence": "LicenseRef-NASA-Media",
+      "url": "https://images-assets.nasa.gov/image/as15-85-11437/as15-85-11437~orig.jpg",
+      "page": "https://images.nasa.gov/details/as15-85-11437",
+      "title": "HADLEY DELTA",
+      "line1": "Dave Scott studies a boulder on the slope of Hadley Delta. The Lunar Roving Vehicle stands on the right.",
+      "line2": "Apollo 15, photo by Jim Irwin  ·  31 July 1971  ·  NASA",
+      "crop": [0.5, 0.45, 1.0]
+    },
+    {
+      "file": "7-the-moon-from-orion",
+      "by": "NASA",
+      "licence": "LicenseRef-NASA-Media",
+      "url": "https://images-assets.nasa.gov/image/art002e012183/art002e012183~orig.jpg",
+      "page": "https://images.nasa.gov/details/art002e012183",
+      "title": "THE MOON FROM ORION",
+      "line1": "More than two-thirds of the Moon. The dark round spot is Grimaldi crater; Orientale basin sits on the edge.",
+      "line2": "Artemis II crew  ·  6 April 2026  ·  NASA",
+      "crop": [0.5, 0.5, 1.0]
+    },
+    {
+      "file": "8-orientale-basin",
+      "by": "NASA",
+      "licence": "LicenseRef-NASA-Media",
+      "url": "https://images-assets.nasa.gov/image/art002e012090/art002e012090~orig.jpg",
+      "page": "https://images.nasa.gov/details/art002e012090  (width: art002e012183)",
+      "title": "ORIENTALE BASIN",
+      "line1": "The rings of one of the Moon's youngest and best-kept large impact craters, about 965 km (600 miles) wide.",
+      "line2": "Artemis II crew  ·  6 April 2026  ·  NASA",
+      "crop": [0.5, 0.5, 1.0]
+    }
+  ]
+}

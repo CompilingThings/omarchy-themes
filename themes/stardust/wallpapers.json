@@ -1,0 +1,82 @@
+{
+  "accent": "#F38BBF",
+  "wallpapers": [
+    {
+      "file": "1-helix-nebula",
+      "by": "NASA, ESA, CSA, STScI, A. Pagan (STScI)",
+      "licence": "CC-BY-4.0",
+      "url": "https://cdn.esawebb.org/archives/images/large/weic2601a.jpg",
+      "page": "https://esawebb.org/images/weic2601a/  (facts: https://esawebb.org/news/weic2601/)",
+      "title": "HELIX NEBULA",
+      "line1": "Comet-shaped knots of gas round a dying star, carved by its hot winds. 650 light-years away.",
+      "line2": "James Webb Space Telescope  ·  20 January 2026  ·  NASA, ESA, CSA, STScI, A. Pagan (STScI)",
+      "crop": [0.5, 0.5, 1.0]
+    },
+    {
+      "file": "2-cats-head-nebula",
+      "by": "NASA, ESA, CSA, STScI, J. DePasquale (STScI)",
+      "licence": "CC-BY-4.0",
+      "url": "https://cdn.esawebb.org/archives/images/large/weic2622c.jpg",
+      "page": "https://esawebb.org/images/weic2622c/  (facts: https://esawebb.org/news/weic2622/)",
+      "title": "CAT'S HEAD NEBULA",
+      "line1": "A pillar of dust in the Carina Nebula, worn away by the light of giant stars. 7,500 light-years away.",
+      "line2": "James Webb Space Telescope  ·  29 October 2026  ·  NASA, ESA, CSA, STScI, J. DePasquale (STScI)",
+      "crop": [0.5, 0.27, 1.0]
+    },
+    {
+      "file": "3-cats-eye-nebula",
+      "by": "ESA/Hubble & NASA, ESA Euclid/Euclid Consortium/NASA/Q1-2025, J.-C. Cuillandre & E. Bertin (CEA Paris-Saclay), Z. Tsvetanov",
+      "licence": "CC-BY-4.0",
+      "url": "https://cdn.esahubble.org/archives/images/large/potm2602c.jpg",
+      "page": "https://esahubble.org/images/potm2602c/  (facts: https://esahubble.org/images/potm2602a/)",
+      "title": "CAT'S EYE NEBULA",
+      "line1": "A dying star's shells of gas, ringed by a halo of gas fragments it threw off. 4,400 light-years away.",
+      "line2": "Euclid + Hubble  ·  3 March 2026  ·  ESA/Hubble & NASA, ESA Euclid/Euclid Consortium/NASA/Q1-2025, J.-C. Cuillandre & E. Bertin (CEA Paris-Saclay), Z. Tsvetanov",
+      "crop": [0.5, 0.48, 2.0]
+    },
+    {
+      "file": "4-ngc-7129",
+      "by": "NASA, ESA, CSA, STScI, A. Pagan (STScI)",
+      "licence": "CC-BY-4.0",
+      "url": "https://cdn.esawebb.org/archives/images/large/weic2620a.jpg",
+      "page": "https://esawebb.org/images/weic2620a/  (facts: https://esawebb.org/news/weic2620/)",
+      "title": "NGC 7129",
+      "line1": "Young stars light up golden gas; newborn stars fire jets into the cold red cloud. 3,300 light-years away.",
+      "line2": "James Webb Space Telescope  ·  6 October 2026  ·  NASA, ESA, CSA, STScI, A. Pagan (STScI)",
+      "crop": [0.5, 0.5, 1.0]
+    },
+    {
+      "file": "5-lion-nebula",
+      "by": "NASA, ESA, CSA, STScI, A. Pagan (STScI)",
+      "licence": "CC-BY-4.0",
+      "url": "https://cdn.esawebb.org/archives/images/large/weic2616a.jpg",
+      "page": "https://esawebb.org/images/weic2616a/  (facts: https://esawebb.org/news/weic2616/)",
+      "title": "LION NEBULA",
+      "line1": "A dying star's glowing bubble makes the lion's face; the white dwarf in the middle is its nose. In Gemini.",
+      "line2": "James Webb Space Telescope  ·  10 August 2026  ·  NASA, ESA, CSA, STScI, A. Pagan (STScI)",
+      "crop": [0.5, 0.5, 1.0]
+    },
+    {
+      "file": "6-exposed-cranium-nebula",
+      "by": "NASA, ESA, CSA, STScI, J. DePasquale (STScI)",
+      "licence": "CC-BY-4.0",
+      "url": "https://cdn.esawebb.org/archives/images/large/weic2605c.jpg",
+      "page": "https://esawebb.org/images/weic2605c/  (facts: https://esawebb.org/news/weic2605/)",
+      "title": "EXPOSED CRANIUM NEBULA",
+      "line1": "A dying star shedding its outer layers; the dark lane down the middle may be twin jets. In Vela.",
+      "line2": "James Webb Space Telescope  ·  25 February 2026  ·  NASA, ESA, CSA, STScI, J. DePasquale (STScI)",
+      "crop": [0.5, 0.5, 1.0]
+    },
+    {
+      "file": "7-ic-348",
+      "by": "ESA/Webb, NASA, CSA, K. Luhman, C. Alves De Oliveira, M. Zamani (ESA/Webb)",
+      "licence": "CC-BY-4.0",
+      "url": "https://cdn.esawebb.org/archives/images/publicationjpg/weic2619a.jpg",
+      "page": "https://esawebb.org/images/weic2619a/  (facts: https://esawebb.org/news/weic2619/)",
+      "title": "IC 348",
+      "line1": "A star nursery full of brown dwarfs, some only twice the mass of Jupiter. 1,000 light-years away.",
+      "line2": "James Webb Space Telescope  ·  15 September 2026  ·  ESA/Webb, NASA, CSA, K. Luhman, C. Alves De Oliveira, M. Zamani (ESA/Webb)",
+      "crop": [0.5, 0.42, 1.0]
+    }
+  ]
+}

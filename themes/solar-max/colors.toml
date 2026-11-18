@@ -1,0 +1,43 @@
+mode = "dark"
+
+# Solar Max: real photos of our Sun (Solar Dynamics Observatory, Solar Orbiter, eclipses from Earth and from Orion).
+# Near-black space, corona-white text, a hot flare-orange accent, and the gold and red of the Sun in ultraviolet.
+
+accent = "#FF8A3D"
+selection = "#3A1E10"
+muted = "#6E5646"
+
+background = "#0B0706"
+dark_background = "#070404"
+darker_background = "#030202"
+lighter_background = "#1A110C"
+
+foreground = "#F4E6D8"
+dark_foreground = "#9A8574"
+light_foreground = "#D8C3AE"
+bright_foreground = "#FFFFFF"
+
+# The focused window: ultraviolet gold fading into flare red
+hyprland_active_border = "rgba(ffc45cff) rgba(e8452cff) 45deg"
+hyprland_inactive_border = "rgba(2a1a12cc)"
+
+# red: a flare
+red = "#FF6B4A"
+# orange: the accent
+orange = "#FF8A3D"
+# yellow: the Sun's corona in ultraviolet (Solar Orbiter, SDO)
+yellow = "#FFC45C"
+green = "#A9D98B"
+# cyan: SDO's flare light
+cyan = "#5FD3D3"
+blue = "#7FA8E8"
+# magenta: the pink prominences of an eclipse
+magenta = "#E58BB8"
+brown = "#A8693A"
+
+bright_red = "#FF957D"
+bright_yellow = "#FFDC94"
+bright_green = "#C9E9B0"
+bright_cyan = "#92E6E6"
+bright_blue = "#A9C6F2"
+bright_magenta = "#F2B5D3"

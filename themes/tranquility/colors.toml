@@ -1,0 +1,38 @@
+mode = "dark"
+
+# Tranquility: real photos of the Moon (Artemis II, Apollo). Moon-dust greys on black,
+# and one colour: Earth blue, the only colour in the Moon's sky.
+
+accent = "#8CBFE8"
+selection = "#24303D"
+muted = "#4F525A"
+
+background = "#0A0B0D"
+dark_background = "#070809"
+darker_background = "#030304"
+lighter_background = "#17191C"
+
+foreground = "#E6E4DF"
+dark_foreground = "#8A8883"
+light_foreground = "#C4C1BA"
+bright_foreground = "#FFFFFF"
+
+# The focused window: moonlight white fading into Earth blue
+hyprland_active_border = "rgba(e6e4dfff) rgba(8cbfe8ff) 45deg"
+hyprland_inactive_border = "rgba(2a2c30cc)"
+
+red = "#E8726A"
+orange = "#E3A06A"
+yellow = "#E8CF8A"
+green = "#9CCB9E"
+cyan = "#8FCFD8"
+blue = "#8CBFE8"
+magenta = "#C3A5D8"
+brown = "#9C8468"
+
+bright_red = "#F29A94"
+bright_yellow = "#F2E1B4"
+bright_green = "#BFE0C0"
+bright_cyan = "#B6E2E8"
+bright_blue = "#B4D6F1"
+bright_magenta = "#D9C5E6"

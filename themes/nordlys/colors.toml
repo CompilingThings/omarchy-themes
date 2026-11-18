@@ -1,0 +1,45 @@
+mode = "dark"
+
+# Nordlys (Norwegian for northern lights): the aurora seen from Norway, from Lofoten to Svalbard.
+# Polar-night blue, snow-white text, the green of oxygen glowing 100-300 km up, and the purple of nitrogen at the
+# aurora's lower edge (Canadian Space Agency, "The colours of the northern lights").
+
+accent = "#57E39B"
+selection = "#173A2E"
+muted = "#3E5562"
+
+background = "#070C12"
+dark_background = "#05080D"
+darker_background = "#020406"
+lighter_background = "#101A24"
+
+foreground = "#E4EEF0"
+dark_foreground = "#7A8C96"
+light_foreground = "#BCCDD4"
+bright_foreground = "#FFFFFF"
+
+# The focused window: aurora green fading into the violet fringe of a bright display
+hyprland_active_border = "rgba(57e39bff) rgba(b18cffff) 45deg"
+hyprland_inactive_border = "rgba(16222ccc)"
+
+# red: the red fishermen's cabins (rorbuer) of Lofoten
+red = "#E8645A"
+# orange: town lights along the fjord
+orange = "#F2A65A"
+yellow = "#F2D57E"
+# green: oxygen aurora
+green = "#57E39B"
+# cyan: the blue-green curtains over Kirkenes
+cyan = "#5ED6D6"
+# blue: the polar night sky
+blue = "#6FA8FF"
+# magenta: nitrogen violet at the aurora's lower edge
+magenta = "#C792FF"
+brown = "#A87A55"
+
+bright_red = "#FF9389"
+bright_yellow = "#F8E4AE"
+bright_green = "#9AF0C3"
+bright_cyan = "#9BE8E8"
+bright_blue = "#A6C8FF"
+bright_magenta = "#DDBDFF"

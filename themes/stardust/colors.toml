@@ -1,0 +1,44 @@
+mode = "dark"
+
+# Stardust: the clearest nebula pictures of 2026 (Webb, Hubble, Euclid).
+# Violet-black sky, starlight text, the rose of glowing hydrogen, and the gold of the Helix Nebula's dust.
+
+accent = "#F38BBF"
+selection = "#3A2140"
+muted = "#564A66"
+
+background = "#09070F"
+dark_background = "#06050A"
+darker_background = "#030205"
+lighter_background = "#151020"
+
+foreground = "#EEE6F0"
+dark_foreground = "#857A93"
+light_foreground = "#C7BCD3"
+bright_foreground = "#FFFFFF"
+
+# The focused window: hydrogen rose fading into Helix gold
+hyprland_active_border = "rgba(f38bbfff) rgba(f5b95fff) 45deg"
+hyprland_inactive_border = "rgba(221a2ecc)"
+
+# red: the cold gas round NGC 7129's newborn stars
+red = "#FF6B7A"
+# orange: the Helix Nebula's comet knots
+orange = "#F5A75F"
+yellow = "#F7D488"
+# green: oxygen glow
+green = "#8FE0B8"
+# cyan: the Cat's Eye
+cyan = "#6FD3E8"
+# blue: the Crab's filaments
+blue = "#8AA8FF"
+# magenta: the Lion's ring
+magenta = "#F38BBF"
+brown = "#A8744E"
+
+bright_red = "#FF97A2"
+bright_yellow = "#FAE5B5"
+bright_green = "#B5ECD0"
+bright_cyan = "#A5E5F2"
+bright_blue = "#B4C6FF"
+bright_magenta = "#F8B6D8"

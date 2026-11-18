@@ -1,0 +1,279 @@
+{
+  "accent": "#7aa2f7",
+  "wallpapers": [
+    {
+      "file": "1-seahorse-valley",
+      "by": "CompilingThings",
+      "licence": "CC-BY-4.0",
+      "made_with": "src/fractalwall.py",
+      "local": "1-seahorse-valley.png",
+      "colours": "Omarchy's Tokyo Night theme (/usr/share/omarchy/themes)",
+      "accent": "#7aa2f7",
+      "title": "SEAHORSE VALLEY",
+      "line1": "The gap between the Mandelbrot set's body and head: spirals of seahorse tails, lined with tiny copies of the whole set.",
+      "line2": "Mandelbrot set at -0.7453 + 0.1127i, about 680× closer than the whole set  ·  colours: Omarchy's Tokyo Night",
+      "render": {
+        "kind": "mandel",
+        "args": [
+          "grad=0:0e0e14,0.15:344263,0.3:7aa2f7,0.38:bb9af7,0.45:c0caf5,0.52:e0af68,0.66:75493d,0.82:13141c",
+          "cx=-0.7453",
+          "cy=0.1127",
+          "w=0.0065",
+          "maxiter=4000",
+          "scale=0.35",
+          "offset=0.75",
+          "glow=0.025",
+          "floor=0.02"
+        ]
+      }
+    },
+    {
+      "file": "2-the-mandelbrot-set",
+      "by": "CompilingThings",
+      "licence": "CC-BY-4.0",
+      "made_with": "src/fractalwall.py",
+      "local": "2-the-mandelbrot-set.png",
+      "colours": "Omarchy's Catppuccin theme (/usr/share/omarchy/themes)",
+      "accent": "#89b4fa",
+      "title": "THE MANDELBROT SET",
+      "line1": "Every point c where z → z² + c, started at 0, never runs off to infinity. The glow shows how fast the others escape.",
+      "line2": "First drawn by Robert Brooks and Peter Matelski in 1978, made famous by Benoit Mandelbrot in 1980  ·  colours: Catppuccin",
+      "render": {
+        "kind": "mandel",
+        "args": [
+          "grad=0:101019,0.15:3a4968,0.3:89b4fa,0.38:f5c2e7,0.45:cdd6f4,0.52:f9e2af,0.6:f6b6ab,0.7:7b5b55,0.84:161622",
+          "cx=-0.65",
+          "cy=0",
+          "w=4.4",
+          "maxiter=2000",
+          "scale=0.35",
+          "offset=-0.3",
+          "glow=0.04",
+          "floor=0.02"
+        ]
+      }
+    },
+    {
+      "file": "3-elephant-valley",
+      "by": "CompilingThings",
+      "licence": "CC-BY-4.0",
+      "made_with": "src/fractalwall.py",
+      "local": "3-elephant-valley.png",
+      "colours": "Omarchy's Everforest theme (/usr/share/omarchy/themes)",
+      "accent": "#a7c080",
+      "title": "ELEPHANT VALLEY",
+      "line1": "Beside the cusp on the right of the Mandelbrot set's main body, the spirals curl like rows of elephant trunks.",
+      "line2": "Mandelbrot set at 0.2925 + 0.0149i, about 370× closer than the whole set  ·  colours: Everforest",
+      "render": {
+        "kind": "mandel",
+        "args": [
+          "grad=0:181d20,0.15:3d5648,0.3:83c092,0.38:a7c080,0.46:d3c6aa,0.53:dbbc7f,0.66:704e3f,0.82:21272c",
+          "cx=0.2925",
+          "cy=0.0149",
+          "w=0.012",
+          "maxiter=4000",
+          "scale=0.35",
+          "offset=0.9",
+          "glow=0.025",
+          "floor=0.02"
+        ]
+      }
+    },
+    {
+      "file": "4-douady-rabbit",
+      "by": "CompilingThings",
+      "licence": "CC-BY-4.0",
+      "made_with": "src/fractalwall.py",
+      "local": "4-douady-rabbit.png",
+      "colours": "Omarchy's Nord theme (/usr/share/omarchy/themes)",
+      "accent": "#88c0d0",
+      "title": "DOUADY'S RABBIT",
+      "line1": "A Julia set: the same rule z → z² + c, but with c fixed and z starting at each point. Three ears meet at every joint.",
+      "line2": "c = -0.1226 + 0.7449i, named after the French mathematician Adrien Douady  ·  colours: Nord",
+      "render": {
+        "kind": "julia",
+        "args": [
+          "grad=0:191c23,0.12:3d4b5a,0.24:b48ead,0.32:81a1c1,0.39:88c0d0,0.46:d8dee9,0.53:ebcb8b,0.66:6a4b3d,0.82:222730",
+          "ca=-0.122561",
+          "cb=0.744862",
+          "cx=0",
+          "cy=0",
+          "w=3.4",
+          "maxiter=2000",
+          "scale=0.35",
+          "offset=-0.3",
+          "inside_trap=1",
+          "inside=2e3440",
+          "inside2=191c23",
+          "glow=0.04",
+          "floor=0.02"
+        ]
+      }
+    },
+    {
+      "file": "5-burning-ship",
+      "by": "CompilingThings",
+      "licence": "CC-BY-4.0",
+      "made_with": "src/fractalwall.py",
+      "local": "5-burning-ship.png",
+      "colours": "Omarchy's Matte Black theme (/usr/share/omarchy/themes)",
+      "accent": "#e68e0d",
+      "title": "THE BURNING SHIP",
+      "line1": "A cousin of the Mandelbrot set that makes both parts of z positive before squaring. This is one of its small ships.",
+      "line2": "Found by Michael Michelitsch and Otto Rössler in 1992, drawn upside down as usual so the ship sails upright  ·  colours: Matte Black",
+      "render": {
+        "kind": "ship",
+        "args": [
+          "grad=0:090909,0.14:631e1e,0.28:c63d3d,0.36:e68e0d,0.44:ffc107,0.5:eaeaea,0.58:f59e0b,0.7:b91c1c,0.84:0d0d0d",
+          "cx=-1.762",
+          "cy=-0.036",
+          "w=0.12",
+          "maxiter=3000",
+          "scale=0.25",
+          "offset=0.30",
+          "nulo=4",
+          "nuhi=70",
+          "floor=0.0",
+          "inside=090909"
+        ]
+      }
+    },
+    {
+      "file": "6-newtons-method",
+      "by": "CompilingThings",
+      "licence": "CC-BY-4.0",
+      "made_with": "src/fractalwall.py",
+      "local": "6-newtons-method.png",
+      "colours": "Omarchy's Kanagawa theme (/usr/share/omarchy/themes)",
+      "accent": "#7e9cd8",
+      "title": "NEWTON'S METHOD",
+      "line1": "Every point slides toward one of the three cube roots of 1. Where it cannot decide, the borders braid without end.",
+      "line2": "z³ = 1, the question Arthur Cayley raised in 1879; computers first drew the answer a century later  ·  colours: Kanagawa",
+      "render": {
+        "kind": "newton",
+        "args": [
+          "grad=0:111116,0.12:223249,0.25:7e9cd8,0.36:dcd7ba,0.46:c0a36e,0.55:e6c384,0.65:c34043,0.78:60382c,0.9:17171e",
+          "cx=-0.25",
+          "cy=0",
+          "w=2.2",
+          "maxiter=200",
+          "scale=0.05",
+          "nulo=5",
+          "nuhi=22",
+          "floor=0.0",
+          "shade=0.3",
+          "root0=0.25",
+          "rootstep=0.2",
+          "inside=111116"
+        ]
+      }
+    },
+    {
+      "file": "7-zircon-city",
+      "by": "CompilingThings",
+      "licence": "CC-BY-4.0",
+      "made_with": "src/fractalwall.py",
+      "local": "7-zircon-city.png",
+      "colours": "Omarchy's Gruvbox theme (/usr/share/omarchy/themes)",
+      "accent": "#d8a657",
+      "title": "ZIRCON CITY",
+      "line1": "A Lyapunov fractal: gold where a simple growth rule settles down, blue-green where it turns to chaos.",
+      "line2": "Sequence BBBBBBAAAAAA, a from 3.4 to 4.0, b from 2.5 to 3.4; Lyapunov fractals by Mario Markus, late 1980s  ·  colours: Gruvbox",
+      "render": {
+        "kind": "lyap",
+        "args": [
+          "grad=0:161616,0.12:3a4b47,0.24:7daea3,0.33:89b482,0.42:d4be98,0.5:d8a657,0.6:e1875c,0.7:70432e,0.84:1e1e1e",
+          "swap=1",
+          "seq=BBBBBBAAAAAA",
+          "a0=3.4",
+          "a1=4.0",
+          "b0=2.5",
+          "b1=3.4",
+          "n=1500",
+          "warm=300",
+          "gold0=0.76",
+          "goldspan=0.26",
+          "kstable=0.4",
+          "blue0=0.02",
+          "bluespan=0.22",
+          "ss=3"
+        ]
+      }
+    },
+    {
+      "file": "8-buddhabrot",
+      "by": "CompilingThings",
+      "licence": "CC-BY-4.0",
+      "made_with": "src/fractalwall.py",
+      "local": "8-buddhabrot.png",
+      "colours": "Omarchy's Ethereal theme (/usr/share/omarchy/themes)",
+      "accent": "#7d82d9",
+      "title": "THE BUDDHABROT",
+      "line1": "Not where points escape but the paths they take on the way out, stacked up like a long exposure of the night sky.",
+      "line2": "Found by Melinda Green in 1993; paths under 50, 500 and 5,000 steps in blue, peach and gold  ·  colours: Ethereal",
+      "render": {
+        "kind": "buddha",
+        "args": [
+          "cx=0",
+          "cy=0.4",
+          "w=6",
+          "samples=3000000000",
+          "lim0=50",
+          "lim1=500",
+          "lim2=5000",
+          "min0=30",
+          "min1=50",
+          "min2=500",
+          "pct=0.99999",
+          "gamma=0.6",
+          "k0=0.8",
+          "k1=0.55",
+          "k2=1.5",
+          "bg=030610",
+          "col0=7d82d9",
+          "col1=ffcead",
+          "col2=e9bb4f",
+          "black0=0.002",
+          "black1=0.002",
+          "black2=0.002"
+        ]
+      }
+    },
+    {
+      "file": "9-mandelbulb",
+      "by": "CompilingThings",
+      "licence": "CC-BY-4.0",
+      "made_with": "src/fractalwall.py",
+      "local": "9-mandelbulb.png",
+      "colours": "Omarchy's Ristretto theme (/usr/share/omarchy/themes)",
+      "accent": "#f38d70",
+      "title": "THE MANDELBULB",
+      "line1": "The Mandelbrot idea taken into 3D: the squaring is done with angles in space, to the eighth power.",
+      "line2": "Found by Daniel White and Paul Nylander in 2009, lit and drawn here from its formula  ·  colours: Ristretto",
+      "render": {
+        "kind": "bulb",
+        "args": [
+          "grad=0:181414,0.15:3d2f2a,0.3:a8a9eb,0.42:e6d9db,0.5:f9cc6c,0.6:f38d70,0.72:7d4d3b,0.85:211b1b",
+          "camx=0.0",
+          "camy=2.45",
+          "camz=-2.75",
+          "atx=0.4",
+          "aty=-0.15",
+          "fov=38",
+          "biter=10",
+          "scale=1.2",
+          "offset=0.35",
+          "exposure=1.6",
+          "lx=-0.7",
+          "ly=0.8",
+          "lz=-0.2",
+          "key=fcd675",
+          "fill=a8a9eb",
+          "sky_top=3d2f2a",
+          "sky_bottom=181414",
+          "ss=3"
+        ]
+      }
+    }
+  ]
+}

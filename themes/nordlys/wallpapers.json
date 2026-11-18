@@ -1,0 +1,96 @@
+{
+  "accent": "#57E39B",
+  "wallpapers": [
+    {
+      "file": "1-flakstad-lofoten",
+      "by": "Johannes Groll (Unsplash)",
+      "licence": "CC0-1.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Lofoten%2C_Norway_%28Unsplash%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Lofoten,_Norway_(Unsplash).jpg",
+      "title": "FLAKSTAD, LOFOTEN",
+      "line1": "Northern lights swirl over the mountains and sea of Flakstad. A Wikimedia Commons featured picture.",
+      "line2": "Photo: Johannes Groll (Unsplash)  ·  CC0 public domain",
+      "crop": [0.5, 0.58, 1.0]
+    },
+    {
+      "file": "2-reine-lofoten",
+      "by": "Christoph Strässler",
+      "licence": "CC-BY-SA-2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Aurora_Borealis_%28Northern_Light%29_over_Reine%2C_Lofoten%2C_Norway1.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Aurora_Borealis_(Northern_Light)_over_Reine,_Lofoten,_Norway1.jpg",
+      "title": "REINE, LOFOTEN",
+      "line1": "The aurora over the fishing village of Reine and the lights of its harbour.",
+      "line2": "11 March 2019  ·  Photo: Christoph Strässler  ·  CC BY-SA 2.0",
+      "crop": [0.5, 0.5, 1.0],
+      "panel": 0.85
+    },
+    {
+      "file": "3-bergen",
+      "by": "Sindre Skrede",
+      "licence": "CC-BY-2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Aurora_borealis_over_Bergen%2C_Norway_%2830990582790%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Aurora_borealis_over_Bergen,_Norway_(30990582790).jpg",
+      "title": "BERGEN",
+      "line1": "The aurora over the city lights of Bergen, on Norway's west coast.",
+      "line2": "6 March 2016  ·  Photo: Sindre Skrede  ·  CC BY 2.0",
+      "crop": [0.5, 0.5, 1.0],
+      "panel": 0.85
+    },
+    {
+      "file": "4-kirkenes",
+      "by": "Stefan Stefancik",
+      "licence": "CC0-1.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Aurora_Borealis_over_Kirkenes%2C_Norway.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Aurora_Borealis_over_Kirkenes,_Norway.jpg",
+      "title": "KIRKENES",
+      "line1": "Blue-green curtains over a cottage at Kirkenes, close to Norway's border with Russia.",
+      "line2": "6 April 2016  ·  Photo: Stefan Stefancik  ·  CC0 public domain",
+      "crop": [0.5, 0.55, 1.0]
+    },
+    {
+      "file": "5-kjerkfjorden-lofoten",
+      "by": "Eric Kilby",
+      "licence": "CC-BY-SA-2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Green_and_Purple_Aurora.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Green_and_Purple_Aurora.jpg",
+      "title": "KJERKFJORDEN, LOFOTEN",
+      "line1": "Green and purple curtains and a sky full of stars above the peaks round Kjerkfjorden, in Moskenes.",
+      "line2": "20 February 2023  ·  Photo: Eric Kilby  ·  CC BY-SA 2.0",
+      "crop": [0.5, 0.55, 1.0]
+    },
+    {
+      "file": "6-longyearbyen-svalbard",
+      "by": "Frode Ramone",
+      "licence": "CC-BY-2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Svalbard_DSCF1412_%2823635947870%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Svalbard_DSCF1412_(23635947870).jpg",
+      "title": "LONGYEARBYEN, SVALBARD",
+      "line1": "The aurora in the polar night, when the sun stays below the horizon all day.",
+      "line2": "22 December 2015  ·  Photo: Frode Ramone  ·  CC BY 2.0",
+      "crop": [0.5, 0.58, 1.0]
+    },
+    {
+      "file": "7-alnes-lighthouse",
+      "by": "Henny stokseth",
+      "licence": "LicenseRef-CC-BY-SA-3.0-NO",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Alnes_fyr_i_mars_2013-07089.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Alnes_fyr_i_mars_2013-07089.jpg",
+      "title": "ALNES LIGHTHOUSE, GODØYA",
+      "line1": "The aurora over Alnes lighthouse on the island of Godøya, near Ålesund.",
+      "line2": "17 March 2013  ·  Photo: Henny stokseth  ·  CC BY-SA 3.0 NO",
+      "crop": [0.5, 0.6, 1.0]
+    },
+    {
+      "file": "8-svolvaer-lofoten",
+      "by": "Christoph Strässler",
+      "licence": "CC-BY-SA-2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Aurora_Borealis_%28Northern_Light%29_over_Svolv%C3%A6r%2C_Lofoten%2C_Norway1.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Aurora_Borealis_(Northern_Light)_over_Svolv%C3%A6r,_Lofoten,_Norway1.jpg",
+      "title": "SVOLVÆR, LOFOTEN",
+      "line1": "The aurora over red cabins by the harbour in Svolvær.",
+      "line2": "16 March 2019  ·  Photo: Christoph Strässler  ·  CC BY-SA 2.0",
+      "crop": [0.5, 0.5, 1.0],
+      "panel": 0.85
+    }
+  ]
+}

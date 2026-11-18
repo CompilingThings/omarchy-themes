@@ -1,0 +1,20 @@
+NASA images and media usage guidelines
+https://www.nasa.gov/nasa-brand-center/images-and-media/ (read 18 November 2026)
+
+Pictures marked LicenseRef-NASA-Media in this repository were made by NASA. The guidelines say that NASA content
+"generally [is] not subject to copyright in the United States" and that "NASA should be acknowledged as the source of
+the material". Each picture's credit line, as its NASA page gives it, is printed on the wallpaper and listed in
+CREDITS.md and REUSE.toml.
+
+The same page also says, in its own words:
+- "NASA content used in a factual manner that does not imply endorsement may be used without needing explicit
+  permission."
+- "The NASA Insignia, Logotype, identifiers, and imagery are not in the public domain." "The use of the Insignia,
+  Logotype and NASA identifiers is protected by law".
+- Pictures of an identifiable person: "using the media for commercial purposes may infringe that person's right of
+  privacy or publicity".
+- "NASA occasionally uses copyright-protected material of third parties with permission on its website." "Those
+  images will be marked identified as copyright protected with the name of the copyright holder." Where a picture's
+  NASA page names another rights holder under a licence, this repository lists the picture under that licence.
+
+Copyright law outside the United States may differ. Read the page above before any commercial use.

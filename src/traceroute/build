@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+# Traceroute wallpapers from KiCad board files: one net of each board traced hop by hop (wallpaper.py, pcbnew),
+# drawn as SVG and turned into a PNG with rsvg-convert.
+#
+#   build <boards dir> <cache dir> <theme dir>
+#
+# <boards dir> holds main-v1/main-v1.kicad_pcb and io-v1/io-v1.kicad_pcb.
+# KICAD_PYTHON: Python with pcbnew (default python3).
+# HIDE_SILK: silkscreen lines to leave out of the pictures, separated by "|" (the board files are not changed).
+set -euo pipefail
+
+[ $# -eq 3 ] || { sed -n '2,10p' "$0" | sed 's/^# \{0,1\}//'; exit 2; }
+here=$(cd "$(dirname "$0")" && pwd)
+hw=$(cd "$1" && pwd)
+cache=$2
+theme=$3
+kicad_python=${KICAD_PYTHON:-python3}
+command -v rsvg-convert >/dev/null || { echo "build: needs rsvg-convert (librsvg)" >&2; exit 1; }
+mkdir -p "$cache" "$theme/backgrounds"
+IFS='|' read -r -a hide <<< "${HIDE_SILK:-}"
+
+draw() {  # <board> <net> <wallpaper name>
+  local pcb=$cache/$1.kicad_pcb
+  "$kicad_python" "$here/../boardroom/facts.py" scrub "$hw/$1/$1.kicad_pcb" "$pcb" ${hide[@]+"${hide[@]}"}
+  "$kicad_python" "$here/wallpaper.py" "$pcb" "$2" "$cache/$3.svg" "$1" 2>&1 | grep -v 'Debug:' >&2 || true
+  rsvg-convert "$cache/$3.svg" -o "$theme/backgrounds/$3.png"
+  echo "wallpaper $3" >&2
+}
+draw main-v1 SIO_UART_RX 1-main-v1
+draw io-v1 USB2_P2_P 2-io-v1
+rsvg-convert -w 1280 -h 720 "$cache/1-main-v1.svg" -o "$theme/preview.png"

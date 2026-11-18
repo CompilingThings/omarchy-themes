@@ -1,0 +1,43 @@
+mode = "dark"
+
+# Grand Tour: real photos of the outer solar system (Cassini, Juno, New Horizons),
+# named after the Voyagers' tour of the outer planets. Deep-space teal-black, Jupiter-cream text,
+# a Neptune teal, and the ochre of Jupiter's cloud belts.
+
+accent = "#4FC1D1"
+selection = "#16353C"
+muted = "#3F5559"
+
+background = "#071013"
+dark_background = "#050B0D"
+darker_background = "#020506"
+lighter_background = "#0F1D21"
+
+foreground = "#ECE3D2"
+dark_foreground = "#8A8172"
+light_foreground = "#C9BFAD"
+bright_foreground = "#FFFFFF"
+
+# The focused window: Neptune teal fading into Jupiter's ochre belts
+hyprland_active_border = "rgba(4fc1d1ff) rgba(d6aa6aff) 45deg"
+hyprland_inactive_border = "rgba(1a2a2ecc)"
+
+# red: the Great Red Spot
+red = "#E8735A"
+# orange: Jupiter's cloud belts
+orange = "#DE9A5A"
+# yellow: Io's sulphur
+yellow = "#E8C77A"
+green = "#8ED3A5"
+# cyan: Neptune teal
+cyan = "#4FC1D1"
+blue = "#6F9EF0"
+magenta = "#C4A3E0"
+brown = "#A87A52"
+
+bright_red = "#F29C88"
+bright_yellow = "#F3DEA8"
+bright_green = "#B5E6C4"
+bright_cyan = "#94DEE8"
+bright_blue = "#A3C1F7"
+bright_magenta = "#DCC6EE"

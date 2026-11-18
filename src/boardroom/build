@@ -1,0 +1,50 @@
+#!/usr/bin/env bash
+# Boardroom wallpapers from KiCad board files: 3D renders (kicad-cli), facts read with pcbnew, laid out by wallpaper.py.
+#
+#   build <boards dir> <cache dir> <theme dir>
+#
+# <boards dir> holds <board>/<board>.kicad_pcb for each board below. Renders are cached in <cache dir> and redone
+# only when a board file or the render options change (all twelve take about half an hour at low priority).
+# PYTHON: Python with Pillow and numpy; KICAD_PYTHON: Python with pcbnew (both default to python3).
+# HIDE_SILK: silkscreen lines to leave out of the pictures, separated by "|" (the board files are not changed).
+set -euo pipefail
+
+[ $# -eq 3 ] || { sed -n '2,9p' "$0" | sed 's/^# \{0,1\}//'; exit 2; }
+here=$(cd "$(dirname "$0")" && pwd)
+hw=$(cd "$1" && pwd)
+cache=$2
+theme=$3
+python=${PYTHON:-python3}
+kicad_python=${KICAD_PYTHON:-python3}   # needs pcbnew, which KiCad installs for the system Python
+boards=(main-v1 io-v1 keyboard-v1 keyboard-plate-v1 antenna-v1 screen-v1)
+mkdir -p "$cache" "$theme/backgrounds"
+
+quiet() { grep -i -E 'error|fail' >&2 || true; }   # kicad-cli prints every layer it builds
+"$kicad_python" "$here/facts.py" facts "$hw" "$cache/facts.json" "${boards[@]}" 2>&1 | quiet
+
+render() {  # <pcb> <out.png> <kicad-cli render options...>
+  local pcb=$1 out=$2; shift 2
+  [ -s "$out" ] && [ "$out" -nt "$pcb" ] && [ "$(cat "$out.args" 2>/dev/null)" = "$*" ] && return 0
+  echo "render $(basename "$out")" >&2
+  nice -n 19 kicad-cli pcb render --use-board-stackup-colors --quality high --background transparent \
+    "$@" -o "$out" "$pcb" 2>&1 | quiet
+  echo "$*" > "$out.args"
+}
+
+IFS='|' read -r -a hide <<< "${HIDE_SILK:-}"
+for b in "${boards[@]}"; do
+  src=$hw/$b/$b.kicad_pcb
+  pcb=$cache/$b.kicad_pcb
+  if [ ! -s "$pcb" ] || [ "$src" -nt "$pcb" ] || [ "$(cat "$pcb.hide" 2>/dev/null)" != "${HIDE_SILK:-}" ]; then
+    "$kicad_python" "$here/facts.py" scrub "$src" "$pcb" ${hide[@]+"${hide[@]}"}
+    if [ "$b" = keyboard-plate-v1 ]; then     # ordered purple / white, but the file keeps no colours
+      "$kicad_python" "$here/facts.py" purple "$pcb" "$pcb" "$hw/antenna-v1/antenna-v1.kicad_pcb"
+    fi
+    printf '%s' "${HIDE_SILK:-}" > "$pcb.hide"
+  fi
+  render "$pcb" "$cache/$b-top.png" -w 3600 -h 2250 --side top
+  zoom=1; case $b in io-v1|screen-v1) zoom=0.8;; esac    # near-square boards ran off the bottom of the angled view
+  render "$pcb" "$cache/$b-iso.png" -w 4200 -h 2625 --perspective --rotate '-38,0,22' --zoom $zoom
+done
+
+nice -n 19 "$python" -I "$here/wallpaper.py" "$cache" "$theme/backgrounds" "$theme/preview.png"

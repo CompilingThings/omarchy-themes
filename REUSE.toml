@@ -1,0 +1,657 @@
+# Copyright and licence of every file that cannot carry a header (REUSE specification 3.3).
+# Written by tools/credits.py from themes/*/wallpapers.json; do not edit by hand.
+version = 1
+
+[[annotations]]
+path = "**"
+precedence = "closest"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = ["themes/*/unlock.png", "themes/*/preview-unlock.png"]
+precedence = "override"
+SPDX-FileCopyrightText = ["2026 CompilingThings", "David Heinemeier Hansson (Omarchy)"]
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = "themes/boardroom/backgrounds/1-all-boards.png"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/boardroom/backgrounds/2-main-v1.png"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/boardroom/backgrounds/3-io-v1.png"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/boardroom/backgrounds/4-keyboard-v1.png"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/boardroom/backgrounds/5-keyboard-plate-v1.png"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/boardroom/backgrounds/6-antenna-v1.png"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/boardroom/backgrounds/7-screen-v1.png"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/boardroom/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "docs/images/boardroom.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/deep-field/backgrounds/1-cosmic-cliffs.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/deep-field/backgrounds/2-deep-field.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/deep-field/backgrounds/3-saturn-eclipse.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/JPL-Caltech/SSI"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/deep-field/backgrounds/4-moonrise-from-orbit.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/deep-field/backgrounds/5-herbig-haro-46-47.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA, ESA, CSA, J. DePasquale (STScI)"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/deep-field/backgrounds/6-tarantula-nebula.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/deep-field/backgrounds/7-horsehead-nebula.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "ESA/Webb, NASA, CSA, K. Misselt (U. Arizona), A. Abergel (IAS/Paris-Saclay, CNRS)"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/deep-field/backgrounds/8-ic2163-ngc2207.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/deep-field/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "docs/images/deep-field.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/grand-tour/backgrounds/1-saturn.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/JPL/Space Science Institute"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/grand-tour/backgrounds/2-great-red-spot.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/JPL-Caltech/SwRI/MSSS, Gerald Eichstädt, Seán Doran"
+SPDX-License-Identifier = "CC-BY-NC-SA-3.0"
+
+[[annotations]]
+path = "themes/grand-tour/backgrounds/3-blue-rays.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/Johns Hopkins APL/Southwest Research Institute"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/grand-tour/backgrounds/4-io.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/JPL-Caltech/SwRI/MSSS, image processing: Gerald Eichstädt"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/grand-tour/backgrounds/5-farewell-to-saturn.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/JPL-Caltech/Space Science Institute"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/grand-tour/backgrounds/6-europa.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/JPL-Caltech/SwRI/MSSS, Björn Jónsson"
+SPDX-License-Identifier = "CC-BY-NC-SA-2.0"
+
+[[annotations]]
+path = "themes/grand-tour/backgrounds/7-string-of-pearls.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/JPL-Caltech/SwRI/MSSS, Gerald Eichstädt, Seán Doran"
+SPDX-License-Identifier = "CC-BY-NC-SA-3.0"
+
+[[annotations]]
+path = "themes/grand-tour/backgrounds/8-sunset-on-pluto.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/Johns Hopkins APL/Southwest Research Institute"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/grand-tour/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/JPL/Space Science Institute"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "docs/images/grand-tour.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/JPL/Space Science Institute"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/low-orbit/backgrounds/0-earth-turning.mp4"
+precedence = "override"
+SPDX-FileCopyrightText = "CompilingThings; maps: NASA Blue Marble and Black Marble 2016; clouds: Solar System Scope"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/low-orbit/backgrounds/1-space-station.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/Roscosmos"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/low-orbit/backgrounds/2-starlink-train.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA; satellites identified by Marco Langbroek"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/low-orbit/backgrounds/3-lake-argentino.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/Jessica Meir"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/low-orbit/backgrounds/4-hurricane-melissa.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/low-orbit/backgrounds/5-dunes-under-the-sea.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/low-orbit/backgrounds/6-mount-everest.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/low-orbit/backgrounds/7-sahara-desert.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/low-orbit/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/Roscosmos"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "docs/images/low-orbit.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/Roscosmos"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/nordlys/backgrounds/1-flakstad-lofoten.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Johannes Groll (Unsplash)"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "themes/nordlys/backgrounds/2-reine-lofoten.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Christoph Strässler"
+SPDX-License-Identifier = "CC-BY-SA-2.0"
+
+[[annotations]]
+path = "themes/nordlys/backgrounds/3-bergen.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Sindre Skrede"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/nordlys/backgrounds/4-kirkenes.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Stefan Stefancik"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "themes/nordlys/backgrounds/5-kjerkfjorden-lofoten.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Eric Kilby"
+SPDX-License-Identifier = "CC-BY-SA-2.0"
+
+[[annotations]]
+path = "themes/nordlys/backgrounds/6-longyearbyen-svalbard.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Frode Ramone"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/nordlys/backgrounds/7-alnes-lighthouse.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Henny stokseth"
+SPDX-License-Identifier = "LicenseRef-CC-BY-SA-3.0-NO"
+
+[[annotations]]
+path = "themes/nordlys/backgrounds/8-svolvaer-lofoten.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Christoph Strässler"
+SPDX-License-Identifier = "CC-BY-SA-2.0"
+
+[[annotations]]
+path = "themes/nordlys/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "Johannes Groll (Unsplash)"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "docs/images/nordlys.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Johannes Groll (Unsplash)"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "themes/red-planet/backgrounds/1-selfie-with-ingenuity.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/JPL-Caltech/MSSS"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/red-planet/backgrounds/2-korolev-crater.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "ESA/DLR/FU Berlin"
+SPDX-License-Identifier = "CC-BY-SA-3.0-IGO"
+
+[[annotations]]
+path = "themes/red-planet/backgrounds/3-greenheugh-pediment.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/JPL-Caltech/MSSS"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/red-planet/backgrounds/4-nili-patera-dunes.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/JPL-Caltech/Univ. of Arizona"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/red-planet/backgrounds/5-mount-sharp.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/JPL-Caltech/MSSS"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/red-planet/backgrounds/6-butterfly-crater.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "ESA/DLR/FU Berlin"
+SPDX-License-Identifier = "CC-BY-SA-3.0-IGO"
+
+[[annotations]]
+path = "themes/red-planet/backgrounds/7-husband-hill.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/JPL/Cornell"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/red-planet/backgrounds/8-valles-marineris.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/JPL/USGS"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/red-planet/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/JPL-Caltech/MSSS"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "docs/images/red-planet.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/JPL-Caltech/MSSS"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/seahorse-valley/neovim.lua"
+precedence = "override"
+SPDX-FileCopyrightText = "David Heinemeier Hansson (Omarchy)"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = "themes/seahorse-valley/vscode.json"
+precedence = "override"
+SPDX-FileCopyrightText = "David Heinemeier Hansson (Omarchy)"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = "themes/seahorse-valley/icons.theme"
+precedence = "override"
+SPDX-FileCopyrightText = "David Heinemeier Hansson (Omarchy)"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = "themes/seahorse-valley/backgrounds/1-seahorse-valley.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/seahorse-valley/backgrounds/2-the-mandelbrot-set.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/seahorse-valley/backgrounds/3-elephant-valley.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/seahorse-valley/backgrounds/4-douady-rabbit.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/seahorse-valley/backgrounds/5-burning-ship.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/seahorse-valley/backgrounds/6-newtons-method.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/seahorse-valley/backgrounds/7-zircon-city.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/seahorse-valley/backgrounds/8-buddhabrot.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/seahorse-valley/backgrounds/9-mandelbulb.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/seahorse-valley/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "docs/images/seahorse-valley.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/solar-max/backgrounds/1-solar-orbiter-corona.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)"
+SPDX-License-Identifier = "CC-BY-SA-3.0-IGO"
+
+[[annotations]]
+path = "themes/solar-max/backgrounds/2-totality-dallas.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/Keegan Barber"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/solar-max/backgrounds/3-flare-and-moon.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/SDO"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/solar-max/backgrounds/4-eclipse-from-orion.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/solar-max/backgrounds/5-giant-sunspot-erupts.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/GSFC/SDO"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/solar-max/backgrounds/6-diamond-ring.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/Aubrey Gemignani"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/solar-max/backgrounds/7-transit-of-venus.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/SDO, AIA"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/solar-max/backgrounds/8-space-station-transit.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA/Joel Kowsky"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/solar-max/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)"
+SPDX-License-Identifier = "CC-BY-SA-3.0-IGO"
+
+[[annotations]]
+path = "docs/images/solar-max.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)"
+SPDX-License-Identifier = "CC-BY-SA-3.0-IGO"
+
+[[annotations]]
+path = "themes/stardust/backgrounds/1-helix-nebula.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI, A. Pagan (STScI)"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/stardust/backgrounds/2-cats-head-nebula.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI, J. DePasquale (STScI)"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/stardust/backgrounds/3-cats-eye-nebula.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "ESA/Hubble & NASA, ESA Euclid/Euclid Consortium/NASA/Q1-2025, J.-C. Cuillandre & E. Bertin (CEA Paris-Saclay), Z. Tsvetanov"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/stardust/backgrounds/4-ngc-7129.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI, A. Pagan (STScI)"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/stardust/backgrounds/5-lion-nebula.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI, A. Pagan (STScI)"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/stardust/backgrounds/6-exposed-cranium-nebula.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI, J. DePasquale (STScI)"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/stardust/backgrounds/7-ic-348.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "ESA/Webb, NASA, CSA, K. Luhman, C. Alves De Oliveira, M. Zamani (ESA/Webb)"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/stardust/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI, A. Pagan (STScI)"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "docs/images/stardust.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI, A. Pagan (STScI)"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/traceroute/backgrounds/1-main-v1.png"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/traceroute/backgrounds/2-io-v1.png"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/traceroute/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "docs/images/traceroute.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/tranquility/backgrounds/1-earthset.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/tranquility/backgrounds/2-earthrise.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/tranquility/backgrounds/3-crescent-moon.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/tranquility/backgrounds/4-edge-of-two-worlds.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/tranquility/backgrounds/5-terminator.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/tranquility/backgrounds/6-hadley-delta.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA (photo: Jim Irwin)"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/tranquility/backgrounds/7-the-moon-from-orion.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/tranquility/backgrounds/8-orientale-basin.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "themes/tranquility/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "docs/images/tranquility.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NASA"
+SPDX-License-Identifier = "LicenseRef-NASA-Media"
+
+[[annotations]]
+path = "docs/images/gallery.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = ["2026 CompilingThings", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Johannes Groll (Unsplash)", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos"]
+SPDX-License-Identifier = "CC-BY-4.0 AND CC-BY-SA-3.0-IGO AND CC0-1.0 AND LicenseRef-NASA-Media"

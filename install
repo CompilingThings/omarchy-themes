@@ -1,0 +1,83 @@
+#!/usr/bin/env bash
+# Install themes from this repository into Omarchy.
+#
+#   ./install <theme>...      install these themes (see ./install --list)
+#   ./install --all           install every theme
+#   ./install --list          list the themes
+#   ./install --force ...     also replace a theme of the same name that this installer did not put there
+#
+# Each theme is copied to ~/.config/omarchy/themes/<theme>. Apply one with: omarchy theme set <theme>
+# Run it again after `git pull` to update; remove a theme with: omarchy theme remove <theme>
+set -euo pipefail
+
+root=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+themes_dir=${XDG_CONFIG_HOME:-$HOME/.config}/omarchy/themes
+marker=.omarchy-themes    # left in each theme this installer copies, so it only ever replaces its own
+# The files Omarchy reads from a theme (keep in step with tools/themelib.py SHIPPED)
+files=(colors.toml icons.theme preview.png unlock.png preview-unlock.png hyprland.lua foot.ini
+  shell.bar.toml shell.controls.toml shell.launcher.toml shell.menu.toml
+  neovim.lua vscode.json btop.theme chromium.theme keyboard.rgb)
+
+usage() { sed -n '2,11p' "$0" | sed 's/^# \{0,1\}//'; }
+die() { echo "install: $*" >&2; exit 1; }
+
+all_themes() {
+  local d
+  for d in "$root"/themes/*/; do basename "$d"; done
+}
+
+list() {
+  local t name
+  for t in $(all_themes); do
+    name=$(sed -n '1s/^# //p' "$root/themes/$t/README.md")
+    printf '  %-17s %s\n' "$t" "$name"
+  done
+}
+
+install_one() {  # <theme>
+  local t=$1 src=$root/themes/$1 dest=$themes_dir/$1 f
+  if [[ ! $t =~ ^[a-z0-9][a-z0-9-]*$ ]] || [ ! -f "$src/colors.toml" ]; then
+    die "no theme called '$t' (see ./install --list)"
+  fi
+  if [ -e "$dest" ] && [ ! -e "$dest/$marker" ] && [ "$force" != 1 ]; then
+    die "$dest exists and was not installed from this repository; use --force to replace it"
+  fi
+  mkdir -p "$themes_dir"
+  tmp=$(mktemp -d "$themes_dir/.$t.XXXXXX")
+  for f in "${files[@]}"; do
+    [ -f "$src/$f" ] && cp "$src/$f" "$tmp/"
+  done
+  cp -r "$src/backgrounds" "$tmp/backgrounds"
+  git -C "$root" rev-parse --short HEAD > "$tmp/$marker" 2>/dev/null || echo unknown > "$tmp/$marker"
+  rm -rf "$dest"
+  mv "$tmp" "$dest"
+  tmp=
+  echo "installed $t -> $dest"
+}
+
+tmp=
+trap '[ -z "$tmp" ] || rm -rf "$tmp"' EXIT    # a copy cut short leaves nothing behind
+
+force=0
+args=()
+for a in "$@"; do
+  case $a in
+    -h | --help) usage; exit 0 ;;
+    --list) list; exit 0 ;;
+    --force) force=1 ;;
+    --all) mapfile -t -O "${#args[@]}" args < <(all_themes) ;;
+    -*) die "unknown option $a (see ./install --help)" ;;
+    *) args+=("$a") ;;
+  esac
+done
+[ ${#args[@]} -gt 0 ] || { usage; echo; echo "Themes:"; list; exit 2; }
+[ -d "${XDG_CONFIG_HOME:-$HOME/.config}/omarchy" ] || die "Omarchy's config folder was not found; is this Omarchy?"
+
+for t in "${args[@]}"; do install_one "$t"; done
+current=$(omarchy theme current 2>/dev/null | tr '[:upper:] ' '[:lower:]-' || true)
+for t in "${args[@]}"; do
+  if [ "$t" = "$current" ]; then
+    echo "$t is the current theme: run 'omarchy theme set $t' to load the new files"
+  fi
+done
+[ ${#args[@]} -ne 1 ] || [ "${args[0]}" = "$current" ] || echo "apply it with: omarchy theme set ${args[0]}"

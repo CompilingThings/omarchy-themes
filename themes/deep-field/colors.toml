@@ -1,0 +1,41 @@
+mode = "dark"
+
+# Deep Field: real photos of space (Webb, Cassini, the Space Station).
+# Near-black sky, starlight text, Earth-limb blue, and the amber of Webb's dust clouds.
+
+accent = "#7FB2FF"
+selection = "#1E2D48"
+muted = "#46536A"
+
+background = "#06080E"
+dark_background = "#040509"
+darker_background = "#020205"
+lighter_background = "#0F1522"
+
+foreground = "#E3E9F2"
+dark_foreground = "#7A8599"
+light_foreground = "#B9C3D3"
+bright_foreground = "#FFFFFF"
+
+# The focused window: Earth-limb blue fading into Carina amber
+hyprland_active_border = "rgba(8fbcffff) rgba(f2a65aff) 45deg"
+hyprland_inactive_border = "rgba(1a2232cc)"
+
+# red: glowing hydrogen
+red = "#FF6E61"
+# orange: the dust of the Cosmic Cliffs
+orange = "#F2A65A"
+yellow = "#F6D27A"
+# green: aurora
+green = "#7FE3B0"
+cyan = "#6CD6E6"
+blue = "#7FB2FF"
+magenta = "#C9A0FF"
+brown = "#A47A55"
+
+bright_red = "#FF978C"
+bright_yellow = "#FAE3A8"
+bright_green = "#A9F0CB"
+bright_cyan = "#A2E8F2"
+bright_blue = "#ACCBFF"
+bright_magenta = "#DCC3FF"

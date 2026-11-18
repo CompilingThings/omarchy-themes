@@ -1,0 +1,39 @@
+mode = "dark"
+
+# Traceroute: a circuit board at night. Blue-black solder mask, light-blue
+# silkscreen, copper traces, and one net lit up light blue.
+
+accent = "#E8A56C"
+selection = "#173350"
+muted = "#3B5568"
+
+background = "#070C12"
+dark_background = "#04080D"
+darker_background = "#020406"
+lighter_background = "#0F1A26"
+
+foreground = "#CFE6F5"
+dark_foreground = "#5F7C90"
+light_foreground = "#9FC3DA"
+bright_foreground = "#EEF8FF"
+
+# The focused window in bright yellow, deepening slightly across
+hyprland_active_border = "rgba(ffe14dff) rgba(f5c518ff) 45deg"
+hyprland_inactive_border = "rgba(1a2a3acc)"
+
+red = "#F2685C"
+orange = "#E8A56C"
+# gold, like ENIG pads
+yellow = "#E9C67E"
+green = "#6FE0A8"
+cyan = "#7FD8F2"
+blue = "#6FAEF5"
+magenta = "#B9A0F2"
+brown = "#A0603A"
+
+bright_red = "#FF948A"
+bright_yellow = "#F5DCA6"
+bright_green = "#9FF0C6"
+bright_cyan = "#AEE8F8"
+bright_blue = "#9FCBFA"
+bright_magenta = "#D3C2F8"

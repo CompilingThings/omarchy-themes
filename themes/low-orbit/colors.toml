@@ -1,0 +1,44 @@
+mode = "dark"
+
+# Low Orbit: real photos of Earth from the Space Station, about 420 km up.
+# Deep-ocean dark, the thin cyan line of the atmosphere, and the warm gold of city lights at night.
+
+accent = "#4FC9C4"
+selection = "#173A3E"
+muted = "#3F5C61"
+
+background = "#071417"
+dark_background = "#050F12"
+darker_background = "#020A0C"
+lighter_background = "#10252A"
+
+foreground = "#DDEDEE"
+dark_foreground = "#6F8A8E"
+light_foreground = "#B4CCCE"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the cyan line of the atmosphere fading into city-light gold
+hyprland_active_border = "rgba(4fc9c4ff) rgba(f2c063ff) 45deg"
+hyprland_inactive_border = "rgba(16292ecc)"
+
+# red: the red dunes of the Sahara
+red = "#F2766B"
+# orange: sunrise on the horizon
+orange = "#F0A35E"
+# yellow: city lights at night
+yellow = "#F2C063"
+# green: aurora
+green = "#7FD9A0"
+cyan = "#4FC9C4"
+# blue: the deep ocean and the thin blue line
+blue = "#6AAEEA"
+# magenta: the top of the aurora
+magenta = "#C79BE0"
+brown = "#B88358"
+
+bright_red = "#F79C93"
+bright_yellow = "#F7D894"
+bright_green = "#A8E8C0"
+bright_cyan = "#8EE0DC"
+bright_blue = "#9CCBF2"
+bright_magenta = "#DDC0EE"

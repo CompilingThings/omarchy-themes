@@ -1,0 +1,95 @@
+{
+  "accent": "#E07A4F",
+  "wallpapers": [
+    {
+      "file": "1-selfie-with-ingenuity",
+      "by": "NASA/JPL-Caltech/MSSS",
+      "licence": "LicenseRef-NASA-Media",
+      "url": "https://images-assets.nasa.gov/image/PIA24542/PIA24542~orig.jpg",
+      "page": "https://science.nasa.gov/photojournal/perseverances-selfie-with-ingenuity/  (images.nasa.gov/details/PIA24542)",
+      "title": "SELFIE WITH INGENUITY",
+      "line1": "The Perseverance rover and the Ingenuity helicopter, 3.9 m (13 feet) away. Stitched from 62 photos.",
+      "line2": "Perseverance, WATSON camera on its arm  ·  6 April 2021  ·  NASA/JPL-Caltech/MSSS",
+      "crop": [0.5, 0.5, 1.0]
+    },
+    {
+      "file": "2-korolev-crater",
+      "by": "ESA/DLR/FU Berlin",
+      "licence": "CC-BY-SA-3.0-IGO",
+      "url": "https://www.dlr.de/en/images/2018/4/image-mosaic-korolev-crater-mars/@@images/image-3476-51413a8622c8b5b0a7b71ade74b4b841.tiff",
+      "page": "https://www.dlr.de/en/images/2018/4/image-mosaic-korolev-crater-mars  (facts: https://www.esa.int/articles/about-us/directorates/science/mars-express/mars-express-gets-festive-a-winter-wonderland-on-mars)",
+      "title": "KOROLEV CRATER",
+      "line1": "An 82 km wide crater in the far north of Mars, filled all year with ice about 1.8 km thick.",
+      "line2": "Mars Express, HRSC camera  ·  published 20 December 2018  ·  ESA/DLR/FU Berlin, CC BY-SA 3.0 IGO",
+      "crop": [0.5, 0.49, 1.0]
+    },
+    {
+      "file": "3-greenheugh-pediment",
+      "by": "NASA/JPL-Caltech/MSSS",
+      "licence": "LicenseRef-NASA-Media",
+      "url": "https://images-assets.nasa.gov/image/PIA23974/PIA23974~orig.jpg",
+      "page": "https://science.nasa.gov/photojournal/curiositys-view-from-the-top-of-the-greenheugh-pediment/",
+      "title": "GREENHEUGH PEDIMENT",
+      "line1": "Crusty sandstone in front, the floor of Gale crater (154 km wide) far behind. On the way up Mount Sharp.",
+      "line2": "Curiosity, Mastcam  ·  9 April 2020  ·  NASA/JPL-Caltech/MSSS",
+      "crop": [0.5, 0.5, 1.1],
+      "panel": true
+    },
+    {
+      "file": "4-nili-patera-dunes",
+      "by": "NASA/JPL-Caltech/Univ. of Arizona",
+      "licence": "LicenseRef-NASA-Media",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia18/pia18244/PIA18244.tif",
+      "page": "https://science.nasa.gov/photojournal/the-active-dunes-of-nili-patera/  (date, height: https://www.uahirise.org/ESP_035603_1890)",
+      "title": "THE DUNES OF NILI PATERA",
+      "line1": "Sand dunes in one of the most active dune fields on Mars, seen from 271 km up. The wind keeps moving them.",
+      "line2": "Mars Reconnaissance Orbiter, HiRISE camera  ·  1 March 2014  ·  NASA/JPL-Caltech/Univ. of Arizona",
+      "crop": [0.5, 0.5, 1.0]
+    },
+    {
+      "file": "5-mount-sharp",
+      "by": "NASA/JPL-Caltech/MSSS",
+      "licence": "LicenseRef-NASA-Media",
+      "url": "https://images-assets.nasa.gov/image/PIA23898/PIA23898~orig.jpg",
+      "page": "https://science.nasa.gov/photojournal/a-dramatic-view-of-mars-mount-sharp/  (height, climbing since 2014: PIA23974)",
+      "title": "MOUNT SHARP",
+      "line1": "Morning light on Mount Sharp, the 5 km (3 mile) tall mountain Curiosity has been climbing since 2014.",
+      "line2": "Curiosity, Mastcam telephoto  ·  13 October 2019  ·  NASA/JPL-Caltech/MSSS",
+      "crop": [0.47, 0.5, 1.7]
+    },
+    {
+      "file": "6-butterfly-crater",
+      "by": "ESA/DLR/FU Berlin",
+      "licence": "CC-BY-SA-3.0-IGO",
+      "url": "https://www.dlr.de/en/latest/news/2025/the-butterfly-crater-of-idaeus-fossae-on-mars/true-colour-bird-s-eye-view-of-the-idaeus-fossae-region/@@images/image-13191-a52cd1b614de149e27169296cf11b5a5.jpeg",
+      "page": "https://www.dlr.de/en/latest/news/2025/the-butterfly-crater-of-idaeus-fossae-on-mars/true-colour-bird-s-eye-view-of-the-idaeus-fossae-region  (facts: https://www.dlr.de/en/latest/news/2025/the-butterfly-crater-of-idaeus-fossae-on-mars)",
+      "title": "THE BUTTERFLY CRATER",
+      "line1": "An oval crater, 20 by 15 km, in true colour. Its shape suggests an impact at a shallow angle, 5 to 10 degrees.",
+      "line2": "Mars Express, HRSC camera, about 350 km up  ·  8 November 2024  ·  ESA/DLR/FU Berlin, CC BY-SA 3.0 IGO",
+      "crop": [0.775, 0.46, 1.08],
+      "panel": true
+    },
+    {
+      "file": "7-husband-hill",
+      "by": "NASA/JPL/Cornell",
+      "licence": "LicenseRef-NASA-Media",
+      "url": "https://images-assets.nasa.gov/image/PIA07882/PIA07882~orig.jpg",
+      "page": "https://science.nasa.gov/photojournal/lookout-panorama-from-spirit/",
+      "title": "HUSBAND HILL",
+      "line1": "Spirit's view up Husband Hill: the top is about 200 m away and 45 m higher. Close to true colour.",
+      "line2": "Spirit, Pancam  ·  27 February – 2 March 2005  ·  NASA/JPL/Cornell",
+      "crop": [0.4, 0.38, 1.35]
+    },
+    {
+      "file": "8-valles-marineris",
+      "by": "NASA/JPL/USGS",
+      "licence": "LicenseRef-NASA-Media",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia00/pia00003/PIA00003.tif",
+      "page": "https://science.nasa.gov/photojournal/valles-marineris-hemisphere/",
+      "title": "VALLES MARINERIS",
+      "line1": "A canyon system over 3,000 km long and up to 8 km deep, from 102 Viking photos. Colours boosted about 2x.",
+      "line2": "Viking Orbiter 1  ·  1980  ·  NASA/JPL/USGS",
+      "crop": [0.47, 0.6, 1.9]
+    }
+  ]
+}

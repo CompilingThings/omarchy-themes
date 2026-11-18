@@ -1,0 +1,21 @@
+{
+  "accent": "#E8A56C",
+  "wallpapers": [
+    {
+      "file": "1-main-v1",
+      "format": "png",
+      "by": "CompilingThings",
+      "licence": "CC-BY-4.0",
+      "made_with": "src/traceroute/build",
+      "title": "MAIN V1: SIO_UART_RX, 6 hops"
+    },
+    {
+      "file": "2-io-v1",
+      "format": "png",
+      "by": "CompilingThings",
+      "licence": "CC-BY-4.0",
+      "made_with": "src/traceroute/build",
+      "title": "IO V1: USB2_P2_P, 8 hops"
+    }
+  ]
+}
