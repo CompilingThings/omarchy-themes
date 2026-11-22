@@ -6,7 +6,7 @@ scripts that made them, so every picture can be made again and checked.
 | Script | What it makes |
 |---|---|
 | [`build`](build) | Remakes a theme's wallpapers and preview: `src/build <theme>...` or `src/build --all` |
-| [`photowall.py`](photowall.py) | Photo wallpapers: downloads each photo once, cuts it to 16:9 at 3840 x 2160, draws the label bottom right inside the 3:2 view |
+| [`photowall.py`](photowall.py) | Photo wallpapers: downloads each photo once, cuts it to 16:9 at 3840 x 2160, draws the label bottom right inside the 3:2 view; for Snow Crystal it first cuts the round plate out of each museum scan |
 | [`fractalwall.py`](fractalwall.py), [`fractal.c`](fractal.c) | Seahorse Valley's fractals, drawn from their formulas |
 | [`termfractal.py`](termfractal.py) | One of those fractals drawn inside a terminal |
 | [`earthspin.py`](earthspin.py) | Low Orbit's turning Earth video |

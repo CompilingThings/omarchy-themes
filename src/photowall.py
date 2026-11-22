@@ -18,6 +18,8 @@ wallpapers.json: {"accent": "#rrggbb", "wallpapers": [{"file", "by", "licence", 
   panel  optional true: a neat dark panel behind the label instead of the soft patch, for a bright photo;
          or a number 0-1 for how dark (true = 0.67; Nordlys' town lights needed 0.85)
   accent optional "#rrggbb": this picture's own label bar colour instead of the list's
+  plate  optional true: a museum scan of a round photomicrograph mounted on a card (Snow Crystal's Bentley prints):
+         the dark round plate is cut out and set on a field of its own dark colour first (needs numpy and scipy)
 Writes <backgrounds dir>/<file>.jpg at 3840x2160 and <preview.png> (the first photo, 1280x720).
 """
 import json
@@ -68,6 +70,43 @@ def cut(path, cx, cy, zoom):
     im = im.convert("RGB")
     box = (x0 * f, y0 * f, (x0 + cw) * f, (y0 + ch) * f)
     return im.resize((W, H), Image.LANCZOS, box=box, reducing_gap=3.0), to_wall
+
+
+def plate(path, dest):
+    """Cut the round dark plate out of a scanned card and set it on a W x H field of the plate's own dark colour, 88 %
+    of the height and left of centre so the bottom right stays clear for the label. The plate is found as the largest connected dark area on the cream card, left of the colour
+    chart the scan carries on its right (which has black patches too), inside the scanner's black bands."""
+    if dest.exists() and dest.stat().st_size:
+        return dest
+    import numpy as np
+    from scipy import ndimage
+    im = Image.open(path).convert("RGB")
+    a = np.asarray(im).astype(float)
+    lum = a.mean(axis=2)
+    h, w = lum.shape
+    card = lum > 150
+    cc = np.where(card.sum(axis=0) > h * 0.3)[0]
+    cr = np.where(card.sum(axis=1) > w * 0.2)[0]
+    x0, x1, y0, y1 = cc.min() + 25, min(cc.max(), int(w * 0.82)), cr.min() + 25, cr.max() - 25
+    dark = np.zeros(lum.shape, bool)
+    dark[y0:y1, x0:x1] = lum[y0:y1, x0:x1] < 70
+    lab, _ = ndimage.label(dark)
+    ys, xs = np.where(lab == np.argmax(np.bincount(lab.ravel())[1:]) + 1)
+    cx, cy = (xs.min() + xs.max()) / 2, (ys.min() + ys.max()) / 2
+    r = min(xs.max() - xs.min(), ys.max() - ys.min()) / 2 * 0.965   # stay inside the plate's ragged edge
+    yy, xx = np.mgrid[0:h, 0:w]
+    dist = np.hypot(xx - cx, yy - cy)
+    field = tuple(int(v) for v in np.median(a[(dist > r * 0.97) & (dist < r) & dark], axis=0))
+    d = int(H * 0.88)
+    disc = im.crop((round(cx - r), round(cy - r), round(cx + r), round(cy + r))).resize((d, d), Image.LANCZOS)
+    mask = Image.new("L", (d * 4, d * 4), 0)
+    ImageDraw.Draw(mask).ellipse((0, 0, d * 4 - 1, d * 4 - 1), fill=255)
+    mask = mask.resize((d, d), Image.LANCZOS).filter(ImageFilter.GaussianBlur(d * 0.004))
+    out = Image.new("RGB", (W, H), field)
+    out.paste(disc, (round(W * 0.41 - d / 2), round(H * 0.47 - d / 2)), mask)
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    out.save(dest)
+    return dest
 
 
 def mark(img, xy, name):
@@ -157,6 +196,8 @@ def main(spec, cache, out, preview):
     for i, p in enumerate(photos):
         src = (cache / "src" / p["local"] if "local" in p else
                fetch(p["url"], cache / "src" / Path(urllib.parse.urlparse(p["url"]).path).name))
+        if p.get("plate"):
+            src = plate(src, cache / "plates" / f"{src.stem}.png")
         img, to_wall = cut(src, *p.get("crop", [0.5, 0.5, 1.0]))
         for x, y, name in p.get("marks", []):
             img = mark(img, to_wall(x, y), name)

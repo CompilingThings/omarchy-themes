@@ -8,6 +8,8 @@ picture or colour a patch).
 
 ### Added
 
+- Snow Crystal: twelve of Wilson Bentley's snowflake photomicrographs (The Met, CC0), each round plate cut
+  from the museum's scan onto a dark field by a new `"plate": true` option in `src/photowall.py`.
 - Deep Sea: twelve close photos of jellyfish and comb jellies lit in dark water and a deep-sea isopod from
   900 m, all from Wikimedia Commons with free licences; white-spotted jellyfish blue and bluefire purple.
 - Compound Eye: fourteen macro photos of insect faces, twelve from the USGS Bee Inventory and Monitoring Lab (U.S.

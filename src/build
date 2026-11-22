@@ -5,9 +5,10 @@
 #   src/build --all               rebuild every theme that can be rebuilt here
 #
 # Photo themes download their photos once (into ${XDG_CACHE_HOME:-~/.cache}/omarchy-themes/<theme>) and need Python 3
-# with Pillow. Seahorse Valley draws its fractals and also needs gcc with OpenMP and numpy. The turning Earth of Low
-# Orbit is rendered by src/earthspin.py on its own (about 75 minutes, see src/README.md). Boardroom and Traceroute
-# are drawn from KiCad board files and need KiCad 10: pass the folder that holds the boards with BOARDS=<dir>.
+# with Pillow; Snow Crystal also needs numpy and scipy (to cut Bentley's round plates out of the museum scans).
+# Seahorse Valley draws its fractals and also needs gcc with OpenMP and numpy. The turning Earth of Low Orbit is
+# rendered by src/earthspin.py on its own (about 75 minutes, see src/README.md). Boardroom and Traceroute are drawn
+# from KiCad board files and need KiCad 10: pass the folder that holds the boards with BOARDS=<dir>.
 #
 # Set PYTHON to use another interpreter (for example a virtual environment with Pillow and numpy).
 set -euo pipefail
@@ -56,6 +57,7 @@ build() {  # <theme>
   case $t in
     boardroom | traceroute) boards "$t" ;;
     seahorse-valley) fractals "$t" ;;
+    snow-crystal) needs numpy scipy; photos "$t" ;;
     *) photos "$t" ;;
   esac
 }

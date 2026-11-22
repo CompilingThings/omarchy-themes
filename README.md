@@ -3,11 +3,11 @@
 [![check](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml/badge.svg)](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml)
 [![MIT licence](https://img.shields.io/badge/code-MIT-blue)](LICENSE)
 
-**Fourteen themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
-the northern lights over Norway, mushrooms from forests round the world, insects up close, glowing jellyfish, fractals drawn from their formulas, and the circuit boards of a homemade computer.
+**Fifteen themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
+the northern lights over Norway, mushrooms from forests round the world, insects up close, glowing jellyfish, single snowflakes photographed a century ago, fractals drawn from their formulas, and the circuit boards of a homemade computer.
 Every wallpaper is 4K and carries a small label saying what it shows and who made it.
 
-![All fourteen themes](docs/images/gallery.jpg)
+![All fifteen themes](docs/images/gallery.jpg)
 
 | | Theme | What it is |
 |---|---|---|
@@ -21,6 +21,7 @@ Every wallpaper is 4K and carries a small label saying what it shows and who mad
 | <img src="docs/images/nordlys.jpg" alt="Nordlys" width="240"> | [**Nordlys**](themes/nordlys/README.md) | The northern lights seen from Norway, Lofoten to Svalbard; aurora green and violet |
 | <img src="docs/images/red-planet.jpg" alt="Red Planet" width="240"> | [**Red Planet**](themes/red-planet/README.md) | Mars from its rovers and orbiters; rust and dust |
 | <img src="docs/images/seahorse-valley.jpg" alt="Seahorse Valley" width="240"> | [**Seahorse Valley**](themes/seahorse-valley/README.md) | Nine fractals, each in the colours of one of Omarchy's own themes; Tokyo Night |
+| <img src="docs/images/snow-crystal.jpg" alt="Snow Crystal" width="240"> | [**Snow Crystal**](themes/snow-crystal/README.md) | Single snowflakes photographed through a microscope by Wilson Bentley, 1890s–1920s; plate black, print cream and icy blue |
 | <img src="docs/images/solar-max.jpg" alt="Solar Max" width="240"> | [**Solar Max**](themes/solar-max/README.md) | The Sun at its most active, flares and eclipses; solar orange |
 | <img src="docs/images/stardust.jpg" alt="Stardust" width="240"> | [**Stardust**](themes/stardust/README.md) | The clearest nebula pictures of 2026 from Webb, Hubble and Euclid; rose and gold |
 | <img src="docs/images/traceroute.jpg" alt="Traceroute" width="240"> | [**Traceroute**](themes/traceroute/README.md) | A circuit board at night, one signal traced hop by hop like `traceroute`; copper and ice blue |

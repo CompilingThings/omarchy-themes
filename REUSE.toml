@@ -717,6 +717,90 @@ SPDX-FileCopyrightText = "2026 CompilingThings"
 SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
+path = "themes/snow-crystal/backgrounds/01-fern-star.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Wilson A. Bentley (The Met)"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "themes/snow-crystal/backgrounds/02-hexagonal-plate.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Wilson A. Bentley (The Met)"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "themes/snow-crystal/backgrounds/03-triangle.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Wilson A. Bentley (The Met)"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "themes/snow-crystal/backgrounds/04-needle-star.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Wilson A. Bentley (The Met)"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "themes/snow-crystal/backgrounds/05-six-petals.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Wilson A. Bentley (The Met)"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "themes/snow-crystal/backgrounds/06-branched-star.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Wilson A. Bentley (The Met)"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "themes/snow-crystal/backgrounds/07-hexagon.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Wilson A. Bentley (The Met)"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "themes/snow-crystal/backgrounds/08-six-pointed-star.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Wilson A. Bentley (The Met)"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "themes/snow-crystal/backgrounds/09-ribbed-plate.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Wilson A. Bentley (The Met)"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "themes/snow-crystal/backgrounds/10-star-and-hexagon.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Wilson A. Bentley (The Met)"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "themes/snow-crystal/backgrounds/11-plate-with-arms.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Wilson A. Bentley (The Met)"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "themes/snow-crystal/backgrounds/12-broad-armed-star.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Wilson A. Bentley (The Met)"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "themes/snow-crystal/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "Wilson A. Bentley (The Met)"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "docs/images/snow-crystal.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Wilson A. Bentley (The Met)"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
 path = "themes/solar-max/backgrounds/1-solar-orbiter-corona.jpg"
 precedence = "override"
 SPDX-FileCopyrightText = "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)"
@@ -917,5 +1001,5 @@ SPDX-License-Identifier = "LicenseRef-NASA-Media"
 [[annotations]]
 path = "docs/images/gallery.jpg"
 precedence = "override"
-SPDX-FileCopyrightText = ["2026 CompilingThings", "Bruno C. Vellutini", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Johannes Groll (Unsplash)", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "U.S. Forest Service, Alaska Region", "USGS Bee Inventory and Monitoring Lab"]
+SPDX-FileCopyrightText = ["2026 CompilingThings", "Bruno C. Vellutini", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Johannes Groll (Unsplash)", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "U.S. Forest Service, Alaska Region", "USGS Bee Inventory and Monitoring Lab", "Wilson A. Bentley (The Met)"]
 SPDX-License-Identifier = "CC-BY-2.0 AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC-BY-SA-3.0-IGO AND CC0-1.0 AND LicenseRef-NASA-Media AND LicenseRef-USGS-Public-Domain"

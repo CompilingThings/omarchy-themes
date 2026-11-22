@@ -1,0 +1,42 @@
+mode = "dark"
+
+# Snow Crystal: Wilson Bentley's photographs of single snowflakes through a microscope, printed between
+# the 1890s and the 1920s. The warm black of his plates, the cream of the old prints as text, and an icy blue accent,
+# the colour of real snow light, with the window border fading from that blue into the prints' cream.
+
+accent = "#8FD0FF"
+selection = "#3A2A26"
+muted = "#5E4B45"
+
+background = "#150E0D"
+dark_background = "#100A09"
+darker_background = "#0B0707"
+lighter_background = "#221816"
+
+foreground = "#F1E8DA"
+dark_foreground = "#93877C"
+light_foreground = "#CFC4B6"
+bright_foreground = "#FFFFFF"
+
+# The focused window: icy blue turning to the cream of Bentley's prints
+hyprland_active_border = "rgba(8fd0ffff) rgba(f1e8daff) 45deg"
+hyprland_inactive_border = "rgba(2a1e1ccc)"
+
+red = "#F07A6A"
+orange = "#EFA35C"
+yellow = "#EED27A"
+green = "#9ED9A0"
+# cyan: frost
+cyan = "#8FE0E0"
+# blue: snow light
+blue = "#7FA8F5"
+magenta = "#D39AD9"
+# brown: the sepia of the old prints
+brown = "#B08A6A"
+
+bright_red = "#FFAFA2"
+bright_yellow = "#F7E6AE"
+bright_green = "#C6EEC6"
+bright_cyan = "#C3E6FF"
+bright_blue = "#B5CCFA"
+bright_magenta = "#ECC6EF"

@@ -168,6 +168,23 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 
 `neovim.lua`, `vscode.json`, `icons.theme`: from Omarchy's Tokyo Night theme, unchanged, MIT, copyright David Heinemeier Hansson (Omarchy).
 
+## Snow Crystal
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-fern-star.jpg` | Wilson A. Bentley (The Met) | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:-Snow_Crystal-_MET_DP351918.jpg) |
+| `02-hexagonal-plate.jpg` | Wilson A. Bentley (The Met) | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:-Snow_Crystal-_MET_DP351906.jpg) |
+| `03-triangle.jpg` | Wilson A. Bentley (The Met) | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:-Snow_Crystal-_MET_DP351930.jpg) |
+| `04-needle-star.jpg` | Wilson A. Bentley (The Met) | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:-Snow_Crystal-_MET_DP351922.jpg) |
+| `05-six-petals.jpg` | Wilson A. Bentley (The Met) | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:-Snow_Crystal-_MET_DP351912.jpg) |
+| `06-branched-star.jpg` | Wilson A. Bentley (The Met) | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:-Snow_Crystal-_MET_DP351909.jpg) |
+| `07-hexagon.jpg` | Wilson A. Bentley (The Met) | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:-Snow_Crystal-_MET_DP351916.jpg) |
+| `08-six-pointed-star.jpg` | Wilson A. Bentley (The Met) | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:-Snow_Crystal-_MET_DP351910.jpg) |
+| `09-ribbed-plate.jpg` | Wilson A. Bentley (The Met) | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:-Snow_Crystal-_MET_DP351932.jpg) |
+| `10-star-and-hexagon.jpg` | Wilson A. Bentley (The Met) | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:-Snow_Crystal-_MET_DP351911.jpg) |
+| `11-plate-with-arms.jpg` | Wilson A. Bentley (The Met) | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:-Snow_Crystal-_MET_DP351914.jpg) |
+| `12-broad-armed-star.jpg` | Wilson A. Bentley (The Met) | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:-Snow_Crystal-_MET_DP351907.jpg) |
+
 ## Solar Max
 
 | Wallpaper | By | Licence | Source |
