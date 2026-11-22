@@ -1,0 +1,46 @@
+mode = "dark"
+
+# Cold Blood: frogs, lizards, snakes and crocodiles so close that every scale and the eye's own pattern show. The
+# black of a night photo, pale green-white text, the red-eyed tree frog's eye as the accent, and the window border
+# fading from that red into the green of Gumprecht's pit viper. Colours sampled from the theme's own photos.
+
+accent = "#EE3B3B"
+selection = "#2A3320"
+muted = "#4C5646"
+
+background = "#080A07"
+dark_background = "#060805"
+darker_background = "#040503"
+lighter_background = "#141A10"
+
+foreground = "#E8ECDD"
+dark_foreground = "#88917C"
+light_foreground = "#C4CBB6"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the tree frog's red eye turning to pit viper green
+hyprland_active_border = "rgba(ee3b3bff) rgba(5ac82eff) 45deg"
+hyprland_inactive_border = "rgba(1c2416cc)"
+
+# red: the red-eyed tree frog's eye
+red = "#F05A4E"
+# orange: the leaf under the tree frog
+orange = "#FE9A2E"
+# yellow: the eyelash pit viper
+yellow = "#F2C84B"
+# green: Gumprecht's pit viper
+green = "#7FD64A"
+# cyan: the chameleon's turquoise scales
+cyan = "#3FD6B4"
+# blue: the blue stripes on the red-eyed tree frog's sides
+blue = "#6CA0F0"
+# magenta: the rainbow sheen on the reticulated python's scales
+magenta = "#B98AF0"
+brown = "#B08040"
+
+bright_red = "#FF968C"
+bright_yellow = "#F8DE8E"
+bright_green = "#B8EE95"
+bright_cyan = "#92EBD6"
+bright_blue = "#AECBF8"
+bright_magenta = "#D9C2FA"

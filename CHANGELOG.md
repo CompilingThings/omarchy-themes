@@ -8,6 +8,8 @@ picture or colour a patch).
 
 ### Added
 
+- Cold Blood: fourteen close-ups of frogs, lizards, snakes and crocodiles (eyes, heads and scales) from
+  Wikimedia Commons with free licences; red-eyed tree frog red and pit viper green.
 - Snow Crystal: twelve of Wilson Bentley's snowflake photomicrographs (The Met, CC0), each round plate cut
   from the museum's scan onto a dark field by a new `"plate": true` option in `src/photowall.py`.
 - Deep Sea: twelve close photos of jellyfish and comb jellies lit in dark water and a deep-sea isopod from

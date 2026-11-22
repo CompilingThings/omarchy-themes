@@ -1,0 +1,221 @@
+{
+ "accent": "#E8262E",
+ "wallpapers": [
+  {
+   "file": "01-red-eyed-tree-frog",
+   "by": "Brian Gratwicke",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Red-eyed_Treefrog_%28Agalychnis_callidryas%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Red-eyed_Treefrog_(Agalychnis_callidryas).jpg",
+   "title": "RED-EYED TREE FROG",
+   "line1": "Agalychnis callidryas. Its eyes have no true eyelid, only a see-through membrane, so light still reaches them while it sleeps.",
+   "line2": "3 February 2011  ·  Photo: Brian Gratwicke (Flickr)  ·  CC BY 2.0",
+   "crop": [
+    0.62,
+    0.45,
+    1.0
+   ],
+   "panel": 0.75
+  },
+  {
+   "file": "02-chameleon-eye",
+   "by": "Umberto Salvagnin",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Chameleon%27s_eye.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Chameleon's_eye.jpg",
+   "title": "CHAMELEON EYE",
+   "line1": "Its eyelids are joined, leaving only a pinhole for the pupil. Each eye turns and focuses on its own.",
+   "line2": "12 August 2009  ·  Photo: Umberto Salvagnin (Flickr)  ·  CC BY 2.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": 0.75
+  },
+  {
+   "file": "03-gumprechts-pit-viper",
+   "by": "Rushen",
+   "licence": "CC-BY-SA-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Trimeresurus_gumprechti%2C_Gumprecht%E2%80%99s_pit_viper_%28female%29_-_Phu_Suan_Sai_National_Park_%2846711073485%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Trimeresurus_gumprechti,_Gumprecht’s_pit_viper_(female)_-_Phu_Suan_Sai_National_Park_(46711073485).jpg",
+   "title": "GUMPRECHT'S GREEN PIT VIPER",
+   "line1": "Trimeresurus gumprechti, a venomous female, Phu Suan Sai National Park, Thailand.",
+   "line2": "1 April 2019  ·  Photo: Rushen (Flickr)  ·  CC BY-SA 2.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "04-green-eyed-gecko",
+   "by": "Bernard Dupont",
+   "licence": "CC-BY-SA-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Green-eyed_Gecko_%28Gekko_smithii%29_%288735147043%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Green-eyed_Gecko_(Gekko_smithii)_(8735147043).jpg",
+   "title": "SMITH'S GREEN-EYED GECKO",
+   "line1": "Gekko smithii, one of the biggest geckos, up to 35 cm long. Cameron Highlands, Malaysia.",
+   "line2": "18 April 2013  ·  Photo: Bernard Dupont (Flickr)  ·  CC BY-SA 2.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": 0.75
+  },
+  {
+   "file": "05-eyelash-viper",
+   "by": "Geoff Gallice",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bothriechis_nigroadspersus_%28La_Selva_Biological_Station%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bothriechis_nigroadspersus_(La_Selva_Biological_Station).jpg",
+   "title": "EYELASH PIT VIPER",
+   "line1": "Bothriechis nigroadspersus, the Central American eyelash pit viper, La Selva Biological Station, Costa Rica.",
+   "line2": "28 October 2011  ·  Photo: Geoff Gallice (Flickr)  ·  CC BY 2.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "06-water-frog-eye",
+   "by": "Carroll Diehl",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Eye_of_a_water_frog.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Eye_of_a_water_frog.jpg",
+   "title": "WATER FROG EYE",
+   "line1": "A green frog (Pelophylax) in the pond of the Düsseldorf Botanical Garden, Germany.",
+   "line2": "15 June 2022  ·  Photo: Carroll Diehl  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": 0.75
+  },
+  {
+   "file": "07-reticulated-python",
+   "by": "Rushenb",
+   "licence": "CC-BY-SA-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Malayopython_reticulatus%2C_Reticulated_python_-_Kaeng_Krachan_District%2C_Phetchaburi_Province_%2847924282891%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Malayopython_reticulatus,_Reticulated_python_-_Kaeng_Krachan_District,_Phetchaburi_Province_(47924282891).jpg",
+   "title": "RETICULATED PYTHON",
+   "line1": "Malayopython reticulatus, Kaeng Krachan, Thailand. Its mainland form is the world's longest snake.",
+   "line2": "21 May 2019  ·  Photo: Rushenb (Flickr)  ·  CC BY-SA 2.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "08-dwarf-crocodile",
+   "by": "H. Zell",
+   "licence": "CC-BY-SA-3.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Osteolaemus_tetraspis_-_Karlsruhe_Zoo_01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Osteolaemus_tetraspis_-_Karlsruhe_Zoo_01.jpg",
+   "title": "DWARF CROCODILE",
+   "line1": "Osteolaemus tetraspis, the smallest living crocodile, with a heavily armoured back. Karlsruhe Zoo, Germany.",
+   "line2": "19 August 2019  ·  Photo: H. Zell  ·  CC BY-SA 3.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "09-large-eyed-tree-snake",
+   "by": "Bernard Dupont",
+   "licence": "CC-BY-SA-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Large-eyed_Green_Tree_Snake_%28Rhamnophis_aethiopissa%29_%287656933146%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Large-eyed_Green_Tree_Snake_(Rhamnophis_aethiopissa)_(7656933146).jpg",
+   "title": "LARGE-EYED GREEN TREE SNAKE",
+   "line1": "Rhamnophis aethiopissa at night in Korup National Park, Cameroon. It hunts frogs, lizards and birds in the trees.",
+   "line2": "26 January 2005  ·  Photo: Bernard Dupont (Flickr)  ·  CC BY-SA 2.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "10-indian-chameleon",
+   "by": "Dr. Raju Kasambe",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Indian_Chameleon_Chamaeleo_zeylanicus_by_Dr._Raju_Kasambe_DSCN7134_%2820%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Indian_Chameleon_Chamaeleo_zeylanicus_by_Dr._Raju_Kasambe_DSCN7134_(20).jpg",
+   "title": "INDIAN CHAMELEON",
+   "line1": "Chamaeleo zeylanicus, its eye in its turret of scales. BNHS Conservation Education Centre, Mumbai, India.",
+   "line2": "22 June 2018  ·  Photo: Dr. Raju Kasambe  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": 0.75
+  },
+  {
+   "file": "11-crawfish-frog",
+   "by": "Peter Paplanus",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/N%C3%B6rdlicher_Krebsfrosch_%28Lithobates_areolatus_circulosa%29%2C_Kopf.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Nördlicher_Krebsfrosch_(Lithobates_areolatus_circulosa),_Kopf.jpg",
+   "title": "CRAWFISH FROG",
+   "line1": "Lithobates areolatus, Williamson County, Illinois. It lives in crayfish burrows for most of the year.",
+   "line2": "12 March 2021  ·  Photo: Peter Paplanus (Flickr)  ·  CC BY 2.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "12-american-crocodile",
+   "by": "Tomascastelazo",
+   "licence": "CC-BY-SA-3.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Crocodylus_acutus_close_up_2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Crocodylus_acutus_close_up_2.jpg",
+   "title": "AMERICAN CROCODILE",
+   "line1": "Crocodylus acutus up close, La Manzanilla, Mexico. Besides the saltwater crocodile, the only crocodile that commonly lives in salt water.",
+   "line2": "30 December 2012  ·  Photo: Tomascastelazo  ·  CC BY-SA 3.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": 0.75
+  },
+  {
+   "file": "13-green-eyed-bushfrog",
+   "by": "Froggydame",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Raorchestes_chlorosomma_%28Green-Eyed_Bush_Frog%29_from_the_southern_Western_Ghats_of_India.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Raorchestes_chlorosomma_(Green-Eyed_Bush_Frog)_from_the_southern_Western_Ghats_of_India.jpg",
+   "title": "GREEN-EYED BUSHFROG",
+   "line1": "Raorchestes chlorosomma at Munnar in the southern Western Ghats, India.",
+   "line2": "28 September 2013  ·  Photo: Froggydame  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "14-bengal-monitor",
+   "by": "Senthi Aathavan Senthilverl",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bengal_monitor_at_Anawilundawa_Bird_Sanctuary_-_%28A_Mischievous_Grin%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bengal_monitor_at_Anawilundawa_Bird_Sanctuary_-_(A_Mischievous_Grin).jpg",
+   "title": "BENGAL MONITOR",
+   "line1": "Varanus bengalensis tasting the air with its forked tongue, Anawilundawa Bird Sanctuary, Sri Lanka.",
+   "line2": "19 February 2017  ·  Photo: Senthi Aathavan Senthilverl  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  }
+ ]
+}

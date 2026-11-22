@@ -34,6 +34,25 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `6-antenna-v1.png` | CompilingThings | CC BY 4.0 | made with `src/boardroom/build` |
 | `7-screen-v1.png` | CompilingThings | CC BY 4.0 | made with `src/boardroom/build` |
 
+## Cold Blood
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-red-eyed-tree-frog.jpg` | Brian Gratwicke | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Red-eyed_Treefrog_(Agalychnis_callidryas).jpg) |
+| `02-chameleon-eye.jpg` | Umberto Salvagnin | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Chameleon's_eye.jpg) |
+| `03-gumprechts-pit-viper.jpg` | Rushen | CC BY-SA 2.0 | [source](https://commons.wikimedia.org/wiki/File:Trimeresurus_gumprechti,_Gumprecht’s_pit_viper_(female)_-_Phu_Suan_Sai_National_Park_(46711073485).jpg) |
+| `04-green-eyed-gecko.jpg` | Bernard Dupont | CC BY-SA 2.0 | [source](https://commons.wikimedia.org/wiki/File:Green-eyed_Gecko_(Gekko_smithii)_(8735147043).jpg) |
+| `05-eyelash-viper.jpg` | Geoff Gallice | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Bothriechis_nigroadspersus_(La_Selva_Biological_Station).jpg) |
+| `06-water-frog-eye.jpg` | Carroll Diehl | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Eye_of_a_water_frog.jpg) |
+| `07-reticulated-python.jpg` | Rushenb | CC BY-SA 2.0 | [source](https://commons.wikimedia.org/wiki/File:Malayopython_reticulatus,_Reticulated_python_-_Kaeng_Krachan_District,_Phetchaburi_Province_(47924282891).jpg) |
+| `08-dwarf-crocodile.jpg` | H. Zell | CC BY-SA 3.0 | [source](https://commons.wikimedia.org/wiki/File:Osteolaemus_tetraspis_-_Karlsruhe_Zoo_01.jpg) |
+| `09-large-eyed-tree-snake.jpg` | Bernard Dupont | CC BY-SA 2.0 | [source](https://commons.wikimedia.org/wiki/File:Large-eyed_Green_Tree_Snake_(Rhamnophis_aethiopissa)_(7656933146).jpg) |
+| `10-indian-chameleon.jpg` | Dr. Raju Kasambe | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Indian_Chameleon_Chamaeleo_zeylanicus_by_Dr._Raju_Kasambe_DSCN7134_(20).jpg) |
+| `11-crawfish-frog.jpg` | Peter Paplanus | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Nördlicher_Krebsfrosch_(Lithobates_areolatus_circulosa),_Kopf.jpg) |
+| `12-american-crocodile.jpg` | Tomascastelazo | CC BY-SA 3.0 | [source](https://commons.wikimedia.org/wiki/File:Crocodylus_acutus_close_up_2.jpg) |
+| `13-green-eyed-bushfrog.jpg` | Froggydame | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Raorchestes_chlorosomma_(Green-Eyed_Bush_Frog)_from_the_southern_Western_Ghats_of_India.jpg) |
+| `14-bengal-monitor.jpg` | Senthi Aathavan Senthilverl | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Bengal_monitor_at_Anawilundawa_Bird_Sanctuary_-_(A_Mischievous_Grin).jpg) |
+
 ## Compound Eye
 
 | Wallpaper | By | Licence | Source |

@@ -3,15 +3,16 @@
 [![check](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml/badge.svg)](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml)
 [![MIT licence](https://img.shields.io/badge/code-MIT-blue)](LICENSE)
 
-**Fifteen themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
-the northern lights over Norway, mushrooms from forests round the world, insects up close, glowing jellyfish, single snowflakes photographed a century ago, fractals drawn from their formulas, and the circuit boards of a homemade computer.
+**Sixteen themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
+the northern lights over Norway, mushrooms from forests round the world, insects up close, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, fractals drawn from their formulas, and the circuit boards of a homemade computer.
 Every wallpaper is 4K and carries a small label saying what it shows and who made it.
 
-![All fifteen themes](docs/images/gallery.jpg)
+![All sixteen themes](docs/images/gallery.jpg)
 
 | | Theme | What it is |
 |---|---|---|
 | <img src="docs/images/boardroom.jpg" alt="Boardroom" width="240"> | [**Boardroom**](themes/boardroom/README.md) | KiCad 3D renders of a cyberdeck's six boards on a purple drawing sheet; purple, white and gold |
+| <img src="docs/images/cold-blood.jpg" alt="Cold Blood" width="240"> | [**Cold Blood**](themes/cold-blood/README.md) | Frogs, lizards, snakes and crocodiles up close, every scale and eye pattern sharp; tree frog red and pit viper green |
 | <img src="docs/images/compound-eye.jpg" alt="Compound Eye" width="240"> | [**Compound Eye**](themes/compound-eye/README.md) | Insect faces in extreme close-up, mostly from the USGS Bee Lab; cuckoo wasp green and iridescent blue |
 | <img src="docs/images/deep-field.jpg" alt="Deep Field" width="240"> | [**Deep Field**](themes/deep-field/README.md) | Deep space from the James Webb telescope, Cassini and the Space Station; deep blue |
 | <img src="docs/images/deep-sea.jpg" alt="Deep Sea" width="240"> | [**Deep Sea**](themes/deep-sea/README.md) | Jellyfish and comb jellies lit in dark water, and an isopod from 900 m down; glowing blue and bluefire purple |

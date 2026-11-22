@@ -69,6 +69,102 @@ SPDX-FileCopyrightText = "2026 CompilingThings"
 SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
+path = "themes/cold-blood/backgrounds/01-red-eyed-tree-frog.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brian Gratwicke"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/cold-blood/backgrounds/02-chameleon-eye.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Umberto Salvagnin"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/cold-blood/backgrounds/03-gumprechts-pit-viper.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Rushen"
+SPDX-License-Identifier = "CC-BY-SA-2.0"
+
+[[annotations]]
+path = "themes/cold-blood/backgrounds/04-green-eyed-gecko.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Bernard Dupont"
+SPDX-License-Identifier = "CC-BY-SA-2.0"
+
+[[annotations]]
+path = "themes/cold-blood/backgrounds/05-eyelash-viper.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Geoff Gallice"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/cold-blood/backgrounds/06-water-frog-eye.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Carroll Diehl"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/cold-blood/backgrounds/07-reticulated-python.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Rushenb"
+SPDX-License-Identifier = "CC-BY-SA-2.0"
+
+[[annotations]]
+path = "themes/cold-blood/backgrounds/08-dwarf-crocodile.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "H. Zell"
+SPDX-License-Identifier = "CC-BY-SA-3.0"
+
+[[annotations]]
+path = "themes/cold-blood/backgrounds/09-large-eyed-tree-snake.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Bernard Dupont"
+SPDX-License-Identifier = "CC-BY-SA-2.0"
+
+[[annotations]]
+path = "themes/cold-blood/backgrounds/10-indian-chameleon.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Dr. Raju Kasambe"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/cold-blood/backgrounds/11-crawfish-frog.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Peter Paplanus"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/cold-blood/backgrounds/12-american-crocodile.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Tomascastelazo"
+SPDX-License-Identifier = "CC-BY-SA-3.0"
+
+[[annotations]]
+path = "themes/cold-blood/backgrounds/13-green-eyed-bushfrog.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Froggydame"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/cold-blood/backgrounds/14-bengal-monitor.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Senthi Aathavan Senthilverl"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/cold-blood/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "Brian Gratwicke"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "docs/images/cold-blood.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brian Gratwicke"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
 path = "themes/compound-eye/backgrounds/01-cuckoo-wasp.jpg"
 precedence = "override"
 SPDX-FileCopyrightText = "USGS Bee Inventory and Monitoring Lab"
@@ -1001,5 +1097,5 @@ SPDX-License-Identifier = "LicenseRef-NASA-Media"
 [[annotations]]
 path = "docs/images/gallery.jpg"
 precedence = "override"
-SPDX-FileCopyrightText = ["2026 CompilingThings", "Bruno C. Vellutini", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Johannes Groll (Unsplash)", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "U.S. Forest Service, Alaska Region", "USGS Bee Inventory and Monitoring Lab", "Wilson A. Bentley (The Met)"]
+SPDX-FileCopyrightText = ["2026 CompilingThings", "Brian Gratwicke", "Bruno C. Vellutini", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Johannes Groll (Unsplash)", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "U.S. Forest Service, Alaska Region", "USGS Bee Inventory and Monitoring Lab", "Wilson A. Bentley (The Met)"]
 SPDX-License-Identifier = "CC-BY-2.0 AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC-BY-SA-3.0-IGO AND CC0-1.0 AND LicenseRef-NASA-Media AND LicenseRef-USGS-Public-Domain"
