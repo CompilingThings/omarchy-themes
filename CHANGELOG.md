@@ -4,6 +4,14 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); ver
 [Semantic Versioning](https://semver.org/) (a theme renamed or removed is a major change, a new theme minor, a fixed
 picture or colour a patch).
 
+## [Unreleased]
+
+### Added
+
+- Fairy Ring: twelve photos of mushrooms and other fungi from Wikimedia Commons (fly agarics, glowing mushrooms,
+  amethyst deceivers, a latticed stinkhorn and more); fly agaric red and amethyst purple. Adds the CC BY-SA 3.0 and
+  CC BY-SA 4.0 licence texts.
+
 ## [1.0.0] - 2026-11-18
 
 First release: eleven themes for Omarchy 4.5.

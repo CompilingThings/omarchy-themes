@@ -129,6 +129,90 @@ SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI"
 SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
+path = "themes/fairy-ring/backgrounds/01-fly-agarics.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "U.S. Forest Service, Alaska Region"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/fairy-ring/backgrounds/02-glowing-mushrooms-western-ghats.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Yathumon M A"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/fairy-ring/backgrounds/03-amethyst-deceivers.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Tatiana Bulyonkova"
+SPDX-License-Identifier = "CC-BY-SA-2.0"
+
+[[annotations]]
+path = "themes/fairy-ring/backgrounds/04-latticed-stinkhorn.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Didier Descouens"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/fairy-ring/backgrounds/05-golden-jelly-fungus.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Reinhold Möller (Ermell)"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/fairy-ring/backgrounds/06-fly-agarics-new-zealand.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Bernard Spragg"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "themes/fairy-ring/backgrounds/07-mycena-clarkeana.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "karode13 (Mushroom Observer)"
+SPDX-License-Identifier = "CC-BY-SA-3.0"
+
+[[annotations]]
+path = "themes/fairy-ring/backgrounds/08-glowing-mushrooms-atlantic-forest.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "RafaelMenegucci"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/fairy-ring/backgrounds/09-mushrooms-on-a-stump.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Timothy A. Gonsalves (Tagooty)"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/fairy-ring/backgrounds/10-scarlet-club-fungus.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "JJ Harrison"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/fairy-ring/backgrounds/11-yellow-spine-fungus.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Casey Helton"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/fairy-ring/backgrounds/12-frosted-mushrooms.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Reinhold Möller (Ermell)"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/fairy-ring/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "U.S. Forest Service, Alaska Region"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "docs/images/fairy-ring.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "U.S. Forest Service, Alaska Region"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
 path = "themes/grand-tour/backgrounds/1-saturn.jpg"
 precedence = "override"
 SPDX-FileCopyrightText = "NASA/JPL/Space Science Institute"
@@ -653,5 +737,5 @@ SPDX-License-Identifier = "LicenseRef-NASA-Media"
 [[annotations]]
 path = "docs/images/gallery.jpg"
 precedence = "override"
-SPDX-FileCopyrightText = ["2026 CompilingThings", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Johannes Groll (Unsplash)", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos"]
-SPDX-License-Identifier = "CC-BY-4.0 AND CC-BY-SA-3.0-IGO AND CC0-1.0 AND LicenseRef-NASA-Media"
+SPDX-FileCopyrightText = ["2026 CompilingThings", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Johannes Groll (Unsplash)", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "U.S. Forest Service, Alaska Region"]
+SPDX-License-Identifier = "CC-BY-2.0 AND CC-BY-4.0 AND CC-BY-SA-3.0-IGO AND CC0-1.0 AND LicenseRef-NASA-Media"

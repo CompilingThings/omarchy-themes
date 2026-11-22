@@ -1,0 +1,46 @@
+mode = "dark"
+
+# Fairy Ring: mushrooms from forests round the world. The dark brown-black of a forest floor, the cream of a fly
+# agaric's white flecks for text, the fly agaric's red as the accent, and the window border fading from that red into
+# the purple of the amethyst deceiver. Colours sampled from the theme's own photos.
+
+accent = "#F0563F"
+selection = "#3F1C18"
+muted = "#5E4D42"
+
+background = "#0F0B09"
+dark_background = "#0B0807"
+darker_background = "#060404"
+lighter_background = "#1C1612"
+
+foreground = "#F0E6D8"
+dark_foreground = "#8E8075"
+light_foreground = "#CFC2B2"
+bright_foreground = "#FFFFFF"
+
+# The focused window: fly agaric red fading into amethyst deceiver purple
+hyprland_active_border = "rgba(f0563fff) rgba(b56ee0ff) 45deg"
+hyprland_inactive_border = "rgba(2a201acc)"
+
+# red: the fly agaric cap
+red = "#F0563F"
+# orange: the caps of the mushroom cluster on the Ooty stump
+orange = "#E8894A"
+# yellow: golden jelly fungus
+yellow = "#F2C53D"
+# green: the light of glowing mushrooms (foxfire)
+green = "#9FE070"
+# cyan: hoarfrost on the Bavarian stump
+cyan = "#7FD3D8"
+# blue: the frosty blue of that stump's bark
+blue = "#7FA4F0"
+# magenta: the amethyst deceiver
+magenta = "#C77BE0"
+brown = "#B07A55"
+
+bright_red = "#FF8E7D"
+bright_yellow = "#F8DD8A"
+bright_green = "#C4EEA6"
+bright_cyan = "#AEE5E8"
+bright_blue = "#AFC6F6"
+bright_magenta = "#DDAAEE"

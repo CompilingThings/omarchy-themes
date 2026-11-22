@@ -13,7 +13,9 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 - `CC-BY-NC-SA-2.0`: [CC BY-NC-SA 2.0 (non-commercial)](https://creativecommons.org/licenses/by-nc-sa/2.0/), full text in [LICENSES/CC-BY-NC-SA-2.0.txt](LICENSES/CC-BY-NC-SA-2.0.txt)
 - `CC-BY-NC-SA-3.0`: [CC BY-NC-SA 3.0 (non-commercial)](https://creativecommons.org/licenses/by-nc-sa/3.0/), full text in [LICENSES/CC-BY-NC-SA-3.0.txt](LICENSES/CC-BY-NC-SA-3.0.txt)
 - `CC-BY-SA-2.0`: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), full text in [LICENSES/CC-BY-SA-2.0.txt](LICENSES/CC-BY-SA-2.0.txt)
+- `CC-BY-SA-3.0`: CC-BY-SA-3.0, full text in [LICENSES/CC-BY-SA-3.0.txt](LICENSES/CC-BY-SA-3.0.txt)
 - `CC-BY-SA-3.0-IGO`: [CC BY-SA 3.0 IGO](https://creativecommons.org/licenses/by-sa/3.0/igo/), full text in [LICENSES/CC-BY-SA-3.0-IGO.txt](LICENSES/CC-BY-SA-3.0-IGO.txt)
+- `CC-BY-SA-4.0`: CC-BY-SA-4.0, full text in [LICENSES/CC-BY-SA-4.0.txt](LICENSES/CC-BY-SA-4.0.txt)
 - `CC0-1.0`: [CC0 1.0 (public domain)](https://creativecommons.org/publicdomain/zero/1.0/), full text in [LICENSES/CC0-1.0.txt](LICENSES/CC0-1.0.txt)
 - `LicenseRef-CC-BY-SA-3.0-NO`: [CC BY-SA 3.0 NO](https://creativecommons.org/licenses/by-sa/3.0/no/), full text in [LICENSES/LicenseRef-CC-BY-SA-3.0-NO.txt](LICENSES/LicenseRef-CC-BY-SA-3.0-NO.txt)
 - `LicenseRef-NASA-Media`: [NASA media guidelines](https://www.nasa.gov/nasa-brand-center/images-and-media/), full text in [LICENSES/LicenseRef-NASA-Media.txt](LICENSES/LicenseRef-NASA-Media.txt)
@@ -43,6 +45,23 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `6-tarantula-nebula.jpg` | NASA, ESA, CSA, STScI | CC BY 4.0 | [source](https://esawebb.org/images/weic2212a/) |
 | `7-horsehead-nebula.jpg` | ESA/Webb, NASA, CSA, K. Misselt (U. Arizona), A. Abergel (IAS/Paris-Saclay, CNRS) | CC BY 4.0 | [source](https://esawebb.org/images/weic2411a/) |
 | `8-ic2163-ngc2207.jpg` | NASA, ESA, CSA, STScI | CC BY 4.0 | [source](https://esawebb.org/images/weic2426a/) |
+
+## Fairy Ring
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-fly-agarics.jpg` | U.S. Forest Service, Alaska Region | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Amanita_muscaria_mushrooms.jpg) |
+| `02-glowing-mushrooms-western-ghats.jpg` | Yathumon M A | CC-BY-SA-4.0 | [source](https://commons.wikimedia.org/wiki/File:Filoboletus_manipularis_20260620_190044_9001_D500_Yathumon_M_A.jpg) |
+| `03-amethyst-deceivers.jpg` | Tatiana Bulyonkova | CC BY-SA 2.0 | [source](https://commons.wikimedia.org/wiki/File:Laccaria_amethystina_(8122143392).jpg) |
+| `04-latticed-stinkhorn.jpg` | Didier Descouens | CC-BY-SA-4.0 | [source](https://commons.wikimedia.org/wiki/File:(MHNT)_Clathrus_ruber.jpg) |
+| `05-golden-jelly-fungus.jpg` | Reinhold Möller (Ermell) | CC-BY-SA-4.0 | [source](https://commons.wikimedia.org/wiki/File:Goldgelber_Zitterling-Tremella_mesenterica_stack32_-20191227-RM-152807.jpg) |
+| `06-fly-agarics-new-zealand.jpg` | Bernard Spragg | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:Fly_Agaric.(Amanita_muscaria)_(48201673922).jpg) |
+| `07-mycena-clarkeana.jpg` | karode13 (Mushroom Observer) | CC-BY-SA-3.0 | [source](https://commons.wikimedia.org/wiki/File:Mycena_clarkeana_533139.jpg) |
+| `08-glowing-mushrooms-atlantic-forest.jpg` | RafaelMenegucci | CC-BY-SA-4.0 | [source](https://commons.wikimedia.org/wiki/File:Cogumelos_bioluminescentes.jpg) |
+| `09-mushrooms-on-a-stump.jpg` | Timothy A. Gonsalves (Tagooty) | CC-BY-SA-4.0 | [source](https://commons.wikimedia.org/wiki/File:Cluster_Mushrooms_Moss_Silver_Oak_Stump_Ooty_Sep26_A7CR_14125-183_zsp.jpg) |
+| `10-scarlet-club-fungus.jpg` | JJ Harrison | CC-BY-SA-4.0 | [source](https://commons.wikimedia.org/wiki/File:Clavulinopsis_sulcata_-_Lane_Cove_River.jpg) |
+| `11-yellow-spine-fungus.jpg` | Casey Helton | CC-BY-SA-4.0 | [source](https://commons.wikimedia.org/wiki/File:Mucronella_flava_-_18_images_-_Tillamook,_Oregon.jpg) |
+| `12-frosted-mushrooms.jpg` | Reinhold Möller (Ermell) | CC-BY-SA-4.0 | [source](https://commons.wikimedia.org/wiki/File:Agaricales-20191229-RM-101505.jpg) |
 
 ## Grand Tour
 
