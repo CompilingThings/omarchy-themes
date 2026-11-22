@@ -3,11 +3,11 @@
 [![check](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml/badge.svg)](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml)
 [![MIT licence](https://img.shields.io/badge/code-MIT-blue)](LICENSE)
 
-**Sixteen themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
-the northern lights over Norway, mushrooms from forests round the world, insects up close, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, fractals drawn from their formulas, and the circuit boards of a homemade computer.
+**Seventeen themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
+the northern lights over Norway, mushrooms from forests round the world, insects up close, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
 Every wallpaper is 4K and carries a small label saying what it shows and who made it.
 
-![All sixteen themes](docs/images/gallery.jpg)
+![All seventeen themes](docs/images/gallery.jpg)
 
 | | Theme | What it is |
 |---|---|---|
@@ -26,6 +26,7 @@ Every wallpaper is 4K and carries a small label saying what it shows and who mad
 | <img src="docs/images/solar-max.jpg" alt="Solar Max" width="240"> | [**Solar Max**](themes/solar-max/README.md) | The Sun at its most active, flares and eclipses; solar orange |
 | <img src="docs/images/stardust.jpg" alt="Stardust" width="240"> | [**Stardust**](themes/stardust/README.md) | The clearest nebula pictures of 2026 from Webb, Hubble and Euclid; rose and gold |
 | <img src="docs/images/traceroute.jpg" alt="Traceroute" width="240"> | [**Traceroute**](themes/traceroute/README.md) | A circuit board at night, one signal traced hop by hop like `traceroute`; copper and ice blue |
+| <img src="docs/images/thunderhead.jpg" alt="Thunderhead" width="240"> | [**Thunderhead**](themes/thunderhead/README.md) | Lightning at night and the clouds of big thunderstorms: shelf clouds, mammatus, a glowing anvil; lightning violet and electric blue |
 | <img src="docs/images/tranquility.jpg" alt="Tranquility" width="240"> | [**Tranquility**](themes/tranquility/README.md) | The Moon from Artemis II and Apollo; greys and Earth blue |
 
 Each theme's own page lists its wallpapers, what each one shows, and where it comes from.

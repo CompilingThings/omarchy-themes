@@ -1,0 +1,223 @@
+{
+ "accent": "#A98BFF",
+ "wallpapers": [
+  {
+   "file": "01-three-strikes",
+   "by": "Rollingskyphoto",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/3_Near-Simultaneous_Lightning_Strikes_on_One_Exposure.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:3_Near-Simultaneous_Lightning_Strikes_on_One_Exposure.jpg",
+   "title": "THREE STRIKES",
+   "line1": "Three lightning strikes caught in one 6-second exposure, coming down almost at once.",
+   "line2": "24 September 2023  ·  Photo: Rollingskyphoto  ·  CC BY 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "02-kitt-peak-1972",
+   "by": "Gary Ladd / KPNO / NOIRLab / NSF / AURA",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/A_Vintage_Lightning_Storm_at_Kitt_Peak.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Vintage_Lightning_Storm_at_Kitt_Peak.jpg",
+   "title": "KITT PEAK, 4 JUNE 1972",
+   "line1": "A violent summer storm over Kitt Peak National Observatory, Arizona, shot on film by Gary Ladd, a technical assistant there, on his night off.",
+   "line2": "4 June 1972  ·  Photo: Gary Ladd / KPNO / NOIRLab / NSF / AURA  ·  CC BY 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": 0.75
+  },
+  {
+   "file": "03-port-la-nouvelle",
+   "by": "Maxime Raynal",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg",
+   "title": "PORT-LA-NOUVELLE",
+   "line1": "Lightning over the port and its lighthouses during an overnight storm, Aude, southern France.",
+   "line2": "28 November 2014  ·  Photo: Maxime Raynal (Flickr)  ·  CC BY 2.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "04-cloud-to-cloud",
+   "by": "Thennicke",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/CC_lightning%2C_Albury_NSW.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:CC_lightning,_Albury_NSW.JPG",
+   "title": "CLOUD TO CLOUD",
+   "line1": "Lightning branching between clouds, never touching the ground. Albury, New South Wales, Australia.",
+   "line2": "9 September 2014  ·  Photo: Thennicke  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": 0.75
+  },
+  {
+   "file": "05-maunakea",
+   "by": "International Gemini Observatory / NOIRLab / NSF / AURA / J. Chu",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Lightning_Above_the_Mountaintop_%28iotw2433a%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Lightning_Above_the_Mountaintop_(iotw2433a).jpg",
+   "title": "MAUNAKEA",
+   "line1": "Lightning lights the clouds below the stars over Maunakea, Hawaii, home of the Gemini North telescope.",
+   "line2": "Published 14 August 2024  ·  Photo: International Gemini Observatory / NOIRLab / NSF / AURA / J. Chu  ·  CC BY 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "06-budapest",
+   "by": "Jules Verne Times Two",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lightning_strike_over_the_Danube_%28Budapest%2C_Hungary%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Lightning_strike_over_the_Danube_(Budapest,_Hungary).jpg",
+   "title": "BUDAPEST",
+   "line1": "A lightning strike over the Danube and the city's bridges, Hungary.",
+   "line2": "24 August 2018  ·  Photo: Jules Verne Times Two  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": 0.75
+  },
+  {
+   "file": "07-arsenal-tower",
+   "by": "Linie29",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Funkturm_Arsenal_Blitze.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Funkturm_Arsenal_Blitze.jpg",
+   "title": "ARSENAL TOWER, VIENNA",
+   "line1": "Lightning beside the 150-metre radio tower of the Arsenal, Vienna, Austria (Commons featured picture).",
+   "line2": "10 August 2017  ·  Photo: Linie29  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": 0.75
+  },
+  {
+   "file": "08-goldendale",
+   "by": "The Modern Polymath",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Cloud-to-ground_lightning_strike.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cloud-to-ground_lightning_strike.jpg",
+   "title": "GOLDENDALE",
+   "line1": "An intense cloud-to-ground strike near Goldendale, Washington, by the Columbia River Gorge.",
+   "line2": "9 July 2023  ·  Photo: The Modern Polymath  ·  CC BY 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": 0.75
+  },
+  {
+   "file": "09-shelf-cloud-croatia",
+   "by": "Šime Barešić",
+   "licence": "CC0-1.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Shelf_cloud_-_Flickr_-_otrow_photography.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Shelf_cloud_-_Flickr_-_otrow_photography.jpg",
+   "title": "SHELF CLOUD",
+   "line1": "The low front edge of a thunderstorm rolling in over the sea, Croatia. Shelf clouds form along a storm's gust front.",
+   "line2": "25 September 2020  ·  Photo: Šime Barešić (Flickr)  ·  CC0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": 0.75
+  },
+  {
+   "file": "10-shelf-cloud-poland",
+   "by": "Ikethecatto",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Shelf_cloud_in_central_poland_on_27-8-23.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Shelf_cloud_in_central_poland_on_27-8-23.jpg",
+   "title": "SHELF CLOUD AT NIGHT",
+   "line1": "A shelf cloud lit from inside by lightning, central Poland.",
+   "line2": "27 August 2023  ·  Photo: Ikethecatto  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "11-varbla",
+   "by": "Kristian Pikner",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Riiulpilv_-_Shelf_cloud_%282%29_copy.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Riiulpilv_-_Shelf_cloud_(2)_copy.jpg",
+   "title": "VARBLA",
+   "line1": "A shelf cloud over the fields of Varbla, western Estonia, rain falling behind it.",
+   "line2": "12 August 2017  ·  Photo: Kristian Pikner  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": 0.75
+  },
+  {
+   "file": "12-red-mammatus",
+   "by": "David Zhang",
+   "licence": "CC-BY-SA-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/2013_07_19_Mammatus_clouds_%2822526668374%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:2013_07_19_Mammatus_clouds_(22526668374).jpg",
+   "title": "MAMMATUS AT SUNSET",
+   "line1": "Pouches hanging under a storm cloud, lit red by the setting sun after a summer storm.",
+   "line2": "19 July 2013  ·  Photo: David Zhang (Flickr)  ·  CC BY-SA 2.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": 0.75
+  },
+  {
+   "file": "13-mammatus",
+   "by": "Caglaror",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Mammatus_Clouds_from_Austin%2C_TX%2C_USA.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mammatus_Clouds_from_Austin,_TX,_USA.jpg",
+   "title": "MAMMATUS",
+   "line1": "Mammatus clouds at sunset over Austin, Texas: pouches under a storm cloud's anvil, most often seen with severe thunderstorms.",
+   "line2": "27 May 2023  ·  Photo: Caglaror  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "14-thunderhead-gotland",
+   "by": "Bene Riobó",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Cumulonimbus_en_Gotland.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_en_Gotland.jpg",
+   "title": "THUNDERHEAD",
+   "line1": "A cumulonimbus with its flat anvil top glowing at sunset, off the coast of Östergarn, Gotland, Sweden.",
+   "line2": "18 June 2020  ·  Photo: Bene Riobó  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  }
+ ]
+}

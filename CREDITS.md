@@ -229,6 +229,25 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `6-exposed-cranium-nebula.jpg` | NASA, ESA, CSA, STScI, J. DePasquale (STScI) | CC BY 4.0 | [source](https://esawebb.org/images/weic2605c/) |
 | `7-ic-348.jpg` | ESA/Webb, NASA, CSA, K. Luhman, C. Alves De Oliveira, M. Zamani (ESA/Webb) | CC BY 4.0 | [source](https://esawebb.org/images/weic2619a/) |
 
+## Thunderhead
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-three-strikes.jpg` | Rollingskyphoto | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:3_Near-Simultaneous_Lightning_Strikes_on_One_Exposure.jpg) |
+| `02-kitt-peak-1972.jpg` | Gary Ladd / KPNO / NOIRLab / NSF / AURA | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:A_Vintage_Lightning_Storm_at_Kitt_Peak.jpg) |
+| `03-port-la-nouvelle.jpg` | Maxime Raynal | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg) |
+| `04-cloud-to-cloud.jpg` | Thennicke | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:CC_lightning,_Albury_NSW.JPG) |
+| `05-maunakea.jpg` | International Gemini Observatory / NOIRLab / NSF / AURA / J. Chu | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Lightning_Above_the_Mountaintop_(iotw2433a).jpg) |
+| `06-budapest.jpg` | Jules Verne Times Two | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Lightning_strike_over_the_Danube_(Budapest,_Hungary).jpg) |
+| `07-arsenal-tower.jpg` | Linie29 | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Funkturm_Arsenal_Blitze.jpg) |
+| `08-goldendale.jpg` | The Modern Polymath | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Cloud-to-ground_lightning_strike.jpg) |
+| `09-shelf-cloud-croatia.jpg` | Šime Barešić | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:Shelf_cloud_-_Flickr_-_otrow_photography.jpg) |
+| `10-shelf-cloud-poland.jpg` | Ikethecatto | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Shelf_cloud_in_central_poland_on_27-8-23.jpg) |
+| `11-varbla.jpg` | Kristian Pikner | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Riiulpilv_-_Shelf_cloud_(2)_copy.jpg) |
+| `12-red-mammatus.jpg` | David Zhang | CC BY-SA 2.0 | [source](https://commons.wikimedia.org/wiki/File:2013_07_19_Mammatus_clouds_(22526668374).jpg) |
+| `13-mammatus.jpg` | Caglaror | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Mammatus_Clouds_from_Austin,_TX,_USA.jpg) |
+| `14-thunderhead-gotland.jpg` | Bene Riobó | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Cumulonimbus_en_Gotland.jpg) |
+
 ## Traceroute
 
 | Wallpaper | By | Licence | Source |

@@ -62,13 +62,15 @@ def cut(path, cx, cy, zoom):
     x0 = min(max(cx * w - cw / 2, 0), w - cw)
     y0 = min(max(cy * h - ch / 2, 0), h - ch)
     to_wall = lambda x, y: ((x - x0) * W / cw, (y - y0) * H / ch)
-    f = 1.0
+    fx = fy = 1.0
     if im.format == "JPEG":            # decode at a smaller size straight away when the cut allows it
         k = max(1, int(cw // W))
         im.draft("RGB", (w // k, h // k))
-        f = im.size[0] / w
+        # each side scales on its own: the decoder rounds width and height up separately, and one shared factor
+        # put the box past the bottom edge of a 12101 x 6546 photo
+        fx, fy = im.size[0] / w, im.size[1] / h
     im = im.convert("RGB")
-    box = (x0 * f, y0 * f, (x0 + cw) * f, (y0 + ch) * f)
+    box = (x0 * fx, y0 * fy, (x0 + cw) * fx, (y0 + ch) * fy)
     return im.resize((W, H), Image.LANCZOS, box=box, reducing_gap=3.0), to_wall
 
 

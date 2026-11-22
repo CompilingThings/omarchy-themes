@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Thunderhead: fourteen photos of thunderstorms (lightning at night, shelf clouds, mammatus, a glowing anvil top)
+  from Wikimedia Commons with free licences, among them NOIRLab's 1972 Kitt Peak storm; lightning violet and
+  electric blue.
 - Cold Blood: fourteen close-ups of frogs, lizards, snakes and crocodiles (eyes, heads and scales) from
   Wikimedia Commons with free licences; red-eyed tree frog red and pit viper green.
 - Snow Crystal: twelve of Wilson Bentley's snowflake photomicrographs (The Met, CC0), each round plate cut
@@ -20,6 +23,11 @@ picture or colour a patch).
 - Fairy Ring: twelve photos of mushrooms and other fungi from Wikimedia Commons (fly agarics, glowing mushrooms,
   amethyst deceivers, a latticed stinkhorn and more); fly agaric red and amethyst purple. Adds the CC BY-SA 3.0 and
   CC BY-SA 4.0 licence texts.
+
+### Fixed
+
+- `src/photowall.py`: a very large JPEG decoded at reduced size could put the crop box a fraction of a pixel
+  past the bottom edge and stop the build; width and height now scale on their own.
 
 ## [1.0.0] - 2026-11-18
 

@@ -1,0 +1,47 @@
+mode = "dark"
+
+# Thunderhead: lightning at night and the clouds of big thunderstorms, shelf clouds, mammatus and a glowing anvil
+# top. The near-black of a night storm, pale violet-white text, the violet of a lightning-lit sky as the accent, and
+# the window border fading from that violet into the electric blue of the 1972 Kitt Peak storm. Colours sampled from
+# the theme's own photos.
+
+accent = "#A98BFF"
+selection = "#2A2448"
+muted = "#4E4A66"
+
+background = "#07060D"
+dark_background = "#05040A"
+darker_background = "#030306"
+lighter_background = "#13111F"
+
+foreground = "#E6E4F2"
+dark_foreground = "#8A87A3"
+light_foreground = "#C3C0D9"
+bright_foreground = "#FFFFFF"
+
+# The focused window: lightning violet turning to Kitt Peak blue
+hyprland_active_border = "rgba(a98bffff) rgba(5fa8ffff) 45deg"
+hyprland_inactive_border = "rgba(1c1930cc)"
+
+# red: the red mammatus at sunset
+red = "#F0644E"
+# orange: the sunset mammatus of wallpaper 13
+orange = "#F2A35E"
+# yellow: the glowing anvil off Gotland
+yellow = "#F2D27A"
+# green: the lit radio tower at the Arsenal, Vienna
+green = "#3FE0A0"
+# cyan: the lighthouse light at Port-la-Nouvelle
+cyan = "#6FD8F0"
+# blue: the sky of the 1972 Kitt Peak storm
+blue = "#6E8CFF"
+# magenta: a lightning-lit sky
+magenta = "#C98BF5"
+brown = "#A8805A"
+
+bright_red = "#FF9C8C"
+bright_yellow = "#F8E4A8"
+bright_green = "#9EF0CC"
+bright_cyan = "#A8E9F7"
+bright_blue = "#AEBEFF"
+bright_magenta = "#E0C2FA"
