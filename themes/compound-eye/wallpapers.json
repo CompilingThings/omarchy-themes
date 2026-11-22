@@ -1,0 +1,221 @@
+{
+  "accent": "#7BDC5E",
+  "wallpapers": [
+    {
+      "file": "01-cuckoo-wasp",
+      "by": "USGS Bee Inventory and Monitoring Lab",
+      "licence": "LicenseRef-USGS-Public-Domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Chrysidid_wasp%2C_m%2C_face%2C_Millard_co.%2C_Utah_2020-08-17-14.06.19_ZS_PMax_UDR_%2851141341043%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Chrysidid_wasp,_m,_face,_Millard_co.,_Utah_2020-08-17-14.06.19_ZS_PMax_UDR_(51141341043).jpg",
+      "title": "CUCKOO WASP",
+      "line1": "A chrysidid wasp's armour, metal-bright green. It lays its eggs in the nests of other wasps and bees.",
+      "line2": "10 August 2020  ·  USGS Bee Lab  ·  U.S. public domain",
+      "crop": [
+        0.5,
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "file": "02-european-hornet",
+      "by": "H. Zell",
+      "licence": "CC-BY-SA-3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Vespa_crabro_head_01.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Vespa_crabro_head_01.jpg",
+      "title": "EUROPEAN HORNET",
+      "line1": "Vespa crabro from a meadow at Weingarten, near Karlsruhe, Germany, photographed in a studio.",
+      "line2": "9 June 2012  ·  Photo: H. Zell  ·  CC BY-SA 3.0",
+      "crop": [
+        0.5,
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "file": "03-blue-bottle-fly",
+      "by": "USGS Bee Inventory and Monitoring Lab",
+      "licence": "LicenseRef-USGS-Public-Domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Calliphora_vicina%2C_u%2C_Face%2C_DC_2014-04-24_-17.46.02_ZS_PMax_-_USGS_Bee_Inventory_and_Monitoring_Laboratory.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Calliphora_vicina,_u,_Face,_DC_2014-04-24_-17.46.02_ZS_PMax_-_USGS_Bee_Inventory_and_Monitoring_Laboratory.jpg",
+      "title": "BLUE BOTTLE FLY",
+      "line1": "Calliphora vicina, found near the National Mall in Washington, D.C.: every bump on the eyes is a lens.",
+      "line2": "24 April 2014  ·  USGS Bee Lab  ·  U.S. public domain",
+      "crop": [
+        0.5,
+        0.5,
+        1.0
+      ],
+      "panel": 0.75
+    },
+    {
+      "file": "04-cow-path-tiger-beetle",
+      "by": "Erick Hernandez, USGS Bee Inventory and Monitoring Lab",
+      "licence": "LicenseRef-USGS-Public-Domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Cicindella_purpurea%2C_face%2C_u%2C_Alleghany%2C_MD_2019-10-21-16.42.12_ZS_PMax_UDR_%2849042834518%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Cicindella_purpurea,_face,_u,_Alleghany,_MD_2019-10-21-16.42.12_ZS_PMax_UDR_(49042834518).jpg",
+      "title": "COW PATH TIGER BEETLE",
+      "line1": "Cicindela purpurea from Wills Mountain near Cumberland, Maryland, a small hunter of other insects.",
+      "line2": "26 August 2019  ·  Photo: Erick Hernandez, USGS Bee Lab  ·  U.S. public domain",
+      "crop": [
+        0.5,
+        0.5,
+        1.0
+      ],
+      "panel": 0.75
+    },
+    {
+      "file": "05-ant",
+      "by": "USGS Bee Inventory and Monitoring Lab",
+      "licence": "LicenseRef-USGS-Public-Domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ant%2C-face_2012-07-30-17.18.42-ZS-PMax_%287693184158%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Ant,-face_2012-07-30-17.18.42-ZS-PMax_(7693184158).jpg",
+      "title": "ANT, FOSSIL BUTTE",
+      "line1": "An ant of unknown species from Fossil Butte National Monument, Wyoming.",
+      "line2": "1 August 2012  ·  USGS Bee Lab  ·  U.S. public domain",
+      "crop": [
+        0.5,
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "file": "06-green-sweat-bee",
+      "by": "USGS Bee Inventory and Monitoring Lab",
+      "licence": "LicenseRef-USGS-Public-Domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Agapostemon_splendens%2C_f%2C_head%2C_anne_arundel_county%2C_md_2014-07-09-13.37.57_ZS_PMax_%2814432919367%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Agapostemon_splendens,_f,_head,_anne_arundel_county,_md_2014-07-09-13.37.57_ZS_PMax_(14432919367).jpg",
+      "title": "GREEN SWEAT BEE",
+      "line1": "Agapostemon splendens, a bee of deep sandy soils, from a sand pit in Anne Arundel County, Maryland.",
+      "line2": "9 July 2014  ·  USGS Bee Lab  ·  U.S. public domain",
+      "crop": [
+        0.5,
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "file": "07-blue-eyed-cicada",
+      "by": "USGS Bee Inventory and Monitoring Lab",
+      "licence": "LicenseRef-USGS-Public-Domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Blue_eyed_Cicada%2C_face_2021-06-02-12.32.22_ZS_PMax_UDR_-_Flickr_-_Sam_Droege.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Blue_eyed_Cicada,_face_2021-06-02-12.32.22_ZS_PMax_UDR_-_Flickr_-_Sam_Droege.jpg",
+      "title": "BLUE-EYED CICADA",
+      "line1": "One of the extremely rare cicadas born with blue eyes, found in 2021.",
+      "line2": "2 June 2021  ·  USGS Bee Lab  ·  U.S. public domain",
+      "crop": [
+        0.5,
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "file": "08-carpenter-bee",
+      "by": "USGS Bee Inventory and Monitoring Lab",
+      "licence": "LicenseRef-USGS-Public-Domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Xylocopa_virginica_male_face.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Xylocopa_virginica_male_face.jpg",
+      "title": "EASTERN CARPENTER BEE",
+      "line1": "A male Xylocopa virginica: the big eyes help him guard his nesting ground against other males.",
+      "line2": "18 May 2015  ·  USGS Bee Lab  ·  U.S. public domain",
+      "crop": [
+        0.5,
+        0.55,
+        1.0
+      ]
+    },
+    {
+      "file": "09-cuckoo-wasp-eye",
+      "by": "USGS Bee Inventory and Monitoring Lab",
+      "licence": "LicenseRef-USGS-Public-Domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Chrysidid%2C_20x_test%2C_somerset_county%2C_md_face_2016-07-13-14.41_%2828263332601%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Chrysidid,_20x_test,_somerset_county,_md_face_2016-07-13-14.41_(28263332601).jpg",
+      "title": "CUCKOO WASP EYE",
+      "line1": "A chrysidid wasp from Somerset County, Maryland, seen through a 20x microscope lens.",
+      "line2": "15 July 2016  ·  USGS Bee Lab  ·  U.S. public domain",
+      "crop": [
+        0.5,
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "file": "10-centris-bee",
+      "by": "Elizabeth Panner, USGS Bee Inventory and Monitoring Lab",
+      "licence": "LicenseRef-USGS-Public-Domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Centris_flavifrons%2C_f%2C_Costa_Rica%2C_face_2020-10-12-18.32.32_ZS_PMax_UDR_%2851850438091%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Centris_flavifrons,_f,_Costa_Rica,_face_2020-10-12-18.32.32_ZS_PMax_UDR_(51850438091).jpg",
+      "title": "CENTRIS FLAVIFRONS",
+      "line1": "A female bee collected in Costa Rica.",
+      "line2": "12 October 2020  ·  Photo: Elizabeth Panner, USGS Bee Lab  ·  U.S. public domain",
+      "crop": [
+        0.5,
+        0.5,
+        1.0
+      ],
+      "panel": 0.75
+    },
+    {
+      "file": "11-campsomeris-wasp",
+      "by": "USGS Bee Inventory and Monitoring Lab",
+      "licence": "LicenseRef-USGS-Public-Domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Cool_Wasp%2C_face%2C_u%2C_Sierra_De_Baoruco%2C_Dominican_Republic_2019-10-21-16.29.28_ZS_PMax_UDR_%2849457769986%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Cool_Wasp,_face,_u,_Sierra_De_Baoruco,_Dominican_Republic_2019-10-21-16.29.28_ZS_PMax_UDR_(49457769986).jpg",
+      "title": "SCOLIID WASP",
+      "line1": "From the Sierra de Baoruco, Dominican Republic; the lab places it in the Campsomeris group of scarab-grub hunters.",
+      "line2": "26 August 2019  ·  USGS Bee Lab  ·  U.S. public domain",
+      "crop": [
+        0.5,
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "file": "12-taiwan-bumble-bee",
+      "by": "USGS Bee Inventory and Monitoring Lab",
+      "licence": "LicenseRef-USGS-Public-Domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bombus_eximias%2C_f%2C_tawain%2C_face_2014-08-10-09.44.49_ZS_PMax_%2815155452565%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bombus_eximias,_f,_tawain,_face_2014-08-10-09.44.49_ZS_PMax_(15155452565).jpg",
+      "title": "BUMBLE BEE, TAIWAN",
+      "line1": "Bombus eximias, a bumble bee with a faintly fluorescent orange coat.",
+      "line2": "5 September 2014  ·  USGS Bee Lab  ·  U.S. public domain",
+      "crop": [
+        0.5,
+        0.5,
+        1.0
+      ],
+      "panel": 0.75
+    },
+    {
+      "file": "13-great-green-bush-cricket",
+      "by": "Didier Descouens",
+      "licence": "CC-BY-SA-4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Grande_sauterelle_verte_-_Portrait.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Grande_sauterelle_verte_-_Portrait.jpg",
+      "title": "GREAT GREEN BUSH-CRICKET",
+      "line1": "A portrait of Tettigonia viridissima.",
+      "line2": "1 August 2010  ·  Photo: Didier Descouens  ·  CC BY-SA 4.0",
+      "crop": [
+        0.5,
+        0.3,
+        1.0
+      ],
+      "panel": 0.75
+    },
+    {
+      "file": "14-badlands-sweat-bee",
+      "by": "Wayne Boo, USGS Bee Inventory and Monitoring Lab",
+      "licence": "LicenseRef-USGS-Public-Domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Agapostemon_coloradinus%2C_F%2C_face%2C_Shannon_Co.%2C_S._Dakota_2014-01-09-14.31.48_ZS_PMax_%2812229924934%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Agapostemon_coloradinus,_F,_face,_Shannon_Co.,_S._Dakota_2014-01-09-14.31.48_ZS_PMax_(12229924934).jpg",
+      "title": "GREEN SWEAT BEE, BADLANDS",
+      "line1": "Agapostemon coloradinus, bright green with blue overtones, from Badlands National Park, South Dakota.",
+      "line2": "28 January 2014  ·  Photo: Wayne Boo, USGS Bee Lab  ·  U.S. public domain",
+      "crop": [
+        0.5,
+        0.5,
+        1.0
+      ],
+      "panel": 0.75
+    }
+  ]
+}

@@ -69,6 +69,102 @@ SPDX-FileCopyrightText = "2026 CompilingThings"
 SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
+path = "themes/compound-eye/backgrounds/01-cuckoo-wasp.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "USGS Bee Inventory and Monitoring Lab"
+SPDX-License-Identifier = "LicenseRef-USGS-Public-Domain"
+
+[[annotations]]
+path = "themes/compound-eye/backgrounds/02-european-hornet.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "H. Zell"
+SPDX-License-Identifier = "CC-BY-SA-3.0"
+
+[[annotations]]
+path = "themes/compound-eye/backgrounds/03-blue-bottle-fly.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "USGS Bee Inventory and Monitoring Lab"
+SPDX-License-Identifier = "LicenseRef-USGS-Public-Domain"
+
+[[annotations]]
+path = "themes/compound-eye/backgrounds/04-cow-path-tiger-beetle.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Erick Hernandez, USGS Bee Inventory and Monitoring Lab"
+SPDX-License-Identifier = "LicenseRef-USGS-Public-Domain"
+
+[[annotations]]
+path = "themes/compound-eye/backgrounds/05-ant.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "USGS Bee Inventory and Monitoring Lab"
+SPDX-License-Identifier = "LicenseRef-USGS-Public-Domain"
+
+[[annotations]]
+path = "themes/compound-eye/backgrounds/06-green-sweat-bee.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "USGS Bee Inventory and Monitoring Lab"
+SPDX-License-Identifier = "LicenseRef-USGS-Public-Domain"
+
+[[annotations]]
+path = "themes/compound-eye/backgrounds/07-blue-eyed-cicada.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "USGS Bee Inventory and Monitoring Lab"
+SPDX-License-Identifier = "LicenseRef-USGS-Public-Domain"
+
+[[annotations]]
+path = "themes/compound-eye/backgrounds/08-carpenter-bee.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "USGS Bee Inventory and Monitoring Lab"
+SPDX-License-Identifier = "LicenseRef-USGS-Public-Domain"
+
+[[annotations]]
+path = "themes/compound-eye/backgrounds/09-cuckoo-wasp-eye.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "USGS Bee Inventory and Monitoring Lab"
+SPDX-License-Identifier = "LicenseRef-USGS-Public-Domain"
+
+[[annotations]]
+path = "themes/compound-eye/backgrounds/10-centris-bee.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Elizabeth Panner, USGS Bee Inventory and Monitoring Lab"
+SPDX-License-Identifier = "LicenseRef-USGS-Public-Domain"
+
+[[annotations]]
+path = "themes/compound-eye/backgrounds/11-campsomeris-wasp.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "USGS Bee Inventory and Monitoring Lab"
+SPDX-License-Identifier = "LicenseRef-USGS-Public-Domain"
+
+[[annotations]]
+path = "themes/compound-eye/backgrounds/12-taiwan-bumble-bee.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "USGS Bee Inventory and Monitoring Lab"
+SPDX-License-Identifier = "LicenseRef-USGS-Public-Domain"
+
+[[annotations]]
+path = "themes/compound-eye/backgrounds/13-great-green-bush-cricket.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Didier Descouens"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/compound-eye/backgrounds/14-badlands-sweat-bee.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Wayne Boo, USGS Bee Inventory and Monitoring Lab"
+SPDX-License-Identifier = "LicenseRef-USGS-Public-Domain"
+
+[[annotations]]
+path = "themes/compound-eye/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "USGS Bee Inventory and Monitoring Lab"
+SPDX-License-Identifier = "LicenseRef-USGS-Public-Domain"
+
+[[annotations]]
+path = "docs/images/compound-eye.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "USGS Bee Inventory and Monitoring Lab"
+SPDX-License-Identifier = "LicenseRef-USGS-Public-Domain"
+
+[[annotations]]
 path = "themes/deep-field/backgrounds/1-cosmic-cliffs.jpg"
 precedence = "override"
 SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI"
@@ -737,5 +833,5 @@ SPDX-License-Identifier = "LicenseRef-NASA-Media"
 [[annotations]]
 path = "docs/images/gallery.jpg"
 precedence = "override"
-SPDX-FileCopyrightText = ["2026 CompilingThings", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Johannes Groll (Unsplash)", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "U.S. Forest Service, Alaska Region"]
-SPDX-License-Identifier = "CC-BY-2.0 AND CC-BY-4.0 AND CC-BY-SA-3.0-IGO AND CC0-1.0 AND LicenseRef-NASA-Media"
+SPDX-FileCopyrightText = ["2026 CompilingThings", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Johannes Groll (Unsplash)", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "U.S. Forest Service, Alaska Region", "USGS Bee Inventory and Monitoring Lab"]
+SPDX-License-Identifier = "CC-BY-2.0 AND CC-BY-4.0 AND CC-BY-SA-3.0-IGO AND CC0-1.0 AND LicenseRef-NASA-Media AND LicenseRef-USGS-Public-Domain"

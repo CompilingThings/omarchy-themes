@@ -20,11 +20,15 @@ LICENCE_NAMES = {
     "CC-BY-2.0": ("CC BY 2.0", "https://creativecommons.org/licenses/by/2.0/"),
     "CC-BY-4.0": ("CC BY 4.0", "https://creativecommons.org/licenses/by/4.0/"),
     "CC-BY-SA-2.0": ("CC BY-SA 2.0", "https://creativecommons.org/licenses/by-sa/2.0/"),
+    "CC-BY-SA-3.0": ("CC BY-SA 3.0", "https://creativecommons.org/licenses/by-sa/3.0/"),
+    "CC-BY-SA-4.0": ("CC BY-SA 4.0", "https://creativecommons.org/licenses/by-sa/4.0/"),
     "CC-BY-SA-3.0-IGO": ("CC BY-SA 3.0 IGO", "https://creativecommons.org/licenses/by-sa/3.0/igo/"),
     "LicenseRef-CC-BY-SA-3.0-NO": ("CC BY-SA 3.0 NO", "https://creativecommons.org/licenses/by-sa/3.0/no/"),
     "CC-BY-NC-SA-2.0": ("CC BY-NC-SA 2.0 (non-commercial)", "https://creativecommons.org/licenses/by-nc-sa/2.0/"),
     "CC-BY-NC-SA-3.0": ("CC BY-NC-SA 3.0 (non-commercial)", "https://creativecommons.org/licenses/by-nc-sa/3.0/"),
     "LicenseRef-NASA-Media": ("NASA media guidelines", "https://www.nasa.gov/nasa-brand-center/images-and-media/"),
+    "LicenseRef-USGS-Public-Domain": ("USGS, U.S. public domain",
+                                      "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits"),
 }
 # Files a theme took unchanged from Omarchy's own themes (MIT); see the theme's README.
 FROM_OMARCHY = {"seahorse-valley": ["neovim.lua", "vscode.json", "icons.theme"]}

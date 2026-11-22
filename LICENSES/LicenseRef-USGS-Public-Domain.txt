@@ -1,0 +1,14 @@
+U.S. Geological Survey: Copyrights and Credits
+https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits (read 22 November 2026)
+
+Pictures marked LicenseRef-USGS-Public-Domain in this repository were made by the U.S. Geological Survey (USGS), most
+of them by its Bee Inventory and Monitoring Lab. The page says that "USGS-authored or produced data and information
+are considered to be in the U.S. Public Domain", and asks that "proper credit be given", for example
+"Credit: U.S. Geological Survey" or "U.S. Geological Survey/photo by Jane Doe (if the photographer/artist is known)".
+Each picture's credit is printed on the wallpaper and listed in CREDITS.md and REUSE.toml.
+
+The same page also says that "not all information, illustrations, or photographs on our site are" in the public
+domain: material used "with permission from the copyright holder" is "generally marked as being copyrighted". Every
+picture used here is marked on its Wikimedia Commons page as a work of the USGS (template PD-USGov-USGS).
+
+Copyright law outside the United States may differ.

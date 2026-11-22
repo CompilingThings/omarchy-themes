@@ -13,12 +13,13 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 - `CC-BY-NC-SA-2.0`: [CC BY-NC-SA 2.0 (non-commercial)](https://creativecommons.org/licenses/by-nc-sa/2.0/), full text in [LICENSES/CC-BY-NC-SA-2.0.txt](LICENSES/CC-BY-NC-SA-2.0.txt)
 - `CC-BY-NC-SA-3.0`: [CC BY-NC-SA 3.0 (non-commercial)](https://creativecommons.org/licenses/by-nc-sa/3.0/), full text in [LICENSES/CC-BY-NC-SA-3.0.txt](LICENSES/CC-BY-NC-SA-3.0.txt)
 - `CC-BY-SA-2.0`: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), full text in [LICENSES/CC-BY-SA-2.0.txt](LICENSES/CC-BY-SA-2.0.txt)
-- `CC-BY-SA-3.0`: CC-BY-SA-3.0, full text in [LICENSES/CC-BY-SA-3.0.txt](LICENSES/CC-BY-SA-3.0.txt)
+- `CC-BY-SA-3.0`: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), full text in [LICENSES/CC-BY-SA-3.0.txt](LICENSES/CC-BY-SA-3.0.txt)
 - `CC-BY-SA-3.0-IGO`: [CC BY-SA 3.0 IGO](https://creativecommons.org/licenses/by-sa/3.0/igo/), full text in [LICENSES/CC-BY-SA-3.0-IGO.txt](LICENSES/CC-BY-SA-3.0-IGO.txt)
-- `CC-BY-SA-4.0`: CC-BY-SA-4.0, full text in [LICENSES/CC-BY-SA-4.0.txt](LICENSES/CC-BY-SA-4.0.txt)
+- `CC-BY-SA-4.0`: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), full text in [LICENSES/CC-BY-SA-4.0.txt](LICENSES/CC-BY-SA-4.0.txt)
 - `CC0-1.0`: [CC0 1.0 (public domain)](https://creativecommons.org/publicdomain/zero/1.0/), full text in [LICENSES/CC0-1.0.txt](LICENSES/CC0-1.0.txt)
 - `LicenseRef-CC-BY-SA-3.0-NO`: [CC BY-SA 3.0 NO](https://creativecommons.org/licenses/by-sa/3.0/no/), full text in [LICENSES/LicenseRef-CC-BY-SA-3.0-NO.txt](LICENSES/LicenseRef-CC-BY-SA-3.0-NO.txt)
 - `LicenseRef-NASA-Media`: [NASA media guidelines](https://www.nasa.gov/nasa-brand-center/images-and-media/), full text in [LICENSES/LicenseRef-NASA-Media.txt](LICENSES/LicenseRef-NASA-Media.txt)
+- `LicenseRef-USGS-Public-Domain`: [USGS, U.S. public domain](https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits), full text in [LICENSES/LicenseRef-USGS-Public-Domain.txt](LICENSES/LicenseRef-USGS-Public-Domain.txt)
 - `MIT`: MIT, full text in [LICENSES/MIT.txt](LICENSES/MIT.txt)
 
 ## Boardroom
@@ -32,6 +33,25 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `5-keyboard-plate-v1.png` | CompilingThings | CC BY 4.0 | made with `src/boardroom/build` |
 | `6-antenna-v1.png` | CompilingThings | CC BY 4.0 | made with `src/boardroom/build` |
 | `7-screen-v1.png` | CompilingThings | CC BY 4.0 | made with `src/boardroom/build` |
+
+## Compound Eye
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-cuckoo-wasp.jpg` | USGS Bee Inventory and Monitoring Lab | USGS, U.S. public domain | [source](https://commons.wikimedia.org/wiki/File:Chrysidid_wasp,_m,_face,_Millard_co.,_Utah_2020-08-17-14.06.19_ZS_PMax_UDR_(51141341043).jpg) |
+| `02-european-hornet.jpg` | H. Zell | CC BY-SA 3.0 | [source](https://commons.wikimedia.org/wiki/File:Vespa_crabro_head_01.jpg) |
+| `03-blue-bottle-fly.jpg` | USGS Bee Inventory and Monitoring Lab | USGS, U.S. public domain | [source](https://commons.wikimedia.org/wiki/File:Calliphora_vicina,_u,_Face,_DC_2014-04-24_-17.46.02_ZS_PMax_-_USGS_Bee_Inventory_and_Monitoring_Laboratory.jpg) |
+| `04-cow-path-tiger-beetle.jpg` | Erick Hernandez, USGS Bee Inventory and Monitoring Lab | USGS, U.S. public domain | [source](https://commons.wikimedia.org/wiki/File:Cicindella_purpurea,_face,_u,_Alleghany,_MD_2019-10-21-16.42.12_ZS_PMax_UDR_(49042834518).jpg) |
+| `05-ant.jpg` | USGS Bee Inventory and Monitoring Lab | USGS, U.S. public domain | [source](https://commons.wikimedia.org/wiki/File:Ant,-face_2012-07-30-17.18.42-ZS-PMax_(7693184158).jpg) |
+| `06-green-sweat-bee.jpg` | USGS Bee Inventory and Monitoring Lab | USGS, U.S. public domain | [source](https://commons.wikimedia.org/wiki/File:Agapostemon_splendens,_f,_head,_anne_arundel_county,_md_2014-07-09-13.37.57_ZS_PMax_(14432919367).jpg) |
+| `07-blue-eyed-cicada.jpg` | USGS Bee Inventory and Monitoring Lab | USGS, U.S. public domain | [source](https://commons.wikimedia.org/wiki/File:Blue_eyed_Cicada,_face_2021-06-02-12.32.22_ZS_PMax_UDR_-_Flickr_-_Sam_Droege.jpg) |
+| `08-carpenter-bee.jpg` | USGS Bee Inventory and Monitoring Lab | USGS, U.S. public domain | [source](https://commons.wikimedia.org/wiki/File:Xylocopa_virginica_male_face.jpg) |
+| `09-cuckoo-wasp-eye.jpg` | USGS Bee Inventory and Monitoring Lab | USGS, U.S. public domain | [source](https://commons.wikimedia.org/wiki/File:Chrysidid,_20x_test,_somerset_county,_md_face_2016-07-13-14.41_(28263332601).jpg) |
+| `10-centris-bee.jpg` | Elizabeth Panner, USGS Bee Inventory and Monitoring Lab | USGS, U.S. public domain | [source](https://commons.wikimedia.org/wiki/File:Centris_flavifrons,_f,_Costa_Rica,_face_2020-10-12-18.32.32_ZS_PMax_UDR_(51850438091).jpg) |
+| `11-campsomeris-wasp.jpg` | USGS Bee Inventory and Monitoring Lab | USGS, U.S. public domain | [source](https://commons.wikimedia.org/wiki/File:Cool_Wasp,_face,_u,_Sierra_De_Baoruco,_Dominican_Republic_2019-10-21-16.29.28_ZS_PMax_UDR_(49457769986).jpg) |
+| `12-taiwan-bumble-bee.jpg` | USGS Bee Inventory and Monitoring Lab | USGS, U.S. public domain | [source](https://commons.wikimedia.org/wiki/File:Bombus_eximias,_f,_tawain,_face_2014-08-10-09.44.49_ZS_PMax_(15155452565).jpg) |
+| `13-great-green-bush-cricket.jpg` | Didier Descouens | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Grande_sauterelle_verte_-_Portrait.jpg) |
+| `14-badlands-sweat-bee.jpg` | Wayne Boo, USGS Bee Inventory and Monitoring Lab | USGS, U.S. public domain | [source](https://commons.wikimedia.org/wiki/File:Agapostemon_coloradinus,_F,_face,_Shannon_Co.,_S._Dakota_2014-01-09-14.31.48_ZS_PMax_(12229924934).jpg) |
 
 ## Deep Field
 
@@ -51,17 +71,17 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | Wallpaper | By | Licence | Source |
 |---|---|---|---|
 | `01-fly-agarics.jpg` | U.S. Forest Service, Alaska Region | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Amanita_muscaria_mushrooms.jpg) |
-| `02-glowing-mushrooms-western-ghats.jpg` | Yathumon M A | CC-BY-SA-4.0 | [source](https://commons.wikimedia.org/wiki/File:Filoboletus_manipularis_20260620_190044_9001_D500_Yathumon_M_A.jpg) |
+| `02-glowing-mushrooms-western-ghats.jpg` | Yathumon M A | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Filoboletus_manipularis_20260620_190044_9001_D500_Yathumon_M_A.jpg) |
 | `03-amethyst-deceivers.jpg` | Tatiana Bulyonkova | CC BY-SA 2.0 | [source](https://commons.wikimedia.org/wiki/File:Laccaria_amethystina_(8122143392).jpg) |
-| `04-latticed-stinkhorn.jpg` | Didier Descouens | CC-BY-SA-4.0 | [source](https://commons.wikimedia.org/wiki/File:(MHNT)_Clathrus_ruber.jpg) |
-| `05-golden-jelly-fungus.jpg` | Reinhold Möller (Ermell) | CC-BY-SA-4.0 | [source](https://commons.wikimedia.org/wiki/File:Goldgelber_Zitterling-Tremella_mesenterica_stack32_-20191227-RM-152807.jpg) |
+| `04-latticed-stinkhorn.jpg` | Didier Descouens | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:(MHNT)_Clathrus_ruber.jpg) |
+| `05-golden-jelly-fungus.jpg` | Reinhold Möller (Ermell) | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Goldgelber_Zitterling-Tremella_mesenterica_stack32_-20191227-RM-152807.jpg) |
 | `06-fly-agarics-new-zealand.jpg` | Bernard Spragg | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:Fly_Agaric.(Amanita_muscaria)_(48201673922).jpg) |
-| `07-mycena-clarkeana.jpg` | karode13 (Mushroom Observer) | CC-BY-SA-3.0 | [source](https://commons.wikimedia.org/wiki/File:Mycena_clarkeana_533139.jpg) |
-| `08-glowing-mushrooms-atlantic-forest.jpg` | RafaelMenegucci | CC-BY-SA-4.0 | [source](https://commons.wikimedia.org/wiki/File:Cogumelos_bioluminescentes.jpg) |
-| `09-mushrooms-on-a-stump.jpg` | Timothy A. Gonsalves (Tagooty) | CC-BY-SA-4.0 | [source](https://commons.wikimedia.org/wiki/File:Cluster_Mushrooms_Moss_Silver_Oak_Stump_Ooty_Sep26_A7CR_14125-183_zsp.jpg) |
-| `10-scarlet-club-fungus.jpg` | JJ Harrison | CC-BY-SA-4.0 | [source](https://commons.wikimedia.org/wiki/File:Clavulinopsis_sulcata_-_Lane_Cove_River.jpg) |
-| `11-yellow-spine-fungus.jpg` | Casey Helton | CC-BY-SA-4.0 | [source](https://commons.wikimedia.org/wiki/File:Mucronella_flava_-_18_images_-_Tillamook,_Oregon.jpg) |
-| `12-frosted-mushrooms.jpg` | Reinhold Möller (Ermell) | CC-BY-SA-4.0 | [source](https://commons.wikimedia.org/wiki/File:Agaricales-20191229-RM-101505.jpg) |
+| `07-mycena-clarkeana.jpg` | karode13 (Mushroom Observer) | CC BY-SA 3.0 | [source](https://commons.wikimedia.org/wiki/File:Mycena_clarkeana_533139.jpg) |
+| `08-glowing-mushrooms-atlantic-forest.jpg` | RafaelMenegucci | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Cogumelos_bioluminescentes.jpg) |
+| `09-mushrooms-on-a-stump.jpg` | Timothy A. Gonsalves (Tagooty) | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Cluster_Mushrooms_Moss_Silver_Oak_Stump_Ooty_Sep26_A7CR_14125-183_zsp.jpg) |
+| `10-scarlet-club-fungus.jpg` | JJ Harrison | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Clavulinopsis_sulcata_-_Lane_Cove_River.jpg) |
+| `11-yellow-spine-fungus.jpg` | Casey Helton | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Mucronella_flava_-_18_images_-_Tillamook,_Oregon.jpg) |
+| `12-frosted-mushrooms.jpg` | Reinhold Möller (Ermell) | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Agaricales-20191229-RM-101505.jpg) |
 
 ## Grand Tour
 

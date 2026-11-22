@@ -1,0 +1,47 @@
+mode = "dark"
+
+# Compound Eye: insects photographed so close that every hair, lens and dimple of their armour shows. Black like
+# the backgrounds of the USGS bee lab's pictures, pale text, the metallic green of a cuckoo wasp as the accent, and the
+# window border shifting from that green into the blue of the same wasp's iridescent shell. Colours sampled from the
+# theme's own photos.
+
+accent = "#7BDC5E"
+selection = "#1E3A1A"
+muted = "#4A5048"
+
+background = "#07080A"
+dark_background = "#050607"
+darker_background = "#030404"
+lighter_background = "#121518"
+
+foreground = "#ECEEE6"
+dark_foreground = "#868C82"
+light_foreground = "#C6CCC0"
+bright_foreground = "#FFFFFF"
+
+# The focused window: cuckoo wasp green turning to its iridescent blue
+hyprland_active_border = "rgba(7bdc5eff) rgba(5c8effff) 45deg"
+hyprland_inactive_border = "rgba(1a1e22cc)"
+
+# red: the ant from Fossil Butte
+red = "#F2603E"
+# orange: the European hornet's head
+orange = "#F29A3A"
+# yellow: the hornet's face
+yellow = "#F5CD3D"
+# green: the cuckoo wasp
+green = "#7BDC5E"
+# cyan: the teal of the cuckoo wasp's legs
+cyan = "#4FD8C0"
+# blue: the tiger beetle's blue sheen
+blue = "#6C9BFF"
+# magenta: the cow path tiger beetle's purple
+magenta = "#C78BEA"
+brown = "#B0844F"
+
+bright_red = "#FF9A80"
+bright_yellow = "#F9E08E"
+bright_green = "#B4EE9E"
+bright_cyan = "#9CEBDD"
+bright_blue = "#A9C4FF"
+bright_magenta = "#E0BBF4"

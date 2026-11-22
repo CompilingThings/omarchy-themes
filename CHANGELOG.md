@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Compound Eye: fourteen macro photos of insect faces, twelve from the USGS Bee Inventory and Monitoring Lab (U.S.
+  public domain) and two Commons featured pictures; cuckoo wasp green and iridescent blue. Adds the USGS public
+  domain licence note.
 - Fairy Ring: twelve photos of mushrooms and other fungi from Wikimedia Commons (fly agarics, glowing mushrooms,
   amethyst deceivers, a latticed stinkhorn and more); fly agaric red and amethyst purple. Adds the CC BY-SA 3.0 and
   CC BY-SA 4.0 licence texts.
