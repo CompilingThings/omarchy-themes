@@ -8,6 +8,8 @@ picture or colour a patch).
 
 ### Added
 
+- Deep Sea: twelve close photos of jellyfish and comb jellies lit in dark water and a deep-sea isopod from
+  900 m, all from Wikimedia Commons with free licences; white-spotted jellyfish blue and bluefire purple.
 - Compound Eye: fourteen macro photos of insect faces, twelve from the USGS Bee Inventory and Monitoring Lab (U.S.
   public domain) and two Commons featured pictures; cuckoo wasp green and iridescent blue. Adds the USGS public
   domain licence note.

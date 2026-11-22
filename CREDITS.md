@@ -66,6 +66,23 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `7-horsehead-nebula.jpg` | ESA/Webb, NASA, CSA, K. Misselt (U. Arizona), A. Abergel (IAS/Paris-Saclay, CNRS) | CC BY 4.0 | [source](https://esawebb.org/images/weic2411a/) |
 | `8-ic2163-ngc2207.jpg` | NASA, ESA, CSA, STScI | CC BY 4.0 | [source](https://esawebb.org/images/weic2426a/) |
 
+## Deep Sea
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-warty-comb-jelly.jpg` | Bruno C. Vellutini | CC BY-SA 3.0 | [source](https://commons.wikimedia.org/wiki/File:Comb_jelly.tif) |
+| `02-white-spotted-jellyfish.jpg` | Alexander Svensson | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:White-spotted_Jellyfish_(39878698384).jpg) |
+| `03-golden-jellies.jpg` | Andrey Biksaleev | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE.jpg) |
+| `04-japanese-sea-nettle.jpg` | Paul Harrison | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Japanese_sea_nettle_5106.jpg) |
+| `05-moon-jellyfish.jpg` | W.carter | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Moon_jellyfish_in_R%C3%A5g%C3%A5rdsdal_4.jpg) |
+| `06-deep-sea-isopod.jpg` | Peter Marriott, NIWA | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Brucerolis_brandtae_on_Hikurangi_Margin.jpg) |
+| `07-lions-mane-jellyfish.jpg` | W.carter | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:Lion%27s_mane_jellyfish_in_Gullmarn_fjord_at_S%C3%A4mstad_3.jpg) |
+| `08-white-spotted-bell.jpg` | Johannes Maximilian | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Phyllorhiza_punctata_in_Tiergarten_Sch%C3%B6nbrunn_24_July_2020_JM_(5).jpg) |
+| `09-monterey-jellies.jpg` | Pedro Szekely | CC BY-SA 2.0 | [source](https://commons.wikimedia.org/wiki/File:Jellyfish_(44791540314).jpg) |
+| `10-harp-comb-jelly.jpg` | YockeyT | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:Harp_Comb_Jelly_1.png) |
+| `11-bluefire-jellyfish.jpg` | W.carter | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Sideview_of_contracted_bluefire_jellyfish_in_Brofjorden_at_Sandvik_2.jpg) |
+| `12-moon-jellies-caught.jpg` | W.carter | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Three_moon_jellyfishes_captured_by_a_lion%27s_mane_jellyfish_1.jpg) |
+
 ## Fairy Ring
 
 | Wallpaper | By | Licence | Source |

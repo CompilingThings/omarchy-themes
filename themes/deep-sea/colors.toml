@@ -1,0 +1,47 @@
+mode = "dark"
+
+# Deep Sea: jellyfish and comb jellies lit in dark water, close enough to see every spot, frill and comb row, and one
+# animal brought up from 900 m. The blue-black of deep water, pale blue-white text, the blue glow of the white-spotted
+# jellyfish as the accent, and the window border fading from that blue into the purple of the bluefire jellyfish.
+# Colours sampled from the theme's own photos.
+
+accent = "#4FC8FF"
+selection = "#0F2A44"
+muted = "#3E4C5C"
+
+background = "#04080F"
+dark_background = "#03060B"
+darker_background = "#020408"
+lighter_background = "#0D1420"
+
+foreground = "#E3EDF7"
+dark_foreground = "#7F8C9A"
+light_foreground = "#BCCAD8"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the white-spotted jellyfish's glow turning to bluefire purple
+hyprland_active_border = "rgba(4fc8ffff) rgba(b77bffff) 45deg"
+hyprland_inactive_border = "rgba(141c28cc)"
+
+# red: the Japanese sea nettle
+red = "#F2684A"
+# orange: the golden jellies
+orange = "#F5A33A"
+# yellow: the lion's mane's bell
+yellow = "#F3D04E"
+# green: the comb jelly's rainbow rows
+green = "#62E3A6"
+# cyan: the moon jellyfish
+cyan = "#4FE0D8"
+# blue: the white-spotted jellyfish under blue light
+blue = "#5C9BFF"
+# magenta: the bluefire jellyfish
+magenta = "#C98BF5"
+brown = "#B5814E"
+
+bright_red = "#FF9C85"
+bright_yellow = "#F9E294"
+bright_green = "#A6F2CC"
+bright_cyan = "#9DEFEA"
+bright_blue = "#A8C6FF"
+bright_magenta = "#E3BDFA"
