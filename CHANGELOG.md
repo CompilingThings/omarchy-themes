@@ -10,7 +10,9 @@ picture or colour a patch).
 
 - Glass House: twelve diatoms, single-celled algae in shells of glass, and two foraminifera shells, most of them
   fossils from Oamaru (New Zealand) and the Ural Mountains, from the science photo competitions on Wikimedia Commons;
-  each set whole on its own background, scale bars painted over, dark label panels on the light backgrounds.
+  all on black: the seven photographed on a light background are cut out of it.
+- photowall: `"cutout"` in `fit` cuts a subject out of its plain background (the largest piece, holes filled) and
+  sets it alone on the field colour.
 - Scale Wing: eleven butterfly and moth wings up close, scale by scale (a painted lady, the large blue, the green
   hairstreak, a Patagonian moth with sunflower pollen), from the science photo competitions on Wikimedia Commons;
   blue and orange.

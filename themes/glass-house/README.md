@@ -35,9 +35,11 @@ foraminifera and pollen were listed, 14 were downloaded whole and looked at one 
 the fine detail (checked by eye). Left out: a crowd of Navicula diatoms in polarised light and the algae living on a
 water plant (both soft at full size).
 
-Every wallpaper uses photowall's `fit`: the whole shell, left of the label, on its photo's own background with a
-faded edge. Six photos had a scale bar beside the shell, painted over with that background. On the seven light
-backgrounds the label sits on a neat dark panel (photowall's `panel`) so it stays readable.
+Every wallpaper is on black. Five photos were taken on black already: each is set whole, left of the label, with a
+faded edge (photowall's `fit`). The other seven were taken in transmitted light on a pale grey or white background:
+each shell is cut out of it and set alone on black (photowall's `fit` with `cutout`: everything that differs from the
+background colour, the largest piece with its holes filled, so the see-through middle of a shell stays as it was
+photographed). Six of those had a scale bar beside the shell, painted over first.
 
 ```
 src/build glass-house            # the photos (~80 MB) download once into ~/.cache/omarchy-themes/glass-house
@@ -54,5 +56,5 @@ Every wallpaper carries its photographer and licence on its label; the table abo
 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/): the same, and changed versions must keep the
   same licence. The wallpapers made from these photos are CC BY-SA 4.0 too.
 
-Changes made to every photo: set whole on its own background at 3840 x 2160 with its edges faded into it, scale bars
-painted over, and a label added in the bottom right corner.
+Changes made to every photo: set whole on black at 3840 x 2160 (the five dark ones with their edges faded into it, the
+seven light ones cut out of their background, scale bars painted over), and a label added in the bottom right corner.

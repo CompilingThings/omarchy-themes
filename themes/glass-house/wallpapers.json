@@ -20,9 +20,10 @@
       1,
       1
      ]
-    ]
-   },
-   "panel": true
+    ],
+    "field": "#000000",
+    "cutout": true
+   }
   },
   {
    "file": "02-star-shell",
@@ -73,9 +74,9 @@
      ]
     ],
     "y": 0.53,
-    "feather": 0.03
-   },
-   "panel": true
+    "field": "#000000",
+    "cutout": true
+   }
   },
   {
    "file": "05-spiked-shell",
@@ -124,9 +125,10 @@
       1,
       1
      ]
-    ]
-   },
-   "panel": true
+    ],
+    "field": "#000000",
+    "cutout": true
+   }
   },
   {
    "file": "08-needle",
@@ -147,9 +149,10 @@
       1,
       1
      ]
-    ]
-   },
-   "panel": true
+    ],
+    "field": "#000000",
+    "cutout": true
+   }
   },
   {
    "file": "09-triangle-oamaru",
@@ -170,9 +173,10 @@
       0.92,
       0.33
      ]
-    ]
-   },
-   "panel": true
+    ],
+    "field": "#000000",
+    "cutout": true
+   }
   },
   {
    "file": "10-auliscus",
@@ -193,9 +197,10 @@
       0.96,
       1
      ]
-    ]
-   },
-   "panel": true
+    ],
+    "field": "#000000",
+    "cutout": true
+   }
   },
   {
    "file": "11-bouquet",
@@ -222,9 +227,10 @@
    "line2": "5 February 2015  ·  Photo: Anatoly Mikhaltsov  ·  CC BY-SA 4.0",
    "fit": {
     "h": 0.9,
-    "x": 0.42
-   },
-   "panel": true
+    "x": 0.42,
+    "field": "#000000",
+    "cutout": true
+   }
   }
  ]
 }

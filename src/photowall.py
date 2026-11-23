@@ -30,7 +30,10 @@ wallpapers.json: {"accent": "#rrggbb", "wallpapers": [{"file", "by", "licence", 
          the whole photo) painted in the field colour first, for a scale bar on the plain background. "oval": true
          or [inner, outer] (default 0.98, 1.15, as fractions of the oval that just fits the photo): the fade follows
          an oval instead of the photo's box, for a round slice on a coloured background (Stem Glow's twigs), so no
-         lit box shows round it. "crop" then applies to that 16:9 picture.
+         lit box shows round it. "cutout": true or a number (default 24, the colour distance from the edge colour that
+         counts as subject): the subject is cut out of its plain background (the largest piece, its holes filled, so
+         a see-through glass shell keeps its inside) and set alone on the field, for a light microscope background
+         turned black with "field" (Glass House's diatoms); needs numpy and scipy.
 Writes <backgrounds dir>/<file>.jpg at 3840x2160 and <preview.png> (the first photo, 1280x720).
 """
 import hashlib
@@ -134,21 +137,39 @@ def plate(path, dest):
     return dest
 
 
+def cutout(im, edge, limit):
+    """A soft mask of the subject on a plain background: pixels further than "limit" from the edge colour, found on a
+    copy 1200 pixels across, gaps closed, the largest piece kept with its holes filled, then pulled in by one step and
+    softened so no rim of the old background shows round it."""
+    import numpy as np
+    from scipy import ndimage
+    k = 1200 / max(im.size)
+    small = im.resize((round(im.width * k), round(im.height * k)), Image.LANCZOS)
+    a = np.asarray(small).astype(float)
+    sub = np.abs(a - np.array(edge, float)).max(axis=2) > limit
+    sub = ndimage.binary_closing(sub, iterations=4)
+    lab, n = ndimage.label(sub)
+    if n:
+        sub = lab == np.argmax(np.bincount(lab.ravel())[1:]) + 1
+    sub = ndimage.binary_erosion(ndimage.binary_fill_holes(sub), iterations=1)
+    m = Image.fromarray((sub * 255).astype(np.uint8)).resize(im.size, Image.BILINEAR)
+    return m.filter(ImageFilter.GaussianBlur(max(im.size) * 0.0015))
+
+
 def fit(path, dest, opt):
     """Set the whole photo (or its "box") on a W x H field of its own edge colour; see "fit" at the top."""
     opt = opt if isinstance(opt, dict) else {}
     im = Image.open(path).convert("RGB")
     w, h = im.size
-    if "field" in opt:
-        field = tuple(int(opt["field"][i:i + 2], 16) for i in (1, 3, 5))
-    else:                              # the median of a thin strip all round: the plain background behind the subject
-        b = max(2, round(min(w, h) * 0.02))
-        strip = [im.crop(r) for r in ((0, 0, w, b), (0, h - b, w, h), (0, 0, b, h), (w - b, 0, w, h))]
-        px = sorted(sum((list(s.resize((64, 4) if s.width > s.height else (4, 64)).get_flattened_data()) for s in strip), []),
-                    key=sum)
-        field = px[len(px) // 2]
+    # the median of a thin strip all round: the plain background behind the subject
+    s = max(2, round(min(w, h) * 0.02))
+    strip = [im.crop(r) for r in ((0, 0, w, s), (0, h - s, w, h), (0, 0, s, h), (w - s, 0, w, h))]
+    px = sorted(sum((list(s.resize((64, 4) if s.width > s.height else (4, 64)).get_flattened_data()) for s in strip), []),
+                key=sum)
+    edge = px[len(px) // 2]
+    field = tuple(int(opt["field"][i:i + 2], 16) for i in (1, 3, 5)) if "field" in opt else edge
     for x0, y0, x1, y1 in opt.get("hide", []):     # a scale bar on the plain background: painted over with it
-        ImageDraw.Draw(im).rectangle((round(x0 * w), round(y0 * h), round(x1 * w), round(y1 * h)), fill=field)
+        ImageDraw.Draw(im).rectangle((round(x0 * w), round(y0 * h), round(x1 * w), round(y1 * h)), fill=edge if opt.get("cutout") else field)
     if "box" in opt:
         x0, y0, x1, y1 = opt["box"]
         im = im.crop((round(x0 * w), round(y0 * h), round(x1 * w), round(y1 * h)))
@@ -163,6 +184,8 @@ def fit(path, dest, opt):
         t = (i + 1) / feather
         d.rectangle((i, i, nw - 1 - i, nh - 1 - i), outline=round(255 * t * t * (3 - 2 * t)))
     d.rectangle((feather, feather, nw - 1 - feather, nh - 1 - feather), fill=255)
+    if opt.get("cutout"):              # the subject alone, cut out of its plain background
+        mask = cutout(im, edge, 24 if opt["cutout"] is True else opt["cutout"])
     if opt.get("oval"):                # a round subject on a coloured background: fade along an oval, not the box
         r0, r1 = opt["oval"] if isinstance(opt["oval"], list) else (0.98, 1.15)
         n = 512                        # the oval drawn small and scaled up: smooth, and fast at 4K
