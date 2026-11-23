@@ -3,11 +3,11 @@
 [![check](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml/badge.svg)](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml)
 [![MIT licence](https://img.shields.io/badge/code-MIT-blue)](LICENSE)
 
-**Twenty-five themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
-the northern lights over Norway, mushrooms from forests round the world, insects up close, and under the microscope the animals in a drop of pond water, the same animals glowing in colour on black, crystals and slices of rock in polarised light, the bare silicon inside old chips, plant stems sliced thin and glowing, brains, eyes and cells lit with glowing dyes, and insects glowing under violet light, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
+**Twenty-six themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
+the northern lights over Norway, mushrooms from forests round the world, insects up close, and under the microscope the animals in a drop of pond water, the same animals glowing in colour on black, crystals and slices of rock in polarised light, the bare silicon inside old chips, plant stems sliced thin and glowing, brains, eyes and cells lit with glowing dyes, viruses coloured in from the electron microscope, and insects glowing under violet light, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
 Every wallpaper is 4K and carries a small label saying what it shows and who made it.
 
-![All twenty-five themes](docs/images/gallery.jpg)
+![All twenty-six themes](docs/images/gallery.jpg)
 
 | | Theme | What it is |
 |---|---|---|
@@ -21,6 +21,7 @@ Every wallpaper is 4K and carries a small label saying what it shows and who mad
 | <img src="docs/images/fairy-ring.jpg" alt="Fairy Ring" width="240"> | [**Fairy Ring**](themes/fairy-ring/README.md) | Mushrooms from forests round the world: fly agarics, glowing fungi, amethyst deceivers; fly agaric red and amethyst |
 | <img src="docs/images/grand-tour.jpg" alt="Grand Tour" width="240"> | [**Grand Tour**](themes/grand-tour/README.md) | Saturn, Jupiter, Io, Europa and Pluto from Cassini, Juno and New Horizons; teal |
 | <img src="docs/images/inner-space.jpg" alt="Inner Space" width="240"> | [**Inner Space**](themes/inner-space/README.md) | Brains, eyes and cells glowing under the microscope: a mouse hippocampus, nerve fibres, a fly retina, dividing cells; pink and cyan-green |
+| <img src="docs/images/viral.jpg" alt="Viral" width="240"> | [**Viral**](themes/viral/README.md) | Viruses under the electron microscope, coloured by NIAID: COVID-19, Omicron, Ebola, mpox, bird flu, HIV, rabies, hepatitis B; red and teal |
 | <img src="docs/images/lantern.jpg" alt="Lantern" width="240"> | [**Lantern**](themes/lantern/README.md) | Insect heads glowing on their own under a fluorescence microscope: ants, flies, a moth, a ladybird; eye green and shell gold |
 | <img src="docs/images/low-orbit.jpg" alt="Low Orbit" width="240"> | [**Low Orbit**](themes/low-orbit/README.md) | Earth from the Space Station, plus a turning Earth as a video wallpaper; sea green |
 | <img src="docs/images/neon-pond.jpg" alt="Neon Pond" width="240"> | [**Neon Pond**](themes/neon-pond/README.md) | Water fleas, copepods and midge larvae glowing in colour on black, in dark field and polarised light; cyan and yellow |

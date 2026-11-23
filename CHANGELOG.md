@@ -8,6 +8,8 @@ picture or colour a patch).
 
 ### Added
 
+- Viral: eleven viruses under the electron microscope, coloured by NIAID (the coronavirus behind COVID-19 and
+  Omicron, Ebola, mpox, bird flu, HIV, rabies, hepatitis B), from NIAID's pictures on Wikimedia Commons; red and teal.
 - Inner Space: nine brains, eyes and cells glowing under the microscope (a mouse hippocampus, cortex and whole
   brain slice, nerve fibres, growth cones, a fruit fly retina, a zebrafish eye, human kidney cells, dividing dog
   kidney cells), from the science photo competitions on Wikimedia Commons; pink and cyan-green.

@@ -398,6 +398,22 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `7-the-moon-from-orion.jpg` | NASA | NASA media guidelines | [source](https://images.nasa.gov/details/art002e012183) |
 | `8-orientale-basin.jpg` | NASA | NASA media guidelines | [source](https://images.nasa.gov/details/art002e012090) |
 
+## Viral
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-covid.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Novel_Coronavirus_SARS-CoV-2.jpg) |
+| `02-covid-bridges.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Novel_Coronavirus_SARS-CoV-2_(50835164488).jpg) |
+| `03-ebola.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Ebola_Virus_Particle_(52425481714).jpg) |
+| `04-mpox.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Mpox_Virus_(52863107093).jpg) |
+| `05-bird-flu.jpg` | CDC and NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Influenza_A_Virus_(H5N1_Bird_Flu)_(52761900537).jpg) |
+| `06-omicron.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Novel_Coronavirus_SARS-CoV-2_(Omicron)_(52488229661).jpg) |
+| `07-hiv.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:HIV_Virus_(52538014784).jpg) |
+| `08-rabies.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Rabies_Virus_-_54025744743.jpg) |
+| `09-ebola-loop.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Ebola_Virus_(52466947587).jpg) |
+| `10-mpox-particle.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Mpox_Virus_Particle.jpg) |
+| `11-hepatitis-b.jpg` | CDC and NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Hepatitis_B_Virus_(52451177586).jpg) |
+
 ## Boot screen
 
 Each theme's `unlock.png` is Omarchy's logo (`default/plymouth/logo.png`, MIT, copyright David Heinemeier Hansson (Omarchy)) in the theme's accent colour, as Omarchy's own themes do; `preview-unlock.png` shows it on the boot screen drawn from Omarchy's Plymouth pictures (`tools/unlock.py`).

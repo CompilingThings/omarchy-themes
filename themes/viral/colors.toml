@@ -1,0 +1,49 @@
+mode = "dark"
+
+# Viral: viruses under the electron microscope, coloured by hand by NIAID (the US National Institute of Allergy and
+# Infectious Diseases): the coronavirus behind COVID-19 and its Omicron strain, Ebola, mpox, bird flu, HIV, rabies
+# and hepatitis B. A near-black background with a cold blue cast, pale text, the red of the Ebola virus as the accent,
+# and the window border turning from it into the teal of the Omicron-infected cell. Colours sampled from the theme's
+# own pictures.
+
+accent = "#E8473A"
+selection = "#3A1714"
+muted = "#4F5866"
+
+background = "#06080B"
+dark_background = "#030406"
+darker_background = "#010203"
+lighter_background = "#141A21"
+
+foreground = "#E6EBF0"
+dark_foreground = "#87909B"
+light_foreground = "#C4CCD5"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the red of the Ebola virus turning to the teal of the Omicron-infected cell
+hyprland_active_border = "rgba(e8473aff) rgba(2eb4c4ff) 45deg"
+hyprland_inactive_border = "rgba(151a21cc)"
+
+# red: the single Ebola virus on blue, wallpaper 03
+red = "#E8473A"
+# orange: the glow round the bird flu viruses, wallpaper 05
+orange = "#F08A2A"
+# yellow: the Omicron viruses on the teal cell, wallpaper 06
+yellow = "#F2C23A"
+# green: the cell round the young mpox viruses, wallpaper 04
+green = "#86C440"
+# cyan: the teal cell covered in Omicron, wallpaper 06
+cyan = "#2EB4C4"
+# blue: the background behind the single Ebola virus, wallpaper 03
+blue = "#4F86D8"
+# magenta: the young mpox viruses, wallpaper 04, and the rabies viruses, wallpaper 08
+magenta = "#D2509C"
+# brown: the cell under the coronavirus bridges, wallpaper 02
+brown = "#B8683A"
+
+bright_red = "#F4A9A2"
+bright_yellow = "#F8E3A6"
+bright_green = "#C6E4A2"
+bright_cyan = "#A6E2EA"
+bright_blue = "#B4CCF2"
+bright_magenta = "#ECB0D2"

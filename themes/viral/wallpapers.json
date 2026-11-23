@@ -1,0 +1,129 @@
+{
+ "accent": "#E8473A",
+ "wallpapers": [
+  {
+   "file": "01-covid",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Novel_Coronavirus_SARS-CoV-2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Novel_Coronavirus_SARS-CoV-2.jpg",
+   "title": "SARS-CoV-2",
+   "line1": "The virus that causes COVID-19, from a patient in the US, coming out of cells grown in a lab.",
+   "line2": "12 February 2020  ·  Picture: NIAID  ·  CC BY 2.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "02-covid-bridges",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Novel_Coronavirus_SARS-CoV-2_%2850835164488%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Novel_Coronavirus_SARS-CoV-2_(50835164488).jpg",
+   "title": "SARS-CoV-2",
+   "line1": "Coronavirus (green) riding along thin arms that infected cells reach out to their neighbours.",
+   "line2": "12 January 2021  ·  Picture: NIAID  ·  CC BY 2.0"
+  },
+  {
+   "file": "03-ebola",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Ebola_Virus_Particle_%2852425481714%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ebola_Virus_Particle_(52425481714).jpg",
+   "title": "EBOLA",
+   "line1": "A single Ebola virus, one long thread curled into loops; a scanning electron microscope.",
+   "line2": "13 October 2022  ·  Picture: NIAID  ·  CC BY 2.0"
+  },
+  {
+   "file": "04-mpox",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Mpox_Virus_%2852863107093%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mpox_Virus_(52863107093).jpg",
+   "title": "MPOX",
+   "line1": "Young mpox viruses (pink, with an orange coat) inside an infected cell (green).",
+   "line2": "29 April 2023  ·  Picture: NIAID  ·  CC BY 2.0"
+  },
+  {
+   "file": "05-bird-flu",
+   "by": "CDC and NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Influenza_A_Virus_%28H5N1_Bird_Flu%29_%2852761900537%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Influenza_A_Virus_(H5N1_Bird_Flu)_(52761900537).jpg",
+   "title": "BIRD FLU",
+   "line1": "Three rod-shaped H5N1 bird flu viruses, two pictures put together and coloured by NIAID.",
+   "line2": "19 March 2023  ·  Picture: CDC and NIAID  ·  CC BY 2.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "06-omicron",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Novel_Coronavirus_SARS-CoV-2_%28Omicron%29_%2852488229661%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Novel_Coronavirus_SARS-CoV-2_(Omicron)_(52488229661).jpg",
+   "title": "OMICRON",
+   "line1": "A cell (teal) covered in Omicron coronavirus (yellow), taken from a patient sample.",
+   "line2": "9 November 2022  ·  Picture: NIAID  ·  CC BY 2.0"
+  },
+  {
+   "file": "07-hiv",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/HIV_Virus_%2852538014784%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:HIV_Virus_(52538014784).jpg",
+   "title": "HIV",
+   "line1": "HIV (red and yellow) budding off an infected T cell (blue); the half-circles are viruses still forming.",
+   "line2": "30 November 2022  ·  Picture: NIAID  ·  CC BY 2.0"
+  },
+  {
+   "file": "08-rabies",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Rabies_Virus_-_54025744743.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Rabies_Virus_-_54025744743.jpg",
+   "title": "RABIES",
+   "line1": "Rabies viruses (pink) multiplying inside an infected cell (green).",
+   "line2": "27 September 2024  ·  Picture: NIAID  ·  CC BY 2.0"
+  },
+  {
+   "file": "09-ebola-loop",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ebola_Virus_%2852466947587%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ebola_Virus_(52466947587).jpg",
+   "title": "EBOLA",
+   "line1": "One Ebola virus (gold) in front of a tangle of Ebola viruses (red) budding from cells; two pictures in one.",
+   "line2": "30 October 2022  ·  Picture: NIAID  ·  CC BY 2.0",
+   "fit": {
+    "h": 1.0,
+    "x": 0.4,
+    "field": "#120302",
+    "feather": 0.1
+   }
+  },
+  {
+   "file": "10-mpox-particle",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mpox_Virus_Particle.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mpox_Virus_Particle.jpg",
+   "title": "MPOX",
+   "line1": "A single mpox virus, shaped like a rounded brick, purified from cells grown in a lab.",
+   "line2": "8 July 2024  ·  Picture: NIAID  ·  CC BY 2.0"
+  },
+  {
+   "file": "11-hepatitis-b",
+   "by": "CDC and NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Hepatitis_B_Virus_%2852451177586%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Hepatitis_B_Virus_(52451177586).jpg",
+   "title": "HEPATITIS B",
+   "line1": "Hepatitis B viruses (green), a CDC picture coloured by NIAID in Halloween colours.",
+   "line2": "19 October 2022  ·  Picture: CDC and NIAID  ·  CC BY 2.0"
+  }
+ ]
+}
