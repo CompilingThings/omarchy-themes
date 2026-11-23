@@ -1,0 +1,49 @@
+mode = "dark"
+
+# Inner Space: the inside of brains, eyes and cells, lit with glowing dyes and fluorescent proteins under the
+# microscope: a mouse hippocampus and cortex, nerve fibres and growth cones, a fruit fly's retina, a zebrafish eye,
+# human kidney cells and dividing dog kidney cells. The black the samples glow in as the background, cool pale text,
+# the pink of the growth cones and the fly retina as the accent, and the window border turning from it into the
+# cyan-green of the growth cones' stalks. Colours sampled from the theme's own photos.
+
+accent = "#F05AB4"
+selection = "#33182A"
+muted = "#564B5D"
+
+background = "#070609"
+dark_background = "#040305"
+darker_background = "#020102"
+lighter_background = "#17141C"
+
+foreground = "#ECE6EE"
+dark_foreground = "#8E8794"
+light_foreground = "#CBC4D0"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the pink of a growth cone turning to the cyan-green of its stalk
+hyprland_active_border = "rgba(f05ab4ff) rgba(2fd6a8ff) 45deg"
+hyprland_inactive_border = "rgba(1a161ecc)"
+
+# red: the red of the cells in the middle of dividing, wallpaper 09
+red = "#EE5A52"
+# orange: the orange of the fruit fly retina, wallpaper 04
+orange = "#E89A5E"
+# yellow: the gold of the fly retina's light-sensing cells, wallpaper 04
+yellow = "#EFD57D"
+# green: the green actin web of the kidney cells, wallpaper 07
+green = "#6CCB5A"
+# cyan: the cyan-green stalks of the growth cones, wallpaper 03
+cyan = "#2FD6A8"
+# blue: the glowing nuclei of the mouse brain, wallpaper 08
+blue = "#7C84E8"
+# magenta: the pink-violet tips of the growth cones, wallpaper 03
+magenta = "#D86AE0"
+# brown: the bronze of the nerve fibres, wallpaper 02
+brown = "#C08A4E"
+
+bright_red = "#F6B0AC"
+bright_yellow = "#F7EABE"
+bright_green = "#B8E6AE"
+bright_cyan = "#A8EED8"
+bright_blue = "#C0C4F4"
+bright_magenta = "#EEC0F2"

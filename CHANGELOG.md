@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Inner Space: nine brains, eyes and cells glowing under the microscope (a mouse hippocampus, cortex and whole
+  brain slice, nerve fibres, growth cones, a fruit fly retina, a zebrafish eye, human kidney cells, dividing dog
+  kidney cells), from the science photo competitions on Wikimedia Commons; pink and cyan-green.
 - Stem Glow: eleven plant stems, stalks and a pine needle cut across under the microscope, most glowing under blue
   or ultraviolet light, three in polarised light (butcher's broom, bracken, rye, a rose, banana, red pepper, grape,
   peach, mulberry), by five photographers from Wikimedia Commons; gold and glow green. `src/photowall.py`'s `fit`

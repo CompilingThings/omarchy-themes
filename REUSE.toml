@@ -681,6 +681,72 @@ SPDX-FileCopyrightText = "NASA/JPL/Space Science Institute"
 SPDX-License-Identifier = "LicenseRef-NASA-Media"
 
 [[annotations]]
+path = "themes/inner-space/backgrounds/01-hippocampus.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Luisa Demarchi, Ilaria Bertocchi, Alessandra Oberto"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/inner-space/backgrounds/02-nerve-fibres.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "MikeRoscopy"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/inner-space/backgrounds/03-growth-cones.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Physicl"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/inner-space/backgrounds/04-fly-retina.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Guillaume Thuery"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/inner-space/backgrounds/05-zebrafish-eye.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "IchaJaroslav"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/inner-space/backgrounds/06-brain-cortex.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Mamunur Rashid"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/inner-space/backgrounds/07-kidney-cells.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Iznewton"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/inner-space/backgrounds/08-mouse-brain.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Syed07"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/inner-space/backgrounds/09-cells-dividing.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Ian P Newton & Paul L Appleton"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/inner-space/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "Luisa Demarchi, Ilaria Bertocchi, Alessandra Oberto"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "docs/images/inner-space.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Luisa Demarchi, Ilaria Bertocchi, Alessandra Oberto"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
 path = "themes/lantern/backgrounds/01-moth.jpg"
 precedence = "override"
 SPDX-FileCopyrightText = "Alexander Klepnev"
@@ -1763,5 +1829,5 @@ SPDX-License-Identifier = "LicenseRef-NASA-Media"
 [[annotations]]
 path = "docs/images/gallery.jpg"
 precedence = "override"
-SPDX-FileCopyrightText = ["2026 CompilingThings", "Alexander Klepnev", "Anatoly Mikhaltsov", "Andrei Savitsky", "Brian Gratwicke", "Bruno C. Vellutini", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Johannes Groll (Unsplash)", "MarekMiś", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "Rollingskyphoto", "Strekeisen", "U.S. Forest Service, Alaska Region", "USGS Bee Inventory and Monitoring Lab", "VektorF", "Wilson A. Bentley (The Met)"]
+SPDX-FileCopyrightText = ["2026 CompilingThings", "Alexander Klepnev", "Anatoly Mikhaltsov", "Andrei Savitsky", "Brian Gratwicke", "Bruno C. Vellutini", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Johannes Groll (Unsplash)", "Luisa Demarchi, Ilaria Bertocchi, Alessandra Oberto", "MarekMiś", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "Rollingskyphoto", "Strekeisen", "U.S. Forest Service, Alaska Region", "USGS Bee Inventory and Monitoring Lab", "VektorF", "Wilson A. Bentley (The Met)"]
 SPDX-License-Identifier = "CC-BY-2.0 AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC-BY-SA-3.0-IGO AND CC-BY-SA-4.0 AND CC0-1.0 AND LicenseRef-NASA-Media AND LicenseRef-USGS-Public-Domain"

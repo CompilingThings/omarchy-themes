@@ -160,6 +160,20 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `7-string-of-pearls.jpg` | NASA/JPL-Caltech/SwRI/MSSS, Gerald Eichstädt, Seán Doran | CC BY-NC-SA 3.0 (non-commercial) | [source](https://science.nasa.gov/photojournal/jupiters-stunning-southern-hemisphere/) |
 | `8-sunset-on-pluto.jpg` | NASA/Johns Hopkins APL/Southwest Research Institute | NASA media guidelines | [source](https://science.nasa.gov/photojournal/plutos-majestic-mountains-frozen-plains-and-foggy-hazes/) |
 
+## Inner Space
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-hippocampus.jpg` | Luisa Demarchi, Ilaria Bertocchi, Alessandra Oberto | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Hyppocampus_beauty.jpg) |
+| `02-nerve-fibres.jpg` | MikeRoscopy | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Axons_Al_Dente.png) |
+| `03-growth-cones.jpg` | Physicl | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Neuronal_Growth_Cone.png) |
+| `04-fly-retina.jpg` | Guillaume Thuery | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Degenerating-drosophila-retina.jpg) |
+| `05-zebrafish-eye.jpg` | IchaJaroslav | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:SOFA-retina.tif) |
+| `06-brain-cortex.jpg` | Mamunur Rashid | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Brain_Cortex.png) |
+| `07-kidney-cells.jpg` | Iznewton | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:HEK_293.jpg) |
+| `08-mouse-brain.jpg` | Syed07 | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Fluorescently_labeled,_DAPI-stained_cell_nuclei_in_a_mouse_coronal_brain_section.jpg) |
+| `09-cells-dividing.jpg` | Ian P Newton & Paul L Appleton | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Mitotic_MDCKs.jpg) |
+
 ## Lantern
 
 | Wallpaper | By | Licence | Source |

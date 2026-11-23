@@ -1,0 +1,150 @@
+{
+ "accent": "#F05AB4",
+ "wallpapers": [
+  {
+   "file": "01-hippocampus",
+   "by": "Luisa Demarchi, Ilaria Bertocchi, Alessandra Oberto",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Hyppocampus_beauty.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Hyppocampus_beauty.jpg",
+   "title": "HIPPOCAMPUS",
+   "line1": "A slice through a mouse brain at the hippocampus, where memories are made, lit with fluorescent proteins.",
+   "line2": "13 December 2019  ·  Photo: Luisa Demarchi, Ilaria Bertocchi, Alessandra Oberto  ·  CC BY-SA 4.0"
+  },
+  {
+   "file": "02-nerve-fibres",
+   "by": "MikeRoscopy",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Axons_Al_Dente.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Axons_Al_Dente.png",
+   "title": "NERVE FIBRES",
+   "line1": "Nerve cells from a rat's hippocampus grown in a dish, their fibres stained gold; a confocal microscope.",
+   "line2": "25 November 2025  ·  Photo: MikeRoscopy  ·  CC BY 4.0",
+   "fit": {
+    "h": 0.96,
+    "x": 0.42,
+    "field": "#000000",
+    "oval": [
+     0.86,
+     1.0
+    ],
+    "feather": 0.02
+   }
+  },
+  {
+   "file": "03-growth-cones",
+   "by": "Physicl",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Neuronal_Growth_Cone.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Neuronal_Growth_Cone.png",
+   "title": "GROWTH CONES",
+   "line1": "The growing tips of two human nerve cells reaching out: actin in pink, microtubules in green.",
+   "line2": "16 December 2025  ·  Photo: Physicl  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "04-fly-retina",
+   "by": "Guillaume Thuery",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Degenerating-drosophila-retina.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Degenerating-drosophila-retina.jpg",
+   "title": "FRUIT FLY RETINA",
+   "line1": "A fruit fly's retina; pink in the yellow light-sensing cells is a stress signal that can lead to the cells dying.",
+   "line2": "13 December 2021  ·  Photo: Guillaume Thuery  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "05-zebrafish-eye",
+   "by": "IchaJaroslav",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/SOFA-retina.tif",
+   "page": "https://commons.wikimedia.org/wiki/File:SOFA-retina.tif",
+   "title": "ZEBRAFISH EYE",
+   "line1": "The eye of a four-day-old zebrafish larva, each kind of cell in its retina lit in its own colour.",
+   "line2": "15 September 2015  ·  Photo: IchaJaroslav  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "06-brain-cortex",
+   "by": "Mamunur Rashid",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Brain_Cortex.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Brain_Cortex.png",
+   "title": "BRAIN CORTEX",
+   "line1": "Half a mouse brain cut across, the layers of its cortex stained red and green; a confocal microscope.",
+   "line2": "19 September 2017  ·  Photo: Mamunur Rashid  ·  CC BY 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42,
+    "hide": [
+     [
+      0.7,
+      0.88,
+      1,
+      1
+     ],
+     [
+      0,
+      0.72,
+      0.05,
+      1
+     ]
+    ]
+   }
+  },
+  {
+   "file": "07-kidney-cells",
+   "by": "Iznewton",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/HEK_293.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:HEK_293.jpg",
+   "title": "KIDNEY CELLS",
+   "line1": "Human kidney cells grown in a lab (HEK 293): nuclei red, the actin skeleton green, dividing cells yellow.",
+   "line2": "5 November 2014  ·  Photo: Iznewton  ·  CC BY-SA 4.0"
+  },
+  {
+   "file": "08-mouse-brain",
+   "by": "Syed07",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Fluorescently_labeled%2C_DAPI-stained_cell_nuclei_in_a_mouse_coronal_brain_section.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Fluorescently_labeled,_DAPI-stained_cell_nuclei_in_a_mouse_coronal_brain_section.jpg",
+   "title": "MOUSE BRAIN",
+   "line1": "Every cell nucleus in a slice of mouse brain, stained with DAPI so that it glows blue.",
+   "line2": "15 October 2025  ·  Photo: Syed07  ·  CC BY 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42,
+    "w": 0.8
+   }
+  },
+  {
+   "file": "09-cells-dividing",
+   "by": "Ian P Newton & Paul L Appleton",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mitotic_MDCKs.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mitotic_MDCKs.jpg",
+   "title": "CELLS DIVIDING",
+   "line1": "Dog kidney cells in a lab dish; the red ones are in the middle of dividing in two.",
+   "line2": "11 November 2014  ·  Photo: Ian P Newton & Paul L Appleton  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.96,
+    "x": 0.42,
+    "field": "#000000",
+    "oval": [
+     0.86,
+     1.0
+    ],
+    "feather": 0.02
+   }
+  }
+ ]
+}
