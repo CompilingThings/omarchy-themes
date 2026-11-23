@@ -8,6 +8,11 @@ picture or colour a patch).
 
 ### Added
 
+- Pond Drop: thirteen Commons featured pictures of the animals in a drop of pond water under the microscope
+  (water fleas, copepods, seed shrimp, water mites, midge larvae, a moss animal's statoblast), ten of them by Janek
+  Lass from ponds in Rakvere, Estonia; dark-field black, water-flea teal and brood amber. `src/photowall.py` gains a
+  `fit` option that sets a photo of one subject on a plain background whole on a field of its own colour, and can
+  paint over a scale bar.
 - Thunderhead: fourteen photos of thunderstorms (lightning at night, shelf clouds, mammatus, a glowing anvil top)
   from Wikimedia Commons with free licences, among them NOIRLab's 1972 Kitt Peak storm; lightning violet and
   electric blue.

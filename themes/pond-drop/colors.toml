@@ -1,0 +1,49 @@
+mode = "dark"
+
+# Pond Drop: the small animals in a drop of pond water, under the microscope: water fleas, copepods, seed shrimp,
+# water mites, midge larvae and a moss animal's winter capsule, most of them from one town pond in Rakvere, Estonia.
+# The black of a dark-field microscope, warm pale text like a lit shell, the teal a water flea shows in dark-field
+# light as the accent, and the window border fading from that teal into the amber of a water flea's brood. Colours
+# sampled from the theme's own photos.
+
+accent = "#4FC1DA"
+selection = "#1D2A31"
+muted = "#4A5560"
+
+background = "#07080B"
+dark_background = "#050609"
+darker_background = "#030304"
+lighter_background = "#12151B"
+
+foreground = "#E8E4D8"
+dark_foreground = "#8C8A80"
+light_foreground = "#C7C3B6"
+bright_foreground = "#FFFFFF"
+
+# The focused window: a water flea's teal turning to the amber of its brood
+hyprland_active_border = "rgba(4fc1daff) rgba(e0a050ff) 45deg"
+hyprland_inactive_border = "rgba(182028cc)"
+
+# red: the red water mite of wallpaper 04
+red = "#EA6340"
+# orange: the light on that mite's shell
+orange = "#EEA061"
+# yellow: the copepod of wallpaper 02
+yellow = "#DED47F"
+# green: the midge larva's glowing muscles
+green = "#A9C750"
+# cyan: a water flea's blue, wallpaper 01
+cyan = "#74D3E0"
+# blue: the deep blue water behind the red mite
+blue = "#6F8BFF"
+# magenta: the violet in the midge larva
+magenta = "#C58BE0"
+# brown: a seed shrimp's shell pattern
+brown = "#8D6534"
+
+bright_red = "#F59A82"
+bright_yellow = "#EEE7B0"
+bright_green = "#CBE08E"
+bright_cyan = "#AEE6EE"
+bright_blue = "#ABBCFF"
+bright_magenta = "#DFBDEF"

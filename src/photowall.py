@@ -20,8 +20,17 @@ wallpapers.json: {"accent": "#rrggbb", "wallpapers": [{"file", "by", "licence", 
   accent optional "#rrggbb": this picture's own label bar colour instead of the list's
   plate  optional true: a museum scan of a round photomicrograph mounted on a card (Snow Crystal's Bentley prints):
          the dark round plate is cut out and set on a field of its own dark colour first (needs numpy and scipy)
+  fit    optional true or {"h", "w", "x", "y", "box", "field", "hide"}: a tall or square photo of one subject on a plain
+         background (a water flea on black): the whole photo, or the part in "box" ([x0, y0, x1, y1] as fractions),
+         is set "h" of the screen high (default 0.94; above 1 cuts into it) and at most "w" of it wide (default 0.96;
+         0.84 keeps it inside a 3:2 screen) with its centre at "x", "y" (default 0.42, 0.5, left of centre
+         so the label stays clear), on a field of the photo's own edge colour ("field": "#rrggbb" to choose it);
+         its edges fade into the field over "feather" of its shorter side (default 0.15). "hide": boxes (fractions of
+         the whole photo) painted in the field colour first, for a scale bar on the plain background. "crop" then
+         applies to that 16:9 picture.
 Writes <backgrounds dir>/<file>.jpg at 3840x2160 and <preview.png> (the first photo, 1280x720).
 """
+import hashlib
 import json
 import sys
 import urllib.parse
@@ -106,6 +115,45 @@ def plate(path, dest):
     mask = mask.resize((d, d), Image.LANCZOS).filter(ImageFilter.GaussianBlur(d * 0.004))
     out = Image.new("RGB", (W, H), field)
     out.paste(disc, (round(W * 0.41 - d / 2), round(H * 0.47 - d / 2)), mask)
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    out.save(dest)
+    return dest
+
+
+def fit(path, dest, opt):
+    """Set the whole photo (or its "box") on a W x H field of its own edge colour; see "fit" at the top."""
+    opt = opt if isinstance(opt, dict) else {}
+    im = Image.open(path).convert("RGB")
+    w, h = im.size
+    if "field" in opt:
+        field = tuple(int(opt["field"][i:i + 2], 16) for i in (1, 3, 5))
+    else:                              # the median of a thin strip all round: the plain background behind the subject
+        b = max(2, round(min(w, h) * 0.02))
+        strip = [im.crop(r) for r in ((0, 0, w, b), (0, h - b, w, h), (0, 0, b, h), (w - b, 0, w, h))]
+        px = sorted(sum((list(s.resize((64, 4) if s.width > s.height else (4, 64)).get_flattened_data()) for s in strip), []),
+                    key=sum)
+        field = px[len(px) // 2]
+    for x0, y0, x1, y1 in opt.get("hide", []):     # a scale bar on the plain background: painted over with it
+        ImageDraw.Draw(im).rectangle((round(x0 * w), round(y0 * h), round(x1 * w), round(y1 * h)), fill=field)
+    if "box" in opt:
+        x0, y0, x1, y1 = opt["box"]
+        im = im.crop((round(x0 * w), round(y0 * h), round(x1 * w), round(y1 * h)))
+    w, h = im.size
+    k = min(H * opt.get("h", 0.94) / h, W * opt.get("w", 0.96) / w)
+    nw, nh = round(w * k), round(h * k)
+    im = im.resize((nw, nh), Image.LANCZOS)
+    feather = round(min(nw, nh) * opt.get("feather", 0.15))
+    mask = Image.new("L", (nw, nh), 0)
+    d = ImageDraw.Draw(mask)
+    for i in range(feather):           # a smooth fade over the outer 15 % on every side ("feather" to change it)
+        t = (i + 1) / feather
+        d.rectangle((i, i, nw - 1 - i, nh - 1 - i), outline=round(255 * t * t * (3 - 2 * t)))
+    d.rectangle((feather, feather, nw - 1 - feather, nh - 1 - feather), fill=255)
+    out = Image.new("RGB", (W, H), field)
+    cx, cy = opt.get("x", 0.42), opt.get("y", 0.5)
+    left = min(max(round(W * cx - nw / 2), 0), W - nw)
+    top = min(max(round(H * cy - nh / 2), 0), H - nh)
+    out.paste(im, (left, top), mask)
     dest.parent.mkdir(parents=True, exist_ok=True)
     out.save(dest)
     return dest
@@ -200,6 +248,9 @@ def main(spec, cache, out, preview):
                fetch(p["url"], cache / "src" / Path(urllib.parse.urlparse(p["url"]).path).name))
         if p.get("plate"):
             src = plate(src, cache / "plates" / f"{src.stem}.png")
+        if p.get("fit"):               # named after the settings too, so a changed "fit" is made again
+            tag = hashlib.sha1(json.dumps(p["fit"], sort_keys=True).encode()).hexdigest()[:8]
+            src = fit(src, cache / "fits" / f"{src.stem}-{tag}.png", p["fit"])
         img, to_wall = cut(src, *p.get("crop", [0.5, 0.5, 1.0]))
         for x, y, name in p.get("marks", []):
             img = mark(img, to_wall(x, y), name)

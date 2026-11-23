@@ -1,0 +1,170 @@
+{
+ "accent": "#5FD4E8",
+ "wallpapers": [
+  {
+   "file": "01-water-flea-birth",
+   "by": "MarekMiś",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Rodz%C4%85ca_dafnia.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Rodz%C4%85ca_dafnia.jpg",
+   "title": "WATER FLEA GIVING BIRTH",
+   "line1": "A Daphnia water flea giving birth, lit with dark field and polarised light at 100x.",
+   "line2": "8 May 2019  ·  Photo: MarekMiś  ·  CC BY 4.0",
+   "fit": true
+  },
+  {
+   "file": "02-copepod",
+   "by": "Janek Lass",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Copepod2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Copepod2.jpg",
+   "title": "COPEPOD",
+   "line1": "A copepod about 4 mm long from the town pond in Rakvere, Estonia, in dark field and polarised light.",
+   "line2": "25 November 2024  ·  Photo: Janek Lass  ·  CC BY 4.0",
+   "fit": true
+  },
+  {
+   "file": "03-two-water-mites",
+   "by": "Janek Lass",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Two_water_mites_dorsal_and_ventral_view.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Two_water_mites_dorsal_and_ventral_view.jpg",
+   "title": "TWO WATER MITES",
+   "line1": "Two water mites 0.6 mm long, one seen from above and one from below. Town pond, Rakvere, Estonia.",
+   "line2": "1 June 2026  ·  Photo: Janek Lass  ·  CC BY 4.0",
+   "fit": {
+    "h": 0.86,
+    "x": 0.45
+   }
+  },
+  {
+   "file": "04-red-water-mite",
+   "by": "Anatoly Mikhaltsov",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/%D0%92%D0%BE%D0%B4%D1%8F%D0%BD%D0%BE%D0%B9_%D0%BA%D0%BB%D0%B5%D1%89.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BE%D0%B4%D1%8F%D0%BD%D0%BE%D0%B9_%D0%BA%D0%BB%D0%B5%D1%89.jpg",
+   "title": "WATER MITE",
+   "line1": "A water mite 1.1 mm long from a shallow freshwater pond, lit from above.",
+   "line2": "30 August 2014  ·  Photo: Anatoly Mikhaltsov  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "05-seed-shrimp",
+   "by": "Janek Lass",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/A_micrograph_showing_four_ostracods.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:A_micrograph_showing_four_ostracods.jpg",
+   "title": "SEED SHRIMP",
+   "line1": "Four ostracods round a water bubble, each inside its two-part shell. From an old mine near Rakvere, Estonia.",
+   "line2": "9 May 2026  ·  Photo: Janek Lass  ·  CC BY 4.0",
+   "fit": true
+  },
+  {
+   "file": "06-phantom-midge-larva",
+   "by": "Janek Lass",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Tiigi_klaasiks%C3%A4%C3%A4sevastne.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Tiigi_klaasiks%C3%A4%C3%A4sevastne.jpg",
+   "title": "PHANTOM MIDGE LARVA",
+   "line1": "A glassworm, the almost see-through larva of a phantom midge, from a pond in Rakvere, Estonia.",
+   "line2": "29 April 2022  ·  Photo: Janek Lass  ·  CC BY 4.0",
+   "fit": true
+  },
+  {
+   "file": "07-simocephalus",
+   "by": "Janek Lass",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Micrograph_of_a_Simocephalus_water_flea_in_lateral_view.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Micrograph_of_a_Simocephalus_water_flea_in_lateral_view.jpg",
+   "title": "WATER FLEA",
+   "line1": "A Simocephalus water flea: through its clear shell the gut glows orange beside the dark eye.",
+   "line2": "30 August 2026  ·  Photo: Janek Lass  ·  CC BY 4.0",
+   "fit": true
+  },
+  {
+   "file": "08-midge-larva",
+   "by": "KarlGaff Art of Science Photography",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Non-Biting_Diptera_Midge_Larva.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Non-Biting_Diptera_Midge_Larva.jpg",
+   "title": "MIDGE LARVA",
+   "line1": "A midge larva in polarised light: its muscles glow in colours set by the direction of their fibres.",
+   "line2": "1 November 2021  ·  Photo: KarlGaff Art of Science Photography  ·  CC BY 4.0",
+   "fit": {
+    "hide": [
+     [
+      0.94,
+      0.88,
+      1,
+      1
+     ]
+    ],
+    "w": 0.84,
+    "x": 0.5
+   }
+  },
+  {
+   "file": "09-copepod-dark-field",
+   "by": "Janek Lass",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Freshwater_copepod_%28Copepoda%29_under_darkfield_microscopy.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Freshwater_copepod_(Copepoda)_under_darkfield_microscopy.jpg",
+   "title": "COPEPOD",
+   "line1": "A copepod 1.5 mm long. Its bristled legs make lightning-fast escape jumps. Town pond, Rakvere, Estonia.",
+   "line2": "22 April 2024  ·  Photo: Janek Lass  ·  CC BY 4.0",
+   "fit": true
+  },
+  {
+   "file": "10-statoblast",
+   "by": "Janek Lass",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sammallooma_elluj%C3%A4%C3%A4miskapsel_%28Cristatella_mucedo%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sammallooma_elluj%C3%A4%C3%A4miskapsel_(Cristatella_mucedo).jpg",
+   "title": "STATOBLAST",
+   "line1": "A moss animal's survival capsule (Cristatella mucedo): a gas-filled ring floats it, spines hook onto plants.",
+   "line2": "24 November 2024  ·  Photo: Janek Lass  ·  CC BY 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "11-two-seed-shrimp",
+   "by": "Janek Lass",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mikrofotol_on_k%C3%B5rvuti_kaks_karpv%C3%A4hilist_ehk_ostrakoodi_%28Ostracoda%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mikrofotol_on_k%C3%B5rvuti_kaks_karpv%C3%A4hilist_ehk_ostrakoodi_(Ostracoda).jpg",
+   "title": "SEED SHRIMP",
+   "line1": "Two ostracods side by side, the patterns of their shells lit from above. Town pond, Rakvere, Estonia.",
+   "line2": "1 June 2025  ·  Photo: Janek Lass  ·  CC BY 4.0",
+   "fit": true
+  },
+  {
+   "file": "12-water-mite",
+   "by": "Janek Lass",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Water_mite_%28Hydrachnidia%29_dorsal_view_under_microscope.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Water_mite_(Hydrachnidia)_dorsal_view_under_microscope.jpg",
+   "title": "WATER MITE",
+   "line1": "A water mite from above, its two red eyes at the front, at the bottom here. Pond, Rakvere, Estonia.",
+   "line2": "1 June 2026  ·  Photo: Janek Lass  ·  CC BY 4.0",
+   "fit": true
+  },
+  {
+   "file": "13-copepod",
+   "by": "Janek Lass",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Aerjalgne.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Aerjalgne.jpg",
+   "title": "COPEPOD",
+   "line1": "Copepods live in seas, lakes and puddles, eat microscopic life and are food for larger animals.",
+   "line2": "24 May 2022  ·  Photo: Janek Lass  ·  CC BY 4.0",
+   "fit": true
+  }
+ ]
+}

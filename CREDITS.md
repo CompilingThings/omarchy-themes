@@ -158,6 +158,24 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `7-alnes-lighthouse.jpg` | Henny stokseth | CC BY-SA 3.0 NO | [source](https://commons.wikimedia.org/wiki/File:Alnes_fyr_i_mars_2013-07089.jpg) |
 | `8-svolvaer-lofoten.jpg` | Christoph Strässler | CC BY-SA 2.0 | [source](https://commons.wikimedia.org/wiki/File:Aurora_Borealis_(Northern_Light)_over_Svolv%C3%A6r,_Lofoten,_Norway1.jpg) |
 
+## Pond Drop
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-water-flea-birth.jpg` | MarekMiś | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Rodz%C4%85ca_dafnia.jpg) |
+| `02-copepod.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Copepod2.jpg) |
+| `03-two-water-mites.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Two_water_mites_dorsal_and_ventral_view.jpg) |
+| `04-red-water-mite.jpg` | Anatoly Mikhaltsov | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%92%D0%BE%D0%B4%D1%8F%D0%BD%D0%BE%D0%B9_%D0%BA%D0%BB%D0%B5%D1%89.jpg) |
+| `05-seed-shrimp.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:A_micrograph_showing_four_ostracods.jpg) |
+| `06-phantom-midge-larva.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Tiigi_klaasiks%C3%A4%C3%A4sevastne.jpg) |
+| `07-simocephalus.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Micrograph_of_a_Simocephalus_water_flea_in_lateral_view.jpg) |
+| `08-midge-larva.jpg` | KarlGaff Art of Science Photography | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Non-Biting_Diptera_Midge_Larva.jpg) |
+| `09-copepod-dark-field.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Freshwater_copepod_(Copepoda)_under_darkfield_microscopy.jpg) |
+| `10-statoblast.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Sammallooma_elluj%C3%A4%C3%A4miskapsel_(Cristatella_mucedo).jpg) |
+| `11-two-seed-shrimp.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Mikrofotol_on_k%C3%B5rvuti_kaks_karpv%C3%A4hilist_ehk_ostrakoodi_(Ostracoda).jpg) |
+| `12-water-mite.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Water_mite_(Hydrachnidia)_dorsal_view_under_microscope.jpg) |
+| `13-copepod.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Aerjalgne.jpg) |
+
 ## Red Planet
 
 | Wallpaper | By | Licence | Source |
