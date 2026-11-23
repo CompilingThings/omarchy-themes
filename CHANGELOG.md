@@ -8,6 +8,8 @@ picture or colour a patch).
 
 ### Added
 
+- Front Line: eleven immune cells and the germs they meet under the electron microscope, coloured by NIAID
+  (natural killer cells, T cells, B cells, an HIV-infected T cell, MRSA, Klebsiella, malaria); green and violet.
 - Viral: eleven viruses under the electron microscope, coloured by NIAID (the coronavirus behind COVID-19 and
   Omicron, Ebola, mpox, bird flu, HIV, rabies, hepatitis B), from NIAID's pictures on Wikimedia Commons; red and teal.
 - Inner Space: nine brains, eyes and cells glowing under the microscope (a mouse hippocampus, cortex and whole

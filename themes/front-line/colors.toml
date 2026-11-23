@@ -1,0 +1,49 @@
+mode = "dark"
+
+# Front Line: the body's defenders under the electron microscope, coloured by NIAID: natural killer cells, T cells
+# and B cells from human donors, a T cell infected with HIV, and white blood cells meeting MRSA and Klebsiella
+# bacteria, with a malaria-infected red blood cell. The black the cells were photographed on as the background, pale
+# text, the green of the first killer cell as the accent, and the window border turning from it into the violet of
+# the purple killer cell. Colours sampled from the theme's own pictures.
+
+accent = "#9AD24A"
+selection = "#24331A"
+muted = "#525A4E"
+
+background = "#060706"
+dark_background = "#030403"
+darker_background = "#010201"
+lighter_background = "#151912"
+
+foreground = "#E8EDE4"
+dark_foreground = "#89918A"
+light_foreground = "#C6CEC2"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the green of one killer cell turning to the violet of another
+hyprland_active_border = "rgba(9ad24aff) rgba(9a66f0ff) 45deg"
+hyprland_inactive_border = "rgba(161a14cc)"
+
+# red: the dead neutrophil beside the MRSA, wallpaper 03
+red = "#E0525E"
+# orange: the T cell in Halloween orange, wallpaper 07
+orange = "#F08A24"
+# yellow: the MRSA bacteria, wallpaper 03
+yellow = "#D8B83A"
+# green: the first natural killer cell, wallpaper 01
+green = "#9AD24A"
+# cyan: the T cell, wallpaper 02
+cyan = "#2ED2B8"
+# blue: the HIV-infected T cell, wallpaper 08
+blue = "#3A9AE0"
+# magenta: the natural killer cell in Halloween purple, wallpaper 09
+magenta = "#9A66F0"
+# brown: the dark field round the orange T cell, brightened, wallpaper 07
+brown = "#B0723A"
+
+bright_red = "#F2AEB4"
+bright_yellow = "#F0E2A8"
+bright_green = "#CCE8A6"
+bright_cyan = "#A6EADF"
+bright_blue = "#ACD2F2"
+bright_magenta = "#CEB6F8"

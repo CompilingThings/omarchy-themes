@@ -1,0 +1,161 @@
+{
+ "accent": "#9AD24A",
+ "wallpapers": [
+  {
+   "file": "01-killer-cell",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Human_Natural_Killer_Cell_%2829120480442%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Human_Natural_Killer_Cell_(29120480442).jpg",
+   "title": "NATURAL KILLER CELL",
+   "line1": "A natural killer cell from a human donor: a white blood cell that kills virus-infected and cancer cells.",
+   "line2": "30 June 2016  ·  Picture: NIAID  ·  CC BY 2.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "02-t-cell",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/T_Lymphocyte_%2816760076824%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:T_Lymphocyte_(16760076824).jpg",
+   "title": "T CELL",
+   "line1": "A T cell (T lymphocyte), one of the white blood cells of the immune system; a scanning electron microscope.",
+   "line2": "16 March 2015  ·  Picture: NIAID  ·  CC BY 2.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "03-mrsa",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Scanning_electron_micrograph_of_Methicillin-resistant_Staphylococcus_aureus_%28MRSA%29_and_a_dead_Human_neutrophil_-_NIAID.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Scanning_electron_micrograph_of_Methicillin-resistant_Staphylococcus_aureus_(MRSA)_and_a_dead_Human_neutrophil_-_NIAID.jpg",
+   "title": "MRSA",
+   "line1": "MRSA, the antibiotic-resistant staph bacteria (yellow), next to a dead human neutrophil, a white blood cell (red).",
+   "line2": "30 June 2006  ·  Picture: NIAID  ·  CC BY 2.0"
+  },
+  {
+   "file": "04-killer-cell-pink",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Human_Natural_Killer_Cell_%2829228845335%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Human_Natural_Killer_Cell_(29228845335).jpg",
+   "title": "NATURAL KILLER CELL",
+   "line1": "Another natural killer cell from a human donor, covered in fine threads.",
+   "line2": "30 June 2016  ·  Picture: NIAID  ·  CC BY 2.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "05-b-cell",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Human_B_Lymphocyte_-_NIAID.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Human_B_Lymphocyte_-_NIAID.jpg",
+   "title": "B CELL",
+   "line1": "A B cell from a human donor: the kind of white blood cell that makes antibodies.",
+   "line2": "30 June 2016  ·  Picture: NIAID  ·  CC BY 2.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "06-malaria",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Malaria-infected_Red_Blood_Cell_%2810856848295%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Malaria-infected_Red_Blood_Cell_(10856848295).jpg",
+   "title": "MALARIA",
+   "line1": "A red blood cell infected with malaria parasites (blue), next to smooth uninfected red cells.",
+   "line2": "14 November 2013  ·  Picture: NIAID  ·  CC BY 2.0",
+   "fit": {
+    "h": 0.96,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "07-t-cell-orange",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/T_Lymphocyte.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:T_Lymphocyte.jpg",
+   "title": "T CELL",
+   "line1": "Another T cell, coloured by NIAID in Halloween orange.",
+   "line2": "16 March 2015  ·  Picture: NIAID  ·  CC BY 2.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "08-hiv-t-cell",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/HIV-infected_T_cell_%286813384933%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:HIV-infected_T_cell_(6813384933).jpg",
+   "title": "HIV-INFECTED T CELL",
+   "line1": "A T cell infected with HIV, the virus that attacks these cells; a scanning electron microscope.",
+   "line2": "2 December 2009  ·  Picture: NIAID  ·  CC BY 2.0",
+   "fit": {
+    "h": 0.98,
+    "x": 0.42,
+    "field": "#000000",
+    "oval": [
+     0.86,
+     1.0
+    ],
+    "feather": 0.02
+   }
+  },
+  {
+   "file": "09-killer-cell-purple",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Human_Natural_Killer_Cell.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Human_Natural_Killer_Cell.jpg",
+   "title": "NATURAL KILLER CELL",
+   "line1": "A natural killer cell reaching out long arms, coloured by NIAID in Halloween purple.",
+   "line2": "26 May 2016  ·  Picture: NIAID  ·  CC BY 2.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "10-klebsiella",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Klebsiella_pneumoniae_Bacterium_%2813383468143%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Klebsiella_pneumoniae_Bacterium_(13383468143).jpg",
+   "title": "KLEBSIELLA",
+   "line1": "Antibiotic-resistant Klebsiella pneumoniae bacteria meeting a human neutrophil, a white blood cell.",
+   "line2": "14 February 2014  ·  Picture: NIAID  ·  CC BY 2.0",
+   "fit": {
+    "h": 0.94,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "11-b-cell-teal",
+   "by": "NIAID",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Human_B_Lymphocyte_%2829196367446%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Human_B_Lymphocyte_(29196367446).jpg",
+   "title": "B CELL",
+   "line1": "Another B cell from a human donor, round and rumpled.",
+   "line2": "30 June 2016  ·  Picture: NIAID  ·  CC BY 2.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  }
+ ]
+}

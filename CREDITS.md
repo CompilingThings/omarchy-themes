@@ -147,6 +147,22 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `11-yellow-spine-fungus.jpg` | Casey Helton | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Mucronella_flava_-_18_images_-_Tillamook,_Oregon.jpg) |
 | `12-frosted-mushrooms.jpg` | Reinhold Möller (Ermell) | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Agaricales-20191229-RM-101505.jpg) |
 
+## Front Line
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-killer-cell.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Human_Natural_Killer_Cell_(29120480442).jpg) |
+| `02-t-cell.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:T_Lymphocyte_(16760076824).jpg) |
+| `03-mrsa.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Scanning_electron_micrograph_of_Methicillin-resistant_Staphylococcus_aureus_(MRSA)_and_a_dead_Human_neutrophil_-_NIAID.jpg) |
+| `04-killer-cell-pink.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Human_Natural_Killer_Cell_(29228845335).jpg) |
+| `05-b-cell.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Human_B_Lymphocyte_-_NIAID.jpg) |
+| `06-malaria.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Malaria-infected_Red_Blood_Cell_(10856848295).jpg) |
+| `07-t-cell-orange.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:T_Lymphocyte.jpg) |
+| `08-hiv-t-cell.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:HIV-infected_T_cell_(6813384933).jpg) |
+| `09-killer-cell-purple.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Human_Natural_Killer_Cell.jpg) |
+| `10-klebsiella.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Klebsiella_pneumoniae_Bacterium_(13383468143).jpg) |
+| `11-b-cell-teal.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Human_B_Lymphocyte_(29196367446).jpg) |
+
 ## Grand Tour
 
 | Wallpaper | By | Licence | Source |

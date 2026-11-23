@@ -621,6 +621,84 @@ SPDX-FileCopyrightText = "U.S. Forest Service, Alaska Region"
 SPDX-License-Identifier = "CC-BY-2.0"
 
 [[annotations]]
+path = "themes/front-line/backgrounds/01-killer-cell.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NIAID"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/front-line/backgrounds/02-t-cell.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NIAID"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/front-line/backgrounds/03-mrsa.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NIAID"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/front-line/backgrounds/04-killer-cell-pink.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NIAID"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/front-line/backgrounds/05-b-cell.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NIAID"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/front-line/backgrounds/06-malaria.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NIAID"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/front-line/backgrounds/07-t-cell-orange.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NIAID"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/front-line/backgrounds/08-hiv-t-cell.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NIAID"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/front-line/backgrounds/09-killer-cell-purple.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NIAID"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/front-line/backgrounds/10-klebsiella.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NIAID"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/front-line/backgrounds/11-b-cell-teal.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NIAID"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "themes/front-line/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "NIAID"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "docs/images/front-line.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "NIAID"
+SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
 path = "themes/grand-tour/backgrounds/1-saturn.jpg"
 precedence = "override"
 SPDX-FileCopyrightText = "NASA/JPL/Space Science Institute"
