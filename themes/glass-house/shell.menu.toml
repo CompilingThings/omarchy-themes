@@ -1,0 +1,13 @@
+[menu]
+background                = "#08080E"
+background-alpha          = 1.0
+text                      = "#E8E8F2"
+border                    = "hyprland.active-border"
+border-alpha              = 1.0
+scrim                     = "#020204"
+scrim-alpha               = 0.6
+selected-background       = "#7A8CF0"
+selected-background-alpha = 0.14
+selected-text             = "#7A8CF0"
+selected-border           = "#7A8CF0"
+selected-border-alpha     = 0.6

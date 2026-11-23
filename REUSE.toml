@@ -699,6 +699,90 @@ SPDX-FileCopyrightText = "NIAID"
 SPDX-License-Identifier = "CC-BY-2.0"
 
 [[annotations]]
+path = "themes/glass-house/backgrounds/01-arachnoidiscus.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Irina Klimova, Microcosmos lab"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/glass-house/backgrounds/02-star-shell.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Anatoly Mikhaltsov"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/glass-house/backgrounds/03-lyrella.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Massimo Brizzi"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/glass-house/backgrounds/04-triangle.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Anatoly Mikhaltsov"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/glass-house/backgrounds/05-spiked-shell.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Anatoly Mikhaltsov"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/glass-house/backgrounds/06-sieve.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Pavel Somov"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/glass-house/backgrounds/07-sunburst.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Anatoly Mikhaltsov"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/glass-house/backgrounds/08-needle.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Anatoly Mikhaltsov"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/glass-house/backgrounds/09-triangle-oamaru.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Anatoly Mikhaltsov"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/glass-house/backgrounds/10-auliscus.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Anatoly Mikhaltsov"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/glass-house/backgrounds/11-bouquet.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Andrei Savitsky"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/glass-house/backgrounds/12-honeycomb.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Anatoly Mikhaltsov"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/glass-house/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "Irina Klimova, Microcosmos lab"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "docs/images/glass-house.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Irina Klimova, Microcosmos lab"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
 path = "themes/grand-tour/backgrounds/1-saturn.jpg"
 precedence = "override"
 SPDX-FileCopyrightText = "NASA/JPL/Space Science Institute"
@@ -2063,5 +2147,5 @@ SPDX-License-Identifier = "CC-BY-2.0"
 [[annotations]]
 path = "docs/images/gallery.jpg"
 precedence = "override"
-SPDX-FileCopyrightText = ["2026 CompilingThings", "Alexander Klepnev", "Anatoly Mikhaltsov", "Andrei Savitsky", "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla", "Brian Gratwicke", "Bruno C. Vellutini", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Johannes Groll (Unsplash)", "Luisa Demarchi, Ilaria Bertocchi, Alessandra Oberto", "MarekMiś", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "NIAID", "Rollingskyphoto", "Strekeisen", "U.S. Forest Service, Alaska Region", "USGS Bee Inventory and Monitoring Lab", "VektorF", "Wilson A. Bentley (The Met)"]
+SPDX-FileCopyrightText = ["2026 CompilingThings", "Alexander Klepnev", "Anatoly Mikhaltsov", "Andrei Savitsky", "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla", "Brian Gratwicke", "Bruno C. Vellutini", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Irina Klimova, Microcosmos lab", "Johannes Groll (Unsplash)", "Luisa Demarchi, Ilaria Bertocchi, Alessandra Oberto", "MarekMiś", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "NIAID", "Rollingskyphoto", "Strekeisen", "U.S. Forest Service, Alaska Region", "USGS Bee Inventory and Monitoring Lab", "VektorF", "Wilson A. Bentley (The Met)"]
 SPDX-License-Identifier = "CC-BY-2.0 AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC-BY-SA-3.0-IGO AND CC-BY-SA-4.0 AND CC0-1.0 AND LicenseRef-NASA-Media AND LicenseRef-USGS-Public-Domain"

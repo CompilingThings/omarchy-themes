@@ -1,0 +1,49 @@
+mode = "dark"
+
+# Glass House: diatoms, single-celled algae that build their shells of glass, most of them fossils from Oamaru in
+# New Zealand and the Ural Mountains, with two shells of foraminifera and one diatom shell under the electron
+# microscope. A dark blue-violet background, cool pale text, the violet-blue of the glass in phase contrast as the
+# accent, and the window border turning from it into the green of the coloured diatom shell. Colours sampled from
+# the theme's own photos.
+
+accent = "#7A8CF0"
+selection = "#22264A"
+muted = "#545668"
+
+background = "#08080E"
+dark_background = "#040409"
+darker_background = "#020204"
+lighter_background = "#171824"
+
+foreground = "#E8E8F2"
+dark_foreground = "#8C8DA0"
+light_foreground = "#C8C9DA"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the violet-blue of glass in phase contrast turning to the green of the coloured diatom
+hyprland_active_border = "rgba(7a8cf0ff) rgba(9cc83aff) 45deg"
+hyprland_inactive_border = "rgba(17182acc)"
+
+# red: the warm rim of the Lyrella shell in reversed contrast, wallpaper 03
+red = "#E06A6A"
+# orange: the amber pores in the middle of the Oamaru triangle, wallpaper 09
+orange = "#E89A50"
+# yellow: the gold of the Cymbella diatoms, wallpaper 11
+yellow = "#E2C860"
+# green: the coloured Coscinodiscus shell, wallpaper 06
+green = "#9CC83A"
+# cyan: the blue-green rows of pores in the spider's-web diatom, wallpaper 01
+cyan = "#5CC8D8"
+# blue: the violet-blue ribs of Pinnularia in phase contrast, wallpaper 08
+blue = "#7A8CF0"
+# magenta: the violet edges of the Lyrella shell, wallpaper 03
+magenta = "#C07AE0"
+# brown: the cream-brown foraminifera shells, wallpapers 02 and 05
+brown = "#B89668"
+
+bright_red = "#F2B4B4"
+bright_yellow = "#F2E6B4"
+bright_green = "#D0E6A8"
+bright_cyan = "#B0E6EE"
+bright_blue = "#C2CAF8"
+bright_magenta = "#E2C4F2"

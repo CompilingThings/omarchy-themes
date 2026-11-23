@@ -163,6 +163,23 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `10-klebsiella.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Klebsiella_pneumoniae_Bacterium_(13383468143).jpg) |
 | `11-b-cell-teal.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Human_B_Lymphocyte_(29196367446).jpg) |
 
+## Glass House
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-arachnoidiscus.jpg` | Irina Klimova, Microcosmos lab | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Arachnoidiscus_sp.jpg) |
+| `02-star-shell.jpg` | Anatoly Mikhaltsov | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Baculogypsina_sphaerulata_2.jpg) |
+| `03-lyrella.jpg` | Massimo Brizzi | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Lyrella_hennedy_1600x_contrast_invertion.jpg) |
+| `04-triangle.jpg` | Anatoly Mikhaltsov | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Triceratium_polycystinorum.jpg) |
+| `05-spiked-shell.jpg` | Anatoly Mikhaltsov | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Calcarina_spengleri.jpg) |
+| `06-sieve.jpg` | Pavel Somov | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Coscinodiscus_oculus-iridis_(Ehrenberg)_Ehrenberg_1840_diatom_shell._Colored_SEM_image.png) |
+| `07-sunburst.jpg` | Anatoly Mikhaltsov | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Actinoptychus_maculatus.jpg) |
+| `08-needle.jpg` | Anatoly Mikhaltsov | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Pinnularia_major.jpg) |
+| `09-triangle-oamaru.jpg` | Anatoly Mikhaltsov | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Triceratium_morlandii_var._morlandii.jpg) |
+| `10-auliscus.jpg` | Anatoly Mikhaltsov | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Auliscus_oamaruensis.jpg) |
+| `11-bouquet.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B5%D1%82_%D0%B8%D0%B7_%D0%B4%D0%B8%D0%B0%D1%82%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D1%85_%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B5%D0%B9_Cymbella.jpg) |
+| `12-honeycomb.jpg` | Anatoly Mikhaltsov | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Stephanopyxis_grunowii.jpg) |
+
 ## Grand Tour
 
 | Wallpaper | By | Licence | Source |

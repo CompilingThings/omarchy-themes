@@ -1,0 +1,230 @@
+{
+ "accent": "#7A8CF0",
+ "wallpapers": [
+  {
+   "file": "01-arachnoidiscus",
+   "by": "Irina Klimova, Microcosmos lab",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Arachnoidiscus_sp.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Arachnoidiscus_sp.jpg",
+   "title": "ARACHNOIDISCUS",
+   "line1": "Arachnoidiscus (\"spider disc\"), a fossil diatom from a Russian diatomite: the glass shell of one single-celled alga.",
+   "line2": "16 November 2015  ·  Photo: Irina Klimova, Microcosmos lab  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42,
+    "hide": [
+     [
+      0.82,
+      0.86,
+      1,
+      1
+     ]
+    ]
+   },
+   "panel": true
+  },
+  {
+   "file": "02-star-shell",
+   "by": "Anatoly Mikhaltsov",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Baculogypsina_sphaerulata_2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Baculogypsina_sphaerulata_2.jpg",
+   "title": "STAR SHELL",
+   "line1": "The star-shaped shell of Baculogypsina sphaerulata, a foraminifer: a single-celled creature of the sea.",
+   "line2": "13 June 2016  ·  Photo: Anatoly Mikhaltsov  ·  CC BY 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "03-lyrella",
+   "by": "Massimo Brizzi",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Lyrella_hennedy_1600x_contrast_invertion.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Lyrella_hennedy_1600x_contrast_invertion.jpg",
+   "title": "LYRELLA",
+   "line1": "The diatom Lyrella hennedyi at 1500x, its glass shell lit in reversed contrast.",
+   "line2": "19 April 2012  ·  Photo: Massimo Brizzi  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "04-triangle",
+   "by": "Anatoly Mikhaltsov",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Triceratium_polycystinorum.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Triceratium_polycystinorum.jpg",
+   "title": "TRICERATIUM",
+   "line1": "A three-cornered fossil diatom, Triceratium polycystinorum, from the eastern slope of the Ural Mountains.",
+   "line2": "23 May 2015  ·  Photo: Anatoly Mikhaltsov  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.84,
+    "x": 0.42,
+    "hide": [
+     [
+      0.8,
+      0.9,
+      1,
+      1
+     ]
+    ],
+    "y": 0.53,
+    "feather": 0.03
+   },
+   "panel": true
+  },
+  {
+   "file": "05-spiked-shell",
+   "by": "Anatoly Mikhaltsov",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Calcarina_spengleri.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Calcarina_spengleri.jpg",
+   "title": "SPIKED SHELL",
+   "line1": "The shell of Calcarina spengleri, another single-celled foraminifer from the sea, blunt spines all round.",
+   "line2": "13 June 2016  ·  Photo: Anatoly Mikhaltsov  ·  CC BY 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "06-sieve",
+   "by": "Pavel Somov",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Coscinodiscus_oculus-iridis_%28Ehrenberg%29_Ehrenberg_1840_diatom_shell._Colored_SEM_image.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Coscinodiscus_oculus-iridis_(Ehrenberg)_Ehrenberg_1840_diatom_shell._Colored_SEM_image.png",
+   "title": "COSCINODISCUS",
+   "line1": "The shell of the diatom Coscinodiscus oculus-iridis, full of holes; a coloured scanning electron micrograph.",
+   "line2": "14 September 2021  ·  Photo: Pavel Somov  ·  CC BY 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "07-sunburst",
+   "by": "Anatoly Mikhaltsov",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Actinoptychus_maculatus.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Actinoptychus_maculatus.jpg",
+   "title": "ACTINOPTYCHUS",
+   "line1": "A fossil diatom, Actinoptychus maculatus, from Oamaru, New Zealand: 32 to 40 million years old.",
+   "line2": "2 January 2015  ·  Photo: Anatoly Mikhaltsov  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42,
+    "hide": [
+     [
+      0.8,
+      0.88,
+      1,
+      1
+     ]
+    ]
+   },
+   "panel": true
+  },
+  {
+   "file": "08-needle",
+   "by": "Anatoly Mikhaltsov",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Pinnularia_major.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Pinnularia_major.jpg",
+   "title": "PINNULARIA",
+   "line1": "The long glass shell of the diatom Pinnularia major, its ribs lit in phase contrast.",
+   "line2": "18 May 2015  ·  Photo: Anatoly Mikhaltsov  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42,
+    "hide": [
+     [
+      0.82,
+      0.88,
+      1,
+      1
+     ]
+    ]
+   },
+   "panel": true
+  },
+  {
+   "file": "09-triangle-oamaru",
+   "by": "Anatoly Mikhaltsov",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Triceratium_morlandii_var._morlandii.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Triceratium_morlandii_var._morlandii.jpg",
+   "title": "TRICERATIUM",
+   "line1": "Another three-cornered fossil diatom, Triceratium morlandii, from Oamaru, New Zealand, 32 to 40 million years old.",
+   "line2": "25 October 2014  ·  Photo: Anatoly Mikhaltsov  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42,
+    "hide": [
+     [
+      0.63,
+      0.15,
+      0.92,
+      0.33
+     ]
+    ]
+   },
+   "panel": true
+  },
+  {
+   "file": "10-auliscus",
+   "by": "Anatoly Mikhaltsov",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Auliscus_oamaruensis.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Auliscus_oamaruensis.jpg",
+   "title": "AULISCUS",
+   "line1": "A fossil diatom named after Oamaru, New Zealand, where it was found: Auliscus oamaruensis.",
+   "line2": "13 November 2015  ·  Photo: Anatoly Mikhaltsov  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42,
+    "hide": [
+     [
+      0.72,
+      0.86,
+      0.96,
+      1
+     ]
+    ]
+   },
+   "panel": true
+  },
+  {
+   "file": "11-bouquet",
+   "by": "Andrei Savitsky",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/%D0%91%D1%83%D0%BA%D0%B5%D1%82_%D0%B8%D0%B7_%D0%B4%D0%B8%D0%B0%D1%82%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D1%85_%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B5%D0%B9_Cymbella.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B5%D1%82_%D0%B8%D0%B7_%D0%B4%D0%B8%D0%B0%D1%82%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D1%85_%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B5%D0%B9_Cymbella.jpg",
+   "title": "CYMBELLA",
+   "line1": "A bunch of Cymbella diatoms, glowing on a black background.",
+   "line2": "26 April 2019  ·  Photo: Andrei Savitsky  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "12-honeycomb",
+   "by": "Anatoly Mikhaltsov",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Stephanopyxis_grunowii.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Stephanopyxis_grunowii.jpg",
+   "title": "STEPHANOPYXIS",
+   "line1": "A fossil diatom, Stephanopyxis grunowii, from below: a honeycomb of glass about 40 million years old.",
+   "line2": "5 February 2015  ·  Photo: Anatoly Mikhaltsov  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   },
+   "panel": true
+  }
+ ]
+}

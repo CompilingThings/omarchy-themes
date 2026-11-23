@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Glass House: twelve diatoms, single-celled algae in shells of glass, and two foraminifera shells, most of them
+  fossils from Oamaru (New Zealand) and the Ural Mountains, from the science photo competitions on Wikimedia Commons;
+  each set whole on its own background, scale bars painted over, dark label panels on the light backgrounds.
 - Scale Wing: eleven butterfly and moth wings up close, scale by scale (a painted lady, the large blue, the green
   hairstreak, a Patagonian moth with sunflower pollen), from the science photo competitions on Wikimedia Commons;
   blue and orange.
