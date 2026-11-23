@@ -329,6 +329,22 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `6-exposed-cranium-nebula.jpg` | NASA, ESA, CSA, STScI, J. DePasquale (STScI) | CC BY 4.0 | [source](https://esawebb.org/images/weic2605c/) |
 | `7-ic-348.jpg` | ESA/Webb, NASA, CSA, K. Luhman, C. Alves De Oliveira, M. Zamani (ESA/Webb) | CC BY 4.0 | [source](https://esawebb.org/images/weic2619a/) |
 
+## Stem Glow
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-ruscus-stem.jpg` | Anatoly Mikhaltsov | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Ruscus_aculeatus_stem_section,_2_mm_diameter.jpg) |
+| `02-bracken-vessels.jpg` | Anatoly Mikhaltsov | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Pteridium_pinetorum_ssp._sibiricum_lum.jpg) |
+| `03-uv-stem.jpg` | Mikhail Gribkov | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%A1%D1%80%D0%B5%D0%B7_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D1%83%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BE%D0%BB%D0%B5%D1%82%D0%B5.jpg) |
+| `04-rye-shoot.jpg` | Anatoly Mikhaltsov | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Secale_cereale_lum.jpg) |
+| `05-rose-stem.jpg` | Denis Kuznetsov | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%A1%D1%80%D0%B5%D0%B7_%D1%81%D1%82%D0%B5%D0%B1%D0%BB%D1%8F_%D1%80%D0%BE%D0%B7%D1%8B_%D0%93%D1%80%D0%B0%D0%BD-%D0%9F%D1%80%D0%B8.jpg) |
+| `06-pine-needle.jpg` | Anatoly Mikhaltsov | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%A1%D1%80%D0%B5%D0%B7_%D1%85%D0%B2%D0%BE%D0%B8%D0%BD%D0%BA%D0%B8_Pinus_sibirica.jpg) |
+| `07-peach-stem.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%B9_%D0%B7%D1%80%D1%96%D0%B7_%D1%81%D1%82%D0%B5%D0%B1%D0%BB%D0%B0_%D0%BF%D0%B5%D1%80%D1%81%D0%B8%D0%BA%D0%B0.jpg) |
+| `08-banana-stalk.jpg` | Alexander Klepnev | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%A7%D0%B5%D1%80%D0%B5%D1%88%D0%BE%D0%BA_%D0%B1%D0%B0%D0%BD%D0%B0%D0%BD%D0%B0.jpg) |
+| `09-pepper-leaf-stalk.jpg` | Alexander Klepnev | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%A7%D0%B5%D1%80%D0%B5%D1%88%D0%BE%D0%BA_%D0%BB%D0%B8%D1%81%D1%82%D0%B0_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B5%D1%80%D1%86%D0%B0.jpg) |
+| `10-grape-leaf-stalk.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%A1%D1%80%D0%B5%D0%B7_%D1%87%D0%B5%D1%80%D0%B5%D1%88%D0%BA%D0%B0_%D0%BB%D0%B8%D1%81%D1%82%D0%B0_%D0%B2%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%B0.jpg) |
+| `11-mulberry-stem.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%B9_%D0%B7%D1%80%D1%96%D0%B7_%D1%81%D1%82%D0%B5%D0%B1%D0%BB%D0%B0_%D1%88%D0%BE%D0%B2%D0%BA%D0%BE%D0%B2%D0%B8%D1%86%D1%96.jpg) |
+
 ## Thunderhead
 
 | Wallpaper | By | Licence | Source |

@@ -1,0 +1,49 @@
+mode = "dark"
+
+# Stem Glow: thin slices of plant stems, stalks and needles under the microscope, most glowing under blue or
+# ultraviolet light, some in polarised light: butcher's broom, bracken, rye, a rose, a pine needle, a banana leaf
+# stalk, red pepper, grape, peach and mulberry. The dark the slices glow in as the background, warm pale text, the
+# gold of the butcher's broom core as the accent, and the window border turning from it into the glowing green of
+# the banana stalk. Colours sampled from the theme's own photos.
+
+accent = "#E8C22E"
+selection = "#2C2810"
+muted = "#50553F"
+
+background = "#070805"
+dark_background = "#040503"
+darker_background = "#020201"
+lighter_background = "#161A10"
+
+foreground = "#E6E8D8"
+dark_foreground = "#8B8F78"
+light_foreground = "#C7CBB4"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the gold of the butcher's broom core turning to the glowing green of the banana stalk
+hyprland_active_border = "rgba(e8c22eff) rgba(3cc87eff) 45deg"
+hyprland_inactive_border = "rgba(171a12cc)"
+
+# red: the red rind of the rose stem, wallpaper 05
+red = "#E46A4C"
+# orange: the orange ring of the rose stem, wallpaper 05
+orange = "#F08A32"
+# yellow: the glowing core of the butcher's broom, wallpaper 01
+yellow = "#EBD04C"
+# green: the green star round the butcher's broom and the pine needle, wallpapers 01 and 06
+green = "#86C24E"
+# cyan: the cyan of the plant in ultraviolet, wallpaper 03
+cyan = "#5FB8D0"
+# blue: the blue pith of the rose stem, wallpaper 05
+blue = "#7C9DE6"
+# magenta: the violet of the grape leaf stalk, wallpaper 10
+magenta = "#AC8CDA"
+# brown: the bronze of the rye shoot's ring, wallpaper 04
+brown = "#BD9450"
+
+bright_red = "#F4B4A4"
+bright_yellow = "#F6E8A8"
+bright_green = "#C8E4A6"
+bright_cyan = "#B4E0EC"
+bright_blue = "#C0D0F4"
+bright_magenta = "#D8C8EE"

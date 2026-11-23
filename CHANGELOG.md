@@ -8,6 +8,10 @@ picture or colour a patch).
 
 ### Added
 
+- Stem Glow: eleven plant stems, stalks and a pine needle cut across under the microscope, most glowing under blue
+  or ultraviolet light, three in polarised light (butcher's broom, bracken, rye, a rose, banana, red pepper, grape,
+  peach, mulberry), by five photographers from Wikimedia Commons; gold and glow green. `src/photowall.py`'s `fit`
+  gains `"oval"`: the fade follows an oval round a round slice, so a coloured photo background shows only as a glow.
 - Die Shot: eight bare chip dies under the microscope, whole on black (a Soviet op-amp, a Fairchild video switch,
   a Holtek RS-232 driver, Winbond clock chips, a keyboard controller), all by VektorF from Wikimedia Commons;
   gold and pale cyan.

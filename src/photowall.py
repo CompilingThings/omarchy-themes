@@ -27,8 +27,10 @@ wallpapers.json: {"accent": "#rrggbb", "wallpapers": [{"file", "by", "licence", 
          0.84 keeps it inside a 3:2 screen) with its centre at "x", "y" (default 0.42, 0.5, left of centre
          so the label stays clear), on a field of the photo's own edge colour ("field": "#rrggbb" to choose it);
          its edges fade into the field over "feather" of its shorter side (default 0.15). "hide": boxes (fractions of
-         the whole photo) painted in the field colour first, for a scale bar on the plain background. "crop" then
-         applies to that 16:9 picture.
+         the whole photo) painted in the field colour first, for a scale bar on the plain background. "oval": true
+         or [inner, outer] (default 0.98, 1.15, as fractions of the oval that just fits the photo): the fade follows
+         an oval instead of the photo's box, for a round slice on a coloured background (Stem Glow's twigs), so no
+         lit box shows round it. "crop" then applies to that 16:9 picture.
 Writes <backgrounds dir>/<file>.jpg at 3840x2160 and <preview.png> (the first photo, 1280x720).
 """
 import hashlib
@@ -39,7 +41,7 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-from PIL import Image, ImageDraw, ImageFilter, ImageFont
+from PIL import Image, ImageChops, ImageDraw, ImageFilter, ImageFont
 
 Image.MAX_IMAGE_PIXELS = None          # Webb mosaics are 120+ million pixels; they are trusted NASA/ESA files
 W, H = 3840, 2160
@@ -161,6 +163,19 @@ def fit(path, dest, opt):
         t = (i + 1) / feather
         d.rectangle((i, i, nw - 1 - i, nh - 1 - i), outline=round(255 * t * t * (3 - 2 * t)))
     d.rectangle((feather, feather, nw - 1 - feather, nh - 1 - feather), fill=255)
+    if opt.get("oval"):                # a round subject on a coloured background: fade along an oval, not the box
+        r0, r1 = opt["oval"] if isinstance(opt["oval"], list) else (0.98, 1.15)
+        n = 512                        # the oval drawn small and scaled up: smooth, and fast at 4K
+        oval = Image.new("L", (n, n), 0)
+        od = ImageDraw.Draw(oval)
+        steps = 64
+        for i in range(steps + 1):     # rings from the outer edge inwards, each a little brighter (smoothstep)
+            r = r1 - (r1 - r0) * i / steps
+            t = i / steps
+            e = n / 2 * r
+            od.ellipse((n / 2 - e, n / 2 - e, n / 2 + e, n / 2 + e), fill=round(255 * t * t * (3 - 2 * t)))
+        oval = oval.resize((nw, nh), Image.BILINEAR).filter(ImageFilter.GaussianBlur(min(nw, nh) * 0.004))
+        mask = ImageChops.multiply(mask, oval)
     out = Image.new("RGB", (W, H), field)
     cx, cy = opt.get("x", 0.42), opt.get("y", 0.5)
     left = min(max(round(W * cx - nw / 2), 0), W - nw)

@@ -3,11 +3,11 @@
 [![check](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml/badge.svg)](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml)
 [![MIT licence](https://img.shields.io/badge/code-MIT-blue)](LICENSE)
 
-**Twenty-three themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
-the northern lights over Norway, mushrooms from forests round the world, insects up close, and under the microscope the animals in a drop of pond water, the same animals glowing in colour on black, crystals and slices of rock in polarised light, the bare silicon inside old chips, and insects glowing under violet light, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
+**Twenty-four themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
+the northern lights over Norway, mushrooms from forests round the world, insects up close, and under the microscope the animals in a drop of pond water, the same animals glowing in colour on black, crystals and slices of rock in polarised light, the bare silicon inside old chips, plant stems sliced thin and glowing, and insects glowing under violet light, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
 Every wallpaper is 4K and carries a small label saying what it shows and who made it.
 
-![All twenty-three themes](docs/images/gallery.jpg)
+![All twenty-four themes](docs/images/gallery.jpg)
 
 | | Theme | What it is |
 |---|---|---|
@@ -31,6 +31,7 @@ Every wallpaper is 4K and carries a small label saying what it shows and who mad
 | <img src="docs/images/snow-crystal.jpg" alt="Snow Crystal" width="240"> | [**Snow Crystal**](themes/snow-crystal/README.md) | Single snowflakes photographed through a microscope by Wilson Bentley, 1890s–1920s; plate black, print cream and icy blue |
 | <img src="docs/images/solar-max.jpg" alt="Solar Max" width="240"> | [**Solar Max**](themes/solar-max/README.md) | The Sun at its most active, flares and eclipses; solar orange |
 | <img src="docs/images/stardust.jpg" alt="Stardust" width="240"> | [**Stardust**](themes/stardust/README.md) | The clearest nebula pictures of 2026 from Webb, Hubble and Euclid; rose and gold |
+| <img src="docs/images/stem-glow.jpg" alt="Stem Glow" width="240"> | [**Stem Glow**](themes/stem-glow/README.md) | Plant stems, stalks and a pine needle sliced thin, glowing gold and green under blue light or coloured by polarised light; gold and glow green |
 | <img src="docs/images/traceroute.jpg" alt="Traceroute" width="240"> | [**Traceroute**](themes/traceroute/README.md) | A circuit board at night, one signal traced hop by hop like `traceroute`; copper and ice blue |
 | <img src="docs/images/thunderhead.jpg" alt="Thunderhead" width="240"> | [**Thunderhead**](themes/thunderhead/README.md) | Lightning at night and the clouds of big thunderstorms: shelf clouds, mammatus, a glowing anvil; lightning violet and electric blue |
 | <img src="docs/images/tranquility.jpg" alt="Tranquility" width="240"> | [**Tranquility**](themes/tranquility/README.md) | The Moon from Artemis II and Apollo; greys and Earth blue |

@@ -1,0 +1,175 @@
+{
+ "accent": "#E8C22E",
+ "wallpapers": [
+  {
+   "file": "01-ruscus-stem",
+   "by": "Anatoly Mikhaltsov",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ruscus_aculeatus_stem_section%2C_2_mm_diameter.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ruscus_aculeatus_stem_section,_2_mm_diameter.jpg",
+   "title": "BUTCHER'S BROOM",
+   "line1": "The stem of butcher's broom cut across, 2 mm wide, glowing under blue light; a panorama of 28 frames.",
+   "line2": "2 February 2017  ·  Photo: Anatoly Mikhaltsov  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "02-bracken-vessels",
+   "by": "Anatoly Mikhaltsov",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Pteridium_pinetorum_ssp._sibiricum_lum.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Pteridium_pinetorum_ssp._sibiricum_lum.jpg",
+   "title": "BRACKEN",
+   "line1": "A bundle of water pipes in the root of a bracken fern; the yellow walls are the xylem, glowing under blue light.",
+   "line2": "26 September 2018  ·  Photo: Anatoly Mikhaltsov  ·  CC BY 4.0"
+  },
+  {
+   "file": "03-uv-stem",
+   "by": "Mikhail Gribkov",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%D0%A1%D1%80%D0%B5%D0%B7_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D1%83%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BE%D0%BB%D0%B5%D1%82%D0%B5.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%80%D0%B5%D0%B7_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D1%83%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BE%D0%BB%D0%B5%D1%82%D0%B5.jpg",
+   "title": "PLANT IN ULTRAVIOLET",
+   "line1": "A slice of a plant stem glowing in ultraviolet light.",
+   "line2": "27 January 2019  ·  Photo: Mikhail Gribkov  ·  CC BY 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42,
+    "oval": true,
+    "feather": 0.04
+   }
+  },
+  {
+   "file": "04-rye-shoot",
+   "by": "Anatoly Mikhaltsov",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Secale_cereale_lum.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Secale_cereale_lum.jpg",
+   "title": "RYE",
+   "line1": "A rye shoot cut across: the straw in the middle, wrapped in the sheath of a leaf; stained and glowing.",
+   "line2": "26 September 2018  ·  Photo: Anatoly Mikhaltsov  ·  CC BY 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "05-rose-stem",
+   "by": "Denis Kuznetsov",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/%D0%A1%D1%80%D0%B5%D0%B7_%D1%81%D1%82%D0%B5%D0%B1%D0%BB%D1%8F_%D1%80%D0%BE%D0%B7%D1%8B_%D0%93%D1%80%D0%B0%D0%BD-%D0%9F%D1%80%D0%B8.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%80%D0%B5%D0%B7_%D1%81%D1%82%D0%B5%D0%B1%D0%BB%D1%8F_%D1%80%D0%BE%D0%B7%D1%8B_%D0%93%D1%80%D0%B0%D0%BD-%D0%9F%D1%80%D0%B8.jpg",
+   "title": "ROSE STEM",
+   "line1": "A slice through the stem of a Grand Prix rose, magnified 111 times.",
+   "line2": "13 December 2017  ·  Photo: Denis Kuznetsov  ·  CC BY-SA 4.0"
+  },
+  {
+   "file": "06-pine-needle",
+   "by": "Anatoly Mikhaltsov",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/%D0%A1%D1%80%D0%B5%D0%B7_%D1%85%D0%B2%D0%BE%D0%B8%D0%BD%D0%BA%D0%B8_Pinus_sibirica.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%80%D0%B5%D0%B7_%D1%85%D0%B2%D0%BE%D0%B8%D0%BD%D0%BA%D0%B8_Pinus_sibirica.jpg",
+   "title": "PINE NEEDLE",
+   "line1": "A pine needle cut across, 30 micrometres thick, stained and glowing.",
+   "line2": "26 September 2018  ·  Photo: Anatoly Mikhaltsov  ·  CC BY 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "07-peach-stem",
+   "by": "Andrei Savitsky",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/%D0%9F%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%B9_%D0%B7%D1%80%D1%96%D0%B7_%D1%81%D1%82%D0%B5%D0%B1%D0%BB%D0%B0_%D0%BF%D0%B5%D1%80%D1%81%D0%B8%D0%BA%D0%B0.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%B9_%D0%B7%D1%80%D1%96%D0%B7_%D1%81%D1%82%D0%B5%D0%B1%D0%BB%D0%B0_%D0%BF%D0%B5%D1%80%D1%81%D0%B8%D0%BA%D0%B0.jpg",
+   "title": "PEACH TWIG",
+   "line1": "A peach twig cut across in polarised light, each kind of tissue lit its own way.",
+   "line2": "17 July 2020  ·  Photo: Andrei Savitsky  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42,
+    "hide": [
+     [
+      0.86,
+      0.95,
+      1,
+      1
+     ]
+    ],
+    "field": "#04071C",
+    "feather": 0.08,
+    "oval": true
+   }
+  },
+  {
+   "file": "08-banana-stalk",
+   "by": "Alexander Klepnev",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/%D0%A7%D0%B5%D1%80%D0%B5%D1%88%D0%BE%D0%BA_%D0%B1%D0%B0%D0%BD%D0%B0%D0%BD%D0%B0.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%A7%D0%B5%D1%80%D0%B5%D1%88%D0%BE%D0%BA_%D0%B1%D0%B0%D0%BD%D0%B0%D0%BD%D0%B0.jpg",
+   "title": "BANANA STALK",
+   "line1": "The stalk of a banana leaf cut across, its pipes glowing green with acridine orange.",
+   "line2": "31 March 2018  ·  Photo: Alexander Klepnev  ·  CC BY 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "09-pepper-leaf-stalk",
+   "by": "Alexander Klepnev",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/%D0%A7%D0%B5%D1%80%D0%B5%D1%88%D0%BE%D0%BA_%D0%BB%D0%B8%D1%81%D1%82%D0%B0_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B5%D1%80%D1%86%D0%B0.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%A7%D0%B5%D1%80%D0%B5%D1%88%D0%BE%D0%BA_%D0%BB%D0%B8%D1%81%D1%82%D0%B0_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B5%D1%80%D1%86%D0%B0.jpg",
+   "title": "RED PEPPER",
+   "line1": "The stalk of a red pepper leaf cut across, glowing with acridine orange.",
+   "line2": "9 December 2018  ·  Photo: Alexander Klepnev  ·  CC BY 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "10-grape-leaf-stalk",
+   "by": "Andrei Savitsky",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/%D0%A1%D1%80%D0%B5%D0%B7_%D1%87%D0%B5%D1%80%D0%B5%D1%88%D0%BA%D0%B0_%D0%BB%D0%B8%D1%81%D1%82%D0%B0_%D0%B2%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%B0.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%80%D0%B5%D0%B7_%D1%87%D0%B5%D1%80%D0%B5%D1%88%D0%BA%D0%B0_%D0%BB%D0%B8%D1%81%D1%82%D0%B0_%D0%B2%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%B0.jpg",
+   "title": "GRAPE LEAF STALK",
+   "line1": "The stalk of a grape leaf cut across, in dark field and polarised light.",
+   "line2": "31 May 2019  ·  Photo: Andrei Savitsky  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "11-mulberry-stem",
+   "by": "Andrei Savitsky",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/%D0%9F%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%B9_%D0%B7%D1%80%D1%96%D0%B7_%D1%81%D1%82%D0%B5%D0%B1%D0%BB%D0%B0_%D1%88%D0%BE%D0%B2%D0%BA%D0%BE%D0%B2%D0%B8%D1%86%D1%96.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%B9_%D0%B7%D1%80%D1%96%D0%B7_%D1%81%D1%82%D0%B5%D0%B1%D0%BB%D0%B0_%D1%88%D0%BE%D0%B2%D0%BA%D0%BE%D0%B2%D0%B8%D1%86%D1%96.jpg",
+   "title": "MULBERRY TWIG",
+   "line1": "A mulberry twig cut across in polarised light.",
+   "line2": "17 July 2020  ·  Photo: Andrei Savitsky  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.42,
+    "hide": [
+     [
+      0.86,
+      0.95,
+      1,
+      1
+     ]
+    ],
+    "field": "#04071C",
+    "feather": 0.08,
+    "oval": true
+   }
+  }
+ ]
+}
