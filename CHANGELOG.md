@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Prism: fourteen photos of crystals under the microscope in polarised light (citric acid, vitamin C, aspirin,
+  sulfur, succinic acid, beta-alanine, caesium chloride, a glycerol film) from Wikimedia Commons featured pictures
+  and science photo competitions; sulfur magenta and citric yellow.
 - Pond Drop: thirteen Commons featured pictures of the animals in a drop of pond water under the microscope
   (water fleas, copepods, seed shrimp, water mites, midge larvae, a moss animal's statoblast), ten of them by Janek
   Lass from ponds in Rakvere, Estonia; dark-field black, water-flea teal and brood amber. `src/photowall.py` gains a
@@ -31,6 +34,8 @@ picture or colour a patch).
 
 ### Fixed
 
+- `src/photowall.py`: a download whose file name is too long for the file system (a long Cyrillic title is about
+  400 bytes once percent-encoded) is kept under a shortened name with a hash; shorter names are unchanged.
 - `src/photowall.py`: a very large JPEG decoded at reduced size could put the crop box a fraction of a pixel
   past the bottom edge and stop the build; width and height now scale on their own.
 

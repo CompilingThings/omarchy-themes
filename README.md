@@ -3,11 +3,11 @@
 [![check](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml/badge.svg)](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml)
 [![MIT licence](https://img.shields.io/badge/code-MIT-blue)](LICENSE)
 
-**Eighteen themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
-the northern lights over Norway, mushrooms from forests round the world, insects up close, the animals in a drop of pond water under the microscope, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
+**Nineteen themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
+the northern lights over Norway, mushrooms from forests round the world, insects up close, the animals in a drop of pond water and crystals in polarised light under the microscope, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
 Every wallpaper is 4K and carries a small label saying what it shows and who made it.
 
-![All eighteen themes](docs/images/gallery.jpg)
+![All nineteen themes](docs/images/gallery.jpg)
 
 | | Theme | What it is |
 |---|---|---|
@@ -21,6 +21,7 @@ Every wallpaper is 4K and carries a small label saying what it shows and who mad
 | <img src="docs/images/low-orbit.jpg" alt="Low Orbit" width="240"> | [**Low Orbit**](themes/low-orbit/README.md) | Earth from the Space Station, plus a turning Earth as a video wallpaper; sea green |
 | <img src="docs/images/nordlys.jpg" alt="Nordlys" width="240"> | [**Nordlys**](themes/nordlys/README.md) | The northern lights seen from Norway, Lofoten to Svalbard; aurora green and violet |
 | <img src="docs/images/pond-drop.jpg" alt="Pond Drop" width="240"> | [**Pond Drop**](themes/pond-drop/README.md) | Water fleas, copepods, seed shrimp and water mites from a drop of pond water, under the microscope; dark-field black, water-flea teal and amber |
+| <img src="docs/images/prism.jpg" alt="Prism" width="240"> | [**Prism**](themes/prism/README.md) | Crystals of citric acid, vitamin C, aspirin and sulfur under the microscope, coloured by polarised light; sulfur magenta and citric yellow |
 | <img src="docs/images/red-planet.jpg" alt="Red Planet" width="240"> | [**Red Planet**](themes/red-planet/README.md) | Mars from its rovers and orbiters; rust and dust |
 | <img src="docs/images/seahorse-valley.jpg" alt="Seahorse Valley" width="240"> | [**Seahorse Valley**](themes/seahorse-valley/README.md) | Nine fractals, each in the colours of one of Omarchy's own themes; Tokyo Night |
 | <img src="docs/images/snow-crystal.jpg" alt="Snow Crystal" width="240"> | [**Snow Crystal**](themes/snow-crystal/README.md) | Single snowflakes photographed through a microscope by Wilson Bentley, 1890s–1920s; plate black, print cream and icy blue |

@@ -1,0 +1,48 @@
+mode = "dark"
+
+# Prism: crystals under the microscope in polarised light: citric acid, vitamin C, aspirin, sulfur, amino acids
+# and salts. The crystals are clear; the colours come from the light, split as it passes through them. The black
+# between crossed polarisers as the background, pale text, the magenta of growing sulfur as the accent, and the
+# window border turning from it into the yellow of citric acid. Colours sampled from the theme's own photos.
+
+accent = "#F072E0"
+selection = "#2A1A33"
+muted = "#524B5E"
+
+background = "#09080D"
+dark_background = "#06050A"
+darker_background = "#030305"
+lighter_background = "#15121C"
+
+foreground = "#ECE8F0"
+dark_foreground = "#8D8898"
+light_foreground = "#C9C4D1"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the magenta of growing sulfur turning to the yellow of citric acid
+hyprland_active_border = "rgba(f072e0ff) rgba(e6d53aff) 45deg"
+hyprland_inactive_border = "rgba(1c1826cc)"
+
+# red: the red rings of the glycerol films, wallpaper 07
+red = "#E95B5C"
+# orange: the orange bands of the vitamin C rosettes, wallpaper 10
+orange = "#FC954F"
+# yellow: citric acid, wallpaper 01
+yellow = "#E6D53A"
+# green: the green of growing sulfur, wallpaper 04
+green = "#50EA82"
+# cyan: the cyan centres of the vitamin C rosettes
+cyan = "#41D9FA"
+# blue: the blue of the vitamin C rosettes
+blue = "#6A9DF0"
+# magenta: the violet of the vitamin C rosettes
+magenta = "#C46FDB"
+# brown: the warm brown of caesium chloride, wallpaper 02
+brown = "#AA7750"
+
+bright_red = "#F59C9C"
+bright_yellow = "#F2EB9E"
+bright_green = "#A2F2BC"
+bright_cyan = "#9EE9FC"
+bright_blue = "#A9C6F6"
+bright_magenta = "#E2B5EE"

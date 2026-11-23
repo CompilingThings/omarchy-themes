@@ -176,6 +176,25 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `12-water-mite.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Water_mite_(Hydrachnidia)_dorsal_view_under_microscope.jpg) |
 | `13-copepod.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Aerjalgne.jpg) |
 
+## Prism
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-citric-acid.jpg` | Alexander Klepnev | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_5.jpg) |
+| `02-caesium-chloride.jpg` | KarlGaff | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Caesium_Chloride.jpg) |
+| `03-vitamin-c-tiles.jpg` | Veronika Kirillova | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%90%D1%81%D0%BA%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0.JPG) |
+| `04-sulfur.jpg` | AlexmarPhAHoto | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Crystals_growing_from_melted_sulfur.jpg) |
+| `05-aspirin.jpg` | Alexander Klepnev | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D1%8B_%D0%B0%D1%81%D0%BF%D0%B8%D1%80%D0%B8%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%BE%D0%BC.jpg) |
+| `06-succinic-acid.jpg` | Kirill Mikhailyuk | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D1%8B_%D1%8F%D0%BD%D1%82%D0%B0%D1%80%D0%BD%D0%BE%D0%B9_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D1%8B.jpg) |
+| `07-thin-films.jpg` | Anatoly Mikhaltsov | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%B2_%D1%82%D0%BE%D0%BD%D0%BA%D0%B8%D1%85_%D0%BF%D0%BB%D1%91%D0%BD%D0%BA%D0%B0%D1%85.jpg) |
+| `08-citric-acid-star.jpg` | Alexander Klepnev | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_8.jpg) |
+| `09-beta-alanine.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Beta-alaniini_kristallid_polariseeritud_valguses.jpg) |
+| `10-aspirin-rosettes.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D1%8B_%D0%B0%D1%81%D0%BF%D0%B8%D1%80%D0%B8%D0%BD%D0%B0_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%BC_%D1%81%D0%B2%D0%B5%D1%82%D0%B5.jpg) |
+| `11-vitamin-c.jpg` | Anatoly Mikhaltsov | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D1%8B_%D0%B0%D1%81%D0%BA%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D1%8B.jpg) |
+| `12-citric-acid-film.jpg` | Alexander Klepnev | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_7.tif) |
+| `13-aspirin-2.jpg` | Alexander Klepnev | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D1%8B_%D0%B0%D1%81%D0%BF%D0%B8%D1%80%D0%B8%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%BE%D0%BC-2.jpg) |
+| `14-blue-flame.jpg` | SergRussu | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B8%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BB%D0%B0%D0%BC%D1%8F.jpg) |
+
 ## Red Planet
 
 | Wallpaper | By | Licence | Source |

@@ -8,7 +8,8 @@ wallpapers.json: {"accent": "#rrggbb", "wallpapers": [{"file", "by", "licence", 
   file   output name without extension ("1-cosmic-cliffs")
   by, licence   the credit and its SPDX licence (for CREDITS.md and REUSE.toml, see tools/credits.py; not drawn)
   format optional: a wallpaper made by another script ("mp4", "png"); photowall.py leaves it alone
-  url    the full-size picture; downloaded once into <cache dir>/src (kept under the link's own file name)
+  url    the full-size picture; downloaded once into <cache dir>/src (kept under the link's own file name, shortened
+         with a hash when it is too long for a file name)
   local  instead of url: a picture already in <cache dir>/src (one drawn here, like the fractals of Seahorse Valley)
   page   where the picture and its facts come from (for the README, not drawn)
   title, line1, line2   the label (bottom right): name, one line in plain words, then who took it, when, credit
@@ -32,6 +33,7 @@ Writes <backgrounds dir>/<file>.jpg at 3840x2160 and <preview.png> (the first ph
 """
 import hashlib
 import json
+import os
 import sys
 import urllib.parse
 import urllib.request
@@ -47,6 +49,16 @@ S = W / 2560                           # label sizes are set for a 2560-wide scr
 # the 3:2 view so every common laptop shows them whole.
 SAFE = 1 - (3 / 2) / (16 / 9)          # the share of the width a 3:2 screen does not show (both sides together)
 SANS = "/usr/share/fonts/gsfonts/NimbusSans-{}.otf"
+
+
+def cache_name(url):
+    """The link's own file name; a very long one (a long Cyrillic title is ~400 bytes percent-encoded, past the
+    255-byte limit of a file name) keeps its start and gets a short hash of the whole name."""
+    name = Path(urllib.parse.urlparse(url).path).name
+    if len(name.encode()) <= 200:
+        return name
+    stem, ext = os.path.splitext(name)
+    return f"{stem[:120]}-{hashlib.sha1(name.encode()).hexdigest()[:10]}{ext}"
 
 
 def fetch(url, dest):
@@ -245,7 +257,7 @@ def main(spec, cache, out, preview):
             old.unlink()
     for i, p in enumerate(photos):
         src = (cache / "src" / p["local"] if "local" in p else
-               fetch(p["url"], cache / "src" / Path(urllib.parse.urlparse(p["url"]).path).name))
+               fetch(p["url"], cache / "src" / cache_name(p["url"])))
         if p.get("plate"):
             src = plate(src, cache / "plates" / f"{src.stem}.png")
         if p.get("fit"):               # named after the settings too, so a changed "fit" is made again
