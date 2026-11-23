@@ -549,6 +549,102 @@ SPDX-FileCopyrightText = "NASA/JPL/Space Science Institute"
 SPDX-License-Identifier = "LicenseRef-NASA-Media"
 
 [[annotations]]
+path = "themes/lantern/backgrounds/01-moth.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Alexander Klepnev"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/lantern/backgrounds/02-ladybird.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Alexander Klepnev"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/lantern/backgrounds/03-ant-antennae.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Alexander Klepnev"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/lantern/backgrounds/04-fly.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Alexander Klepnev"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/lantern/backgrounds/05-green-shield-bug.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Alexander Klepnev"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/lantern/backgrounds/06-ant-side.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Alexander Klepnev"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/lantern/backgrounds/07-fly-green-eyes.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Alexander Klepnev"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/lantern/backgrounds/08-scorpionfly.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Alexander Klepnev"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/lantern/backgrounds/09-fly-face.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Alexander Klepnev"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/lantern/backgrounds/10-ant-face.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Alexander Klepnev"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/lantern/backgrounds/11-soldier-beetle.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Alexander Klepnev"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/lantern/backgrounds/12-long-legged-fly.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Alexander Klepnev"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/lantern/backgrounds/13-fly-blue-eyes.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Alexander Klepnev"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/lantern/backgrounds/14-ant-profile.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Alexander Klepnev"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/lantern/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "Alexander Klepnev"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "docs/images/lantern.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Alexander Klepnev"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
 path = "themes/low-orbit/backgrounds/0-earth-turning.mp4"
 precedence = "override"
 SPDX-FileCopyrightText = "CompilingThings; maps: NASA Blue Marble and Black Marble 2016; clouds: Solar System Scope"

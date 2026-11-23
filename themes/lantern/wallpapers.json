@@ -1,0 +1,171 @@
+{
+ "accent": "#9BE83C",
+ "wallpapers": [
+  {
+   "file": "01-moth",
+   "by": "Alexander Klepnev",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0_%D0%BC%D0%BE%D1%82%D1%8B%D0%BB%D1%8C%D0%BA%D0%B0.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0_%D0%BC%D0%BE%D1%82%D1%8B%D0%BB%D1%8C%D0%BA%D0%B0.jpg",
+   "title": "MOTH",
+   "line1": "A moth's head glowing on its own under violet light; no dye is used.",
+   "line2": "5 August 2018  ·  Photo: Alexander Klepnev  ·  CC BY 4.0",
+   "fit": true
+  },
+  {
+   "file": "02-ladybird",
+   "by": "Alexander Klepnev",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/%D0%91%D0%BE%D0%B6%D1%8C%D1%8F_%D0%BA%D0%BE%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%28%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D0%B6%D1%8C%D1%8F_%D0%BA%D0%BE%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_(%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0).jpg",
+   "title": "LADYBIRD",
+   "line1": "The head of a ladybird, glowing under violet light in a fluorescence microscope.",
+   "line2": "17 July 2018  ·  Photo: Alexander Klepnev  ·  CC BY 4.0",
+   "fit": true
+  },
+  {
+   "file": "03-ant-antennae",
+   "by": "Alexander Klepnev",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/%D0%9C%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D1%80%D0%B0%D0%B2%D0%B5%D0%B9.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D1%80%D0%B0%D0%B2%D0%B5%D0%B9.jpg",
+   "title": "ANT",
+   "line1": "A small ant, its own glow under violet light, stitched from many photos.",
+   "line2": "3 July 2018  ·  Photo: Alexander Klepnev  ·  CC BY 4.0",
+   "fit": {
+    "h": 0.9,
+    "w": 0.84,
+    "x": 0.5
+   }
+  },
+  {
+   "file": "04-fly",
+   "by": "Alexander Klepnev",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0_%D0%BC%D1%83%D1%85%D0%B8._%D0%90%D0%B2%D1%82%D0%BE%D1%84%D0%BB%D1%83%D0%BE%D1%80%D0%B5%D1%81%D1%86%D0%B5%D0%BD%D1%86%D0%B8%D1%8F.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0_%D0%BC%D1%83%D1%85%D0%B8._%D0%90%D0%B2%D1%82%D0%BE%D1%84%D0%BB%D1%83%D0%BE%D1%80%D0%B5%D1%81%D1%86%D0%B5%D0%BD%D1%86%D0%B8%D1%8F.jpg",
+   "title": "FLY",
+   "line1": "A fly's head: the big eyes glow gold under violet light.",
+   "line2": "4 August 2018  ·  Photo: Alexander Klepnev  ·  CC BY 4.0",
+   "fit": true
+  },
+  {
+   "file": "05-green-shield-bug",
+   "by": "Alexander Klepnev",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/%D0%A9%D0%B8%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9_%D0%B4%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B9.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%A9%D0%B8%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9_%D0%B4%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B9.jpg",
+   "title": "GREEN SHIELD BUG",
+   "line1": "The head of a green shield bug, glowing on its own under violet light.",
+   "line2": "5 August 2018  ·  Photo: Alexander Klepnev  ·  CC BY 4.0",
+   "fit": true
+  },
+  {
+   "file": "06-ant-side",
+   "by": "Alexander Klepnev",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/%D0%9C%D1%83%D1%80%D0%B0%D0%B2%D0%B5%D0%B9.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D1%83%D1%80%D0%B0%D0%B2%D0%B5%D0%B9.jpg",
+   "title": "ANT",
+   "line1": "An ant from the side under a fluorescence microscope; every hair glows on its own.",
+   "line2": "15 June 2018  ·  Photo: Alexander Klepnev  ·  CC BY 4.0"
+  },
+  {
+   "file": "07-fly-green-eyes",
+   "by": "Alexander Klepnev",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B5%D1%81%D1%81%D0%B0.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B5%D1%81%D1%81%D0%B0.jpg",
+   "title": "FLY",
+   "line1": "A fly's head under a fluorescence microscope, no dye: the eyes glow, every facet shows.",
+   "line2": "22 August 2015  ·  Photo: Alexander Klepnev  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 1.0,
+    "x": 0.45
+   }
+  },
+  {
+   "file": "08-scorpionfly",
+   "by": "Alexander Klepnev",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/%D0%A1%D0%BA%D0%BE%D1%80%D0%BF%D0%B8%D0%BE%D0%BD%D0%B8%D1%86%D0%B0.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BA%D0%BE%D1%80%D0%BF%D0%B8%D0%BE%D0%BD%D0%B8%D1%86%D0%B0.jpg",
+   "title": "SCORPIONFLY",
+   "line1": "The long beak-like head of a scorpionfly, glowing under violet light.",
+   "line2": "22 June 2018  ·  Photo: Alexander Klepnev  ·  CC BY 4.0",
+   "fit": {
+    "h": 0.98,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "09-fly-face",
+   "by": "Alexander Klepnev",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0_%D0%BC%D1%83%D1%85%D0%B8_%28%D0%B2%D0%B8%D0%B4_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0_%D0%BC%D1%83%D1%85%D0%B8_(%D0%B2%D0%B8%D0%B4_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83).jpg",
+   "title": "FLY",
+   "line1": "A fly's head seen from the front, glowing under ultraviolet light.",
+   "line2": "9 June 2018  ·  Photo: Alexander Klepnev  ·  CC BY 4.0",
+   "fit": true
+  },
+  {
+   "file": "10-ant-face",
+   "by": "Alexander Klepnev",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/%D0%9C%D1%83%D1%80%D0%B0%D0%B2%D0%B5%D0%B9_%28%D1%81_%D1%83%D1%81%D0%B0%D0%BC%D0%B8%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D1%83%D1%80%D0%B0%D0%B2%D0%B5%D0%B9_(%D1%81_%D1%83%D1%81%D0%B0%D0%BC%D0%B8).jpg",
+   "title": "ANT",
+   "line1": "An ant's head and antennae, glowing on their own under ultraviolet light.",
+   "line2": "10 June 2018  ·  Photo: Alexander Klepnev  ·  CC BY 4.0",
+   "fit": true
+  },
+  {
+   "file": "11-soldier-beetle",
+   "by": "Alexander Klepnev",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/%D0%9C%D1%8F%D0%B3%D0%BA%D0%BE%D1%82%D0%B5%D0%BB%D0%BA%D0%B0_%28%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D1%8F%D0%B3%D0%BA%D0%BE%D1%82%D0%B5%D0%BB%D0%BA%D0%B0_(%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0).jpg",
+   "title": "SOLDIER BEETLE",
+   "line1": "The head of a soldier beetle (Cantharidae), glowing under ultraviolet light.",
+   "line2": "10 June 2018  ·  Photo: Alexander Klepnev  ·  CC BY 4.0",
+   "fit": true
+  },
+  {
+   "file": "12-long-legged-fly",
+   "by": "Alexander Klepnev",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D0%9C%D1%83%D1%85%D0%B0_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%83%D1%88%D0%BA%D0%B0.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D1%83%D1%85%D0%B0_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%83%D1%88%D0%BA%D0%B0.jpg",
+   "title": "LONG-LEGGED FLY",
+   "line1": "A long-legged fly (Dolichopodidae) under a fluorescence microscope; its striped eyes glow.",
+   "line2": "12 July 2018  ·  Photo: Alexander Klepnev  ·  CC BY 4.0",
+   "fit": true
+  },
+  {
+   "file": "13-fly-blue-eyes",
+   "by": "Alexander Klepnev",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Flyfluo.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Flyfluo.jpg",
+   "title": "FLY",
+   "line1": "A fly stained with acridine orange and lit with ultraviolet light: the eyes turn ice blue.",
+   "line2": "5 November 2015  ·  Photo: Alexander Klepnev  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 1.0,
+    "x": 0.45
+   }
+  },
+  {
+   "file": "14-ant-profile",
+   "by": "Alexander Klepnev",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0_%D0%BC%D1%83%D1%80%D0%B0%D0%B2%D1%8C%D1%8F.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0_%D0%BC%D1%83%D1%80%D0%B0%D0%B2%D1%8C%D1%8F.jpg",
+   "title": "ANT",
+   "line1": "An ant's head from the side, glowing under violet light; the eye glows green.",
+   "line2": "13 June 2018  ·  Photo: Alexander Klepnev  ·  CC BY 4.0",
+   "fit": true
+  }
+ ]
+}

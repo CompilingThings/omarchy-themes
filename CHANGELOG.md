@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Lantern: fourteen insect heads glowing on their own under a fluorescence microscope (ants, flies, a moth, a
+  ladybird, a green shield bug, a soldier beetle, a scorpionfly), all by Alexander Klepnev from Wikimedia Commons;
+  eye green and shell gold.
 - Prism: fourteen photos of crystals under the microscope in polarised light (citric acid, vitamin C, aspirin,
   sulfur, succinic acid, beta-alanine, caesium chloride, a glycerol film) from Wikimedia Commons featured pictures
   and science photo competitions; sulfur magenta and citric yellow.

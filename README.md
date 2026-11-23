@@ -3,11 +3,11 @@
 [![check](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml/badge.svg)](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml)
 [![MIT licence](https://img.shields.io/badge/code-MIT-blue)](LICENSE)
 
-**Nineteen themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
-the northern lights over Norway, mushrooms from forests round the world, insects up close, the animals in a drop of pond water and crystals in polarised light under the microscope, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
+**Twenty themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
+the northern lights over Norway, mushrooms from forests round the world, insects up close, and under the microscope the animals in a drop of pond water, crystals in polarised light and insects glowing under violet light, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
 Every wallpaper is 4K and carries a small label saying what it shows and who made it.
 
-![All nineteen themes](docs/images/gallery.jpg)
+![All twenty themes](docs/images/gallery.jpg)
 
 | | Theme | What it is |
 |---|---|---|
@@ -18,6 +18,7 @@ Every wallpaper is 4K and carries a small label saying what it shows and who mad
 | <img src="docs/images/deep-sea.jpg" alt="Deep Sea" width="240"> | [**Deep Sea**](themes/deep-sea/README.md) | Jellyfish and comb jellies lit in dark water, and an isopod from 900 m down; glowing blue and bluefire purple |
 | <img src="docs/images/fairy-ring.jpg" alt="Fairy Ring" width="240"> | [**Fairy Ring**](themes/fairy-ring/README.md) | Mushrooms from forests round the world: fly agarics, glowing fungi, amethyst deceivers; fly agaric red and amethyst |
 | <img src="docs/images/grand-tour.jpg" alt="Grand Tour" width="240"> | [**Grand Tour**](themes/grand-tour/README.md) | Saturn, Jupiter, Io, Europa and Pluto from Cassini, Juno and New Horizons; teal |
+| <img src="docs/images/lantern.jpg" alt="Lantern" width="240"> | [**Lantern**](themes/lantern/README.md) | Insect heads glowing on their own under a fluorescence microscope: ants, flies, a moth, a ladybird; eye green and shell gold |
 | <img src="docs/images/low-orbit.jpg" alt="Low Orbit" width="240"> | [**Low Orbit**](themes/low-orbit/README.md) | Earth from the Space Station, plus a turning Earth as a video wallpaper; sea green |
 | <img src="docs/images/nordlys.jpg" alt="Nordlys" width="240"> | [**Nordlys**](themes/nordlys/README.md) | The northern lights seen from Norway, Lofoten to Svalbard; aurora green and violet |
 | <img src="docs/images/pond-drop.jpg" alt="Pond Drop" width="240"> | [**Pond Drop**](themes/pond-drop/README.md) | Water fleas, copepods, seed shrimp and water mites from a drop of pond water, under the microscope; dark-field black, water-flea teal and amber |

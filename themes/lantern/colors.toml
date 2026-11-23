@@ -1,0 +1,48 @@
+mode = "dark"
+
+# Lantern: insect heads under a fluorescence microscope, glowing on their own under violet and ultraviolet light:
+# ants, flies, moths, a ladybird, shield bugs and a scorpionfly, almost all by Alexander Klepnev. The black of the
+# microscope as the background, warm pale text, the green glow of the compound eyes as the accent, and the window
+# border turning from it into the gold of a glowing shell. Colours sampled from the theme's own photos.
+
+accent = "#A6E61E"
+selection = "#262A12"
+muted = "#56523C"
+
+background = "#080806"
+dark_background = "#050504"
+darker_background = "#030302"
+lighter_background = "#16150F"
+
+foreground = "#F0EAD2"
+dark_foreground = "#918A70"
+light_foreground = "#CDC6AC"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the green glow of an insect's eye turning to the gold of its shell
+hyprland_active_border = "rgba(a6e61eff) rgba(eab01eff) 45deg"
+hyprland_inactive_border = "rgba(1c1b12cc)"
+
+# red: the orange-red specks on the stained fly, wallpaper 13
+red = "#E8603A"
+# orange: the moth's glowing fur, wallpaper 01
+orange = "#E69A2E"
+# yellow: the gold eyes of the fly, wallpaper 04
+yellow = "#EAD511"
+# green: the green eyes of the fly seen from the front, wallpaper 09
+green = "#7FD12E"
+# cyan: the ice-blue eyes of the stained fly, wallpaper 13
+cyan = "#8ED6D9"
+# blue: a cooler shade of those eyes, for contrast
+blue = "#7FA6F0"
+# magenta: a soft violet, the colour of the light that makes them glow
+magenta = "#D08BD6"
+# brown: the fly's dark gold, wallpaper 04
+brown = "#A57015"
+
+bright_red = "#F49C82"
+bright_yellow = "#F4EA8C"
+bright_green = "#BDEB8C"
+bright_cyan = "#C1EBEC"
+bright_blue = "#B7CCF6"
+bright_magenta = "#E7C3EA"
