@@ -301,6 +301,22 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `7-husband-hill.jpg` | NASA/JPL/Cornell | NASA media guidelines | [source](https://science.nasa.gov/photojournal/lookout-panorama-from-spirit/) |
 | `8-valles-marineris.jpg` | NASA/JPL/USGS | NASA media guidelines | [source](https://science.nasa.gov/photojournal/valles-marineris-hemisphere/) |
 
+## Scale Wing
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-painted-lady.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Detalle_de_alas_de_la_mariposa_Dama_Pintada_de_la_Patagonia_Argentina.jpg) |
+| `02-large-blue.jpg` | MicrocosmicWorld | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Large_Blue_Butterfly_Wing_at_5%C3%97_Magnification.jpg) |
+| `03-moth-pollen.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Detalle_de_escamas_de_ala_de_polilla_con_polen_de_girasol.jpg) |
+| `04-green-hairstreak.jpg` | Mikron86 | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:%C5%81uski_na_skrzydle_motyla.jpg) |
+| `05-wing-scales.jpg` | Massimo Brizzi | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Ala_farfalla_copiaxxx.jpg) |
+| `06-owlet-yellow.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Escamas_amarillas_de_ala_polilla_patag%C3%B3nica_ojitos_del_sur.jpg) |
+| `07-orange-wing.jpg` | Kirill Mikhaylyuk | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:MKA0004.jpg) |
+| `08-blue-shimmer.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Coloraci%C3%B3n_estructural_azul_en_alas_de_mariposa.jpg) |
+| `09-owlet-pollen.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Polen_sobre_escamas_de_mancha_amarilla_del_ala_de_la_polilla_oitos_del_sur.jpg) |
+| `10-owlet-pink.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Escamas_rosadas_de_ala_de_mariposa_de_polilla_Ojitos_del_Sur_de_la_Patagonia_Argentina.jpg) |
+| `11-wing-edge.jpg` | Kirill Mikhaylyuk | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:MKA0003.jpg) |
+
 ## Seahorse Valley
 
 | Wallpaper | By | Licence | Source |

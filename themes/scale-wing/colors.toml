@@ -1,0 +1,49 @@
+mode = "dark"
+
+# Scale Wing (the meaning of Lepidoptera, the order of butterflies and moths): their wings up close, where the
+# colour turns out to be thousands of tiny overlapping scales: a painted lady's eyespots, the large blue and the
+# green hairstreak, a Patagonian moth with sunflower pollen caught on its scales. The dark of the wing's black
+# scales as the background, warm pale text, the blue of the large blue as the accent, and the window border turning
+# from it into the orange of the painted lady. Colours sampled from the theme's own photos.
+
+accent = "#4FA0E8"
+selection = "#172A3D"
+muted = "#5C564E"
+
+background = "#0A0806"
+dark_background = "#060504"
+darker_background = "#030202"
+lighter_background = "#1C1813"
+
+foreground = "#EEE8DE"
+dark_foreground = "#958D82"
+light_foreground = "#D0C8BC"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the blue of the large blue turning to the orange of the painted lady
+hyprland_active_border = "rgba(4fa0e8ff) rgba(f0962aff) 45deg"
+hyprland_inactive_border = "rgba(1c1813cc)"
+
+# red: the pink-red scales of the Southern Owlet, wallpaper 10
+red = "#D8406A"
+# orange: the orange of the painted lady's wing, wallpaper 01
+orange = "#F0962A"
+# yellow: the sunflower pollen on the moth's yellow spot, wallpaper 09
+yellow = "#E8C02E"
+# green: the green hairstreak's scales, wallpaper 04
+green = "#4CC85A"
+# cyan: the shimmering blue-green patch, wallpaper 08
+cyan = "#3EC2D8"
+# blue: the large blue's scales, wallpaper 02
+blue = "#4FA0E8"
+# magenta: the magenta moth scales under the pollen, wallpaper 03
+magenta = "#C84AA0"
+# brown: the ribbed rust-brown scales, wallpaper 05
+brown = "#B86A30"
+
+bright_red = "#F0AABD"
+bright_yellow = "#F6E3A2"
+bright_green = "#AEE6B4"
+bright_cyan = "#A8E4EE"
+bright_blue = "#B2D4F6"
+bright_magenta = "#E8B0D6"

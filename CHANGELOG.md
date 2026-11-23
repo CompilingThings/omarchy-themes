@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Scale Wing: eleven butterfly and moth wings up close, scale by scale (a painted lady, the large blue, the green
+  hairstreak, a Patagonian moth with sunflower pollen), from the science photo competitions on Wikimedia Commons;
+  blue and orange.
 - Front Line: eleven immune cells and the germs they meet under the electron microscope, coloured by NIAID
   (natural killer cells, T cells, B cells, an HIV-infected T cell, MRSA, Klebsiella, malaria); green and violet.
 - Viral: eleven viruses under the electron microscope, coloured by NIAID (the coronavirus behind COVID-19 and
