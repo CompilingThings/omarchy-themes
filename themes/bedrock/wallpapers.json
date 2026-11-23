@@ -1,0 +1,110 @@
+{
+ "accent": "#E0A030",
+ "wallpapers": [
+  {
+   "file": "01-olivine",
+   "by": "Strekeisen",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Olivine_in_basalt.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Olivine_in_basalt.JPG",
+   "title": "OLIVINE IN BASALT",
+   "line1": "One perfectly shaped olivine crystal in a slice of basalt, between crossed polarisers; 2 mm across.",
+   "line2": "21 April 2011  ·  Photo: Strekeisen  ·  CC BY-SA 4.0"
+  },
+  {
+   "file": "02-serpentine-vein",
+   "by": "Strekeisen",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Yellow_line.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Yellow_line.JPG",
+   "title": "SERPENTINE VEIN",
+   "line1": "A yellow vein of serpentine crossing grey serpentine, crossed polarisers; 1 mm across.",
+   "line2": "6 November 2014  ·  Photo: Strekeisen  ·  CC BY-SA 4.0"
+  },
+  {
+   "file": "03-kyanite",
+   "by": "Strekeisen",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Twinned_Kyanite.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Twinned_Kyanite.JPG",
+   "title": "KYANITE",
+   "line1": "A twinned kyanite crystal, its two halves lit in different colours; crossed polarisers, 7 mm across.",
+   "line2": "7 May 2015  ·  Photo: Strekeisen  ·  CC BY-SA 4.0"
+  },
+  {
+   "file": "04-wehrlite",
+   "by": "Strekeisen",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Wherlite.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Wherlite.JPG",
+   "title": "WEHRLITE",
+   "line1": "Wehrlite, an igneous rock made mostly of olivine and pyroxene; crossed polarisers, 7 mm across.",
+   "line2": "7 May 2015  ·  Photo: Strekeisen  ·  CC BY-SA 4.0"
+  },
+  {
+   "file": "05-myrmekite",
+   "by": "Strekeisen",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Myrmekite.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Myrmekite.JPG",
+   "title": "MYRMEKITE",
+   "line1": "Branching worm-like rods of quartz grown inside a plagioclase crystal; crossed polarisers, 2 mm across.",
+   "line2": "24 July 2014  ·  Photo: Strekeisen  ·  CC BY-SA 4.0"
+  },
+  {
+   "file": "06-piemontite",
+   "by": "Strekeisen",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Piemontite_Epidote.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Piemontite_Epidote.JPG",
+   "title": "PIEMONTITE",
+   "line1": "Pink and yellow piemontite crystals from the Apuan Alps, Italy, in plain light; 7 mm across.",
+   "line2": "5 June 2013  ·  Photo: Strekeisen  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.33,
+    1.3
+   ]
+  },
+  {
+   "file": "07-mylonite",
+   "by": "Strekeisen",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Peridotitic_Mylonite.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Peridotitic_Mylonite.JPG",
+   "title": "PERIDOTITE MYLONITE",
+   "line1": "A peridotite bent and broken by a fault running through its middle; crossed polarisers, 7 mm across.",
+   "line2": "5 August 2014  ·  Photo: Strekeisen  ·  CC BY-SA 4.0"
+  },
+  {
+   "file": "08-rutile-in-biotite",
+   "by": "Strekeisen",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sagenitic_biotite.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Sagenitic_biotite.JPG",
+   "title": "RUTILE IN BIOTITE",
+   "line1": "Fine needles of rutile crossing at 60 degrees inside a biotite crystal.",
+   "line2": "21 April 2011  ·  Photo: Strekeisen  ·  CC BY-SA 4.0"
+  },
+  {
+   "file": "09-wehrlite-2",
+   "by": "Strekeisen",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Violet_dot.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Violet_dot.JPG",
+   "title": "WEHRLITE",
+   "line1": "Olivine grains in pyroxene, in a wehrlite; crossed polarisers, 7 mm across.",
+   "line2": "5 August 2014  ·  Photo: Strekeisen  ·  CC BY-SA 4.0"
+  },
+  {
+   "file": "10-serpentine-veins",
+   "by": "Strekeisen",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Serpentine_veins.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Serpentine_veins.JPG",
+   "title": "SERPENTINE VEINS",
+   "line1": "White veins of serpentine through a serpentinite rock, crossed polarisers; 7 mm across.",
+   "line2": "6 November 2014  ·  Photo: Strekeisen  ·  CC BY-SA 4.0"
+  }
+ ]
+}

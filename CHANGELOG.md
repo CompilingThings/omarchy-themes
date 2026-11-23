@@ -8,6 +8,8 @@ picture or colour a patch).
 
 ### Added
 
+- Bedrock: ten thin slices of rock under the microscope, most between crossed polarisers (olivine, kyanite,
+  wehrlite, serpentine, myrmekite, piemontite), all by Strekeisen from Wikimedia Commons; gold and cyan.
 - Neon Pond: eleven pond animals glowing in colour on black (water fleas, a copepod, phantom midge and mosquito
   larvae, a diving beetle's foot) in dark field and polarised light, all by Andrei Savitsky from Wikimedia Commons;
   cyan and yellow.

@@ -22,6 +22,21 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 - `LicenseRef-USGS-Public-Domain`: [USGS, U.S. public domain](https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits), full text in [LICENSES/LicenseRef-USGS-Public-Domain.txt](LICENSES/LicenseRef-USGS-Public-Domain.txt)
 - `MIT`: MIT, full text in [LICENSES/MIT.txt](LICENSES/MIT.txt)
 
+## Bedrock
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-olivine.jpg` | Strekeisen | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Olivine_in_basalt.JPG) |
+| `02-serpentine-vein.jpg` | Strekeisen | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Yellow_line.JPG) |
+| `03-kyanite.jpg` | Strekeisen | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Twinned_Kyanite.JPG) |
+| `04-wehrlite.jpg` | Strekeisen | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Wherlite.JPG) |
+| `05-myrmekite.jpg` | Strekeisen | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Myrmekite.JPG) |
+| `06-piemontite.jpg` | Strekeisen | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Piemontite_Epidote.JPG) |
+| `07-mylonite.jpg` | Strekeisen | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Peridotitic_Mylonite.JPG) |
+| `08-rutile-in-biotite.jpg` | Strekeisen | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Sagenitic_biotite.JPG) |
+| `09-wehrlite-2.jpg` | Strekeisen | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Violet_dot.JPG) |
+| `10-serpentine-veins.jpg` | Strekeisen | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Serpentine_veins.JPG) |
+
 ## Boardroom
 
 | Wallpaper | By | Licence | Source |

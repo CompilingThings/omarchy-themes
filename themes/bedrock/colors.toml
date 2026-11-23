@@ -1,0 +1,48 @@
+mode = "dark"
+
+# Bedrock: thin slices of rock under the microscope, mostly between crossed polarisers: olivine, kyanite, wehrlite,
+# serpentine, myrmekite, piemontite, all by Strekeisen. The black between crossed polarisers as the background,
+# warm pale text, the gold of a serpentine vein as the accent, and the window border turning from it into the cyan
+# of an olivine crystal. Colours sampled from the theme's own photos.
+
+accent = "#ECA01E"
+selection = "#2E2210"
+muted = "#5A4E3E"
+
+background = "#080706"
+dark_background = "#050404"
+darker_background = "#030302"
+lighter_background = "#17140F"
+
+foreground = "#EEE8DC"
+dark_foreground = "#958B7A"
+light_foreground = "#CFC6B4"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the gold of a serpentine vein turning to the cyan of an olivine crystal
+hyprland_active_border = "rgba(eca01eff) rgba(4fd6d4ff) 45deg"
+hyprland_inactive_border = "rgba(1c1914cc)"
+
+# red: the rose grains of the wehrlite, wallpaper 09
+red = "#F27777"
+# orange: the orange olivine grains of the wehrlite, wallpaper 09
+orange = "#F2825C"
+# yellow: the gold of the wehrlite and mylonite, wallpapers 07 and 09
+yellow = "#FBBA2F"
+# green: the green of the kyanite and mylonite, wallpapers 03 and 07
+green = "#A3C252"
+# cyan: the cyan of the crushed mylonite, wallpaper 07
+cyan = "#4FD6D4"
+# blue: the blue of the wehrlite, wallpaper 09
+blue = "#6C8CE0"
+# magenta: the violet of the piemontite, wallpaper 06
+magenta = "#B47AD6"
+# brown: the rust-orange biotite crystal, wallpaper 08
+brown = "#C84C0D"
+
+bright_red = "#F8B4B4"
+bright_yellow = "#FDDC96"
+bright_green = "#CFE2A2"
+bright_cyan = "#A6EAE9"
+bright_blue = "#B8C8F2"
+bright_magenta = "#DABDEB"

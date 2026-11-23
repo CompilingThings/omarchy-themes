@@ -3,14 +3,15 @@
 [![check](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml/badge.svg)](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml)
 [![MIT licence](https://img.shields.io/badge/code-MIT-blue)](LICENSE)
 
-**Twenty-one themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
-the northern lights over Norway, mushrooms from forests round the world, insects up close, and under the microscope the animals in a drop of pond water, the same animals glowing in colour on black, crystals in polarised light and insects glowing under violet light, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
+**Twenty-two themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
+the northern lights over Norway, mushrooms from forests round the world, insects up close, and under the microscope the animals in a drop of pond water, the same animals glowing in colour on black, crystals and slices of rock in polarised light, and insects glowing under violet light, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
 Every wallpaper is 4K and carries a small label saying what it shows and who made it.
 
-![All twenty-one themes](docs/images/gallery.jpg)
+![All twenty-two themes](docs/images/gallery.jpg)
 
 | | Theme | What it is |
 |---|---|---|
+| <img src="docs/images/bedrock.jpg" alt="Bedrock" width="240"> | [**Bedrock**](themes/bedrock/README.md) | Rock sliced thin and seen between crossed polarisers: olivine, kyanite, serpentine veins, myrmekite; gold and cyan |
 | <img src="docs/images/boardroom.jpg" alt="Boardroom" width="240"> | [**Boardroom**](themes/boardroom/README.md) | KiCad 3D renders of a cyberdeck's six boards on a purple drawing sheet; purple, white and gold |
 | <img src="docs/images/cold-blood.jpg" alt="Cold Blood" width="240"> | [**Cold Blood**](themes/cold-blood/README.md) | Frogs, lizards, snakes and crocodiles up close, every scale and eye pattern sharp; tree frog red and pit viper green |
 | <img src="docs/images/compound-eye.jpg" alt="Compound Eye" width="240"> | [**Compound Eye**](themes/compound-eye/README.md) | Insect faces in extreme close-up, mostly from the USGS Bee Lab; cuckoo wasp green and iridescent blue |
