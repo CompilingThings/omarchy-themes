@@ -1,0 +1,48 @@
+mode = "dark"
+
+# Neon Pond: water fleas, copepods and insect larvae from ponds, lit on black (dark field) and in polarised light,
+# all by Andrei Savitsky. The black of the dark field as the background, cool pale text, the cyan of polarised
+# muscle as the accent, and the window border turning from it into the yellow of a glowing larva. Colours sampled
+# from the theme's own photos.
+
+accent = "#29C8EE"
+selection = "#102A33"
+muted = "#3E5560"
+
+background = "#05080A"
+dark_background = "#030506"
+darker_background = "#020304"
+lighter_background = "#0F171B"
+
+foreground = "#E4EEF2"
+dark_foreground = "#7E929A"
+light_foreground = "#BFD0D6"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the cyan of polarised muscle turning to the yellow of a glowing larva
+hyprland_active_border = "rgba(29c8eeff) rgba(e1dd18ff) 45deg"
+hyprland_inactive_border = "rgba(121c20cc)"
+
+# red: the rose of the water flea's shell, wallpaper 01
+red = "#E8687A"
+# orange: the glowing crystals inside Simocephalus, wallpaper 04
+orange = "#F2832F"
+# yellow: the yellow muscles of the water flea, wallpaper 06
+yellow = "#E1DD18"
+# green: the green muscles of the phantom midge larva, wallpapers 03 and 11
+green = "#57C99A"
+# cyan: the cyan glow of polarised muscle, wallpapers 01 and 11
+cyan = "#29C8EE"
+# blue: the blue light behind the water flea, wallpaper 06
+blue = "#5C8CF6"
+# magenta: the violet of the water flea's crystals, wallpaper 01
+magenta = "#B46CDB"
+# brown: the diving beetle's suction cups, wallpaper 07
+brown = "#A2753A"
+
+bright_red = "#F3A6B0"
+bright_yellow = "#F0EE8C"
+bright_green = "#A6E4CA"
+bright_cyan = "#9EE5F7"
+bright_blue = "#ADC6FA"
+bright_magenta = "#DAB5ED"

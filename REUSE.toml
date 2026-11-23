@@ -705,6 +705,84 @@ SPDX-FileCopyrightText = "NASA/Roscosmos"
 SPDX-License-Identifier = "LicenseRef-NASA-Media"
 
 [[annotations]]
+path = "themes/neon-pond/backgrounds/01-daphnia-crystals.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Andrei Savitsky"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/neon-pond/backgrounds/02-blue-eggs.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Andrei Savitsky"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/neon-pond/backgrounds/03-phantom-midge.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Andrei Savitsky"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/neon-pond/backgrounds/04-simocephalus.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Andrei Savitsky"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/neon-pond/backgrounds/05-copepod-eggs.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Andrei Savitsky"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/neon-pond/backgrounds/06-daphnia-muscles.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Andrei Savitsky"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/neon-pond/backgrounds/07-diving-beetle-foot.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Andrei Savitsky"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/neon-pond/backgrounds/08-mosquito-larva.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Andrei Savitsky"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/neon-pond/backgrounds/09-phantom-midge-blue.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Andrei Savitsky"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/neon-pond/backgrounds/10-daphnia.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Andrei Savitsky"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/neon-pond/backgrounds/11-phantom-midge-head.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Andrei Savitsky"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/neon-pond/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "Andrei Savitsky"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "docs/images/neon-pond.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Andrei Savitsky"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
 path = "themes/nordlys/backgrounds/1-flakstad-lofoten.jpg"
 precedence = "override"
 SPDX-FileCopyrightText = "Johannes Groll (Unsplash)"
@@ -1475,5 +1553,5 @@ SPDX-License-Identifier = "LicenseRef-NASA-Media"
 [[annotations]]
 path = "docs/images/gallery.jpg"
 precedence = "override"
-SPDX-FileCopyrightText = ["2026 CompilingThings", "Alexander Klepnev", "Brian Gratwicke", "Bruno C. Vellutini", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Johannes Groll (Unsplash)", "MarekMiś", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "Rollingskyphoto", "U.S. Forest Service, Alaska Region", "USGS Bee Inventory and Monitoring Lab", "Wilson A. Bentley (The Met)"]
-SPDX-License-Identifier = "CC-BY-2.0 AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC-BY-SA-3.0-IGO AND CC0-1.0 AND LicenseRef-NASA-Media AND LicenseRef-USGS-Public-Domain"
+SPDX-FileCopyrightText = ["2026 CompilingThings", "Alexander Klepnev", "Andrei Savitsky", "Brian Gratwicke", "Bruno C. Vellutini", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Johannes Groll (Unsplash)", "MarekMiś", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "Rollingskyphoto", "U.S. Forest Service, Alaska Region", "USGS Bee Inventory and Monitoring Lab", "Wilson A. Bentley (The Met)"]
+SPDX-License-Identifier = "CC-BY-2.0 AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC-BY-SA-3.0-IGO AND CC-BY-SA-4.0 AND CC0-1.0 AND LicenseRef-NASA-Media AND LicenseRef-USGS-Public-Domain"

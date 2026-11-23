@@ -1,0 +1,178 @@
+{
+ "accent": "#3CC8E8",
+ "wallpapers": [
+  {
+   "file": "01-daphnia-crystals",
+   "by": "Andrei Savitsky",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/%D0%94%D0%B0%D1%84%D0%BD%D1%96%D1%8F_%D0%B7_%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%B0%D0%BC%D0%B8.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%B0%D1%84%D0%BD%D1%96%D1%8F_%D0%B7_%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%B0%D0%BC%D0%B8.jpg",
+   "title": "WATER FLEA",
+   "line1": "A water flea (Daphnia) in polarised light; the coloured stars are crystals on its body.",
+   "line2": "31 March 2020  ·  Photo: Andrei Savitsky  ·  CC BY-SA 4.0"
+  },
+  {
+   "file": "02-blue-eggs",
+   "by": "Andrei Savitsky",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/%D0%A0%D0%B0%D0%BA%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B5_Megafenestra.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%A0%D0%B0%D0%BA%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B5_Megafenestra.jpg",
+   "title": "WATER FLEA",
+   "line1": "A water flea (Megafenestra) carrying blue eggs, lit from the side on black (dark field).",
+   "line2": "24 May 2019  ·  Photo: Andrei Savitsky  ·  CC BY-SA 4.0",
+   "fit": {
+    "hide": [
+     [
+      0.0,
+      0.955,
+      0.13,
+      1.0
+     ]
+    ]
+   }
+  },
+  {
+   "file": "03-phantom-midge",
+   "by": "Andrei Savitsky",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/%D0%9B%D0%B8%D1%87%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%B0_%D0%9A%D0%BE%D1%80%D0%B5%D1%82%D1%80%D0%B0._%D0%A2%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5_%2B_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B8%D1%87%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%B0_%D0%9A%D0%BE%D1%80%D0%B5%D1%82%D1%80%D0%B0._%D0%A2%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5_%2B_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.jpg",
+   "title": "PHANTOM MIDGE LARVA",
+   "line1": "A phantom midge larva (Chaoborus), dark field and polarised light: its muscles turn colour.",
+   "line2": "11 August 2019  ·  Photo: Andrei Savitsky  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.9,
+    "x": 0.45
+   }
+  },
+  {
+   "file": "04-simocephalus",
+   "by": "Andrei Savitsky",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/%D0%A0%D0%B0%D0%BA%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B5_Simocephalus_%D0%B7_%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D1%82%D1%96%D0%BB%D1%96.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%A0%D0%B0%D0%BA%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B5_Simocephalus_%D0%B7_%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D1%82%D1%96%D0%BB%D1%96.jpg",
+   "title": "WATER FLEA",
+   "line1": "A water flea (Simocephalus) with crystals on its body, dark field and polarised light.",
+   "line2": "12 May 2019  ·  Photo: Andrei Savitsky  ·  CC BY-SA 4.0",
+   "fit": {
+    "hide": [
+     [
+      0.0,
+      0.945,
+      0.16,
+      1.0
+     ]
+    ]
+   }
+  },
+  {
+   "file": "05-copepod-eggs",
+   "by": "Andrei Savitsky",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/%D0%92%D0%B5%D1%81%D0%BB%D0%BE%D0%BD%D0%BE%D0%B3%D0%B5_%D1%80%D0%B0%D0%BA%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B5_Megacyclops.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B5%D1%81%D0%BB%D0%BE%D0%BD%D0%BE%D0%B3%D0%B5_%D1%80%D0%B0%D0%BA%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B5_Megacyclops.jpg",
+   "title": "COPEPOD",
+   "line1": "A copepod (Megacyclops) with two big bags of eggs, dark field and polarised light.",
+   "line2": "16 April 2019  ·  Photo: Andrei Savitsky  ·  CC BY-SA 4.0",
+   "fit": {
+    "hide": [
+     [
+      0.0,
+      0.94,
+      0.15,
+      1.0
+     ]
+    ]
+   }
+  },
+  {
+   "file": "06-daphnia-muscles",
+   "by": "Andrei Savitsky",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/%D0%94%D0%B0%D1%84%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%BC_%D1%81%D0%B2%D0%B5%D1%82%D0%B5.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%B0%D1%84%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%BC_%D1%81%D0%B2%D0%B5%D1%82%D0%B5.jpg",
+   "title": "WATER FLEA",
+   "line1": "A water flea (Daphnia) in polarised light: its muscles glow yellow and blue.",
+   "line2": "28 October 2019  ·  Photo: Andrei Savitsky  ·  CC BY 4.0"
+  },
+  {
+   "file": "07-diving-beetle-foot",
+   "by": "Andrei Savitsky",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/%D0%9F%D1%80%D0%B8%D1%81%D0%BE%D1%81%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%BB%D0%B0%D0%BF%D1%96_%D0%B6%D1%83%D0%BA%D0%B0_%D0%BF%D0%BB%D0%B0%D0%B2%D1%83%D0%BD%D1%86%D1%8F.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B8%D1%81%D0%BE%D1%81%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%BB%D0%B0%D0%BF%D1%96_%D0%B6%D1%83%D0%BA%D0%B0_%D0%BF%D0%BB%D0%B0%D0%B2%D1%83%D0%BD%D1%86%D1%8F.jpg",
+   "title": "DIVING BEETLE",
+   "line1": "Suction cups on a diving beetle's front foot; the male holds on to the female with them.",
+   "line2": "2 October 2020  ·  Photo: Andrei Savitsky  ·  CC BY-SA 4.0",
+   "fit": {
+    "hide": [
+     [
+      0.87,
+      0.95,
+      1.0,
+      1.0
+     ]
+    ]
+   }
+  },
+  {
+   "file": "08-mosquito-larva",
+   "by": "Andrei Savitsky",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/%D0%9B%D0%B8%D1%87%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BA%D1%80%D0%BE%D0%B2%D0%BE%D1%81%D0%BE%D1%81%D1%83%D1%89%D0%B5%D0%B3%D0%BE_%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%B0._%D0%A2%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5_%2B_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B8%D1%87%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BA%D1%80%D0%BE%D0%B2%D0%BE%D1%81%D0%BE%D1%81%D1%83%D1%89%D0%B5%D0%B3%D0%BE_%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%B0._%D0%A2%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5_%2B_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.jpg",
+   "title": "MOSQUITO LARVA",
+   "line1": "A mosquito larva curled in a ring, dark field and polarised light.",
+   "line2": "18 August 2019  ·  Photo: Andrei Savitsky  ·  CC BY 4.0",
+   "fit": true
+  },
+  {
+   "file": "09-phantom-midge-blue",
+   "by": "Andrei Savitsky",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/%D0%9B%D0%B8%D1%87%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%B0_%D0%9A%D0%BE%D1%80%D0%B5%D1%82%D1%80%D0%B0._%D0%9A%D0%BE%D1%81%D0%BE%D0%B9_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%B2%D0%B5%D1%82.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B8%D1%87%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%B0_%D0%9A%D0%BE%D1%80%D0%B5%D1%82%D1%80%D0%B0._%D0%9A%D0%BE%D1%81%D0%BE%D0%B9_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%B2%D0%B5%D1%82.jpg",
+   "title": "PHANTOM MIDGE LARVA",
+   "line1": "A phantom midge larva (Chaoborus) in oblique polarised light; its muscles turn blue and yellow.",
+   "line2": "12 August 2019  ·  Photo: Andrei Savitsky  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.96,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "10-daphnia",
+   "by": "Andrei Savitsky",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/%D0%94%D0%B0%D1%84%D0%BD%D1%96%D1%8F_%D0%BF%D1%96%D0%B4_%D0%BC%D1%96%D0%BA%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%BE%D0%BC%2C_%D1%82%D0%B5%D0%BC%D0%BD%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%B0%D1%84%D0%BD%D1%96%D1%8F_%D0%BF%D1%96%D0%B4_%D0%BC%D1%96%D0%BA%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%BE%D0%BC,_%D1%82%D0%B5%D0%BC%D0%BD%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5.jpg",
+   "title": "WATER FLEA",
+   "line1": "A water flea (Daphnia) lit from the side on black (dark field); the shell is a fine net.",
+   "line2": "21 May 2019  ·  Photo: Andrei Savitsky  ·  CC BY-SA 4.0",
+   "fit": {
+    "hide": [
+     [
+      0.0,
+      0.955,
+      0.14,
+      1.0
+     ]
+    ]
+   }
+  },
+  {
+   "file": "11-phantom-midge-head",
+   "by": "Andrei Savitsky",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/%D0%9B%D0%B8%D1%87%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%B0_Chaoborus._%D0%A2%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5_%2B_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B8%D1%87%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%B0_Chaoborus._%D0%A2%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5_%2B_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.jpg",
+   "title": "PHANTOM MIDGE LARVA",
+   "line1": "The head of a phantom midge larva (Chaoborus), dark field and polarised light.",
+   "line2": "21 August 2019  ·  Photo: Andrei Savitsky  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.94,
+    "x": 0.42
+   }
+  }
+ ]
+}

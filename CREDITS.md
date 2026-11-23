@@ -164,6 +164,22 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `6-mount-everest.jpg` | NASA | NASA media guidelines | [source](https://images.nasa.gov/details/iss069e003192) |
 | `7-sahara-desert.jpg` | NASA | NASA media guidelines | [source](https://images.nasa.gov/details/iss066e137392) |
 
+## Neon Pond
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-daphnia-crystals.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%94%D0%B0%D1%84%D0%BD%D1%96%D1%8F_%D0%B7_%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%B0%D0%BC%D0%B8.jpg) |
+| `02-blue-eggs.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%A0%D0%B0%D0%BA%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B5_Megafenestra.jpg) |
+| `03-phantom-midge.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B8%D1%87%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%B0_%D0%9A%D0%BE%D1%80%D0%B5%D1%82%D1%80%D0%B0._%D0%A2%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5_%2B_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.jpg) |
+| `04-simocephalus.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%A0%D0%B0%D0%BA%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B5_Simocephalus_%D0%B7_%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D1%82%D1%96%D0%BB%D1%96.jpg) |
+| `05-copepod-eggs.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%92%D0%B5%D1%81%D0%BB%D0%BE%D0%BD%D0%BE%D0%B3%D0%B5_%D1%80%D0%B0%D0%BA%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B5_Megacyclops.jpg) |
+| `06-daphnia-muscles.jpg` | Andrei Savitsky | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%94%D0%B0%D1%84%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%BC_%D1%81%D0%B2%D0%B5%D1%82%D0%B5.jpg) |
+| `07-diving-beetle-foot.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B8%D1%81%D0%BE%D1%81%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%BB%D0%B0%D0%BF%D1%96_%D0%B6%D1%83%D0%BA%D0%B0_%D0%BF%D0%BB%D0%B0%D0%B2%D1%83%D0%BD%D1%86%D1%8F.jpg) |
+| `08-mosquito-larva.jpg` | Andrei Savitsky | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B8%D1%87%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BA%D1%80%D0%BE%D0%B2%D0%BE%D1%81%D0%BE%D1%81%D1%83%D1%89%D0%B5%D0%B3%D0%BE_%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%B0._%D0%A2%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5_%2B_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.jpg) |
+| `09-phantom-midge-blue.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B8%D1%87%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%B0_%D0%9A%D0%BE%D1%80%D0%B5%D1%82%D1%80%D0%B0._%D0%9A%D0%BE%D1%81%D0%BE%D0%B9_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%B2%D0%B5%D1%82.jpg) |
+| `10-daphnia.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%94%D0%B0%D1%84%D0%BD%D1%96%D1%8F_%D0%BF%D1%96%D0%B4_%D0%BC%D1%96%D0%BA%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%BE%D0%BC,_%D1%82%D0%B5%D0%BC%D0%BD%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5.jpg) |
+| `11-phantom-midge-head.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B8%D1%87%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%B0_Chaoborus._%D0%A2%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5_%2B_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.jpg) |
+
 ## Nordlys
 
 | Wallpaper | By | Licence | Source |
