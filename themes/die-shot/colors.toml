@@ -1,0 +1,48 @@
+mode = "dark"
+
+# Die Shot: the bare silicon of old chips under the microscope, all by VektorF: a Soviet op-amp, a Fairchild video
+# switch, a Holtek serial-port driver, Winbond clock chips and a keyboard controller. Near-black like the field the
+# chips sit on, cool pale text, the gold of the bond pads as the accent, and the window border turning from that
+# gold into the pale cyan of the op-amp's metal tracks. Colours sampled from the theme's own photos.
+
+accent = "#EAB44E"
+selection = "#2A2414"
+muted = "#4E5558"
+
+background = "#060708"
+dark_background = "#040505"
+darker_background = "#020303"
+lighter_background = "#14181A"
+
+foreground = "#E2E8E8"
+dark_foreground = "#87908F"
+light_foreground = "#C3CCCB"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the gold of a bond pad turning to the pale cyan of the op-amp's metal tracks
+hyprland_active_border = "rgba(eab44eff) rgba(7ccfc8ff) 45deg"
+hyprland_inactive_border = "rgba(15191acc)"
+
+# red: the copper-red metal of the op-amp's second photo, wallpaper 06
+red = "#E0786A"
+# orange: the orange bus across the clock chip, wallpaper 04
+orange = "#EBAE5B"
+# yellow: the gold bond wires of the AGP clock, wallpaper 07
+yellow = "#EAC779"
+# green: the lime logic of the clock chip, wallpaper 04
+green = "#A2C062"
+# cyan: the pale cyan metal tracks of the op-amp, wallpaper 01
+cyan = "#7CCFC8"
+# blue: the blue of the RS-232 driver, wallpaper 03
+blue = "#7C9CD0"
+# magenta: the violet frame round the clock chip, wallpaper 04
+magenta = "#A69AE0"
+# brown: the bronze of the AGP clock's logic, wallpaper 07
+brown = "#B69363"
+
+bright_red = "#F2B8AF"
+bright_yellow = "#F6E2B4"
+bright_green = "#D0E2AE"
+bright_cyan = "#BEE8E4"
+bright_blue = "#BECDEA"
+bright_magenta = "#D4CEF2"

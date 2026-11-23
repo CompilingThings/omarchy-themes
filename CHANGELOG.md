@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Die Shot: eight bare chip dies under the microscope, whole on black (a Soviet op-amp, a Fairchild video switch,
+  a Holtek RS-232 driver, Winbond clock chips, a keyboard controller), all by VektorF from Wikimedia Commons;
+  gold and pale cyan.
 - Bedrock: ten thin slices of rock under the microscope, most between crossed polarisers (olivine, kyanite,
   wehrlite, serpentine, myrmekite, piemontite), all by Strekeisen from Wikimedia Commons; gold and cyan.
 - Neon Pond: eleven pond animals glowing in colour on black (water fleas, a copepod, phantom midge and mosquito

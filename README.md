@@ -3,11 +3,11 @@
 [![check](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml/badge.svg)](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml)
 [![MIT licence](https://img.shields.io/badge/code-MIT-blue)](LICENSE)
 
-**Twenty-two themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
-the northern lights over Norway, mushrooms from forests round the world, insects up close, and under the microscope the animals in a drop of pond water, the same animals glowing in colour on black, crystals and slices of rock in polarised light, and insects glowing under violet light, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
+**Twenty-three themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
+the northern lights over Norway, mushrooms from forests round the world, insects up close, and under the microscope the animals in a drop of pond water, the same animals glowing in colour on black, crystals and slices of rock in polarised light, the bare silicon inside old chips, and insects glowing under violet light, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
 Every wallpaper is 4K and carries a small label saying what it shows and who made it.
 
-![All twenty-two themes](docs/images/gallery.jpg)
+![All twenty-three themes](docs/images/gallery.jpg)
 
 | | Theme | What it is |
 |---|---|---|
@@ -17,6 +17,7 @@ Every wallpaper is 4K and carries a small label saying what it shows and who mad
 | <img src="docs/images/compound-eye.jpg" alt="Compound Eye" width="240"> | [**Compound Eye**](themes/compound-eye/README.md) | Insect faces in extreme close-up, mostly from the USGS Bee Lab; cuckoo wasp green and iridescent blue |
 | <img src="docs/images/deep-field.jpg" alt="Deep Field" width="240"> | [**Deep Field**](themes/deep-field/README.md) | Deep space from the James Webb telescope, Cassini and the Space Station; deep blue |
 | <img src="docs/images/deep-sea.jpg" alt="Deep Sea" width="240"> | [**Deep Sea**](themes/deep-sea/README.md) | Jellyfish and comb jellies lit in dark water, and an isopod from 900 m down; glowing blue and bluefire purple |
+| <img src="docs/images/die-shot.jpg" alt="Die Shot" width="240"> | [**Die Shot**](themes/die-shot/README.md) | The bare silicon of old chips under the microscope, whole on black: tracks, bond pads, gold wires; gold and pale cyan |
 | <img src="docs/images/fairy-ring.jpg" alt="Fairy Ring" width="240"> | [**Fairy Ring**](themes/fairy-ring/README.md) | Mushrooms from forests round the world: fly agarics, glowing fungi, amethyst deceivers; fly agaric red and amethyst |
 | <img src="docs/images/grand-tour.jpg" alt="Grand Tour" width="240"> | [**Grand Tour**](themes/grand-tour/README.md) | Saturn, Jupiter, Io, Europa and Pluto from Cassini, Juno and New Horizons; teal |
 | <img src="docs/images/lantern.jpg" alt="Lantern" width="240"> | [**Lantern**](themes/lantern/README.md) | Insect heads glowing on their own under a fluorescence microscope: ants, flies, a moth, a ladybird; eye green and shell gold |

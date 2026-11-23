@@ -1,0 +1,141 @@
+{
+ "accent": "#E8A33C",
+ "wallpapers": [
+  {
+   "file": "01-op-amp",
+   "by": "VektorF",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/1408%D0%A3%D0%941_2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:1408%D0%A3%D0%941_2.jpg",
+   "title": "HIGH-VOLTAGE OP-AMP",
+   "line1": "The bare silicon of a Soviet operational amplifier (1408UD1, Kvazar, Kyiv), its gold wires still bonded.",
+   "line2": "7 May 2019  ·  Photo: VektorF  ·  CC BY 4.0",
+   "fit": {
+    "field": "#050506",
+    "feather": 0.03,
+    "h": 0.84,
+    "x": 0.42,
+    "y": 0.47
+   }
+  },
+  {
+   "file": "02-video-switch",
+   "by": "VektorF",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/FMS6502_1_%D0%9C.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:FMS6502_1_%D0%9C.jpg",
+   "title": "VIDEO SWITCH",
+   "line1": "A Fairchild chip that routes eight video inputs to six outputs (FMS6502), seen from above under the microscope.",
+   "line2": "28 May 2019  ·  Photo: VektorF  ·  CC BY 4.0",
+   "fit": {
+    "field": "#050506",
+    "feather": 0.03,
+    "h": 0.84,
+    "x": 0.42,
+    "y": 0.47
+   }
+  },
+  {
+   "file": "03-rs-232",
+   "by": "VektorF",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/HT6571_a.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:HT6571_a.jpg",
+   "title": "RS-232 DRIVER",
+   "line1": "A Holtek chip that drives old serial ports (HT6571); the round gold pads are where its wires were bonded.",
+   "line2": "7 May 2019  ·  Photo: VektorF  ·  CC BY 4.0",
+   "fit": {
+    "field": "#050506",
+    "feather": 0.03,
+    "h": 0.84,
+    "x": 0.42,
+    "y": 0.47
+   }
+  },
+  {
+   "file": "04-clock-chip",
+   "by": "VektorF",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/W83194R-39A_2a_%D0%BC.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:W83194R-39A_2a_%D0%BC.jpg",
+   "title": "CLOCK CHIP",
+   "line1": "A Winbond clock generator for three memory slots of a 1990s PC (W83194R-39A).",
+   "line2": "28 May 2019  ·  Photo: VektorF  ·  CC BY 4.0",
+   "fit": {
+    "field": "#050506",
+    "feather": 0.03,
+    "h": 0.84,
+    "x": 0.42,
+    "y": 0.47
+   }
+  },
+  {
+   "file": "05-video-switch-2",
+   "by": "VektorF",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/FMS6502_2_%D0%9C.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:FMS6502_2_%D0%9C.jpg",
+   "title": "VIDEO SWITCH",
+   "line1": "A second photo of the same Fairchild video switch (FMS6502), in another light.",
+   "line2": "28 May 2019  ·  Photo: VektorF  ·  CC BY 4.0",
+   "fit": {
+    "field": "#050506",
+    "feather": 0.03,
+    "h": 0.84,
+    "x": 0.42,
+    "y": 0.47
+   }
+  },
+  {
+   "file": "06-op-amp-2",
+   "by": "VektorF",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/1408%D0%A3%D0%941_1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:1408%D0%A3%D0%941_1.jpg",
+   "title": "HIGH-VOLTAGE OP-AMP",
+   "line1": "A second photo of the same Soviet op-amp (1408UD1), in another light.",
+   "line2": "7 May 2019  ·  Photo: VektorF  ·  CC BY 4.0",
+   "fit": {
+    "field": "#050506",
+    "feather": 0.03,
+    "h": 0.84,
+    "x": 0.42,
+    "y": 0.47
+   }
+  },
+  {
+   "file": "07-agp-clock",
+   "by": "VektorF",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/W83194R-58.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:W83194R-58.jpg",
+   "title": "AGP CLOCK",
+   "line1": "A Winbond clock generator for VIA chipsets and the AGP graphics slot (W83194R-58), wires still bonded.",
+   "line2": "7 May 2019  ·  Photo: VektorF  ·  CC BY 4.0",
+   "fit": {
+    "field": "#050506",
+    "feather": 0.03,
+    "h": 0.84,
+    "x": 0.42,
+    "y": 0.47
+   }
+  },
+  {
+   "file": "08-keyboard-controller",
+   "by": "VektorF",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/JETkey_a.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:JETkey_a.jpg",
+   "title": "KEYBOARD CONTROLLER",
+   "line1": "The chip that read the keyboard in an old PC (JETkey), a ring of bond pads round its logic.",
+   "line2": "7 May 2019  ·  Photo: VektorF  ·  CC BY 4.0",
+   "fit": {
+    "field": "#050506",
+    "feather": 0.03,
+    "h": 0.84,
+    "x": 0.42,
+    "y": 0.47
+   }
+  }
+ ]
+}

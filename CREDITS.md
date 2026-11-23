@@ -117,6 +117,19 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `11-bluefire-jellyfish.jpg` | W.carter | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Sideview_of_contracted_bluefire_jellyfish_in_Brofjorden_at_Sandvik_2.jpg) |
 | `12-moon-jellies-caught.jpg` | W.carter | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Three_moon_jellyfishes_captured_by_a_lion%27s_mane_jellyfish_1.jpg) |
 
+## Die Shot
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-op-amp.jpg` | VektorF | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:1408%D0%A3%D0%941_2.jpg) |
+| `02-video-switch.jpg` | VektorF | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:FMS6502_1_%D0%9C.jpg) |
+| `03-rs-232.jpg` | VektorF | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:HT6571_a.jpg) |
+| `04-clock-chip.jpg` | VektorF | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:W83194R-39A_2a_%D0%BC.jpg) |
+| `05-video-switch-2.jpg` | VektorF | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:FMS6502_2_%D0%9C.jpg) |
+| `06-op-amp-2.jpg` | VektorF | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:1408%D0%A3%D0%941_1.jpg) |
+| `07-agp-clock.jpg` | VektorF | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:W83194R-58.jpg) |
+| `08-keyboard-controller.jpg` | VektorF | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:JETkey_a.jpg) |
+
 ## Fairy Ring
 
 | Wallpaper | By | Licence | Source |
