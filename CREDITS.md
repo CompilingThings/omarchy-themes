@@ -130,6 +130,23 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `07-agp-clock.jpg` | VektorF | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:W83194R-58.jpg) |
 | `08-keyboard-controller.jpg` | VektorF | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:JETkey_a.jpg) |
 
+## Eight Eyes
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-jumping-spider-eyes.jpg` | Mikron86 | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Oczy_paj%C4%85ka_z_rodziny_skakunowatych.jpg) |
+| `02-tarantula-moult.jpg` | MicrocosmicWorld | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Tarantula_exoskeleton.jpg) |
+| `03-red-mite.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%C3%81caro_Chyzeriidae_de_Puerto_Blest,_Bariloche,_Patagonia_Argentina.jpg) |
+| `04-green-spider.jpg` | Stepan163s | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:2022-04-30_22-13-46_(C)_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-DeNoiseAI-standard_(1).jpg) |
+| `05-jumping-spider.jpg` | Oliver Gutiérrez Suárez | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:2021-07-18_11-55-25_(C,Smoothing4).tif) |
+| `06-water-mite.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Hydracarina.jpg) |
+| `07-tarantula.jpg` | Sergey Antimonov | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Pterinochilus_murinus_RCF-2.jpg) |
+| `08-mite-skin.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Cut%C3%ADcula_del_dorso_de_%C3%A1caro_trombidiforme_SEM.jpg) |
+| `09-house-spider.jpg` | MicrocosmicWorld | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Eratigena_duellica_Facial_Detail_(5%C3%97).jpg) |
+| `10-water-mite-glow.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Vesilest.jpg) |
+| `11-eight-eyes.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Detalle_de_los_8_ojos_de_una_ara%C3%B1a.jpg) |
+| `12-philisca.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Ara%C3%B1a_Philisca_atrata.jpg) |
+
 ## Fairy Ring
 
 | Wallpaper | By | Licence | Source |

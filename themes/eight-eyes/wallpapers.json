@@ -1,0 +1,141 @@
+{
+ "accent": "#E8A23C",
+ "wallpapers": [
+  {
+   "file": "01-jumping-spider-eyes",
+   "by": "Mikron86",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Oczy_paj%C4%85ka_z_rodziny_skakunowatych.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Oczy_paj%C4%85ka_z_rodziny_skakunowatych.jpg",
+   "title": "JUMPING SPIDER",
+   "line1": "The eyes of a jumping spider, Salticus scenicus: the two big front eyes look straight ahead.",
+   "line2": "14 April 2022  ·  Photo: Mikron86  ·  CC BY 4.0"
+  },
+  {
+   "file": "02-tarantula-moult",
+   "by": "MicrocosmicWorld",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Tarantula_exoskeleton.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Tarantula_exoskeleton.jpg",
+   "title": "TARANTULA MOULT",
+   "line1": "The skin a young Brazilian salmon pink tarantula left behind when it moulted, lit by three coloured lights.",
+   "line2": "26 January 2022  ·  Photo: MicrocosmicWorld  ·  CC BY-SA 4.0",
+   "panel": true,
+   "crop": [
+    0.5,
+    0.72,
+    1.6
+   ]
+  },
+  {
+   "file": "03-red-mite",
+   "by": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/%C3%81caro_Chyzeriidae_de_Puerto_Blest%2C_Bariloche%2C_Patagonia_Argentina.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%C3%81caro_Chyzeriidae_de_Puerto_Blest,_Bariloche,_Patagonia_Argentina.jpg",
+   "title": "RED MITE",
+   "line1": "A Chyzeriidae mite from Puerto Blest, near Bariloche in Argentine Patagonia.",
+   "line2": "9 November 2024  ·  Photo: Brandon Antonio Segura Torres & Priscilla Vieto Bonilla  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.96,
+    "x": 0.42
+   }
+  },
+  {
+   "file": "04-green-spider",
+   "by": "Stepan163s",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/2022-04-30_22-13-46_%28C%29_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-DeNoiseAI-standard_%281%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:2022-04-30_22-13-46_(C)_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-DeNoiseAI-standard_(1).jpg",
+   "title": "GREEN SPIDER",
+   "line1": "Micrommata virescens, a bright green spider, among small white flowers.",
+   "line2": "30 April 2022  ·  Photo: Stepan163s  ·  CC BY 4.0",
+   "panel": true
+  },
+  {
+   "file": "05-jumping-spider",
+   "by": "Oliver Gutiérrez Suárez",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/2021-07-18_11-55-25_%28C%2CSmoothing4%29.tif",
+   "page": "https://commons.wikimedia.org/wiki/File:2021-07-18_11-55-25_(C,Smoothing4).tif",
+   "title": "JUMPING SPIDER",
+   "line1": "A jumping spider through a microscope lens, many photos focus-stacked into one.",
+   "line2": "18 July 2021  ·  Photo: Oliver Gutiérrez Suárez  ·  CC BY-SA 4.0",
+   "panel": true
+  },
+  {
+   "file": "06-water-mite",
+   "by": "Janek Lass",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hydracarina.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Hydracarina.jpg",
+   "title": "WATER MITE",
+   "line1": "A water mite: there are over 6,000 species of these small arachnids in the world.",
+   "line2": "5 June 2022  ·  Photo: Janek Lass  ·  CC BY 4.0"
+  },
+  {
+   "file": "07-tarantula",
+   "by": "Sergey Antimonov",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Pterinochilus_murinus_RCF-2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Pterinochilus_murinus_RCF-2.jpg",
+   "title": "TARANTULA",
+   "line1": "Pterinochilus murinus, an orange tarantula, face to face.",
+   "line2": "11 July 2018  ·  Photo: Sergey Antimonov  ·  CC BY-SA 4.0",
+   "panel": true
+  },
+  {
+   "file": "08-mite-skin",
+   "by": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Cut%C3%ADcula_del_dorso_de_%C3%A1caro_trombidiforme_SEM.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cut%C3%ADcula_del_dorso_de_%C3%A1caro_trombidiforme_SEM.jpg",
+   "title": "MITE SKIN",
+   "line1": "The back of a trombidiform mite under the electron microscope, with colour added.",
+   "line2": "1 November 2025  ·  Photo: Brandon Antonio Segura Torres & Priscilla Vieto Bonilla  ·  CC BY-SA 4.0",
+   "panel": true
+  },
+  {
+   "file": "09-house-spider",
+   "by": "MicrocosmicWorld",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Eratigena_duellica_Facial_Detail_%285%C3%97%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Eratigena_duellica_Facial_Detail_(5%C3%97).jpg",
+   "title": "GIANT HOUSE SPIDER",
+   "line1": "The face of a giant house spider at 5x: eight eyes, bristles and jaws. Somerset, UK.",
+   "line2": "26 July 2021  ·  Photo: MicrocosmicWorld  ·  CC BY-SA 4.0",
+   "panel": true
+  },
+  {
+   "file": "10-water-mite-glow",
+   "by": "Janek Lass",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Vesilest.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Vesilest.jpg",
+   "title": "WATER MITE",
+   "line1": "A freshwater mite in reflected light; the white lines carry away its waste, mostly salts.",
+   "line2": "18 May 2021  ·  Photo: Janek Lass  ·  CC BY 4.0"
+  },
+  {
+   "file": "11-eight-eyes",
+   "by": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Detalle_de_los_8_ojos_de_una_ara%C3%B1a.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Detalle_de_los_8_ojos_de_una_ara%C3%B1a.jpg",
+   "title": "EIGHT EYES",
+   "line1": "The eight eyes of a spider, up close.",
+   "line2": "8 March 2025  ·  Photo: Brandon Antonio Segura Torres & Priscilla Vieto Bonilla  ·  CC BY-SA 4.0"
+  },
+  {
+   "file": "12-philisca",
+   "by": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ara%C3%B1a_Philisca_atrata.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ara%C3%B1a_Philisca_atrata.jpg",
+   "title": "PHILISCA ATRATA",
+   "line1": "Philisca atrata, a small spider, on a plant stem.",
+   "line2": "23 January 2025  ·  Photo: Brandon Antonio Segura Torres & Priscilla Vieto Bonilla  ·  CC BY-SA 4.0",
+   "panel": true
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+mode = "dark"
+
+# Eight Eyes: spiders and mites up close, through macro and microscope lenses: jumping spiders, two tarantulas, a
+# green spider among flowers, water mites, and a mite's skin under the electron microscope. A dark warm brown-black
+# background, warm pale text, the orange-gold of the tarantula's hair as the accent, and the window border turning
+# from it into the cyan light on the tarantula moult. Colours sampled from the theme's own photos.
+
+accent = "#E8A23C"
+selection = "#3A2A16"
+muted = "#62584C"
+
+background = "#0B0806"
+dark_background = "#060403"
+darker_background = "#030202"
+lighter_background = "#1C1712"
+
+foreground = "#F0E8DE"
+dark_foreground = "#9C9284"
+light_foreground = "#D6CCBE"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the tarantula's orange-gold turning to the cyan light on its moult
+hyprland_active_border = "rgba(e8a23cff) rgba(3cc8d8ff) 45deg"
+hyprland_inactive_border = "rgba(1c1712cc)"
+
+# red: the red light on the tarantula moult and the water mite's red eyes, wallpapers 02 and 06
+red = "#E0483C"
+# orange: the tarantula's orange hair, wallpaper 07
+orange = "#E8A23C"
+# yellow: the gold specks on the mite skin, wallpaper 08
+yellow = "#E8CC5A"
+# green: the green spider, wallpaper 04
+green = "#A8D44A"
+# cyan: the cyan light on the tarantula moult, wallpaper 02
+cyan = "#3CC8D8"
+# blue: the blue-grey water behind the water mite, wallpaper 06
+blue = "#6A9AE0"
+# magenta: the magenta hair sockets on the mite skin, wallpaper 08
+magenta = "#D0508C"
+# brown: the giant house spider's brown bristles, wallpaper 09
+brown = "#B07A4A"
+
+bright_red = "#F2AEA8"
+bright_yellow = "#F4E6B0"
+bright_green = "#D4ECA8"
+bright_cyan = "#A8E8EE"
+bright_blue = "#BCD0F2"
+bright_magenta = "#EEB4CE"

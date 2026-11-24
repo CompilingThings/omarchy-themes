@@ -3,7 +3,7 @@
 [![check](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml/badge.svg)](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml)
 [![MIT licence](https://img.shields.io/badge/code-MIT-blue)](LICENSE)
 
-**Twenty-nine themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
+**Thirty themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
 the northern lights over Norway, mushrooms from forests round the world, insects up close, and under the microscope the animals in a drop of pond water, the same animals glowing in colour on black, crystals and slices of rock in polarised light, the bare silicon inside old chips, plant stems sliced thin and glowing, brains, eyes and cells lit with glowing dyes, viruses coloured in from the electron microscope, the immune cells that fight them, butterfly wings scale by scale, and insects glowing under violet light, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
 Every wallpaper is 4K and carries a small label saying what it shows and who made it.
 
@@ -25,6 +25,7 @@ Every wallpaper is 4K and carries a small label saying what it shows and who mad
 | <img src="docs/images/front-line.jpg" alt="Front Line" width="240"> | [**Front Line**](themes/front-line/README.md) | The body's defenders under the electron microscope, coloured by NIAID: killer cells, T cells, B cells, MRSA, malaria; green and violet |
 | <img src="docs/images/scale-wing.jpg" alt="Scale Wing" width="240"> | [**Scale Wing**](themes/scale-wing/README.md) | Butterfly and moth wings up close, scale by scale: a painted lady, the large blue, the green hairstreak, pollen on a moth; blue and orange |
 | <img src="docs/images/glass-house.jpg" alt="Glass House" width="240"> | [**Glass House**](themes/glass-house/README.md) | Diatoms, algae in shells of glass, most of them 32 to 40 million year old fossils: discs, triangles, a needle, a honeycomb; glass violet and diatom green |
+| <img src="docs/images/eight-eyes.jpg" alt="Eight Eyes" width="240"> | [**Eight Eyes**](themes/eight-eyes/README.md) | Spiders and mites up close: jumping-spider eyes, tarantulas, water mites, a mite's skin under the electron microscope; tarantula gold and moult cyan |
 | <img src="docs/images/lantern.jpg" alt="Lantern" width="240"> | [**Lantern**](themes/lantern/README.md) | Insect heads glowing on their own under a fluorescence microscope: ants, flies, a moth, a ladybird; eye green and shell gold |
 | <img src="docs/images/low-orbit.jpg" alt="Low Orbit" width="240"> | [**Low Orbit**](themes/low-orbit/README.md) | Earth from the Space Station, plus a turning Earth as a video wallpaper; sea green |
 | <img src="docs/images/neon-pond.jpg" alt="Neon Pond" width="240"> | [**Neon Pond**](themes/neon-pond/README.md) | Water fleas, copepods and midge larvae glowing in colour on black, in dark field and polarised light; cyan and yellow |
