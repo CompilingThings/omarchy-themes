@@ -1839,6 +1839,66 @@ SPDX-FileCopyrightText = "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)"
 SPDX-License-Identifier = "CC-BY-SA-3.0-IGO"
 
 [[annotations]]
+path = "themes/spore-garden/backgrounds/01-eye-colony.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/spore-garden/backgrounds/02-spore-rosettes.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Aurora Storlazzi"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/spore-garden/backgrounds/03-mycelium-on-an-eye.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/spore-garden/backgrounds/04-penicillium.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Hafid1412"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/spore-garden/backgrounds/05-colonies.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Sofia Vini"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/spore-garden/backgrounds/06-bread-mould.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Pavel.Somov"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/spore-garden/backgrounds/07-hazel-mildew.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Gubin Olexander"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/spore-garden/backgrounds/08-moth-eye.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/spore-garden/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "docs/images/spore-garden.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
 path = "themes/stardust/backgrounds/1-helix-nebula.jpg"
 precedence = "override"
 SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI, A. Pagan (STScI)"

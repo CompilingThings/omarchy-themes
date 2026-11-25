@@ -1,0 +1,106 @@
+{
+ "accent": "#5FD38A",
+ "wallpapers": [
+  {
+   "file": "01-eye-colony",
+   "by": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Un_hongo_colonizando_el_ojo_de_un_Insecto.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Un_hongo_colonizando_el_ojo_de_un_Insecto.jpg",
+   "title": "FUNGUS ON AN EYE",
+   "line1": "A fungus growing over an insect's eye, scanning electron microscope, coloured by the photographers.",
+   "line2": "9 July 2023  ·  Photo: Brandon Antonio Segura Torres & Priscilla Vieto Bonilla  ·  CC BY-SA 4.0"
+  },
+  {
+   "file": "02-spore-rosettes",
+   "by": "Aurora Storlazzi",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Linear_arrangement_of_ascospores_in_the_asci_of_the_fungus_Sordaria_macrospora.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Linear_arrangement_of_ascospores_in_the_asci_of_the_fungus_Sordaria_macrospora.jpg",
+   "title": "SPORE ROSETTES",
+   "line1": "Spores of Sordaria macrospora in their sacs, yellow or black by the genes each one got.",
+   "line2": "8 August 2017  ·  Photo: Aurora Storlazzi  ·  CC BY 4.0",
+   "panel": true
+  },
+  {
+   "file": "03-mycelium-on-an-eye",
+   "by": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Micelio_de_hongo_sobre_ojo_compuesto_SEM.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Micelio_de_hongo_sobre_ojo_compuesto_SEM.jpg",
+   "title": "MYCELIUM",
+   "line1": "Threads of a fungus across the lenses of a compound eye, scanning electron microscope.",
+   "line2": "13 September 2025  ·  Photo: Brandon Antonio Segura Torres & Priscilla Vieto Bonilla  ·  CC BY-SA 4.0",
+   "panel": true,
+   "crop": [
+    0.5,
+    0.45,
+    1.0
+   ]
+  },
+  {
+   "file": "04-penicillium",
+   "by": "Hafid1412",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Pinicillium_Sp.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Pinicillium_Sp.jpg",
+   "title": "PENICILLIUM",
+   "line1": "The mould Penicillium under the light microscope.",
+   "line2": "22 December 2023  ·  Photo: Hafid1412  ·  CC BY 4.0",
+   "fit": {
+    "h": 0.94,
+    "x": 0.42,
+    "field": "#000000"
+   }
+  },
+  {
+   "file": "05-colonies",
+   "by": "Sofia Vini",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/The_parallel_microscopic_Universe_IV.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:The_parallel_microscopic_Universe_IV.jpg",
+   "title": "COLONIES",
+   "line1": "Fungus colonies close up, from the series The parallel microscopic Universe.",
+   "line2": "22 June 2015  ·  Photo: Sofia Vini  ·  CC BY-SA 4.0",
+   "panel": true
+  },
+  {
+   "file": "06-bread-mould",
+   "by": "Pavel.Somov",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Mold_on_bread_2.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Mold_on_bread_2.png",
+   "title": "BREAD MOULD",
+   "line1": "Mould on bread under a scanning electron microscope (Tescan S9251G).",
+   "line2": "6 November 2019  ·  Photo: Pavel.Somov  ·  CC BY 4.0",
+   "panel": true
+  },
+  {
+   "file": "07-hazel-mildew",
+   "by": "Gubin Olexander",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Cleistothecium_of_powdery_mildew_fungi_Phyllactinia_guttata_on_the_leave_of_common_hazel.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cleistothecium_of_powdery_mildew_fungi_Phyllactinia_guttata_on_the_leave_of_common_hazel.jpg",
+   "title": "HAZEL MILDEW",
+   "line1": "The spore case of the powdery mildew Phyllactinia guttata, from a hazel leaf in Donetsk.",
+   "line2": "30 November 2017  ·  Photo: Gubin Olexander  ·  CC BY-SA 4.0",
+   "fit": {
+    "h": 0.94,
+    "x": 0.42,
+    "field": "#000000",
+    "cutout": true
+   }
+  },
+  {
+   "file": "08-moth-eye",
+   "by": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Proliferaci%C3%B3n_de_hongo_penicillium_sobre_ojo_compuesto_de_polilla.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Proliferaci%C3%B3n_de_hongo_penicillium_sobre_ojo_compuesto_de_polilla.jpg",
+   "title": "MOTH EYE",
+   "line1": "Penicillium on the eye of the moth Mythimna loreyi, scanning electron microscope.",
+   "line2": "10 March 2023  ·  Photo: Brandon Antonio Segura Torres & Priscilla Vieto Bonilla  ·  CC BY-SA 4.0",
+   "panel": true
+  }
+ ]
+}

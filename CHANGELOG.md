@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Spore Garden: eight moulds and other fungi under the microscope (fungus threads on insect eyes, spore rosettes,
+  Penicillium, colonies, bread mould, a powdery mildew's spore case), from the science photo competitions on Wikimedia
+  Commons.
 - Eight Eyes: twelve spiders and mites up close (jumping-spider eyes, two tarantulas, water mites, a mite's skin under
   the electron microscope), from the science photo competitions on Wikimedia Commons.
 - Glass House: twelve diatoms, single-celled algae in shells of glass, and two foraminifera shells, most of them

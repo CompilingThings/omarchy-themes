@@ -1,0 +1,49 @@
+mode = "dark"
+
+# Spore Garden: moulds and other fungi under the microscope: threads of a fungus across an insect's eye, spores lined
+# up in their sacs, Penicillium, colonies close up, bread mould, a powdery mildew's spore case, from the science photo
+# competitions on Wikimedia Commons. A near-black background with a hint of violet, cool pale text, the green of the
+# fungus threads as the accent, and the window border turning from it into the magenta of the eye they grow on.
+# Colours sampled from the theme's own photos.
+
+accent = "#4ED27A"
+selection = "#1E3A2A"
+muted = "#5E5870"
+
+background = "#07060A"
+dark_background = "#040306"
+darker_background = "#020203"
+lighter_background = "#17141C"
+
+foreground = "#ECE8F0"
+dark_foreground = "#968FA2"
+light_foreground = "#D2CCDA"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the green of the fungus threads turning to the magenta of the eye they grow on
+hyprland_active_border = "rgba(4ed27aff) rgba(c064e0ff) 45deg"
+hyprland_inactive_border = "rgba(17141ccc)"
+
+# red: the red drop among the colonies, wallpaper 05
+red = "#E05A5E"
+# orange: the copper threads of the mycelium, wallpaper 03
+orange = "#D88A4A"
+# yellow: the yellow pools in the Penicillium slide, wallpaper 04
+yellow = "#F2C46E"
+# green: the green fungus threads, wallpaper 01
+green = "#4ED27A"
+# cyan: the teal ends of the threads on the eye, wallpaper 01
+cyan = "#2CC2C8"
+# blue: the blue behind the spore rosettes, wallpaper 02
+blue = "#6E9EDA"
+# magenta: the magenta eye the fungus grows on, wallpaper 01
+magenta = "#C064E0"
+# brown: the hazel mildew's needles, wallpaper 07
+brown = "#B08A5A"
+
+bright_red = "#F2B0B2"
+bright_yellow = "#F8E2B4"
+bright_green = "#B4EEC6"
+bright_cyan = "#A8E8EA"
+bright_blue = "#BED2F0"
+bright_magenta = "#E4BCF2"

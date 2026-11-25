@@ -397,6 +397,19 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `7-transit-of-venus.jpg` | NASA/SDO, AIA | NASA media guidelines | [source](https://images.nasa.gov/details/GSFC_20171208_Archive_e001734) |
 | `8-space-station-transit.jpg` | NASA/Joel Kowsky | NASA media guidelines | [source](https://images.nasa.gov/details/NHQ201708210201) |
 
+## Spore Garden
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-eye-colony.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Un_hongo_colonizando_el_ojo_de_un_Insecto.jpg) |
+| `02-spore-rosettes.jpg` | Aurora Storlazzi | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Linear_arrangement_of_ascospores_in_the_asci_of_the_fungus_Sordaria_macrospora.jpg) |
+| `03-mycelium-on-an-eye.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Micelio_de_hongo_sobre_ojo_compuesto_SEM.jpg) |
+| `04-penicillium.jpg` | Hafid1412 | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Pinicillium_Sp.jpg) |
+| `05-colonies.jpg` | Sofia Vini | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:The_parallel_microscopic_Universe_IV.jpg) |
+| `06-bread-mould.jpg` | Pavel.Somov | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Mold_on_bread_2.png) |
+| `07-hazel-mildew.jpg` | Gubin Olexander | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Cleistothecium_of_powdery_mildew_fungi_Phyllactinia_guttata_on_the_leave_of_common_hazel.jpg) |
+| `08-moth-eye.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Proliferaci%C3%B3n_de_hongo_penicillium_sobre_ojo_compuesto_de_polilla.jpg) |
+
 ## Stardust
 
 | Wallpaper | By | Licence | Source |
