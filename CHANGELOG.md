@@ -8,6 +8,11 @@ picture or colour a patch).
 
 ### Added
 
+- Good Trip: six happy patterns that move all the time, drawn on the graphics chip from their formulas (breathing
+  fractal flowers, a tunnel of flowers, a melting swirl, two hyperbolic tilings, a liquid kaleidoscope), each a
+  seamless 12-second video loop in Omarchy's Catppuccin colours, with its own screensaver; `src/trippyvid.py`,
+  `src/trippy.frag` and `src/trippygl.c` draw them, `src/build good-trip` rebuilds them
+- `src/asciiart.py` takes a screensaver from a video wallpaper's first frame
 - Urchin: six close-ups of a sea urchin by Brandon Antonio Segura Torres and Priscilla Vieto Bonilla from Wikimedia
   Commons (the teeth of its jaw, its shell, the knobs its spines sit on, its genital plates); spine coral and tooth
   cream, with its own screensaver

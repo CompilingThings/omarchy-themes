@@ -245,6 +245,19 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 
 `screensaver.txt`: text art of `12-honeycomb` (`src/asciiart.py`), so by Anatoly Mikhaltsov, CC BY-SA 4.0, like that wallpaper.
 
+## Good Trip
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `1-blooming-flower.mp4` | CompilingThings | CC BY 4.0 | made with `src/trippyvid.py` |
+| `2-flower-tunnel.mp4` | CompilingThings | CC BY 4.0 | made with `src/trippyvid.py` |
+| `3-swirl.mp4` | CompilingThings | CC BY 4.0 | made with `src/trippyvid.py` |
+| `4-heptagon-sky.mp4` | CompilingThings | CC BY 4.0 | made with `src/trippyvid.py` |
+| `5-liquid-mandala.mp4` | CompilingThings | CC BY 4.0 | made with `src/trippyvid.py` |
+| `6-endless-band.mp4` | CompilingThings | CC BY 4.0 | made with `src/trippyvid.py` |
+
+`screensaver.txt`: text art of `4-heptagon-sky` (`src/asciiart.py`), so by CompilingThings, CC BY 4.0, like that wallpaper.
+
 ## Grand Tour
 
 | Wallpaper | By | Licence | Source |

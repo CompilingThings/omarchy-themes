@@ -10,6 +10,7 @@ scripts that made them, so every picture can be made again and checked.
 | [`fractalwall.py`](fractalwall.py), [`fractal.c`](fractal.c) | Seahorse Valley's fractals, drawn from their formulas |
 | [`termfractal.py`](termfractal.py) | One of those fractals drawn inside a terminal |
 | [`earthspin.py`](earthspin.py) | Low Orbit's turning Earth video |
+| [`trippyvid.py`](trippyvid.py), [`trippy.frag`](trippy.frag), [`trippygl.c`](trippygl.c) | Good Trip's moving patterns: the shader runs on the graphics chip without a window and ffmpeg makes each seamless loop |
 | [`boardroom/`](boardroom/), [`traceroute/`](traceroute/) | The two board themes, from KiCad board files |
 | [`asciiart.py`](asciiart.py) | A wallpaper as braille text art for a theme's `screensaver.txt` (see [`extras/screensaver`](../extras/screensaver/README.md)) |
 | [`grain.py`](grain.py) | Measures a photo's grain at screen size, to check it before it goes in |
@@ -19,7 +20,8 @@ scripts that made them, so every picture can be made again and checked.
 - Python 3.11 or newer with [Pillow](https://pypi.org/project/pillow/); numpy for the fractals, the board themes
   and the Earth; scipy for the Earth and `grain.py`. On Arch: `sudo pacman -S python-pillow python-numpy python-scipy`.
   Or set `PYTHON` to a virtual environment that has them: `PYTHON=.venv/bin/python src/build nordlys`.
-- gcc with OpenMP for the fractals; ffmpeg for the Earth; KiCad 10 (`kicad-cli` and its `pcbnew` Python module) and
+- gcc with OpenMP for the fractals; ffmpeg for the Earth; gcc, EGL with OpenGL ES 3.1 (Mesa or a GPU driver) and
+  ffmpeg for Good Trip; KiCad 10 (`kicad-cli` and its `pcbnew` Python module) and
   `rsvg-convert` for the board themes.
 - The labels use Nimbus Sans (`/usr/share/fonts/gsfonts`, package `gsfonts`) and the board themes JetBrains Mono Nerd
   Font, both installed with Omarchy.

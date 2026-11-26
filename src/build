@@ -6,7 +6,8 @@
 #
 # Photo themes download their photos once (into ${XDG_CACHE_HOME:-~/.cache}/omarchy-themes/<theme>) and need Python 3
 # with Pillow; Snow Crystal also needs numpy and scipy (to cut Bentley's round plates out of the museum scans).
-# Seahorse Valley draws its fractals and also needs gcc with OpenMP and numpy. The turning Earth of Low Orbit is
+# Seahorse Valley draws its fractals and also needs gcc with OpenMP and numpy. Good Trip draws its moving patterns on
+# the graphics chip (src/trippyvid.py: gcc, EGL with OpenGL ES 3.1, ffmpeg). The turning Earth of Low Orbit is
 # rendered by src/earthspin.py on its own (about 75 minutes, see src/README.md). Boardroom and Traceroute are drawn
 # from KiCad board files and need KiCad 10: pass the folder that holds the boards with BOARDS=<dir>.
 #
@@ -42,6 +43,13 @@ fractals() {  # <theme>
   photos "$t"
 }
 
+trippy() {  # <theme>
+  local t=$1
+  command -v gcc >/dev/null || die "$t needs gcc (and EGL with OpenGL ES 3.1) to draw its patterns"
+  command -v ffmpeg >/dev/null || die "$t needs ffmpeg"
+  nice -n 10 "$python" -I "$here/trippyvid.py" --theme "$root/themes/$t" "$cache_root/$t"
+}
+
 boards() {  # <theme>
   local t=$1
   [ -n "${BOARDS:-}" ] || { echo "skip $t: set BOARDS=<folder with the KiCad boards> to rebuild it" >&2; return 0; }
@@ -57,6 +65,7 @@ build() {  # <theme>
   case $t in
     boardroom | traceroute) boards "$t" ;;
     seahorse-valley) fractals "$t" ;;
+    good-trip) trippy "$t" ;;
     snow-crystal) needs numpy scipy; photos "$t" ;;
     *) photos "$t" ;;
   esac

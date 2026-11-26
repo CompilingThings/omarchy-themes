@@ -1041,6 +1041,60 @@ SPDX-FileCopyrightText = "Irina Klimova, Microcosmos lab"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 [[annotations]]
+path = "themes/good-trip/backgrounds/1-blooming-flower.mp4"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/good-trip/backgrounds/2-flower-tunnel.mp4"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/good-trip/backgrounds/3-swirl.mp4"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/good-trip/backgrounds/4-heptagon-sky.mp4"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/good-trip/backgrounds/5-liquid-mandala.mp4"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/good-trip/backgrounds/6-endless-band.mp4"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = ["themes/good-trip/screensaver.txt", "docs/images/screensavers/good-trip.png"]
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/good-trip/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "docs/images/good-trip.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "2026 CompilingThings"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
 path = "themes/grand-tour/backgrounds/1-saturn.jpg"
 precedence = "override"
 SPDX-FileCopyrightText = "NASA/JPL/Space Science Institute"

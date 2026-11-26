@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """A photo as braille text art, for a theme's screensaver.txt.
 
-Usage: asciiart.py --theme <theme>...         (a theme's own, from its wallpapers.json "screensaver")
+Usage: asciiart.py --theme <theme>...         (a theme's own, from its wallpapers.json "screensaver"; a video
+                                               wallpaper gives its first frame)
        asciiart.py <photo> <out.txt> [--cols 100] [--rows 24] [--box x0,y0,x1,y1] [--gamma 1.0] [--level 0.5]
                    [--edges 0.0] [--invert] [--hide x0,y0,x1,y1]
                    [--mean 0.2] [--title "Spore Garden"]          (needs numpy and Pillow)
@@ -35,8 +36,17 @@ BITS = [[0x01, 0x08], [0x02, 0x10], [0x04, 0x20], [0x40, 0x80]]
 CELL_ASPECT = 2.05      # cell height / cell width in JetBrains Mono (Omarchy's screensaver font)
 
 
+def first_frame(path):
+    """a video wallpaper's first frame (ffmpeg), as a picture"""
+    import io
+    import subprocess
+    png = subprocess.run(["ffmpeg", "-v", "error", "-i", str(path), "-frames:v", "1", "-f", "image2pipe", "-c:v", "png", "-"],
+                         capture_output=True, check=True).stdout
+    return Image.open(io.BytesIO(png))
+
+
 def load(path, box, hide=None):
-    im = Image.open(path).convert("RGB")
+    im = (first_frame(path) if Path(path).suffix == ".mp4" else Image.open(path)).convert("RGB")
     if hide:
         w, h = im.size
         x0, y0, x1, y1 = hide

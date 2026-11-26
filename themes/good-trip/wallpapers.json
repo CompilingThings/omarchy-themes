@@ -1,0 +1,89 @@
+{
+ "accent": "#89B4FA",
+ "screensaver": {
+  "from": "4-heptagon-sky",
+  "args": [
+   "--zoom",
+   "--mean",
+   "0.2",
+   "--detail",
+   "3",
+   "--color",
+   "theme"
+  ]
+ },
+ "wallpapers": [
+  {
+   "file": "1-blooming-flower",
+   "format": "mp4",
+   "by": "CompilingThings",
+   "licence": "CC-BY-4.0",
+   "made_with": "src/trippyvid.py",
+   "title": "BLOOMING FLOWER",
+   "line1": "An eight-fold flower whose petals breathe and change shape while the whole flower slowly turns.",
+   "line2": "A Julia set (z -> z^2 + c) folded into eight mirrored wedges; c walks a small circle, so every petal reshapes and comes back.",
+   "draw": "bloom bg=1e1e2e gain=1.25 ss=2 grad=0:101019,0.1:89b4fa,0.22:f5c2e7,0.34:f38ba8,0.46:f6b6ab,0.58:f9e2af,0.7:a6e3a1,0.82:94e2d5,0.92:89b4fa fold=8 ca=-0.7269 cb=0.1889 w=3.2 zs=0.8 pk=8 pr=0.5 petw=0.008 lace=0.8 maxiter=80 esck=1 escg=2.0 pdec=0.9 cyc=1 spin=1 crad=0.03",
+   "frames": 360
+  },
+  {
+   "file": "2-flower-tunnel",
+   "format": "mp4",
+   "by": "CompilingThings",
+   "licence": "CC-BY-4.0",
+   "made_with": "src/trippyvid.py",
+   "title": "FLOWER TUNNEL",
+   "line1": "Falling forever down a spiral tunnel lined with fractal flowers, toward a glowing light.",
+   "line2": "The same Julia flower tiled along a log-polar spiral; one loop falls two rings deeper, which looks exactly like the start.",
+   "draw": "tunnel bg=1e1e2e gain=1.25 ss=2 grad=0:101019,0.1:89b4fa,0.22:f5c2e7,0.34:f38ba8,0.46:f6b6ab,0.58:f9e2af,0.7:a6e3a1,0.82:94e2d5,0.92:89b4fa inner=bloom fold=6 ca=-0.7269 cb=0.1889 pk=6 pr=0.5 petw=0.012 lace=1.0 pdec=0.9 maxiter=60 depth=1.9 rep=12 spiral=1 ts=2.6 w=2.6 core=2 cores=0.025 esck=1 escg=2.0 fade=0.25 zoom=2 cyc=1 crad=0.02",
+   "frames": 360
+  },
+  {
+   "file": "3-swirl",
+   "format": "mp4",
+   "by": "CompilingThings",
+   "licence": "CC-BY-4.0",
+   "made_with": "src/trippyvid.py",
+   "title": "SWIRL",
+   "line1": "A six-armed fractal swirl, its glowing petals turning and melting into new shapes.",
+   "line2": "A Julia set near c = 0.285 + 0.01i, folded six ways and twisted along a log spiral.",
+   "draw": "bloom bg=1e1e2e gain=1.25 ss=2 grad=0:101019,0.1:89b4fa,0.22:f5c2e7,0.34:f38ba8,0.46:f6b6ab,0.58:f9e2af,0.7:a6e3a1,0.82:94e2d5,0.92:89b4fa fold=6 ca=0.285 cb=0.01 w=3.4 zs=0.9 pk=5 pr=0.7 pa=0.5 petw=0.01 lace=0.8 maxiter=80 esck=1 escg=2.0 pdec=0.92 twist=0.6 spin=1 cyc=1 crad=0.03",
+   "frames": 360
+  },
+  {
+   "file": "4-heptagon-sky",
+   "format": "mp4",
+   "by": "CompilingThings",
+   "licence": "CC-BY-4.0",
+   "made_with": "src/trippyvid.py",
+   "title": "HEPTAGON SKY",
+   "line1": "Endless triangles of seven around a point, shrinking toward the rim, turning while the colours flow through them.",
+   "line2": "The {7,3} tiling of the hyperbolic plane in the Poincare disk: every tile is the same size in that geometry.",
+   "draw": "hyper bg=1e1e2e gain=1.25 ss=2 grad=0:101019,0.1:89b4fa,0.22:f5c2e7,0.34:f38ba8,0.46:f6b6ab,0.58:f9e2af,0.7:a6e3a1,0.82:94e2d5,0.92:89b4fa p=7 q=3 w=2.2 edgek=0.003 edge=1.6 cstep=0.13 tfill=0.5 spin=1 cyc=1",
+   "frames": 360
+  },
+  {
+   "file": "5-liquid-mandala",
+   "format": "mp4",
+   "by": "CompilingThings",
+   "licence": "CC-BY-4.0",
+   "made_with": "src/trippyvid.py",
+   "title": "LIQUID MANDALA",
+   "line1": "A ten-fold kaleidoscope of flowing marbled colour that never quite repeats inside the loop.",
+   "line2": "Warped value noise (fractional Brownian motion fed through itself twice), mirrored ten ways.",
+   "draw": "liquid bg=1e1e2e gain=1.25 ss=2 grad=0:101019,0.1:89b4fa,0.22:f5c2e7,0.34:f38ba8,0.46:f6b6ab,0.58:f9e2af,0.7:a6e3a1,0.82:94e2d5,0.92:89b4fa fold=10 w=4 ws=1.4 wk=4.5 lgam=1.6 ridge=1.0 ridgek=0.012 scale=1.6 flow=1 cyc=1",
+   "frames": 360
+  },
+  {
+   "file": "6-endless-band",
+   "format": "mp4",
+   "by": "CompilingThings",
+   "licence": "CC-BY-4.0",
+   "made_with": "src/trippyvid.py",
+   "title": "ENDLESS BAND",
+   "line1": "A ribbon of tiles stretching off both sides of the screen, four meeting at every corner, five around every centre.",
+   "line2": "The {5,4} hyperbolic tiling in the band model, the whole plane laid along one straight strip.",
+   "draw": "hyper bg=1e1e2e gain=1.25 ss=2 grad=0:101019,0.1:89b4fa,0.22:f5c2e7,0.34:f38ba8,0.46:f6b6ab,0.58:f9e2af,0.7:a6e3a1,0.82:94e2d5,0.92:89b4fa p=5 q=4 model=band w=2.7 spin=1 edgek=0.003 edge=1.6 cstep=0.13 tfill=0.5 cyc=1",
+   "frames": 360
+  }
+ ]
+}

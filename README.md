@@ -3,9 +3,9 @@
 [![check](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml/badge.svg)](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml)
 [![MIT licence](https://img.shields.io/badge/code-MIT-blue)](LICENSE)
 
-**Forty-one themes for [Omarchy](https://omarchy.org), each with its own animated screensaver:** the planets, the Sun and the Moon in real spacecraft photos,
-the northern lights over Norway, mushrooms from forests round the world, insects up close, and under the microscope the animals in a drop of pond water, the same animals glowing in colour on black, crystals and slices of rock in polarised light, crystals standing alone on black, bubbles and soap films, mineral specimens in the studio, animal skulls on black, bacteria colonies through the eyepiece, the cells of leaves, parasites of fish, mineral growing in the heart and in kidney stones, a sea urchin's teeth and shell, the bare silicon inside old chips, plant stems sliced thin and glowing, brains, eyes and cells lit with glowing dyes, viruses coloured in from the electron microscope, the immune cells that fight them, butterfly wings scale by scale, and insects glowing under violet light, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
-Every wallpaper is 4K and carries a small label saying what it shows and who made it.
+**Forty-two themes for [Omarchy](https://omarchy.org), each with its own animated screensaver:** the planets, the Sun and the Moon in real spacecraft photos,
+the northern lights over Norway, mushrooms from forests round the world, insects up close, and under the microscope the animals in a drop of pond water, the same animals glowing in colour on black, crystals and slices of rock in polarised light, crystals standing alone on black, bubbles and soap films, mineral specimens in the studio, animal skulls on black, bacteria colonies through the eyepiece, the cells of leaves, parasites of fish, mineral growing in the heart and in kidney stones, a sea urchin's teeth and shell, the bare silicon inside old chips, plant stems sliced thin and glowing, brains, eyes and cells lit with glowing dyes, viruses coloured in from the electron microscope, the immune cells that fight them, butterfly wings scale by scale, and insects glowing under violet light, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, happy moving patterns that never stop, and the circuit boards of a homemade computer.
+Every still wallpaper is 4K and carries a small label saying what it shows and who made it.
 
 ![All the themes](docs/images/gallery.jpg)
 
@@ -21,6 +21,7 @@ Every wallpaper is 4K and carries a small label saying what it shows and who mad
 | <img src="docs/images/deep-sea.jpg" alt="Deep Sea" width="240"> | [**Deep Sea**](themes/deep-sea/README.md) | Jellyfish and comb jellies lit in dark water, and an isopod from 900 m down; glowing blue and bluefire purple |
 | <img src="docs/images/die-shot.jpg" alt="Die Shot" width="240"> | [**Die Shot**](themes/die-shot/README.md) | The bare silicon of old chips under the microscope, whole on black: tracks, bond pads, gold wires; gold and pale cyan |
 | <img src="docs/images/fairy-ring.jpg" alt="Fairy Ring" width="240"> | [**Fairy Ring**](themes/fairy-ring/README.md) | Mushrooms from forests round the world: fly agarics, glowing fungi, amethyst deceivers; fly agaric red and amethyst |
+| <img src="docs/images/good-trip.jpg" alt="Good Trip" width="240"> | [**Good Trip**](themes/good-trip/README.md) | Six happy patterns that move all the time: breathing fractal flowers, a flower tunnel, hyperbolic tiles, a liquid kaleidoscope; Catppuccin |
 | <img src="docs/images/grand-tour.jpg" alt="Grand Tour" width="240"> | [**Grand Tour**](themes/grand-tour/README.md) | Saturn, Jupiter, Io, Europa and Pluto from Cassini, Juno and New Horizons; teal |
 | <img src="docs/images/green-room.jpg" alt="Green Room" width="240"> | [**Green Room**](themes/green-room/README.md) | The cells of leaves under the microscope: tulip stomata in polarised light, pondweed packed with chloroplasts, glowing leaf cells; chlorophyll green and polarised magenta |
 | <img src="docs/images/heartstone.jpg" alt="Heartstone" width="240"> | [**Heartstone**](themes/heartstone/README.md) | Mineral where it should not grow, in the heart and the kidney, in colour electron micrographs where colour shows how dense each part is: grains in heart tissue, kidney-stone crystals, mirrored calcified heart; fibre pink and kidney-stone orange |
@@ -96,7 +97,8 @@ replaces a theme it put there itself.
 - **A boot screen:** the Omarchy logo in the theme's accent colour, ready for `omarchy plymouth set by theme <theme>`.
 - **Credits** on every picture, and in [CREDITS.md](CREDITS.md) with each licence.
 
-Low Orbit's first wallpaper is a 60-second video, played by owe, Omarchy's video wallpaper engine.
+Low Orbit's first wallpaper is a 60-second video, and all six of Good Trip's are 12-second loops, played by owe,
+Omarchy's video wallpaper engine.
 
 ## Screensavers
 
@@ -134,14 +136,15 @@ Copyright 2026 CompilingThings.
 
 - Code and theme files (`install`, `src/`, `tools/`, each theme's `colors.toml`, `hyprland.lua`, `foot.ini`,
   `shell.*.toml`): [MIT](LICENSE).
-- Pictures made for this repository (Boardroom, Traceroute, Seahorse Valley's fractals, Low Orbit's turning Earth):
+- Pictures made for this repository (Boardroom, Traceroute, Seahorse Valley's fractals, Low Orbit's turning Earth, Good Trip's
+  patterns):
   [CC BY 4.0](LICENSES/CC-BY-4.0.txt). Each `preview.png` and the pictures in `docs/images/` are small copies of
   wallpapers and keep the licence of the wallpaper they show.
 - Photos: each under its own licence, printed on the picture and listed in [CREDITS.md](CREDITS.md): NASA's media
   guidelines, CC BY, CC BY-SA, CC0, and CC BY-NC-SA for three of Grand Tour's Juno pictures, which may not be used
   commercially. A wallpaper made from a share-alike photo is shared under that photo's licence.
 - The boot screen logo is Omarchy's (MIT, copyright David Heinemeier Hansson). Seahorse Valley uses Omarchy's Tokyo
-  Night files for Neovim, VS Code and icons, unchanged (MIT).
+  Night files and Good Trip its Catppuccin files for Neovim, VS Code and icons, unchanged (MIT).
 
 [REUSE.toml](REUSE.toml) gives the copyright and licence of every file in the
 [REUSE](https://reuse.software/) format.
