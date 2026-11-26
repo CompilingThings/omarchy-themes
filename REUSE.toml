@@ -1071,6 +1071,60 @@ SPDX-FileCopyrightText = "Luisa Demarchi, Ilaria Bertocchi, Alessandra Oberto"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 [[annotations]]
+path = "themes/kaleidoscope/backgrounds/01-malic-acid.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "MarekMiś"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/kaleidoscope/backgrounds/02-nucleation.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "KarlGaff"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/kaleidoscope/backgrounds/03-vanillin.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Photon 400 750"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/kaleidoscope/backgrounds/04-magnesium-sulfate.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "KarlGaff"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/kaleidoscope/backgrounds/05-smectic-phase.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Alexander Kurilov"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/kaleidoscope/backgrounds/06-nicotinic-acid.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "KarlGaff"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/kaleidoscope/screensaver.txt"
+precedence = "override"
+SPDX-FileCopyrightText = "KarlGaff"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/kaleidoscope/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "MarekMiś"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "docs/images/kaleidoscope.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "MarekMiś"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
 path = "themes/lantern/backgrounds/01-moth.jpg"
 precedence = "override"
 SPDX-FileCopyrightText = "Alexander Klepnev"

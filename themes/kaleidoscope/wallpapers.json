@@ -1,0 +1,87 @@
+{
+ "accent": "#B86BF2",
+ "screensaver": {
+  "from": "02-nucleation",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--box",
+   "0.2,0.1,0.8,0.9",
+   "--mean",
+   "0.32",
+   "--detail",
+   "3",
+   "--edges",
+   "0.4",
+   "--color",
+   "theme"
+  ]
+ },
+ "wallpapers": [
+  {
+   "file": "01-malic-acid",
+   "by": "MarekMiś",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kwas_jab%C5%82kowy.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kwas_jab%C5%82kowy.jpg",
+   "title": "MALIC ACID",
+   "line1": "Crystals of malic acid, the sour of apples, in polarised light at 100x.",
+   "line2": "13 December 2018  ·  Photo: MarekMiś  ·  CC BY 4.0"
+  },
+  {
+   "file": "02-nucleation",
+   "by": "KarlGaff",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Nucleation.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Nucleation.jpg",
+   "title": "NUCLEATION",
+   "line1": "A thin chemical film crystallising outward from one seed point, between crossed polarisers.",
+   "line2": "27 July 2024  ·  Photo: KarlGaff  ·  CC BY 4.0"
+  },
+  {
+   "file": "03-vanillin",
+   "by": "Photon 400 750",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/01_Vanillin_Crystals.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:01_Vanillin_Crystals.jpg",
+   "title": "VANILLIN",
+   "line1": "Crystals of vanillin, the taste of vanilla, in polarised light (the photographer named it \"Knight Shield\").",
+   "line2": "2 October 2016  ·  Photo: Photon 400 750  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.375,
+    1.0
+   ]
+  },
+  {
+   "file": "04-magnesium-sulfate",
+   "by": "KarlGaff",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Magnesium_sulfate_crystals.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Magnesium_sulfate_crystals.jpg",
+   "title": "MAGNESIUM SULFATE",
+   "line1": "Magnesium sulfate (Epsom salt) dissolving and growing again, compensated polarised light.",
+   "line2": "18 December 2021  ·  Photo: KarlGaff  ·  CC BY 4.0"
+  },
+  {
+   "file": "05-smectic-phase",
+   "by": "Alexander Kurilov",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/SmA_phase.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:SmA_phase.jpg",
+   "title": "SMECTIC PHASE",
+   "line1": "A liquid crystal in its layered smectic A phase, between crossed polarisers at 4x.",
+   "line2": "11 March 2022  ·  Photo: Alexander Kurilov  ·  CC BY 4.0"
+  },
+  {
+   "file": "06-nicotinic-acid",
+   "by": "KarlGaff",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Nicotinic_acid.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Nicotinic_acid.jpg",
+   "title": "NICOTINIC ACID",
+   "line1": "The seed point of a thin crystal film of nicotinic acid (vitamin B3), polarised light.",
+   "line2": "10 February 2020  ·  Photo: KarlGaff  ·  CC BY 4.0"
+  }
+ ]
+}

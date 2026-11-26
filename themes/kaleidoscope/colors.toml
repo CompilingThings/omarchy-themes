@@ -1,0 +1,49 @@
+mode = "dark"
+
+# Kaleidoscope: chemicals crystallising on a slide, seen between two crossed polarising filters, where each crystal
+# splits the light into its own rainbow: the fans of malic acid, a film growing out from one seed point, vanillin,
+# Epsom salt on violet, a liquid crystal in layers, and nicotinic acid. The near-black of crossed polarisers as the
+# background, pale text, the violet of the Epsom salt as the accent, and the window border turning from it into the
+# gold of malic acid. Colours sampled from the theme's own photos.
+
+accent = "#B86BF2"
+selection = "#2A1A3A"
+muted = "#5E5568"
+
+background = "#0B0710"
+dark_background = "#07040B"
+darker_background = "#030205"
+lighter_background = "#1C1424"
+
+foreground = "#ECE6F2"
+dark_foreground = "#958CA0"
+light_foreground = "#D0C8DA"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the violet of the Epsom salt turning to the gold of malic acid
+hyprland_active_border = "rgba(b86bf2ff) rgba(e8b84aff) 45deg"
+hyprland_inactive_border = "rgba(1c1424cc)"
+
+# red: the crimson edges of the malic acid fans, wallpaper 01
+red = "#E8365E"
+# orange: the orange fans of malic acid, wallpaper 01
+orange = "#EE6A2E"
+# yellow: the gold of malic acid, wallpaper 01
+yellow = "#E8B84A"
+# green: the green layers of the liquid crystal, wallpaper 05
+green = "#8CC850"
+# cyan: the cyan streaks in the vanillin, wallpaper 03
+cyan = "#22B8E0"
+# blue: the deep blue fans of the vanillin, wallpaper 03
+blue = "#4C8CF0"
+# magenta: the magenta under the Epsom salt crystals, wallpaper 04
+magenta = "#D058B8"
+# brown: the warm brown seed point of nicotinic acid, wallpaper 06
+brown = "#C28A48"
+
+bright_red = "#F4A6B8"
+bright_yellow = "#F6E0A8"
+bright_green = "#C8E6A8"
+bright_cyan = "#A2E2F2"
+bright_blue = "#B4CCF8"
+bright_magenta = "#EEB2E2"

@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Kaleidoscope: six chemicals crystallising in polarised light (malic acid, a film growing from one seed point,
+  vanillin, Epsom salt, a liquid crystal's smectic phase, nicotinic acid), all new to these themes, from the science
+  photo competitions on Wikimedia Commons; Epsom violet and malic gold
 - Spore Garden: eight moulds and other fungi under the microscope (fungus threads on insect eyes, spore rosettes,
   Penicillium, colonies, bread mould, a powdery mildew's spore case), from the science photo competitions on Wikimedia
   Commons.

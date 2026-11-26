@@ -250,6 +250,19 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 
 `screensaver.txt`: text art of `08-mouse-brain` (`src/asciiart.py`), so by Syed07, CC BY 4.0, like that wallpaper.
 
+## Kaleidoscope
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-malic-acid.jpg` | MarekMiś | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Kwas_jab%C5%82kowy.jpg) |
+| `02-nucleation.jpg` | KarlGaff | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Nucleation.jpg) |
+| `03-vanillin.jpg` | Photon 400 750 | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:01_Vanillin_Crystals.jpg) |
+| `04-magnesium-sulfate.jpg` | KarlGaff | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Magnesium_sulfate_crystals.jpg) |
+| `05-smectic-phase.jpg` | Alexander Kurilov | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:SmA_phase.jpg) |
+| `06-nicotinic-acid.jpg` | KarlGaff | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Nicotinic_acid.jpg) |
+
+`screensaver.txt`: text art of `02-nucleation` (`src/asciiart.py`), so by KarlGaff, CC BY 4.0, like that wallpaper.
+
 ## Lantern
 
 | Wallpaper | By | Licence | Source |
