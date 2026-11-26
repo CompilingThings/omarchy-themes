@@ -1,0 +1,48 @@
+mode = "dark"
+
+# Colony: bacteria growing across agar, seen through a microscope eyepiece by Korinna: Bacillus subtilis
+# spreading in a branching, fractal-like pattern, blue Bacillus fronts, tree-like colonies, a red colony beside
+# another kind, broad brown branches and a colony folded into a swirl. Each round view on black, cool pale text,
+# Bacillus blue as the accent and the window border turning from it into the red of the colony.
+
+accent = "#5C8CF0"
+selection = "#1C2238"
+muted = "#565C6C"
+
+background = "#08090C"
+dark_background = "#050608"
+darker_background = "#020203"
+lighter_background = "#161A24"
+
+foreground = "#E6EAF2"
+dark_foreground = "#8C93A4"
+light_foreground = "#C8CEDC"
+bright_foreground = "#FFFFFF"
+
+# The focused window: Bacillus blue turning to the red of the colony
+hyprland_active_border = "rgba(5c8cf0ff) rgba(d0583cff) 45deg"
+hyprland_inactive_border = "rgba(161a24cc)"
+
+# red: the red colony, wallpaper 04
+red = "#E05A40"
+# orange: the orange heart of the red colony, wallpaper 04
+orange = "#E08A48"
+# yellow: the pale yellow of the Bacillus subtilis agar, wallpaper 01
+yellow = "#E2CC78"
+# green: a soft green, kept in the same clear range
+green = "#8CB86C"
+# cyan: the cyan glints in the blue Bacillus, wallpapers 02 and 06
+cyan = "#6CB8D0"
+# blue: the Bacillus blue, wallpapers 02 and 06
+blue = "#6C8EF0"
+# magenta: the violet edge of the swirl, wallpaper 06
+magenta = "#B080E0"
+# brown: the brown branches, wallpaper 05
+brown = "#A8844E"
+
+bright_red = "#F4AE9E"
+bright_yellow = "#F2E4B0"
+bright_green = "#C8E0B4"
+bright_cyan = "#B8DCE8"
+bright_blue = "#C0CCF6"
+bright_magenta = "#DCC4F2"

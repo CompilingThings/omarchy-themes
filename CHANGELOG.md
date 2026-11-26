@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Colony: six bacterial colonies growing across agar, photographed through a microscope's eyepiece by Korinna, from
+  Wikimedia Commons (a Bacillus subtilis fractal, blue Bacillus, tree-like colonies, a red colony); Bacillus blue and
+  colony red, with its own screensaver
 - Bone White: six animal skulls photographed on black by Didier Descouens (a babirusa, a mandrill, a yellow baboon, a
   warthog, a Siberian musk deer, an eastern woolly lemur), from Wikimedia Commons' featured pictures; bone ivory and
   tusk amber, with its own screensaver

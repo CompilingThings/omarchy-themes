@@ -1,0 +1,143 @@
+{
+ "accent": "#5C8CF0",
+ "screensaver": {
+  "from": "01-fractal",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--box",
+   "0.12,0.04,0.58,0.96",
+   "--mean",
+   "0.18",
+   "--detail",
+   "3",
+   "--edges",
+   "1.0",
+   "--invert",
+   "--color",
+   "theme"
+  ]
+ },
+ "wallpapers": [
+  {
+   "file": "01-fractal",
+   "by": "Korinna",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bacillus_subtilis_growing_in_aeautiful_fractal_pattern_20200218_145737.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bacillus_subtilis_growing_in_aeautiful_fractal_pattern_20200218_145737.jpg",
+   "title": "BACILLUS SUBTILIS",
+   "line1": "Bacillus subtilis spreading across agar in a branching, fractal-like pattern, under the microscope.",
+   "line2": "18 February 2020  ·  Photo: Korinna  ·  CC BY 4.0",
+   "fit": {
+    "field": "#000000",
+    "h": 0.9,
+    "x": 0.34,
+    "y": 0.5,
+    "oval": [
+     0.82,
+     0.96
+    ]
+   }
+  },
+  {
+   "file": "02-blue-front",
+   "by": "Korinna",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bacillus_bacteria_growth_under_the_microscope_20200406_015345.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bacillus_bacteria_growth_under_the_microscope_20200406_015345.jpg",
+   "title": "BACILLUS",
+   "line1": "The edge of a Bacillus colony growing across agar, under the microscope.",
+   "line2": "18 February 2020  ·  Photo: Korinna  ·  CC BY 4.0",
+   "fit": {
+    "field": "#000000",
+    "h": 0.9,
+    "x": 0.34,
+    "y": 0.5,
+    "oval": [
+     0.82,
+     0.96
+    ]
+   }
+  },
+  {
+   "file": "03-trees",
+   "by": "Korinna",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bacterial_colony_microscopy_building_interesting_structures_on_the_agar_03.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bacterial_colony_microscopy_building_interesting_structures_on_the_agar_03.jpg",
+   "title": "BRANCHING COLONY",
+   "line1": "A bacterial colony building branching, tree-like structures on agar, under the microscope.",
+   "line2": "14 January 2020  ·  Photo: Korinna  ·  CC BY 4.0",
+   "fit": {
+    "field": "#000000",
+    "h": 0.98,
+    "x": 0.34,
+    "y": 0.5,
+    "oval": [
+     0.74,
+     0.88
+    ]
+   }
+  },
+  {
+   "file": "04-two-colonies",
+   "by": "Korinna",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Bacteria_growth_under_the_microscope_-_Two_colonies_of_different_bacteria.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bacteria_growth_under_the_microscope_-_Two_colonies_of_different_bacteria.jpg",
+   "title": "TWO COLONIES",
+   "line1": "Two colonies of different bacteria side by side, a red one in front, under the microscope.",
+   "line2": "14 February 2020  ·  Photo: Korinna  ·  CC BY 4.0",
+   "fit": {
+    "field": "#000000",
+    "h": 0.98,
+    "x": 0.34,
+    "y": 0.5,
+    "oval": [
+     0.74,
+     0.88
+    ]
+   }
+  },
+  {
+   "file": "05-brown-branches",
+   "by": "Korinna",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bacterial_growth_microscope_view_02.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bacterial_growth_microscope_view_02.jpg",
+   "title": "BACTERIAL GROWTH",
+   "line1": "Bacteria spreading across agar in broad branches, under the microscope.",
+   "line2": "18 February 2020  ·  Photo: Korinna  ·  CC BY 4.0",
+   "fit": {
+    "field": "#000000",
+    "h": 0.9,
+    "x": 0.34,
+    "y": 0.5,
+    "oval": [
+     0.82,
+     0.96
+    ]
+   }
+  },
+  {
+   "file": "06-swirl",
+   "by": "Korinna",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bacillus_bacteria_growth_under_the_microscope_3.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bacillus_bacteria_growth_under_the_microscope_3.jpg",
+   "title": "BACILLUS",
+   "line1": "A Bacillus colony folding into a swirl as it grows, under the microscope.",
+   "line2": "18 February 2020  ·  Photo: Korinna  ·  CC BY 4.0",
+   "fit": {
+    "field": "#000000",
+    "h": 0.9,
+    "x": 0.34,
+    "y": 0.5,
+    "oval": [
+     0.82,
+     0.96
+    ]
+   }
+  }
+ ]
+}

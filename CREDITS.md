@@ -87,6 +87,19 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 
 `screensaver.txt`: text art of `09-large-eyed-tree-snake` (`src/asciiart.py`), so by Bernard Dupont, CC BY-SA 2.0, like that wallpaper.
 
+## Colony
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-fractal.jpg` | Korinna | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Bacillus_subtilis_growing_in_aeautiful_fractal_pattern_20200218_145737.jpg) |
+| `02-blue-front.jpg` | Korinna | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Bacillus_bacteria_growth_under_the_microscope_20200406_015345.jpg) |
+| `03-trees.jpg` | Korinna | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Bacterial_colony_microscopy_building_interesting_structures_on_the_agar_03.jpg) |
+| `04-two-colonies.jpg` | Korinna | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Bacteria_growth_under_the_microscope_-_Two_colonies_of_different_bacteria.jpg) |
+| `05-brown-branches.jpg` | Korinna | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Bacterial_growth_microscope_view_02.jpg) |
+| `06-swirl.jpg` | Korinna | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Bacillus_bacteria_growth_under_the_microscope_3.jpg) |
+
+`screensaver.txt`: text art of `01-fractal` (`src/asciiart.py`), so by Korinna, CC BY 4.0, like that wallpaper.
+
 ## Compound Eye
 
 | Wallpaper | By | Licence | Source |

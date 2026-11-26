@@ -309,6 +309,60 @@ SPDX-FileCopyrightText = "Brian Gratwicke"
 SPDX-License-Identifier = "CC-BY-2.0"
 
 [[annotations]]
+path = "themes/colony/backgrounds/01-fractal.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Korinna"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/colony/backgrounds/02-blue-front.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Korinna"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/colony/backgrounds/03-trees.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Korinna"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/colony/backgrounds/04-two-colonies.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Korinna"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/colony/backgrounds/05-brown-branches.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Korinna"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/colony/backgrounds/06-swirl.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Korinna"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = ["themes/colony/screensaver.txt", "docs/images/screensavers/colony.png"]
+precedence = "override"
+SPDX-FileCopyrightText = "Korinna"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/colony/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "Korinna"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "docs/images/colony.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Korinna"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
 path = "themes/compound-eye/backgrounds/01-cuckoo-wasp.jpg"
 precedence = "override"
 SPDX-FileCopyrightText = "USGS Bee Inventory and Monitoring Lab"
@@ -2747,11 +2801,11 @@ SPDX-License-Identifier = "CC-BY-2.0"
 [[annotations]]
 path = "docs/images/screensavers.jpg"
 precedence = "override"
-SPDX-FileCopyrightText = ["2026 CompilingThings", "Alexander Klepnev", "Anatoly Mikhaltsov", "Andrei Savitsky", "Aurora Storlazzi", "Bernard Dupont", "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla", "Didier Descouens", "ESA/DLR/FU Berlin", "Gary Ladd / KPNO / NOIRLab / NSF / AURA", "Ivar Leidus", "Janek Lass", "Johannes Groll (Unsplash)", "KarlGaff", "Lobastov BM", "Mikron86", "NASA (photo: Jim Irwin)", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, J. DePasquale (STScI)", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "NASA/SDO, AIA", "NIAID", "Paul Harrison", "Strekeisen", "Syed07", "USGS Bee Inventory and Monitoring Lab", "VektorF", "Wilson A. Bentley (The Met)", "karode13 (Mushroom Observer)"]
+SPDX-FileCopyrightText = ["2026 CompilingThings", "Alexander Klepnev", "Anatoly Mikhaltsov", "Andrei Savitsky", "Aurora Storlazzi", "Bernard Dupont", "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla", "Didier Descouens", "ESA/DLR/FU Berlin", "Gary Ladd / KPNO / NOIRLab / NSF / AURA", "Ivar Leidus", "Janek Lass", "Johannes Groll (Unsplash)", "KarlGaff", "Korinna", "Lobastov BM", "Mikron86", "NASA (photo: Jim Irwin)", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, J. DePasquale (STScI)", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "NASA/SDO, AIA", "NIAID", "Paul Harrison", "Strekeisen", "Syed07", "USGS Bee Inventory and Monitoring Lab", "VektorF", "Wilson A. Bentley (The Met)", "karode13 (Mushroom Observer)"]
 SPDX-License-Identifier = "CC-BY-2.0 AND CC-BY-4.0 AND CC-BY-SA-2.0 AND CC-BY-SA-3.0 AND CC-BY-SA-3.0-IGO AND CC-BY-SA-4.0 AND CC0-1.0 AND LicenseRef-NASA-Media AND LicenseRef-USGS-Public-Domain"
 
 [[annotations]]
 path = "docs/images/gallery.jpg"
 precedence = "override"
-SPDX-FileCopyrightText = ["2026 CompilingThings", "Alexander Klepnev", "Anatoly Mikhaltsov", "Andrei Savitsky", "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla", "Brian Gratwicke", "Bruno C. Vellutini", "Didier Descouens", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Irina Klimova, Microcosmos lab", "Ivar Leidus", "Johannes Groll (Unsplash)", "KarlGaff", "Lobastov BM", "Luisa Demarchi, Ilaria Bertocchi, Alessandra Oberto", "MarekMiś", "Mikron86", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "NIAID", "Rollingskyphoto", "Strekeisen", "U.S. Forest Service, Alaska Region", "USGS Bee Inventory and Monitoring Lab", "VektorF", "Wilson A. Bentley (The Met)"]
+SPDX-FileCopyrightText = ["2026 CompilingThings", "Alexander Klepnev", "Anatoly Mikhaltsov", "Andrei Savitsky", "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla", "Brian Gratwicke", "Bruno C. Vellutini", "Didier Descouens", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Irina Klimova, Microcosmos lab", "Ivar Leidus", "Johannes Groll (Unsplash)", "KarlGaff", "Korinna", "Lobastov BM", "Luisa Demarchi, Ilaria Bertocchi, Alessandra Oberto", "MarekMiś", "Mikron86", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "NIAID", "Rollingskyphoto", "Strekeisen", "U.S. Forest Service, Alaska Region", "USGS Bee Inventory and Monitoring Lab", "VektorF", "Wilson A. Bentley (The Met)"]
 SPDX-License-Identifier = "CC-BY-2.0 AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC-BY-SA-3.0-IGO AND CC-BY-SA-4.0 AND CC0-1.0 AND LicenseRef-NASA-Media AND LicenseRef-USGS-Public-Domain"
