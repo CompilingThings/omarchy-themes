@@ -1,0 +1,110 @@
+{
+ "accent": "#3A78EE",
+ "screensaver": {
+  "from": "01-soap-film",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--mean",
+   "0.30",
+   "--detail",
+   "3",
+   "--edges",
+   "0.4",
+   "--color",
+   "theme"
+  ]
+ },
+ "wallpapers": [
+  {
+   "file": "01-soap-film",
+   "by": "KarlGaff",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Lipid_Islands_on_Soap_Bubble.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Lipid_Islands_on_Soap_Bubble.jpg",
+   "title": "SOAP FILM",
+   "line1": "Islands of soap floating on the thin water film of a soap bubble, each coloured by the film's thickness.",
+   "line2": "27 December 2019  ·  Photo: KarlGaff  ·  CC BY 4.0",
+   "crop": [
+    0.5,
+    0.6,
+    1.0
+   ]
+  },
+  {
+   "file": "02-bubbles-in-plastic",
+   "by": "MarekMiś",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/P%C4%99cherzyki_powietrza.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:P%C4%99cherzyki_powietrza.jpg",
+   "title": "BUBBLES IN PLASTIC",
+   "line1": "Air bubbles trapped in melted polyvinyl alcohol, a water-soluble plastic, dark field and polarised light at 100x.",
+   "line2": "4 January 2019  ·  Photo: MarekMiś  ·  CC BY 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "03-foam",
+   "by": "KarlGaff",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bubbles_in_a_Foam.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bubbles_in_a_Foam.jpg",
+   "title": "FOAM",
+   "line1": "The walls between bubbles in a foam and the small spaces where they meet, interference contrast at 100x.",
+   "line2": "23 October 2021  ·  Photo: KarlGaff  ·  CC BY 4.0",
+   "crop": [
+    0.5,
+    0.42,
+    1.0
+   ]
+  },
+  {
+   "file": "04-dried-bubbles",
+   "by": "MarekMiś",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/P%C4%99cherzyki_powietrza_w_alkoholu_poliwinylowym.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:P%C4%99cherzyki_powietrza_w_alkoholu_poliwinylowym.jpg",
+   "title": "DRIED BUBBLES",
+   "line1": "Air bubbles in polyvinyl alcohol that was melted and then dried, dark field and polarised light at 100x.",
+   "line2": "6 January 2019  ·  Photo: MarekMiś  ·  CC BY 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "05-soap-bubbles",
+   "by": "MarekMiś",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/P%C4%99cherzyki_powietrza_w_roztworze_myd%C5%82a.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:P%C4%99cherzyki_powietrza_w_roztworze_myd%C5%82a.jpg",
+   "title": "SOAP BUBBLES",
+   "line1": "Air bubbles packed together in a solution of liquid soap, polarised light at 100x.",
+   "line2": "1 December 2013  ·  Photo: MarekMiś  ·  CC BY 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "06-squeezed-bubbles",
+   "by": "MarekMiś",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Zdeformowane_p%C4%99cherzyki_powietrza.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Zdeformowane_p%C4%99cherzyki_powietrza.jpg",
+   "title": "SQUEEZED BUBBLES",
+   "line1": "Air bubbles pressed out of shape as polyvinyl alcohol dried round them, polarised light at 100x.",
+   "line2": "8 January 2019  ·  Photo: MarekMiś  ·  CC BY 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  }
+ ]
+}

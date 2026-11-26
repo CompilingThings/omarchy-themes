@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Surface Tension: six photos of bubbles under the microscope (soap islands on a soap bubble's film, air bubbles in
+  melted, dried and squeezed polyvinyl alcohol, the walls of a foam, packed soap bubbles), from the science photo
+  competitions on Wikimedia Commons; foam blue and soap-film magenta, with its own screensaver
 - Sceptre: six crystals standing alone on black (potassium dichromate sceptres, ammonium nitrate needles, sugar,
   methylene violet, potato starch, a star of sea minerals), all new to these themes, from the science photo
   competitions on Wikimedia Commons; dichromate orange and ice cyan, with its own screensaver

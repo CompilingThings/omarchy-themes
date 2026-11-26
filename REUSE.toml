@@ -2301,6 +2301,60 @@ SPDX-FileCopyrightText = "Anatoly Mikhaltsov"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 [[annotations]]
+path = "themes/surface-tension/backgrounds/01-soap-film.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "KarlGaff"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/surface-tension/backgrounds/02-bubbles-in-plastic.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "MarekMiś"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/surface-tension/backgrounds/03-foam.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "KarlGaff"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/surface-tension/backgrounds/04-dried-bubbles.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "MarekMiś"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/surface-tension/backgrounds/05-soap-bubbles.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "MarekMiś"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/surface-tension/backgrounds/06-squeezed-bubbles.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "MarekMiś"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = ["themes/surface-tension/screensaver.txt", "docs/images/screensavers/surface-tension.png"]
+precedence = "override"
+SPDX-FileCopyrightText = "KarlGaff"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/surface-tension/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "KarlGaff"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "docs/images/surface-tension.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "KarlGaff"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
 path = "themes/thunderhead/backgrounds/01-three-strikes.jpg"
 precedence = "override"
 SPDX-FileCopyrightText = "Rollingskyphoto"
@@ -2591,5 +2645,5 @@ SPDX-License-Identifier = "CC-BY-2.0 AND CC-BY-4.0 AND CC-BY-SA-2.0 AND CC-BY-SA
 [[annotations]]
 path = "docs/images/gallery.jpg"
 precedence = "override"
-SPDX-FileCopyrightText = ["2026 CompilingThings", "Alexander Klepnev", "Anatoly Mikhaltsov", "Andrei Savitsky", "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla", "Brian Gratwicke", "Bruno C. Vellutini", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Irina Klimova, Microcosmos lab", "Johannes Groll (Unsplash)", "Lobastov BM", "Luisa Demarchi, Ilaria Bertocchi, Alessandra Oberto", "MarekMiś", "Mikron86", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "NIAID", "Rollingskyphoto", "Strekeisen", "U.S. Forest Service, Alaska Region", "USGS Bee Inventory and Monitoring Lab", "VektorF", "Wilson A. Bentley (The Met)"]
+SPDX-FileCopyrightText = ["2026 CompilingThings", "Alexander Klepnev", "Anatoly Mikhaltsov", "Andrei Savitsky", "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla", "Brian Gratwicke", "Bruno C. Vellutini", "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)", "Irina Klimova, Microcosmos lab", "Johannes Groll (Unsplash)", "KarlGaff", "Lobastov BM", "Luisa Demarchi, Ilaria Bertocchi, Alessandra Oberto", "MarekMiś", "Mikron86", "NASA", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, A. Pagan (STScI)", "NASA/JPL-Caltech/MSSS", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "NIAID", "Rollingskyphoto", "Strekeisen", "U.S. Forest Service, Alaska Region", "USGS Bee Inventory and Monitoring Lab", "VektorF", "Wilson A. Bentley (The Met)"]
 SPDX-License-Identifier = "CC-BY-2.0 AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC-BY-SA-3.0-IGO AND CC-BY-SA-4.0 AND CC0-1.0 AND LicenseRef-NASA-Media AND LicenseRef-USGS-Public-Domain"

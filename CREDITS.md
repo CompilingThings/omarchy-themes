@@ -518,6 +518,19 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 
 `screensaver.txt`: text art of `06-pine-needle` (`src/asciiart.py`), so by Anatoly Mikhaltsov, CC BY 4.0, like that wallpaper.
 
+## Surface Tension
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-soap-film.jpg` | KarlGaff | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Lipid_Islands_on_Soap_Bubble.jpg) |
+| `02-bubbles-in-plastic.jpg` | MarekMiś | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:P%C4%99cherzyki_powietrza.jpg) |
+| `03-foam.jpg` | KarlGaff | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Bubbles_in_a_Foam.jpg) |
+| `04-dried-bubbles.jpg` | MarekMiś | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:P%C4%99cherzyki_powietrza_w_alkoholu_poliwinylowym.jpg) |
+| `05-soap-bubbles.jpg` | MarekMiś | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:P%C4%99cherzyki_powietrza_w_roztworze_myd%C5%82a.jpg) |
+| `06-squeezed-bubbles.jpg` | MarekMiś | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Zdeformowane_p%C4%99cherzyki_powietrza.jpg) |
+
+`screensaver.txt`: text art of `01-soap-film` (`src/asciiart.py`), so by KarlGaff, CC BY 4.0, like that wallpaper.
+
 ## Thunderhead
 
 | Wallpaper | By | Licence | Source |

@@ -1,0 +1,48 @@
+mode = "dark"
+
+# Surface Tension: bubbles under the microscope: islands of soap on the thin film of a soap bubble, air bubbles caught
+# in a water-soluble plastic as it melts, dries and squeezes them, the walls of a foam, and soap bubbles packed
+# together. Deep blue-black as the background, pale cool text, the blue of the foam as the accent, and the window
+# border turning from it into the magenta of the soap film. Colours sampled from the theme's own photos.
+
+accent = "#3A78EE"
+selection = "#16234A"
+muted = "#545A6E"
+
+background = "#070912"
+dark_background = "#04050B"
+darker_background = "#020206"
+lighter_background = "#151A2C"
+
+foreground = "#E6EAF4"
+dark_foreground = "#8E95AA"
+light_foreground = "#C8CEDE"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the blue of the foam turning to the magenta of the soap film
+hyprland_active_border = "rgba(3a78eeff) rgba(d452d0ff) 45deg"
+hyprland_inactive_border = "rgba(151a2ccc)"
+
+# red: the red rings round the soap islands, wallpaper 01
+red = "#E8405A"
+# orange: the glowing orange of the squeezed bubbles, wallpaper 06
+orange = "#F08A28"
+# yellow: the yellow film inside the soap islands, wallpaper 01
+yellow = "#F2D24A"
+# green: the green behind the squeezed bubbles, wallpaper 06
+green = "#4CC88A"
+# cyan: the cyan centres of the soap islands, wallpaper 01
+cyan = "#3CC8E8"
+# blue: the blue behind the foam walls, wallpaper 03
+blue = "#4F86F0"
+# magenta: the magenta of the dried bubbles, wallpaper 04
+magenta = "#D452D0"
+# brown: the bronze walls of the foam, wallpaper 03
+brown = "#C08A4A"
+
+bright_red = "#F6A8B4"
+bright_yellow = "#F8EAA8"
+bright_green = "#ACE6C8"
+bright_cyan = "#A8E6F4"
+bright_blue = "#B2C8F8"
+bright_magenta = "#EEB0EC"
