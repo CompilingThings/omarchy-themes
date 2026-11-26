@@ -654,6 +654,19 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 
 `screensaver.txt`: text art of `6-hadley-delta` (`src/asciiart.py`), so by NASA (photo: Jim Irwin), NASA media guidelines, like that wallpaper.
 
+## Urchin
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-lantern-teeth.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Linterna_de_arist%C3%B3teles,_dientes_de_erizo_de_mar.jpg) |
+| `02-urchin-shell.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Erizo_de_mar_color_crema_en_vista_aboral.jpg) |
+| `03-five-teeth.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Dientes_de_erizo_de_mar,_linterna_de_Arist%C3%B3teles.jpg) |
+| `04-tubercles.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Detalle_de_mamelones_de_erizo_de_mar.jpg) |
+| `05-tubercle.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Mamelones_de_erizo_de_mar.jpg) |
+| `06-genital-plates.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Placas_genitales_de_erizo_de_mar.jpg) |
+
+`screensaver.txt`: text art of `02-urchin-shell` (`src/asciiart.py`), so by Brandon Antonio Segura Torres & Priscilla Vieto Bonilla, CC BY-SA 4.0, like that wallpaper.
+
 ## Viral
 
 | Wallpaper | By | Licence | Source |

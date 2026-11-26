@@ -3,8 +3,8 @@
 [![check](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml/badge.svg)](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml)
 [![MIT licence](https://img.shields.io/badge/code-MIT-blue)](LICENSE)
 
-**Forty themes for [Omarchy](https://omarchy.org), each with its own animated screensaver:** the planets, the Sun and the Moon in real spacecraft photos,
-the northern lights over Norway, mushrooms from forests round the world, insects up close, and under the microscope the animals in a drop of pond water, the same animals glowing in colour on black, crystals and slices of rock in polarised light, crystals standing alone on black, bubbles and soap films, mineral specimens in the studio, animal skulls on black, bacteria colonies through the eyepiece, the cells of leaves, parasites of fish, mineral growing in the heart and in kidney stones, the bare silicon inside old chips, plant stems sliced thin and glowing, brains, eyes and cells lit with glowing dyes, viruses coloured in from the electron microscope, the immune cells that fight them, butterfly wings scale by scale, and insects glowing under violet light, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
+**Forty-one themes for [Omarchy](https://omarchy.org), each with its own animated screensaver:** the planets, the Sun and the Moon in real spacecraft photos,
+the northern lights over Norway, mushrooms from forests round the world, insects up close, and under the microscope the animals in a drop of pond water, the same animals glowing in colour on black, crystals and slices of rock in polarised light, crystals standing alone on black, bubbles and soap films, mineral specimens in the studio, animal skulls on black, bacteria colonies through the eyepiece, the cells of leaves, parasites of fish, mineral growing in the heart and in kidney stones, a sea urchin's teeth and shell, the bare silicon inside old chips, plant stems sliced thin and glowing, brains, eyes and cells lit with glowing dyes, viruses coloured in from the electron microscope, the immune cells that fight them, butterfly wings scale by scale, and insects glowing under violet light, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
 Every wallpaper is 4K and carries a small label saying what it shows and who made it.
 
 ![All the themes](docs/images/gallery.jpg)
@@ -51,6 +51,7 @@ Every wallpaper is 4K and carries a small label saying what it shows and who mad
 | <img src="docs/images/traceroute.jpg" alt="Traceroute" width="240"> | [**Traceroute**](themes/traceroute/README.md) | A circuit board at night, one signal traced hop by hop like `traceroute`; copper and ice blue |
 | <img src="docs/images/thunderhead.jpg" alt="Thunderhead" width="240"> | [**Thunderhead**](themes/thunderhead/README.md) | Lightning at night and the clouds of big thunderstorms: shelf clouds, mammatus, a glowing anvil; lightning violet and electric blue |
 | <img src="docs/images/tranquility.jpg" alt="Tranquility" width="240"> | [**Tranquility**](themes/tranquility/README.md) | The Moon from Artemis II and Apollo; greys and Earth blue |
+| <img src="docs/images/urchin.jpg" alt="Urchin" width="240"> | [**Urchin**](themes/urchin/README.md) | A sea urchin up close: the five teeth of its jaw, its cream shell, the knobs its spines sit on, the plates at its top; spine coral and tooth cream |
 
 Each theme's own page lists its wallpapers, what each one shows, and where it comes from.
 

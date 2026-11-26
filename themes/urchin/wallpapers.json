@@ -1,0 +1,114 @@
+{
+ "accent": "#F08A5C",
+ "screensaver": {
+  "from": "02-urchin-shell",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--zoom",
+   "--detail",
+   "2",
+   "--mean",
+   "0.3",
+   "--edges",
+   "0.4",
+   "--color",
+   "theme"
+  ]
+ },
+ "wallpapers": [
+  {
+   "file": "01-lantern-teeth",
+   "by": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Linterna_de_arist%C3%B3teles%2C_dientes_de_erizo_de_mar.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Linterna_de_arist%C3%B3teles,_dientes_de_erizo_de_mar.jpg",
+   "title": "ARISTOTLE'S LANTERN",
+   "line1": "The five teeth of a sea urchin's jaw, closed together in the middle.",
+   "line2": "23 November 2025  ·  Photo: B. A. Segura Torres, P. Vieto Bonilla  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1
+   ]
+  },
+  {
+   "file": "02-urchin-shell",
+   "by": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Erizo_de_mar_color_crema_en_vista_aboral.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Erizo_de_mar_color_crema_en_vista_aboral.jpg",
+   "title": "SEA URCHIN",
+   "line1": "A cream sea urchin from above, its spines gone, showing the knobs they sat on.",
+   "line2": "21 October 2025  ·  Photo: B. A. Segura Torres, P. Vieto Bonilla  ·  CC BY-SA 4.0",
+   "fit": {
+    "field": "#000000",
+    "h": 0.94,
+    "x": 0.42,
+    "y": 0.5,
+    "feather": 0.05
+   }
+  },
+  {
+   "file": "03-five-teeth",
+   "by": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dientes_de_erizo_de_mar%2C_linterna_de_Arist%C3%B3teles.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Dientes_de_erizo_de_mar,_linterna_de_Arist%C3%B3teles.jpg",
+   "title": "SEA URCHIN TEETH",
+   "line1": "The jaw seen from below, its five teeth meeting in a star.",
+   "line2": "23 November 2025  ·  Photo: B. A. Segura Torres, P. Vieto Bonilla  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1
+   ]
+  },
+  {
+   "file": "04-tubercles",
+   "by": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Detalle_de_mamelones_de_erizo_de_mar.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Detalle_de_mamelones_de_erizo_de_mar.jpg",
+   "title": "TUBERCLES",
+   "line1": "A sea urchin's tubercles, the knobs its spines sit on, close up.",
+   "line2": "23 November 2025  ·  Photo: B. A. Segura Torres, P. Vieto Bonilla  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1
+   ]
+  },
+  {
+   "file": "05-tubercle",
+   "by": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Mamelones_de_erizo_de_mar.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mamelones_de_erizo_de_mar.jpg",
+   "title": "TUBERCLES",
+   "line1": "Sea urchin tubercles, the ridged knobs its spines sat on, close up.",
+   "line2": "21 October 2025  ·  Photo: B. A. Segura Torres, P. Vieto Bonilla  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1
+   ]
+  },
+  {
+   "file": "06-genital-plates",
+   "by": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Placas_genitales_de_erizo_de_mar.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Placas_genitales_de_erizo_de_mar.jpg",
+   "title": "GENITAL PLATES",
+   "line1": "Plates at the top of the shell; the dark holes are where its eggs or sperm come out.",
+   "line2": "27 November 2025  ·  Photo: B. A. Segura Torres, P. Vieto Bonilla  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1
+   ],
+   "panel": true
+  }
+ ]
+}

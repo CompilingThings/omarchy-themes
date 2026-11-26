@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Urchin: six close-ups of a sea urchin by Brandon Antonio Segura Torres and Priscilla Vieto Bonilla from Wikimedia
+  Commons (the teeth of its jaw, its shell, the knobs its spines sit on, its genital plates); spine coral and tooth
+  cream, with its own screensaver
 - Heartstone: six colour electron micrographs by Sergio Bertazzo from Wikimedia Commons, where colour shows how
   dense each part is (mineral grains in heart tissue, kidney-stone crystals, calcified heart tissue mirrored);
   fibre pink and kidney-stone orange, with its own screensaver

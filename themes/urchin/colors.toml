@@ -1,0 +1,48 @@
+mode = "dark"
+
+# Urchin: a sea urchin up close, photographed by Brandon Antonio Segura Torres and Priscilla Vieto Bonilla: the five
+# teeth of its jaw (Aristotle's lantern) from inside and from below, the whole cream shell from above, the knobs its
+# spines sit on, and the plates at the top of its shell. A near-black background, warm pale text, the coral of the
+# spine bases as the accent and the window border turning from it into the cream of the teeth.
+
+accent = "#F08A5C"
+selection = "#2E2018"
+muted = "#625850"
+
+background = "#0B0908"
+dark_background = "#080605"
+darker_background = "#030202"
+lighter_background = "#1E1814"
+
+foreground = "#F4ECE2"
+dark_foreground = "#A09284"
+light_foreground = "#DCD0C2"
+bright_foreground = "#FFFFFF"
+
+# The focused window: spine-base coral turning to the cream of the teeth
+hyprland_active_border = "rgba(f08a5cff) rgba(e8c878ff) 45deg"
+hyprland_inactive_border = "rgba(1e1814cc)"
+
+# red: the deep coral of the spine stumps, wallpaper 04
+red = "#E8605A"
+# orange: the coral of the spine bases, wallpaper 04
+orange = "#F08A5C"
+# yellow: the cream-gold of the lantern's teeth, wallpaper 01
+yellow = "#E8C878"
+# green: the olive green round the genital plates, wallpaper 06
+green = "#A8C070"
+# cyan: a sea-water teal, kept in the same clear range
+cyan = "#70C0B8"
+# blue: a soft blue, kept in the same clear range
+blue = "#7EA0E0"
+# magenta: a soft pink, kept in the same clear range
+magenta = "#D880B0"
+# brown: the tan of the shell, wallpaper 02
+brown = "#B8884E"
+
+bright_red = "#F6B4AE"
+bright_yellow = "#F6E6BC"
+bright_green = "#D4E2B4"
+bright_cyan = "#B8E2DC"
+bright_blue = "#C4D2F2"
+bright_magenta = "#EEC4DC"

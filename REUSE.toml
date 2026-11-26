@@ -2877,6 +2877,60 @@ SPDX-FileCopyrightText = "NASA"
 SPDX-License-Identifier = "LicenseRef-NASA-Media"
 
 [[annotations]]
+path = "themes/urchin/backgrounds/01-lantern-teeth.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/urchin/backgrounds/02-urchin-shell.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/urchin/backgrounds/03-five-teeth.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/urchin/backgrounds/04-tubercles.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/urchin/backgrounds/05-tubercle.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/urchin/backgrounds/06-genital-plates.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = ["themes/urchin/screensaver.txt", "docs/images/screensavers/urchin.png"]
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/urchin/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "docs/images/urchin.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
 path = "themes/viral/backgrounds/01-covid.jpg"
 precedence = "override"
 SPDX-FileCopyrightText = "NIAID"
