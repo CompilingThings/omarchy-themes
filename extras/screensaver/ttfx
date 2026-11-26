@@ -1,0 +1,49 @@
+#!/bin/bash
+# Theme colours for Omarchy's screensaver.
+#
+# Omarchy's screensaver runs `ttfx -i ~/.config/omarchy/branding/screensaver.txt ... --random-effect` with ttfx's own
+# colours. Installed as /usr/local/bin/ttfx (ahead of /usr/bin on the PATH), this stand-in changes only that one call:
+# it picks one of the techie effects below and passes it the current theme's colours (the two colours of the focused
+# window's border, its bright text and its muted grey), then holds the finished picture for a while. Every other use
+# of ttfx goes straight to the real one. Remove the file to undo it.
+set -u
+real=/usr/bin/ttfx
+art="$HOME/.config/omarchy/branding/screensaver.txt"
+colors="$HOME/.local/state/omarchy/current/theme/colors.toml"
+
+screensaver=false
+for a in "$@"; do [[ $a == --random-effect ]] && screensaver=true; done
+[[ $screensaver == true && " $* " == *" -i $art "* && -r $colors ]] || exec "$real" "$@"
+
+hex() {  # <key> -> rrggbb of a "#rrggbb" value in colors.toml
+  sed -nE "s/^$1 *= *\"#([0-9A-Fa-f]{6})\".*/\1/p" "$colors" | head -1
+}
+A=$(hex accent)
+B=$(sed -nE 's/^hyprland_active_border *= *"rgba\(([0-9A-Fa-f]{6})[0-9A-Fa-f]{2}\) +rgba\(([0-9A-Fa-f]{6}).*/\2/p' "$colors" | head -1)
+F=$(hex bright_foreground)
+D=$(hex muted)
+[[ -n $A ]] || exec "$real" "$@"
+B=${B:-$A} F=${F:-FFFFFF} D=${D:-555555}
+
+# The call without --random-effect; the effect and its colours go after these options.
+args=()
+for a in "$@"; do [[ $a == --random-effect ]] || args+=("$a"); done
+
+final=(--final-gradient-stops "$A" "$B" --final-gradient-direction diagonal)
+effects=(
+  "decrypt --ciphertext-colors $D $A $B"
+  "matrix --highlight-color $F --rain-color-gradient $D $A --rain-time 10"
+  "laseretch --laser-gradient-stops $F $A --spark-gradient-stops $B $A --cool-gradient-stops $A $B"
+  "synthgrid --grid-gradient-stops $D $A $B --text-gradient-stops $A $B"
+  "beams --beam-gradient-stops $F $A $B"
+  "binarypath --binary-colors $D $A $B"
+  "vhstape --glitch-line-colors $F $A $B --glitch-wave-colors $A $B --noise-colors $D $A $F"
+  "errorcorrect --error-color $B --correct-color $A"
+  "rings --ring-colors $A $B $F"
+)
+read -r -a effect <<<"${effects[RANDOM % ${#effects[@]}]}"
+# synthgrid colours the finished text with its own text gradient; the others take the final gradient.
+[[ ${effect[0]} == synthgrid ]] && final=()
+
+"$real" "${args[@]}" "${effect[@]}" "${final[@]}"
+sleep "${OMARCHY_THEMES_SCREENSAVER_HOLD:-12}"   # the picture stays up; the screensaver still ends on any key

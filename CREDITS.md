@@ -410,6 +410,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `07-hazel-mildew.jpg` | Gubin Olexander | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Cleistothecium_of_powdery_mildew_fungi_Phyllactinia_guttata_on_the_leave_of_common_hazel.jpg) |
 | `08-moth-eye.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Proliferaci%C3%B3n_de_hongo_penicillium_sobre_ojo_compuesto_de_polilla.jpg) |
 
+`screensaver.txt`: text art of `07-hazel-mildew` (`src/asciiart.py`), so by Gubin Olexander, CC BY-SA 4.0, like that wallpaper.
+
 ## Stardust
 
 | Wallpaper | By | Licence | Source |

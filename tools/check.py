@@ -52,6 +52,10 @@ def check_files(r, slug, d):
     for p in d.iterdir():
         if p.name not in T.SHIPPED and p.name not in EXTRA:
             r.error(slug, f"unexpected file {p.name} (not one Omarchy reads; see CONTRIBUTING.md)")
+    if (d / "screensaver.txt").exists():
+        spec = T.wallpapers(slug)
+        if spec.get("screensaver") not in {w["file"] for w in spec["wallpapers"]}:
+            r.error(slug, 'screensaver.txt needs "screensaver": <the wallpaper it was made from> in wallpapers.json')
     for p in d.rglob("*"):
         if p.is_file() and p.stat().st_size > MAX_BYTES:
             r.error(slug, f"{p.relative_to(d)} is {p.stat().st_size / 1e6:.0f} MB (limit 50 MB)")

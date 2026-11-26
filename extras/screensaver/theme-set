@@ -1,0 +1,19 @@
+#!/bin/bash
+# Omarchy theme-set hook: show the new theme's own screensaver picture.
+#
+# A theme with a screensaver.txt (text art made by src/asciiart.py) is copied to the file Omarchy's screensaver reads,
+# ~/.config/omarchy/branding/screensaver.txt. The picture that was there first is kept once, as
+# screensaver.txt.before-omarchy-themes, and put back for a theme without one.
+# Install: omarchy hook install theme-set <this file>   (or copy it to ~/.config/omarchy/hooks/theme-set.d/)
+set -u
+branding="$HOME/.config/omarchy/branding"
+own="$HOME/.local/state/omarchy/current/theme/screensaver.txt"
+kept="$branding/screensaver.txt.before-omarchy-themes"
+
+mkdir -p "$branding"
+[[ -e $kept || ! -e $branding/screensaver.txt ]] || cp "$branding/screensaver.txt" "$kept"
+if [[ -s $own ]]; then
+  cp "$own" "$branding/screensaver.txt"
+elif [[ -e $kept ]]; then
+  cp "$kept" "$branding/screensaver.txt"
+fi

@@ -1887,6 +1887,12 @@ SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonill
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 [[annotations]]
+path = "themes/spore-garden/screensaver.txt"
+precedence = "override"
+SPDX-FileCopyrightText = "Gubin Olexander"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
 path = "themes/spore-garden/preview.png"
 precedence = "override"
 SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"

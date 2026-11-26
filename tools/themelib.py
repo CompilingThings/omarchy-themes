@@ -26,7 +26,8 @@ BORDER_KEYS = ["hyprland_active_border", "hyprland_inactive_border"]
 REQUIRED = ["colors.toml", "icons.theme", "preview.png", "unlock.png", "preview-unlock.png",
             "hyprland.lua", "foot.ini",
             "shell.bar.toml", "shell.controls.toml", "shell.launcher.toml", "shell.menu.toml"]
-OPTIONAL = ["neovim.lua", "vscode.json", "btop.theme", "chromium.theme", "keyboard.rgb"]
+OPTIONAL = ["neovim.lua", "vscode.json", "btop.theme", "chromium.theme", "keyboard.rgb",
+            "screensaver.txt"]  # text art for the screensaver (src/asciiart.py, extras/screensaver)
 SHIPPED = REQUIRED + OPTIONAL
 BACKGROUND_TYPES = {".jpg", ".png", ".mp4"}
 

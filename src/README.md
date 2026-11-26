@@ -11,6 +11,7 @@ scripts that made them, so every picture can be made again and checked.
 | [`termfractal.py`](termfractal.py) | One of those fractals drawn inside a terminal |
 | [`earthspin.py`](earthspin.py) | Low Orbit's turning Earth video |
 | [`boardroom/`](boardroom/), [`traceroute/`](traceroute/) | The two board themes, from KiCad board files |
+| [`asciiart.py`](asciiart.py) | A wallpaper as braille text art for a theme's `screensaver.txt` (see [`extras/screensaver`](../extras/screensaver/README.md)) |
 | [`grain.py`](grain.py) | Measures a photo's grain at screen size, to check it before it goes in |
 
 ## What they need

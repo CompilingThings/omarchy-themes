@@ -16,7 +16,7 @@ marker=.omarchy-themes    # left in each theme this installer copies, so it only
 # The files Omarchy reads from a theme (keep in step with tools/themelib.py SHIPPED)
 files=(colors.toml icons.theme preview.png unlock.png preview-unlock.png hyprland.lua foot.ini
   shell.bar.toml shell.controls.toml shell.launcher.toml shell.menu.toml
-  neovim.lua vscode.json btop.theme chromium.theme keyboard.rgb)
+  neovim.lua vscode.json btop.theme chromium.theme keyboard.rgb screensaver.txt)
 
 usage() { sed -n '2,11p' "$0" | sed 's/^# \{0,1\}//'; }
 die() { echo "install: $*" >&2; exit 1; }

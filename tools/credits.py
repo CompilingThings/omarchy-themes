@@ -46,6 +46,14 @@ def preview_source(slug):
     return next((w for w in ws if w.get("format", "jpg") == "jpg"), ws[0])
 
 
+def screensaver_source(slug):
+    """The wallpaper a theme's screensaver.txt (text art) was made from: wallpapers.json "screensaver"."""
+    if not (T.ROOT / "themes" / slug / "screensaver.txt").exists():
+        return None
+    spec = T.wallpapers(slug)
+    return next(w for w in spec["wallpapers"] if w["file"] == spec["screensaver"])
+
+
 def source(w):
     if w.get("page"):
         url = w["page"].split()[0]
@@ -80,6 +88,9 @@ def reuse():
             ann(f"themes/{slug}/{name}", OMARCHY, "MIT")
         for name, w in entries(slug):
             ann(f"themes/{slug}/backgrounds/{name}", holder(w), w["licence"])
+        w = screensaver_source(slug)
+        if w:
+            ann(f"themes/{slug}/screensaver.txt", holder(w), w["licence"])
         w = preview_source(slug)
         ann(f"themes/{slug}/preview.png", holder(w), w["licence"])
         ann(f"docs/images/{slug}.jpg", holder(w), w["licence"])
@@ -112,6 +123,10 @@ def credits():
             lic = LICENCE_NAMES.get(w["licence"], (w["licence"],))[0]
             by = w["by"].replace("|", "\\|")
             out.append(f"| `{name}` | {by} | {lic} | {source(w)} |")
+        w = screensaver_source(slug)
+        if w:
+            out += ["", f"`screensaver.txt`: text art of `{w['file']}` (`src/asciiart.py`), so by {w['by']}, "
+                        f"{LICENCE_NAMES.get(w['licence'], (w['licence'],))[0]}, like that wallpaper."]
         if slug in FROM_OMARCHY:
             files = ", ".join(f"`{n}`" for n in FROM_OMARCHY[slug])
             out += ["", f"{files}: from Omarchy's Tokyo Night theme, unchanged, MIT, copyright {OMARCHY}."]
