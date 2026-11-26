@@ -1,5 +1,19 @@
 {
  "accent": "#F05AB4",
+ "screensaver": {
+  "from": "08-mouse-brain",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--zoom",
+   "--mean",
+   "0.2",
+   "--detail",
+   "2",
+   "--color",
+   "theme"
+  ]
+ },
  "wallpapers": [
   {
    "file": "01-hippocampus",

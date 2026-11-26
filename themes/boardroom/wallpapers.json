@@ -1,61 +1,75 @@
 {
-  "accent": "#ECC65C",
-  "wallpapers": [
-    {
-      "file": "1-all-boards",
-      "format": "png",
-      "by": "CompilingThings",
-      "licence": "CC-BY-4.0",
-      "made_with": "src/boardroom/build",
-      "title": "THE WHOLE DECK"
-    },
-    {
-      "file": "2-main-v1",
-      "format": "png",
-      "by": "CompilingThings",
-      "licence": "CC-BY-4.0",
-      "made_with": "src/boardroom/build",
-      "title": "MAIN V1"
-    },
-    {
-      "file": "3-io-v1",
-      "format": "png",
-      "by": "CompilingThings",
-      "licence": "CC-BY-4.0",
-      "made_with": "src/boardroom/build",
-      "title": "IO V1"
-    },
-    {
-      "file": "4-keyboard-v1",
-      "format": "png",
-      "by": "CompilingThings",
-      "licence": "CC-BY-4.0",
-      "made_with": "src/boardroom/build",
-      "title": "KEYBOARD V1"
-    },
-    {
-      "file": "5-keyboard-plate-v1",
-      "format": "png",
-      "by": "CompilingThings",
-      "licence": "CC-BY-4.0",
-      "made_with": "src/boardroom/build",
-      "title": "KEYBOARD PLATE V1"
-    },
-    {
-      "file": "6-antenna-v1",
-      "format": "png",
-      "by": "CompilingThings",
-      "licence": "CC-BY-4.0",
-      "made_with": "src/boardroom/build",
-      "title": "ANTENNA V1"
-    },
-    {
-      "file": "7-screen-v1",
-      "format": "png",
-      "by": "CompilingThings",
-      "licence": "CC-BY-4.0",
-      "made_with": "src/boardroom/build",
-      "title": "SCREEN V1"
-    }
+ "accent": "#ECC65C",
+ "screensaver": {
+  "from": "2-main-v1",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--zoom",
+   "--mean",
+   "0.2",
+   "--detail",
+   "2",
+   "--color",
+   "theme"
   ]
+ },
+ "wallpapers": [
+  {
+   "file": "1-all-boards",
+   "format": "png",
+   "by": "CompilingThings",
+   "licence": "CC-BY-4.0",
+   "made_with": "src/boardroom/build",
+   "title": "THE WHOLE DECK"
+  },
+  {
+   "file": "2-main-v1",
+   "format": "png",
+   "by": "CompilingThings",
+   "licence": "CC-BY-4.0",
+   "made_with": "src/boardroom/build",
+   "title": "MAIN V1"
+  },
+  {
+   "file": "3-io-v1",
+   "format": "png",
+   "by": "CompilingThings",
+   "licence": "CC-BY-4.0",
+   "made_with": "src/boardroom/build",
+   "title": "IO V1"
+  },
+  {
+   "file": "4-keyboard-v1",
+   "format": "png",
+   "by": "CompilingThings",
+   "licence": "CC-BY-4.0",
+   "made_with": "src/boardroom/build",
+   "title": "KEYBOARD V1"
+  },
+  {
+   "file": "5-keyboard-plate-v1",
+   "format": "png",
+   "by": "CompilingThings",
+   "licence": "CC-BY-4.0",
+   "made_with": "src/boardroom/build",
+   "title": "KEYBOARD PLATE V1"
+  },
+  {
+   "file": "6-antenna-v1",
+   "format": "png",
+   "by": "CompilingThings",
+   "licence": "CC-BY-4.0",
+   "made_with": "src/boardroom/build",
+   "title": "ANTENNA V1"
+  },
+  {
+   "file": "7-screen-v1",
+   "format": "png",
+   "by": "CompilingThings",
+   "licence": "CC-BY-4.0",
+   "made_with": "src/boardroom/build",
+   "title": "SCREEN V1"
+  }
+ ]
 }

@@ -1,101 +1,147 @@
 {
-  "accent": "#7FB2FF",
-  "wallpapers": [
-    {
-      "file": "1-cosmic-cliffs",
-      "by": "NASA, ESA, CSA, STScI",
-      "licence": "CC-BY-4.0",
-      "url": "https://cdn.esawebb.org/archives/images/large/weic2205a.jpg",
-      "page": "https://esawebb.org/images/weic2205a/",
-      "title": "COSMIC CLIFFS",
-      "line1": "Edge of a star nursery in the Carina Nebula, 7,600 light-years away. This light left it 7,600 years ago.",
-      "line2": "James Webb Space Telescope  ·  12 July 2022  ·  NASA, ESA, CSA, STScI",
-      "crop": [0.5, 0.5, 1.0]
-    },
-    {
-      "file": "2-deep-field",
-      "by": "NASA, ESA, CSA, STScI",
-      "licence": "CC-BY-4.0",
-      "url": "https://cdn.esawebb.org/archives/images/large/weic2209a.jpg",
-      "page": "https://esawebb.org/images/weic2209a/  (facts: https://esawebb.org/news/weic2209/)",
-      "title": "WEBB'S FIRST DEEP FIELD",
-      "line1": "Thousands of galaxies in a patch of sky the size of a grain of sand held at arm's length.",
-      "line2": "Galaxy cluster SMACS 0723, seen as it was 4.6 billion years ago  ·  Webb  ·  12 July 2022  ·  NASA, ESA, CSA, STScI",
-      "crop": [0.5, 0.5, 1.0]
-    },
-    {
-      "file": "3-saturn-eclipse",
-      "by": "NASA/JPL-Caltech/SSI",
-      "licence": "LicenseRef-NASA-Media",
-      "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia17/pia17172/PIA17172.tif",
-      "page": "https://science.nasa.gov/photojournal/the-day-the-earth-smiled/  (Earth's place: its Figure 2, PIA17172_fig2.jpg)",
-      "title": "THE DAY THE EARTH SMILED",
-      "line1": "Saturn hides the Sun, so its rings glow. Earth is the pale blue dot below the rings, marked.",
-      "line2": "Cassini, 1.2 million km from Saturn  ·  19 July 2013  ·  NASA/JPL-Caltech/SSI",
-      "crop": [0.5, 0.5, 1.0],
-      "marks": [
-        [
-          5526,
-          2529,
-          "Earth"
-        ]
-      ]
-    },
-    {
-      "file": "4-moonrise-from-orbit",
-      "by": "NASA",
-      "licence": "LicenseRef-NASA-Media",
-      "url": "https://images-assets.nasa.gov/image/iss073e0819960/iss073e0819960~orig.jpg",
-      "page": "https://images.nasa.gov/details/iss073e0819960",
-      "title": "MOONRISE FROM ORBIT",
-      "line1": "A waxing gibbous Moon rises above Earth's thin blue air, over a cloudy Atlantic off the coast of Quebec.",
-      "line2": "International Space Station, Expedition 73, 423 km up  ·  3 October 2025  ·  NASA",
-      "crop": [0.5, 0.5, 1.0],
-      "panel": true
-    },
-    {
-      "file": "5-herbig-haro-46-47",
-      "by": "NASA, ESA, CSA, J. DePasquale (STScI)",
-      "licence": "CC-BY-4.0",
-      "url": "https://cdn.esawebb.org/archives/images/large/weic2319a.jpg",
-      "page": "https://esawebb.org/images/weic2319a/",
-      "title": "HERBIG-HARO 46/47",
-      "line1": "Two newborn stars, only a few thousand years old, blowing jets of gas. 1,470 light-years away.",
-      "line2": "James Webb Space Telescope  ·  26 July 2023  ·  NASA, ESA, CSA, J. DePasquale (STScI)",
-      "crop": [0.5, 0.5, 1.0]
-    },
-    {
-      "file": "6-tarantula-nebula",
-      "by": "NASA, ESA, CSA, STScI",
-      "licence": "CC-BY-4.0",
-      "url": "https://cdn.esawebb.org/archives/images/large/weic2212a.jpg",
-      "page": "https://esawebb.org/images/weic2212a/  (distance: https://esawebb.org/news/weic2212/)",
-      "title": "TARANTULA NEBULA",
-      "line1": "Tens of thousands of young stars, 161,000 light-years away in the Large Magellanic Cloud.",
-      "line2": "James Webb Space Telescope  ·  6 September 2022  ·  NASA, ESA, CSA, STScI",
-      "crop": [0.5, 0.5, 1.0]
-    },
-    {
-      "file": "7-horsehead-nebula",
-      "by": "ESA/Webb, NASA, CSA, K. Misselt (U. Arizona), A. Abergel (IAS/Paris-Saclay, CNRS)",
-      "licence": "CC-BY-4.0",
-      "url": "https://cdn.esawebb.org/archives/images/large/weic2411a.jpg",
-      "page": "https://esawebb.org/images/weic2411a/",
-      "title": "HORSEHEAD NEBULA",
-      "line1": "Part of the Horsehead (Barnard 33), rising from waves of dust and gas in Orion. 1,300 light-years away.",
-      "line2": "James Webb Space Telescope  ·  29 April 2024  ·  ESA/Webb, NASA, CSA, K. Misselt (U. Arizona), A. Abergel (IAS/Paris-Saclay, CNRS)",
-      "crop": [0.5, 0.62, 1.0]
-    },
-    {
-      "file": "8-ic2163-ngc2207",
-      "by": "NASA, ESA, CSA, STScI",
-      "licence": "CC-BY-4.0",
-      "url": "https://cdn.esawebb.org/archives/images/large/weic2426a.jpg",
-      "page": "https://esawebb.org/images/weic2426a/",
-      "title": "IC 2163 AND NGC 2207",
-      "line1": "Two spiral galaxies that grazed each other millions of years ago. 120 million light-years away.",
-      "line2": "Webb and Hubble  ·  31 October 2024  ·  NASA, ESA, CSA, STScI",
-      "crop": [0.5, 0.5, 1.0]
-    }
+ "accent": "#7FB2FF",
+ "screensaver": {
+  "from": "8-ic2163-ngc2207",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--zoom",
+   "--mean",
+   "0.14",
+   "--detail",
+   "2",
+   "--color",
+   "theme"
   ]
+ },
+ "wallpapers": [
+  {
+   "file": "1-cosmic-cliffs",
+   "by": "NASA, ESA, CSA, STScI",
+   "licence": "CC-BY-4.0",
+   "url": "https://cdn.esawebb.org/archives/images/large/weic2205a.jpg",
+   "page": "https://esawebb.org/images/weic2205a/",
+   "title": "COSMIC CLIFFS",
+   "line1": "Edge of a star nursery in the Carina Nebula, 7,600 light-years away. This light left it 7,600 years ago.",
+   "line2": "James Webb Space Telescope  ·  12 July 2022  ·  NASA, ESA, CSA, STScI",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "2-deep-field",
+   "by": "NASA, ESA, CSA, STScI",
+   "licence": "CC-BY-4.0",
+   "url": "https://cdn.esawebb.org/archives/images/large/weic2209a.jpg",
+   "page": "https://esawebb.org/images/weic2209a/  (facts: https://esawebb.org/news/weic2209/)",
+   "title": "WEBB'S FIRST DEEP FIELD",
+   "line1": "Thousands of galaxies in a patch of sky the size of a grain of sand held at arm's length.",
+   "line2": "Galaxy cluster SMACS 0723, seen as it was 4.6 billion years ago  ·  Webb  ·  12 July 2022  ·  NASA, ESA, CSA, STScI",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "3-saturn-eclipse",
+   "by": "NASA/JPL-Caltech/SSI",
+   "licence": "LicenseRef-NASA-Media",
+   "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia17/pia17172/PIA17172.tif",
+   "page": "https://science.nasa.gov/photojournal/the-day-the-earth-smiled/  (Earth's place: its Figure 2, PIA17172_fig2.jpg)",
+   "title": "THE DAY THE EARTH SMILED",
+   "line1": "Saturn hides the Sun, so its rings glow. Earth is the pale blue dot below the rings, marked.",
+   "line2": "Cassini, 1.2 million km from Saturn  ·  19 July 2013  ·  NASA/JPL-Caltech/SSI",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "marks": [
+    [
+     5526,
+     2529,
+     "Earth"
+    ]
+   ]
+  },
+  {
+   "file": "4-moonrise-from-orbit",
+   "by": "NASA",
+   "licence": "LicenseRef-NASA-Media",
+   "url": "https://images-assets.nasa.gov/image/iss073e0819960/iss073e0819960~orig.jpg",
+   "page": "https://images.nasa.gov/details/iss073e0819960",
+   "title": "MOONRISE FROM ORBIT",
+   "line1": "A waxing gibbous Moon rises above Earth's thin blue air, over a cloudy Atlantic off the coast of Quebec.",
+   "line2": "International Space Station, Expedition 73, 423 km up  ·  3 October 2025  ·  NASA",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": true
+  },
+  {
+   "file": "5-herbig-haro-46-47",
+   "by": "NASA, ESA, CSA, J. DePasquale (STScI)",
+   "licence": "CC-BY-4.0",
+   "url": "https://cdn.esawebb.org/archives/images/large/weic2319a.jpg",
+   "page": "https://esawebb.org/images/weic2319a/",
+   "title": "HERBIG-HARO 46/47",
+   "line1": "Two newborn stars, only a few thousand years old, blowing jets of gas. 1,470 light-years away.",
+   "line2": "James Webb Space Telescope  ·  26 July 2023  ·  NASA, ESA, CSA, J. DePasquale (STScI)",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "6-tarantula-nebula",
+   "by": "NASA, ESA, CSA, STScI",
+   "licence": "CC-BY-4.0",
+   "url": "https://cdn.esawebb.org/archives/images/large/weic2212a.jpg",
+   "page": "https://esawebb.org/images/weic2212a/  (distance: https://esawebb.org/news/weic2212/)",
+   "title": "TARANTULA NEBULA",
+   "line1": "Tens of thousands of young stars, 161,000 light-years away in the Large Magellanic Cloud.",
+   "line2": "James Webb Space Telescope  ·  6 September 2022  ·  NASA, ESA, CSA, STScI",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "7-horsehead-nebula",
+   "by": "ESA/Webb, NASA, CSA, K. Misselt (U. Arizona), A. Abergel (IAS/Paris-Saclay, CNRS)",
+   "licence": "CC-BY-4.0",
+   "url": "https://cdn.esawebb.org/archives/images/large/weic2411a.jpg",
+   "page": "https://esawebb.org/images/weic2411a/",
+   "title": "HORSEHEAD NEBULA",
+   "line1": "Part of the Horsehead (Barnard 33), rising from waves of dust and gas in Orion. 1,300 light-years away.",
+   "line2": "James Webb Space Telescope  ·  29 April 2024  ·  ESA/Webb, NASA, CSA, K. Misselt (U. Arizona), A. Abergel (IAS/Paris-Saclay, CNRS)",
+   "crop": [
+    0.5,
+    0.62,
+    1.0
+   ]
+  },
+  {
+   "file": "8-ic2163-ngc2207",
+   "by": "NASA, ESA, CSA, STScI",
+   "licence": "CC-BY-4.0",
+   "url": "https://cdn.esawebb.org/archives/images/large/weic2426a.jpg",
+   "page": "https://esawebb.org/images/weic2426a/",
+   "title": "IC 2163 AND NGC 2207",
+   "line1": "Two spiral galaxies that grazed each other millions of years ago. 120 million light-years away.",
+   "line2": "Webb and Hubble  ·  31 October 2024  ·  NASA, ESA, CSA, STScI",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  }
+ ]
 }

@@ -1,100 +1,144 @@
 {
-  "accent": "#4FC9C4",
-  "wallpapers": [
-    {
-      "file": "0-earth-turning",
-      "format": "mp4",
-      "by": "CompilingThings; maps: NASA Blue Marble and Black Marble 2016; clouds: Solar System Scope",
-      "licence": "CC-BY-4.0",
-      "made_with": "src/earthspin.py",
-      "title": "EARTH, TURNING",
-      "line1": "One turn of the Earth, wrapped in real satellite maps. City lights shine on the night side.",
-      "line2": "NASA Blue Marble (day) and Black Marble 2016 (night lights)  ·  clouds: Solar System Scope, CC BY 4.0"
-    },
-    {
-      "file": "1-space-station",
-      "by": "NASA/Roscosmos",
-      "licence": "LicenseRef-NASA-Media",
-      "url": "https://images-assets.nasa.gov/image/iss056e201235/iss056e201235~orig.jpg",
-      "page": "https://images.nasa.gov/details/iss056e201235",
-      "title": "THE INTERNATIONAL SPACE STATION",
-      "line1": "The whole station above Earth, photographed by its crew from their Soyuz on the way home after 197 days.",
-      "line2": "Expedition 56: Andrew Feustel, Ricky Arnold, Oleg Artemyev  ·  4 October 2018  ·  NASA/Roscosmos",
-      "crop": [0.5, 0.5, 1.0]
-    },
-    {
-      "file": "2-starlink-train",
-      "by": "NASA; satellites identified by Marco Langbroek",
-      "licence": "LicenseRef-NASA-Media",
-      "url": "https://eol.jsc.nasa.gov/DatabaseImages/ESC/large/ISS062/ISS062-E-148365.JPG",
-      "page": "https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS062&roll=E&frame=148365  (Starlink: https://sattrackcam.blogspot.com/2020/04/starlink-train-photographed-from.html)  (train position: the post's annotated copy, ISS062-E-148365_red_anot.jpg)",
-      "title": "A TRAIN OF STARLINK SATELLITES",
-      "line1": "A line of Starlink satellites (the short sideways dashes) rises past the southern lights.",
-      "line2": "Space Station, Expedition 62, 428 km up  ·  13 April 2020  ·  NASA; satellites identified by Marco Langbroek",
-      "crop": [0.47, 0.47, 1.56],
-      "marks": [
-        [
-          2397,
-          1624,
-          "Starlink train"
-        ]
-      ]
-    },
-    {
-      "file": "3-lake-argentino",
-      "by": "NASA/Jessica Meir",
-      "licence": "LicenseRef-NASA-Media",
-      "url": "https://images-assets.nasa.gov/image/iss074e0573516/iss074e0573516~orig.jpg",
-      "page": "https://images.nasa.gov/details/iss074e0573516",
-      "title": "LAKE ARGENTINO, PATAGONIA",
-      "line1": "Glaciers feed the lake with finely ground rock, which turns its water turquoise. The Andes in Argentina.",
-      "line2": "International Space Station, Expedition 74, 433 km up  ·  6 May 2026  ·  NASA/Jessica Meir",
-      "crop": [0.5, 0.5, 1.0]
-    },
-    {
-      "file": "4-hurricane-melissa",
-      "by": "NASA",
-      "licence": "LicenseRef-NASA-Media",
-      "url": "https://images-assets.nasa.gov/image/iss073e1044319/iss073e1044319~orig.jpg",
-      "page": "https://images.nasa.gov/details/iss073e1044319",
-      "title": "HURRICANE MELISSA",
-      "line1": "A category 5 hurricane in the Caribbean Sea, about 80 km south of Jamaica.",
-      "line2": "International Space Station, Expedition 73, 422 km up  ·  28 October 2025  ·  NASA",
-      "crop": [0.5, 0.5, 1.0]
-    },
-    {
-      "file": "5-dunes-under-the-sea",
-      "by": "NASA",
-      "licence": "LicenseRef-NASA-Media",
-      "url": "https://images-assets.nasa.gov/image/iss073e0880792/iss073e0880792~orig.jpg",
-      "page": "https://images.nasa.gov/details/iss073e0880792",
-      "title": "DUNES UNDER THE SEA",
-      "line1": "Sandbars and underwater dunes, shaped by currents and waves, off the island of Eleuthera in the Bahamas.",
-      "line2": "International Space Station, Expedition 73, 418 km up  ·  15 October 2025  ·  NASA",
-      "crop": [0.5, 0.5, 1.0]
-    },
-    {
-      "file": "6-mount-everest",
-      "by": "NASA",
-      "licence": "LicenseRef-NASA-Media",
-      "url": "https://images-assets.nasa.gov/image/iss069e003192/iss069e003192~orig.jpg",
-      "page": "https://images.nasa.gov/details/iss069e003192",
-      "title": "MOUNT EVEREST",
-      "line1": "Mount Everest stands in the middle. Clouds gather on Nepal's warm side of the Himalayas.",
-      "line2": "Outside camera on the Space Station, Expedition 69, 423 km up  ·  13 April 2023  ·  NASA",
-      "crop": [0.5, 0.5, 1.0],
-      "panel": true
-    },
-    {
-      "file": "7-sahara-desert",
-      "by": "NASA",
-      "licence": "LicenseRef-NASA-Media",
-      "url": "https://images-assets.nasa.gov/image/iss066e137392/iss066e137392~orig.jpg",
-      "page": "https://images.nasa.gov/details/iss066e137392",
-      "title": "SAHARA DESERT",
-      "line1": "Red sand dunes beside dark rock and sandstone plateaus in the Sahara Desert, in Algeria.",
-      "line2": "International Space Station, Expedition 66, 417 km up  ·  7 February 2022  ·  NASA",
-      "crop": [0.5, 0.5, 1.0]
-    }
+ "accent": "#4FC9C4",
+ "screensaver": {
+  "from": "1-space-station",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--box",
+   "0,0,1,0.72",
+   "--zoom",
+   "--mean",
+   "0.16",
+   "--detail",
+   "2",
+   "--color",
+   "theme"
   ]
+ },
+ "wallpapers": [
+  {
+   "file": "0-earth-turning",
+   "format": "mp4",
+   "by": "CompilingThings; maps: NASA Blue Marble and Black Marble 2016; clouds: Solar System Scope",
+   "licence": "CC-BY-4.0",
+   "made_with": "src/earthspin.py",
+   "title": "EARTH, TURNING",
+   "line1": "One turn of the Earth, wrapped in real satellite maps. City lights shine on the night side.",
+   "line2": "NASA Blue Marble (day) and Black Marble 2016 (night lights)  ·  clouds: Solar System Scope, CC BY 4.0"
+  },
+  {
+   "file": "1-space-station",
+   "by": "NASA/Roscosmos",
+   "licence": "LicenseRef-NASA-Media",
+   "url": "https://images-assets.nasa.gov/image/iss056e201235/iss056e201235~orig.jpg",
+   "page": "https://images.nasa.gov/details/iss056e201235",
+   "title": "THE INTERNATIONAL SPACE STATION",
+   "line1": "The whole station above Earth, photographed by its crew from their Soyuz on the way home after 197 days.",
+   "line2": "Expedition 56: Andrew Feustel, Ricky Arnold, Oleg Artemyev  ·  4 October 2018  ·  NASA/Roscosmos",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "2-starlink-train",
+   "by": "NASA; satellites identified by Marco Langbroek",
+   "licence": "LicenseRef-NASA-Media",
+   "url": "https://eol.jsc.nasa.gov/DatabaseImages/ESC/large/ISS062/ISS062-E-148365.JPG",
+   "page": "https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS062&roll=E&frame=148365  (Starlink: https://sattrackcam.blogspot.com/2020/04/starlink-train-photographed-from.html)  (train position: the post's annotated copy, ISS062-E-148365_red_anot.jpg)",
+   "title": "A TRAIN OF STARLINK SATELLITES",
+   "line1": "A line of Starlink satellites (the short sideways dashes) rises past the southern lights.",
+   "line2": "Space Station, Expedition 62, 428 km up  ·  13 April 2020  ·  NASA; satellites identified by Marco Langbroek",
+   "crop": [
+    0.47,
+    0.47,
+    1.56
+   ],
+   "marks": [
+    [
+     2397,
+     1624,
+     "Starlink train"
+    ]
+   ]
+  },
+  {
+   "file": "3-lake-argentino",
+   "by": "NASA/Jessica Meir",
+   "licence": "LicenseRef-NASA-Media",
+   "url": "https://images-assets.nasa.gov/image/iss074e0573516/iss074e0573516~orig.jpg",
+   "page": "https://images.nasa.gov/details/iss074e0573516",
+   "title": "LAKE ARGENTINO, PATAGONIA",
+   "line1": "Glaciers feed the lake with finely ground rock, which turns its water turquoise. The Andes in Argentina.",
+   "line2": "International Space Station, Expedition 74, 433 km up  ·  6 May 2026  ·  NASA/Jessica Meir",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "4-hurricane-melissa",
+   "by": "NASA",
+   "licence": "LicenseRef-NASA-Media",
+   "url": "https://images-assets.nasa.gov/image/iss073e1044319/iss073e1044319~orig.jpg",
+   "page": "https://images.nasa.gov/details/iss073e1044319",
+   "title": "HURRICANE MELISSA",
+   "line1": "A category 5 hurricane in the Caribbean Sea, about 80 km south of Jamaica.",
+   "line2": "International Space Station, Expedition 73, 422 km up  ·  28 October 2025  ·  NASA",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "5-dunes-under-the-sea",
+   "by": "NASA",
+   "licence": "LicenseRef-NASA-Media",
+   "url": "https://images-assets.nasa.gov/image/iss073e0880792/iss073e0880792~orig.jpg",
+   "page": "https://images.nasa.gov/details/iss073e0880792",
+   "title": "DUNES UNDER THE SEA",
+   "line1": "Sandbars and underwater dunes, shaped by currents and waves, off the island of Eleuthera in the Bahamas.",
+   "line2": "International Space Station, Expedition 73, 418 km up  ·  15 October 2025  ·  NASA",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "6-mount-everest",
+   "by": "NASA",
+   "licence": "LicenseRef-NASA-Media",
+   "url": "https://images-assets.nasa.gov/image/iss069e003192/iss069e003192~orig.jpg",
+   "page": "https://images.nasa.gov/details/iss069e003192",
+   "title": "MOUNT EVEREST",
+   "line1": "Mount Everest stands in the middle. Clouds gather on Nepal's warm side of the Himalayas.",
+   "line2": "Outside camera on the Space Station, Expedition 69, 423 km up  ·  13 April 2023  ·  NASA",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": true
+  },
+  {
+   "file": "7-sahara-desert",
+   "by": "NASA",
+   "licence": "LicenseRef-NASA-Media",
+   "url": "https://images-assets.nasa.gov/image/iss066e137392/iss066e137392~orig.jpg",
+   "page": "https://images.nasa.gov/details/iss066e137392",
+   "title": "SAHARA DESERT",
+   "line1": "Red sand dunes beside dark rock and sandstone plateaus in the Sahara Desert, in Algeria.",
+   "line2": "International Space Station, Expedition 66, 417 km up  ·  7 February 2022  ·  NASA",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  }
+ ]
 }

@@ -1,5 +1,19 @@
 {
  "accent": "#9AD24A",
+ "screensaver": {
+  "from": "09-killer-cell-purple",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--zoom",
+   "--mean",
+   "0.18",
+   "--detail",
+   "2",
+   "--color",
+   "theme"
+  ]
+ },
  "wallpapers": [
   {
    "file": "01-killer-cell",

@@ -1,5 +1,20 @@
 {
  "accent": "#E8262E",
+ "screensaver": {
+  "from": "09-large-eyed-tree-snake",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--box",
+   "0.3,0.15,0.85,0.75",
+   "--mean",
+   "0.16",
+   "--detail",
+   "3",
+   "--color",
+   "theme"
+  ]
+ },
  "wallpapers": [
   {
    "file": "01-red-eyed-tree-frog",

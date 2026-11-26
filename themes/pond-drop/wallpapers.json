@@ -1,5 +1,19 @@
 {
  "accent": "#5FD4E8",
+ "screensaver": {
+  "from": "03-two-water-mites",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--zoom",
+   "--mean",
+   "0.16",
+   "--detail",
+   "2",
+   "--color",
+   "theme"
+  ]
+ },
  "wallpapers": [
   {
    "file": "01-water-flea-birth",

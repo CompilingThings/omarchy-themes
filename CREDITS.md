@@ -37,6 +37,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `09-wehrlite-2.jpg` | Strekeisen | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Violet_dot.JPG) |
 | `10-serpentine-veins.jpg` | Strekeisen | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Serpentine_veins.JPG) |
 
+`screensaver.txt`: text art of `01-olivine` (`src/asciiart.py`), so by Strekeisen, CC BY-SA 4.0, like that wallpaper.
+
 ## Boardroom
 
 | Wallpaper | By | Licence | Source |
@@ -48,6 +50,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `5-keyboard-plate-v1.png` | CompilingThings | CC BY 4.0 | made with `src/boardroom/build` |
 | `6-antenna-v1.png` | CompilingThings | CC BY 4.0 | made with `src/boardroom/build` |
 | `7-screen-v1.png` | CompilingThings | CC BY 4.0 | made with `src/boardroom/build` |
+
+`screensaver.txt`: text art of `2-main-v1` (`src/asciiart.py`), so by CompilingThings, CC BY 4.0, like that wallpaper.
 
 ## Cold Blood
 
@@ -68,6 +72,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `13-green-eyed-bushfrog.jpg` | Froggydame | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Raorchestes_chlorosomma_(Green-Eyed_Bush_Frog)_from_the_southern_Western_Ghats_of_India.jpg) |
 | `14-bengal-monitor.jpg` | Senthi Aathavan Senthilverl | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Bengal_monitor_at_Anawilundawa_Bird_Sanctuary_-_(A_Mischievous_Grin).jpg) |
 
+`screensaver.txt`: text art of `09-large-eyed-tree-snake` (`src/asciiart.py`), so by Bernard Dupont, CC BY-SA 2.0, like that wallpaper.
+
 ## Compound Eye
 
 | Wallpaper | By | Licence | Source |
@@ -87,6 +93,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `13-great-green-bush-cricket.jpg` | Didier Descouens | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Grande_sauterelle_verte_-_Portrait.jpg) |
 | `14-badlands-sweat-bee.jpg` | Wayne Boo, USGS Bee Inventory and Monitoring Lab | USGS, U.S. public domain | [source](https://commons.wikimedia.org/wiki/File:Agapostemon_coloradinus,_F,_face,_Shannon_Co.,_S._Dakota_2014-01-09-14.31.48_ZS_PMax_(12229924934).jpg) |
 
+`screensaver.txt`: text art of `06-green-sweat-bee` (`src/asciiart.py`), so by USGS Bee Inventory and Monitoring Lab, USGS, U.S. public domain, like that wallpaper.
+
 ## Deep Field
 
 | Wallpaper | By | Licence | Source |
@@ -99,6 +107,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `6-tarantula-nebula.jpg` | NASA, ESA, CSA, STScI | CC BY 4.0 | [source](https://esawebb.org/images/weic2212a/) |
 | `7-horsehead-nebula.jpg` | ESA/Webb, NASA, CSA, K. Misselt (U. Arizona), A. Abergel (IAS/Paris-Saclay, CNRS) | CC BY 4.0 | [source](https://esawebb.org/images/weic2411a/) |
 | `8-ic2163-ngc2207.jpg` | NASA, ESA, CSA, STScI | CC BY 4.0 | [source](https://esawebb.org/images/weic2426a/) |
+
+`screensaver.txt`: text art of `8-ic2163-ngc2207` (`src/asciiart.py`), so by NASA, ESA, CSA, STScI, CC BY 4.0, like that wallpaper.
 
 ## Deep Sea
 
@@ -117,6 +127,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `11-bluefire-jellyfish.jpg` | W.carter | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Sideview_of_contracted_bluefire_jellyfish_in_Brofjorden_at_Sandvik_2.jpg) |
 | `12-moon-jellies-caught.jpg` | W.carter | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Three_moon_jellyfishes_captured_by_a_lion%27s_mane_jellyfish_1.jpg) |
 
+`screensaver.txt`: text art of `04-japanese-sea-nettle` (`src/asciiart.py`), so by Paul Harrison, CC BY-SA 4.0, like that wallpaper.
+
 ## Die Shot
 
 | Wallpaper | By | Licence | Source |
@@ -129,6 +141,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `06-op-amp-2.jpg` | VektorF | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:1408%D0%A3%D0%941_1.jpg) |
 | `07-agp-clock.jpg` | VektorF | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:W83194R-58.jpg) |
 | `08-keyboard-controller.jpg` | VektorF | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:JETkey_a.jpg) |
+
+`screensaver.txt`: text art of `01-op-amp` (`src/asciiart.py`), so by VektorF, CC BY 4.0, like that wallpaper.
 
 ## Eight Eyes
 
@@ -147,6 +161,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `11-eight-eyes.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Detalle_de_los_8_ojos_de_una_ara%C3%B1a.jpg) |
 | `12-philisca.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Ara%C3%B1a_Philisca_atrata.jpg) |
 
+`screensaver.txt`: text art of `01-jumping-spider-eyes` (`src/asciiart.py`), so by Mikron86, CC BY 4.0, like that wallpaper.
+
 ## Fairy Ring
 
 | Wallpaper | By | Licence | Source |
@@ -164,6 +180,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `11-yellow-spine-fungus.jpg` | Casey Helton | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Mucronella_flava_-_18_images_-_Tillamook,_Oregon.jpg) |
 | `12-frosted-mushrooms.jpg` | Reinhold Möller (Ermell) | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Agaricales-20191229-RM-101505.jpg) |
 
+`screensaver.txt`: text art of `07-mycena-clarkeana` (`src/asciiart.py`), so by karode13 (Mushroom Observer), CC BY-SA 3.0, like that wallpaper.
+
 ## Front Line
 
 | Wallpaper | By | Licence | Source |
@@ -179,6 +197,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `09-killer-cell-purple.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Human_Natural_Killer_Cell.jpg) |
 | `10-klebsiella.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Klebsiella_pneumoniae_Bacterium_(13383468143).jpg) |
 | `11-b-cell-teal.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Human_B_Lymphocyte_(29196367446).jpg) |
+
+`screensaver.txt`: text art of `09-killer-cell-purple` (`src/asciiart.py`), so by NIAID, CC BY 2.0, like that wallpaper.
 
 ## Glass House
 
@@ -197,6 +217,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `11-bouquet.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B5%D1%82_%D0%B8%D0%B7_%D0%B4%D0%B8%D0%B0%D1%82%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D1%85_%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B5%D0%B9_Cymbella.jpg) |
 | `12-honeycomb.jpg` | Anatoly Mikhaltsov | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Stephanopyxis_grunowii.jpg) |
 
+`screensaver.txt`: text art of `12-honeycomb` (`src/asciiart.py`), so by Anatoly Mikhaltsov, CC BY-SA 4.0, like that wallpaper.
+
 ## Grand Tour
 
 | Wallpaper | By | Licence | Source |
@@ -209,6 +231,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `6-europa.jpg` | NASA/JPL-Caltech/SwRI/MSSS, Björn Jónsson | CC BY-NC-SA 2.0 (non-commercial) | [source](https://science.nasa.gov/photojournal/junocam-image-of-europa-from-flyby/) |
 | `7-string-of-pearls.jpg` | NASA/JPL-Caltech/SwRI/MSSS, Gerald Eichstädt, Seán Doran | CC BY-NC-SA 3.0 (non-commercial) | [source](https://science.nasa.gov/photojournal/jupiters-stunning-southern-hemisphere/) |
 | `8-sunset-on-pluto.jpg` | NASA/Johns Hopkins APL/Southwest Research Institute | NASA media guidelines | [source](https://science.nasa.gov/photojournal/plutos-majestic-mountains-frozen-plains-and-foggy-hazes/) |
+
+`screensaver.txt`: text art of `1-saturn` (`src/asciiart.py`), so by NASA/JPL/Space Science Institute, NASA media guidelines, like that wallpaper.
 
 ## Inner Space
 
@@ -223,6 +247,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `07-kidney-cells.jpg` | Iznewton | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:HEK_293.jpg) |
 | `08-mouse-brain.jpg` | Syed07 | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Fluorescently_labeled,_DAPI-stained_cell_nuclei_in_a_mouse_coronal_brain_section.jpg) |
 | `09-cells-dividing.jpg` | Ian P Newton & Paul L Appleton | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Mitotic_MDCKs.jpg) |
+
+`screensaver.txt`: text art of `08-mouse-brain` (`src/asciiart.py`), so by Syed07, CC BY 4.0, like that wallpaper.
 
 ## Lantern
 
@@ -243,6 +269,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `13-fly-blue-eyes.jpg` | Alexander Klepnev | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Flyfluo.jpg) |
 | `14-ant-profile.jpg` | Alexander Klepnev | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0_%D0%BC%D1%83%D1%80%D0%B0%D0%B2%D1%8C%D1%8F.jpg) |
 
+`screensaver.txt`: text art of `10-ant-face` (`src/asciiart.py`), so by Alexander Klepnev, CC BY 4.0, like that wallpaper.
+
 ## Low Orbit
 
 | Wallpaper | By | Licence | Source |
@@ -255,6 +283,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `5-dunes-under-the-sea.jpg` | NASA | NASA media guidelines | [source](https://images.nasa.gov/details/iss073e0880792) |
 | `6-mount-everest.jpg` | NASA | NASA media guidelines | [source](https://images.nasa.gov/details/iss069e003192) |
 | `7-sahara-desert.jpg` | NASA | NASA media guidelines | [source](https://images.nasa.gov/details/iss066e137392) |
+
+`screensaver.txt`: text art of `1-space-station` (`src/asciiart.py`), so by NASA/Roscosmos, NASA media guidelines, like that wallpaper.
 
 ## Neon Pond
 
@@ -272,6 +302,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `10-daphnia.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%94%D0%B0%D1%84%D0%BD%D1%96%D1%8F_%D0%BF%D1%96%D0%B4_%D0%BC%D1%96%D0%BA%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%BE%D0%BC,_%D1%82%D0%B5%D0%BC%D0%BD%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5.jpg) |
 | `11-phantom-midge-head.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B8%D1%87%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%B0_Chaoborus._%D0%A2%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5_%2B_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.jpg) |
 
+`screensaver.txt`: text art of `03-phantom-midge` (`src/asciiart.py`), so by Andrei Savitsky, CC BY-SA 4.0, like that wallpaper.
+
 ## Nordlys
 
 | Wallpaper | By | Licence | Source |
@@ -284,6 +316,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `6-longyearbyen-svalbard.jpg` | Frode Ramone | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Svalbard_DSCF1412_(23635947870).jpg) |
 | `7-alnes-lighthouse.jpg` | Henny stokseth | CC BY-SA 3.0 NO | [source](https://commons.wikimedia.org/wiki/File:Alnes_fyr_i_mars_2013-07089.jpg) |
 | `8-svolvaer-lofoten.jpg` | Christoph Strässler | CC BY-SA 2.0 | [source](https://commons.wikimedia.org/wiki/File:Aurora_Borealis_(Northern_Light)_over_Svolv%C3%A6r,_Lofoten,_Norway1.jpg) |
+
+`screensaver.txt`: text art of `1-flakstad-lofoten` (`src/asciiart.py`), so by Johannes Groll (Unsplash), CC0 1.0 (public domain), like that wallpaper.
 
 ## Pond Drop
 
@@ -302,6 +336,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `11-two-seed-shrimp.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Mikrofotol_on_k%C3%B5rvuti_kaks_karpv%C3%A4hilist_ehk_ostrakoodi_(Ostracoda).jpg) |
 | `12-water-mite.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Water_mite_(Hydrachnidia)_dorsal_view_under_microscope.jpg) |
 | `13-copepod.jpg` | Janek Lass | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Aerjalgne.jpg) |
+
+`screensaver.txt`: text art of `03-two-water-mites` (`src/asciiart.py`), so by Janek Lass, CC BY 4.0, like that wallpaper.
 
 ## Prism
 
@@ -322,6 +358,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `13-aspirin-2.jpg` | Alexander Klepnev | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D1%8B_%D0%B0%D1%81%D0%BF%D0%B8%D1%80%D0%B8%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%BE%D0%BC-2.jpg) |
 | `14-blue-flame.jpg` | SergRussu | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B8%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BB%D0%B0%D0%BC%D1%8F.jpg) |
 
+`screensaver.txt`: text art of `08-citric-acid-star` (`src/asciiart.py`), so by Alexander Klepnev, CC BY 4.0, like that wallpaper.
+
 ## Red Planet
 
 | Wallpaper | By | Licence | Source |
@@ -334,6 +372,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `6-butterfly-crater.jpg` | ESA/DLR/FU Berlin | CC BY-SA 3.0 IGO | [source](https://www.dlr.de/en/latest/news/2025/the-butterfly-crater-of-idaeus-fossae-on-mars/true-colour-bird-s-eye-view-of-the-idaeus-fossae-region) |
 | `7-husband-hill.jpg` | NASA/JPL/Cornell | NASA media guidelines | [source](https://science.nasa.gov/photojournal/lookout-panorama-from-spirit/) |
 | `8-valles-marineris.jpg` | NASA/JPL/USGS | NASA media guidelines | [source](https://science.nasa.gov/photojournal/valles-marineris-hemisphere/) |
+
+`screensaver.txt`: text art of `2-korolev-crater` (`src/asciiart.py`), so by ESA/DLR/FU Berlin, CC BY-SA 3.0 IGO, like that wallpaper.
 
 ## Scale Wing
 
@@ -351,6 +391,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `10-owlet-pink.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Escamas_rosadas_de_ala_de_mariposa_de_polilla_Ojitos_del_Sur_de_la_Patagonia_Argentina.jpg) |
 | `11-wing-edge.jpg` | Kirill Mikhaylyuk | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:MKA0003.jpg) |
 
+`screensaver.txt`: text art of `08-blue-shimmer` (`src/asciiart.py`), so by Brandon Antonio Segura Torres & Priscilla Vieto Bonilla, CC BY-SA 4.0, like that wallpaper.
+
 ## Seahorse Valley
 
 | Wallpaper | By | Licence | Source |
@@ -364,6 +406,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `7-zircon-city.jpg` | CompilingThings | CC BY 4.0 | made with `src/fractalwall.py` |
 | `8-buddhabrot.jpg` | CompilingThings | CC BY 4.0 | made with `src/fractalwall.py` |
 | `9-mandelbulb.jpg` | CompilingThings | CC BY 4.0 | made with `src/fractalwall.py` |
+
+`screensaver.txt`: text art of `8-buddhabrot` (`src/asciiart.py`), so by CompilingThings, CC BY 4.0, like that wallpaper.
 
 `neovim.lua`, `vscode.json`, `icons.theme`: from Omarchy's Tokyo Night theme, unchanged, MIT, copyright David Heinemeier Hansson (Omarchy).
 
@@ -384,6 +428,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `11-plate-with-arms.jpg` | Wilson A. Bentley (The Met) | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:-Snow_Crystal-_MET_DP351914.jpg) |
 | `12-broad-armed-star.jpg` | Wilson A. Bentley (The Met) | CC0 1.0 (public domain) | [source](https://commons.wikimedia.org/wiki/File:-Snow_Crystal-_MET_DP351907.jpg) |
 
+`screensaver.txt`: text art of `02-hexagonal-plate` (`src/asciiart.py`), so by Wilson A. Bentley (The Met), CC0 1.0 (public domain), like that wallpaper.
+
 ## Solar Max
 
 | Wallpaper | By | Licence | Source |
@@ -396,6 +442,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `6-diamond-ring.jpg` | NASA/Aubrey Gemignani | NASA media guidelines | [source](https://images.nasa.gov/details/NHQ201708210102) |
 | `7-transit-of-venus.jpg` | NASA/SDO, AIA | NASA media guidelines | [source](https://images.nasa.gov/details/GSFC_20171208_Archive_e001734) |
 | `8-space-station-transit.jpg` | NASA/Joel Kowsky | NASA media guidelines | [source](https://images.nasa.gov/details/NHQ201708210201) |
+
+`screensaver.txt`: text art of `7-transit-of-venus` (`src/asciiart.py`), so by NASA/SDO, AIA, NASA media guidelines, like that wallpaper.
 
 ## Spore Garden
 
@@ -410,7 +458,7 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `07-hazel-mildew.jpg` | Gubin Olexander | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Cleistothecium_of_powdery_mildew_fungi_Phyllactinia_guttata_on_the_leave_of_common_hazel.jpg) |
 | `08-moth-eye.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Proliferaci%C3%B3n_de_hongo_penicillium_sobre_ojo_compuesto_de_polilla.jpg) |
 
-`screensaver.txt`: text art of `07-hazel-mildew` (`src/asciiart.py`), so by Gubin Olexander, CC BY-SA 4.0, like that wallpaper.
+`screensaver.txt`: text art of `02-spore-rosettes` (`src/asciiart.py`), so by Aurora Storlazzi, CC BY 4.0, like that wallpaper.
 
 ## Stardust
 
@@ -423,6 +471,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `5-lion-nebula.jpg` | NASA, ESA, CSA, STScI, A. Pagan (STScI) | CC BY 4.0 | [source](https://esawebb.org/images/weic2616a/) |
 | `6-exposed-cranium-nebula.jpg` | NASA, ESA, CSA, STScI, J. DePasquale (STScI) | CC BY 4.0 | [source](https://esawebb.org/images/weic2605c/) |
 | `7-ic-348.jpg` | ESA/Webb, NASA, CSA, K. Luhman, C. Alves De Oliveira, M. Zamani (ESA/Webb) | CC BY 4.0 | [source](https://esawebb.org/images/weic2619a/) |
+
+`screensaver.txt`: text art of `6-exposed-cranium-nebula` (`src/asciiart.py`), so by NASA, ESA, CSA, STScI, J. DePasquale (STScI), CC BY 4.0, like that wallpaper.
 
 ## Stem Glow
 
@@ -439,6 +489,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `09-pepper-leaf-stalk.jpg` | Alexander Klepnev | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%A7%D0%B5%D1%80%D0%B5%D1%88%D0%BE%D0%BA_%D0%BB%D0%B8%D1%81%D1%82%D0%B0_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B5%D1%80%D1%86%D0%B0.jpg) |
 | `10-grape-leaf-stalk.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%A1%D1%80%D0%B5%D0%B7_%D1%87%D0%B5%D1%80%D0%B5%D1%88%D0%BA%D0%B0_%D0%BB%D0%B8%D1%81%D1%82%D0%B0_%D0%B2%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%B0.jpg) |
 | `11-mulberry-stem.jpg` | Andrei Savitsky | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%B9_%D0%B7%D1%80%D1%96%D0%B7_%D1%81%D1%82%D0%B5%D0%B1%D0%BB%D0%B0_%D1%88%D0%BE%D0%B2%D0%BA%D0%BE%D0%B2%D0%B8%D1%86%D1%96.jpg) |
+
+`screensaver.txt`: text art of `06-pine-needle` (`src/asciiart.py`), so by Anatoly Mikhaltsov, CC BY 4.0, like that wallpaper.
 
 ## Thunderhead
 
@@ -459,12 +511,16 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `13-mammatus.jpg` | Caglaror | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Mammatus_Clouds_from_Austin,_TX,_USA.jpg) |
 | `14-thunderhead-gotland.jpg` | Bene Riobó | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Cumulonimbus_en_Gotland.jpg) |
 
+`screensaver.txt`: text art of `02-kitt-peak-1972` (`src/asciiart.py`), so by Gary Ladd / KPNO / NOIRLab / NSF / AURA, CC BY 4.0, like that wallpaper.
+
 ## Traceroute
 
 | Wallpaper | By | Licence | Source |
 |---|---|---|---|
 | `1-main-v1.png` | CompilingThings | CC BY 4.0 | made with `src/traceroute/build` |
 | `2-io-v1.png` | CompilingThings | CC BY 4.0 | made with `src/traceroute/build` |
+
+`screensaver.txt`: text art of `2-io-v1` (`src/asciiart.py`), so by CompilingThings, CC BY 4.0, like that wallpaper.
 
 ## Tranquility
 
@@ -478,6 +534,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `6-hadley-delta.jpg` | NASA (photo: Jim Irwin) | NASA media guidelines | [source](https://images.nasa.gov/details/as15-85-11437) |
 | `7-the-moon-from-orion.jpg` | NASA | NASA media guidelines | [source](https://images.nasa.gov/details/art002e012183) |
 | `8-orientale-basin.jpg` | NASA | NASA media guidelines | [source](https://images.nasa.gov/details/art002e012090) |
+
+`screensaver.txt`: text art of `6-hadley-delta` (`src/asciiart.py`), so by NASA (photo: Jim Irwin), NASA media guidelines, like that wallpaper.
 
 ## Viral
 
@@ -494,6 +552,8 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 | `09-ebola-loop.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Ebola_Virus_(52466947587).jpg) |
 | `10-mpox-particle.jpg` | NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Mpox_Virus_Particle.jpg) |
 | `11-hepatitis-b.jpg` | CDC and NIAID | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Hepatitis_B_Virus_(52451177586).jpg) |
+
+`screensaver.txt`: text art of `01-covid` (`src/asciiart.py`), so by NIAID, CC BY 2.0, like that wallpaper.
 
 ## Boot screen
 

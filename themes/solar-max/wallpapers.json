@@ -1,108 +1,154 @@
 {
-  "accent": "#FF8A3D",
-  "wallpapers": [
-    {
-      "file": "1-solar-orbiter-corona",
-      "by": "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)",
-      "licence": "CC-BY-SA-3.0-IGO",
-      "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2025/04/solar_orbiter_s_widest_high-res_view_of_the_sun/26672644-4-eng-GB/Solar_Orbiter_s_widest_high-res_view_of_the_Sun.jpg",
-      "page": "https://www.esa.int/media/solar-orbiter-s-widest-high-res-view-of-the-sun  (6272 px copy of the 12544 px original)",
-      "title": "THE SUN'S HOT ATMOSPHERE",
-      "line1": "The Sun's million-degree atmosphere in ultraviolet light: hot gas caught in its tangled magnetic field.",
-      "line2": "Solar Orbiter, 77 million km from the Sun  ·  9 March 2025  ·  ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB), CC BY-SA 3.0 IGO",
-      "crop": [0.72, 0.5, 1.3]
-    },
-    {
-      "file": "2-totality-dallas",
-      "by": "NASA/Keegan Barber",
-      "licence": "LicenseRef-NASA-Media",
-      "url": "https://images-assets.nasa.gov/image/NHQ202404080101/NHQ202404080101~orig.jpg",
-      "page": "https://images.nasa.gov/details/NHQ202404080101  (corona: https://science.nasa.gov/eclipses/types/)",
-      "title": "TOTAL ECLIPSE",
-      "line1": "The Moon hides the Sun's bright face, so its outer atmosphere, the corona, shows. Seen from Dallas, Texas.",
-      "line2": "Total solar eclipse  ·  8 April 2024  ·  NASA/Keegan Barber",
-      "crop": [0.5, 0.5, 1.0]
-    },
-    {
-      "file": "3-flare-and-moon",
-      "by": "NASA/SDO",
-      "licence": "LicenseRef-NASA-Media",
-      "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001245/GSFC_20171208_Archive_e001245~orig.jpg",
-      "page": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001245",
-      "title": "A FLARE AND THE MOON",
-      "line1": "A flare, a sudden burst of radiation, flashes on the left. On the right, the Moon has just crossed in front of the Sun.",
-      "line2": "Solar Dynamics Observatory  ·  30 January 2014  ·  NASA/SDO",
-      "crop": [0.5, 0.55, 1.0],
-      "panel": true
-    },
-    {
-      "file": "4-eclipse-from-orion",
-      "by": "NASA",
-      "licence": "LicenseRef-NASA-Media",
-      "url": "https://images-assets.nasa.gov/image/art002e016324/art002e016324~orig.jpg",
-      "page": "https://images.nasa.gov/details/art002e016324  (Saturn's place: the caption of art002e009571)",
-      "title": "ECLIPSE FROM ORION",
-      "line1": "Behind the Moon, the Artemis II crew saw the Sun hidden for nearly an hour. Venus and Saturn are marked.",
-      "line2": "Artemis II, camera on an Orion solar array wing  ·  6 April 2026  ·  NASA",
-      "crop": [0.5, 0.56, 1.0],
-      "marks": [
-        [
-          1188,
-          745,
-          "Venus"
-        ],
-        [
-          3495,
-          2206,
-          "Saturn"
-        ]
-      ]
-    },
-    {
-      "file": "5-giant-sunspot-erupts",
-      "by": "NASA/GSFC/SDO",
-      "licence": "LicenseRef-NASA-Media",
-      "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000920/GSFC_20171208_Archive_e000920~orig.jpg",
-      "page": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000920",
-      "title": "GIANT SUNSPOT ERUPTS",
-      "line1": "The biggest sunspot region in 24 years fires a strong flare. Extreme ultraviolet light shows the hot gas.",
-      "line2": "Solar Dynamics Observatory, region AR 12192, an X3.1 flare  ·  24 October 2014  ·  NASA/GSFC/SDO",
-      "crop": [0.62, 0.72, 1.25]
-    },
-    {
-      "file": "6-diamond-ring",
-      "by": "NASA/Aubrey Gemignani",
-      "licence": "LicenseRef-NASA-Media",
-      "url": "https://images-assets.nasa.gov/image/NHQ201708210102/NHQ201708210102~orig.tif",
-      "page": "https://images.nasa.gov/details/NHQ201708210102",
-      "title": "THE DIAMOND RING",
-      "line1": "A last bead of sunlight as the Moon makes its final move over the Sun, above Madras, Oregon.",
-      "line2": "Total solar eclipse  ·  21 August 2017  ·  NASA/Aubrey Gemignani",
-      "crop": [0.5, 0.5, 1.0]
-    },
-    {
-      "file": "7-transit-of-venus",
-      "by": "NASA/SDO, AIA",
-      "licence": "LicenseRef-NASA-Media",
-      "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001734/GSFC_20171208_Archive_e001734~orig.jpg",
-      "page": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001734",
-      "title": "TRANSIT OF VENUS",
-      "line1": "Venus, the black dot, crosses the face of the Sun. The next time will not come until 2117.",
-      "line2": "Solar Dynamics Observatory  ·  5 June 2012  ·  NASA/SDO, AIA",
-      "crop": [0.5, 0.33, 1.0],
-      "panel": true
-    },
-    {
-      "file": "8-space-station-transit",
-      "by": "NASA/Joel Kowsky",
-      "licence": "LicenseRef-NASA-Media",
-      "url": "https://images-assets.nasa.gov/image/NHQ201708210201/NHQ201708210201~orig.jpg",
-      "page": "https://images.nasa.gov/details/NHQ201708210201",
-      "title": "SPACE STATION CROSSES THE SUN",
-      "line1": "The Space Station, six people aboard, crosses the Sun at about 8 km a second during a partial eclipse.",
-      "line2": "Near Banner, Wyoming  ·  21 August 2017  ·  NASA/Joel Kowsky",
-      "crop": [0.5, 0.5, 1.0],
-      "panel": true
-    }
+ "accent": "#FF8A3D",
+ "screensaver": {
+  "from": "7-transit-of-venus",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--zoom",
+   "--mean",
+   "0.18",
+   "--detail",
+   "2",
+   "--color",
+   "theme"
   ]
+ },
+ "wallpapers": [
+  {
+   "file": "1-solar-orbiter-corona",
+   "by": "ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB)",
+   "licence": "CC-BY-SA-3.0-IGO",
+   "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2025/04/solar_orbiter_s_widest_high-res_view_of_the_sun/26672644-4-eng-GB/Solar_Orbiter_s_widest_high-res_view_of_the_Sun.jpg",
+   "page": "https://www.esa.int/media/solar-orbiter-s-widest-high-res-view-of-the-sun  (6272 px copy of the 12544 px original)",
+   "title": "THE SUN'S HOT ATMOSPHERE",
+   "line1": "The Sun's million-degree atmosphere in ultraviolet light: hot gas caught in its tangled magnetic field.",
+   "line2": "Solar Orbiter, 77 million km from the Sun  ·  9 March 2025  ·  ESA & NASA/Solar Orbiter/EUI Team, E. Kraaikamp (ROB), CC BY-SA 3.0 IGO",
+   "crop": [
+    0.72,
+    0.5,
+    1.3
+   ]
+  },
+  {
+   "file": "2-totality-dallas",
+   "by": "NASA/Keegan Barber",
+   "licence": "LicenseRef-NASA-Media",
+   "url": "https://images-assets.nasa.gov/image/NHQ202404080101/NHQ202404080101~orig.jpg",
+   "page": "https://images.nasa.gov/details/NHQ202404080101  (corona: https://science.nasa.gov/eclipses/types/)",
+   "title": "TOTAL ECLIPSE",
+   "line1": "The Moon hides the Sun's bright face, so its outer atmosphere, the corona, shows. Seen from Dallas, Texas.",
+   "line2": "Total solar eclipse  ·  8 April 2024  ·  NASA/Keegan Barber",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "3-flare-and-moon",
+   "by": "NASA/SDO",
+   "licence": "LicenseRef-NASA-Media",
+   "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001245/GSFC_20171208_Archive_e001245~orig.jpg",
+   "page": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001245",
+   "title": "A FLARE AND THE MOON",
+   "line1": "A flare, a sudden burst of radiation, flashes on the left. On the right, the Moon has just crossed in front of the Sun.",
+   "line2": "Solar Dynamics Observatory  ·  30 January 2014  ·  NASA/SDO",
+   "crop": [
+    0.5,
+    0.55,
+    1.0
+   ],
+   "panel": true
+  },
+  {
+   "file": "4-eclipse-from-orion",
+   "by": "NASA",
+   "licence": "LicenseRef-NASA-Media",
+   "url": "https://images-assets.nasa.gov/image/art002e016324/art002e016324~orig.jpg",
+   "page": "https://images.nasa.gov/details/art002e016324  (Saturn's place: the caption of art002e009571)",
+   "title": "ECLIPSE FROM ORION",
+   "line1": "Behind the Moon, the Artemis II crew saw the Sun hidden for nearly an hour. Venus and Saturn are marked.",
+   "line2": "Artemis II, camera on an Orion solar array wing  ·  6 April 2026  ·  NASA",
+   "crop": [
+    0.5,
+    0.56,
+    1.0
+   ],
+   "marks": [
+    [
+     1188,
+     745,
+     "Venus"
+    ],
+    [
+     3495,
+     2206,
+     "Saturn"
+    ]
+   ]
+  },
+  {
+   "file": "5-giant-sunspot-erupts",
+   "by": "NASA/GSFC/SDO",
+   "licence": "LicenseRef-NASA-Media",
+   "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000920/GSFC_20171208_Archive_e000920~orig.jpg",
+   "page": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000920",
+   "title": "GIANT SUNSPOT ERUPTS",
+   "line1": "The biggest sunspot region in 24 years fires a strong flare. Extreme ultraviolet light shows the hot gas.",
+   "line2": "Solar Dynamics Observatory, region AR 12192, an X3.1 flare  ·  24 October 2014  ·  NASA/GSFC/SDO",
+   "crop": [
+    0.62,
+    0.72,
+    1.25
+   ]
+  },
+  {
+   "file": "6-diamond-ring",
+   "by": "NASA/Aubrey Gemignani",
+   "licence": "LicenseRef-NASA-Media",
+   "url": "https://images-assets.nasa.gov/image/NHQ201708210102/NHQ201708210102~orig.tif",
+   "page": "https://images.nasa.gov/details/NHQ201708210102",
+   "title": "THE DIAMOND RING",
+   "line1": "A last bead of sunlight as the Moon makes its final move over the Sun, above Madras, Oregon.",
+   "line2": "Total solar eclipse  ·  21 August 2017  ·  NASA/Aubrey Gemignani",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "7-transit-of-venus",
+   "by": "NASA/SDO, AIA",
+   "licence": "LicenseRef-NASA-Media",
+   "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001734/GSFC_20171208_Archive_e001734~orig.jpg",
+   "page": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001734",
+   "title": "TRANSIT OF VENUS",
+   "line1": "Venus, the black dot, crosses the face of the Sun. The next time will not come until 2117.",
+   "line2": "Solar Dynamics Observatory  ·  5 June 2012  ·  NASA/SDO, AIA",
+   "crop": [
+    0.5,
+    0.33,
+    1.0
+   ],
+   "panel": true
+  },
+  {
+   "file": "8-space-station-transit",
+   "by": "NASA/Joel Kowsky",
+   "licence": "LicenseRef-NASA-Media",
+   "url": "https://images-assets.nasa.gov/image/NHQ201708210201/NHQ201708210201~orig.jpg",
+   "page": "https://images.nasa.gov/details/NHQ201708210201",
+   "title": "SPACE STATION CROSSES THE SUN",
+   "line1": "The Space Station, six people aboard, crosses the Sun at about 8 km a second during a partial eclipse.",
+   "line2": "Near Banner, Wyoming  ·  21 August 2017  ·  NASA/Joel Kowsky",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": true
+  }
+ ]
 }

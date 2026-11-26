@@ -1,5 +1,19 @@
 {
  "accent": "#7A8CF0",
+ "screensaver": {
+  "from": "12-honeycomb",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--zoom",
+   "--mean",
+   "0.14",
+   "--detail",
+   "3",
+   "--color",
+   "theme"
+  ]
+ },
  "wallpapers": [
   {
    "file": "01-arachnoidiscus",

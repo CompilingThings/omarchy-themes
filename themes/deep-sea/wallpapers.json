@@ -1,189 +1,203 @@
 {
-  "accent": "#4FC8FF",
-  "wallpapers": [
-    {
-      "file": "01-warty-comb-jelly",
-      "by": "Bruno C. Vellutini",
-      "licence": "CC-BY-SA-3.0",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Comb_jelly.tif",
-      "page": "https://commons.wikimedia.org/wiki/File:Comb_jelly.tif",
-      "title": "WARTY COMB JELLY",
-      "line1": "Mnemiopsis leidyi, the sea walnut. Light breaks into rainbows on its comb rows, which glow blue-green when disturbed.",
-      "line2": "23 February 2013  ·  Photo: Bruno C. Vellutini  ·  CC BY-SA 3.0",
-      "crop": [
-        0.5,
-        0.5,
-        1.0
-      ]
-    },
-    {
-      "file": "02-white-spotted-jellyfish",
-      "by": "Alexander Svensson",
-      "licence": "CC-BY-2.0",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/White-spotted_Jellyfish_%2839878698384%29.jpg",
-      "page": "https://commons.wikimedia.org/wiki/File:White-spotted_Jellyfish_(39878698384).jpg",
-      "title": "WHITE-SPOTTED JELLYFISH",
-      "line1": "Phyllorhiza punctata under blue light, every white spot lit. Native to the western Pacific, from Australia to Japan.",
-      "line2": "26 February 2018  ·  Photo: Alexander Svensson (Flickr)  ·  CC BY 2.0",
-      "crop": [
-        0.5,
-        0.5,
-        1.0
-      ]
-    },
-    {
-      "file": "03-golden-jellies",
-      "by": "Andrey Biksaleev",
-      "licence": "CC-BY-4.0",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE.jpg",
-      "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE.jpg",
-      "title": "GOLDEN JELLIES",
-      "line1": "Jellyfish glowing gold against black water. The photographer called them sea gold.",
-      "line2": "9 July 2019  ·  Photo: Andrey Biksaleev  ·  CC BY 4.0",
-      "crop": [
-        0.5,
-        0.5,
-        1.0
-      ],
-      "panel": 0.75
-    },
-    {
-      "file": "04-japanese-sea-nettle",
-      "by": "Paul Harrison",
-      "licence": "CC-BY-SA-4.0",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Japanese_sea_nettle_5106.jpg",
-      "page": "https://commons.wikimedia.org/wiki/File:Japanese_sea_nettle_5106.jpg",
-      "title": "JAPANESE SEA NETTLE",
-      "line1": "Chrysaora pacifica at the Vancouver Aquarium. It lives in the northwest Pacific, from Japan and Korea to China.",
-      "line2": "18 January 2015  ·  Photo: Paul Harrison  ·  CC BY-SA 4.0",
-      "crop": [
-        0.5,
-        0.5,
-        1.0
-      ]
-    },
-    {
-      "file": "05-moon-jellyfish",
-      "by": "W.carter",
-      "licence": "CC-BY-SA-4.0",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Moon_jellyfish_in_R%C3%A5g%C3%A5rdsdal_4.jpg",
-      "page": "https://commons.wikimedia.org/wiki/File:Moon_jellyfish_in_R%C3%A5g%C3%A5rdsdal_4.jpg",
-      "title": "MOON JELLYFISH",
-      "line1": "Aurelia aurita in Åbyfjorden, Sweden, about 12 cm across. The four rings are its gonads, seen through the bell.",
-      "line2": "5 June 2020  ·  Photo: W.carter  ·  CC BY-SA 4.0",
-      "crop": [
-        0.5,
-        0.5,
-        1.0
-      ]
-    },
-    {
-      "file": "06-deep-sea-isopod",
-      "by": "Peter Marriott, NIWA",
-      "licence": "CC-BY-4.0",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Brucerolis_brandtae_on_Hikurangi_Margin.jpg",
-      "page": "https://commons.wikimedia.org/wiki/File:Brucerolis_brandtae_on_Hikurangi_Margin.jpg",
-      "title": "DEEP-SEA ISOPOD",
-      "line1": "Brucerolis brandtae, about 5 cm long, brought up from just over 900 m deep off the east coast of New Zealand.",
-      "line2": "6 February 2014  ·  Photo: Peter Marriott, NIWA  ·  CC BY 4.0",
-      "crop": [
-        0.5,
-        0.5,
-        1.0
-      ]
-    },
-    {
-      "file": "07-lions-mane-jellyfish",
-      "by": "W.carter",
-      "licence": "CC0-1.0",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lion%27s_mane_jellyfish_in_Gullmarn_fjord_at_S%C3%A4mstad_3.jpg",
-      "page": "https://commons.wikimedia.org/wiki/File:Lion%27s_mane_jellyfish_in_Gullmarn_fjord_at_S%C3%A4mstad_3.jpg",
-      "title": "LION'S MANE JELLYFISH",
-      "line1": "Cyanea capillata in Gullmarn fjord, Sweden: one of the largest jellyfish known. This one is 10–12 cm across.",
-      "line2": "13 July 2019  ·  Photo: W.carter  ·  CC0",
-      "crop": [
-        0.5,
-        0.5,
-        1.0
-      ]
-    },
-    {
-      "file": "08-white-spotted-bell",
-      "by": "Johannes Maximilian",
-      "licence": "CC-BY-SA-4.0",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Phyllorhiza_punctata_in_Tiergarten_Sch%C3%B6nbrunn_24_July_2020_JM_%285%29.jpg",
-      "page": "https://commons.wikimedia.org/wiki/File:Phyllorhiza_punctata_in_Tiergarten_Sch%C3%B6nbrunn_24_July_2020_JM_(5).jpg",
-      "title": "WHITE-SPOTTED JELLYFISH",
-      "line1": "The spotted bell of Phyllorhiza punctata up close, at Tiergarten Schönbrunn in Vienna.",
-      "line2": "24 July 2020  ·  Photo: Johannes Maximilian  ·  CC BY-SA 4.0",
-      "crop": [
-        0.5,
-        0.5,
-        1.0
-      ]
-    },
-    {
-      "file": "09-monterey-jellies",
-      "by": "Pedro Szekely",
-      "licence": "CC-BY-SA-2.0",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jellyfish_%2844791540314%29.jpg",
-      "page": "https://commons.wikimedia.org/wiki/File:Jellyfish_(44791540314).jpg",
-      "title": "MONTEREY JELLIES",
-      "line1": "Jellyfish trailing their frilled arms through the blue of the Monterey Bay Aquarium, California.",
-      "line2": "11 October 2018  ·  Photo: Pedro Szekely (Flickr)  ·  CC BY-SA 2.0",
-      "crop": [
-        0.5,
-        0.5,
-        1.0
-      ]
-    },
-    {
-      "file": "10-harp-comb-jelly",
-      "by": "YockeyT",
-      "licence": "CC0-1.0",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Harp_Comb_Jelly_1.png",
-      "page": "https://commons.wikimedia.org/wiki/File:Harp_Comb_Jelly_1.png",
-      "title": "HARP COMB JELLY",
-      "line1": "Lyrocteis imperatoris, a comb jelly up to 15 cm tall, shaped like a lyre, that lives on the sea floor. Okinawa Churaumi Aquarium.",
-      "line2": "28 April 2024  ·  Photo: YockeyT  ·  CC0",
-      "crop": [
-        0.5,
-        0.5,
-        1.0
-      ],
-      "panel": 0.75
-    },
-    {
-      "file": "11-bluefire-jellyfish",
-      "by": "W.carter",
-      "licence": "CC-BY-SA-4.0",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Sideview_of_contracted_bluefire_jellyfish_in_Brofjorden_at_Sandvik_2.jpg",
-      "page": "https://commons.wikimedia.org/wiki/File:Sideview_of_contracted_bluefire_jellyfish_in_Brofjorden_at_Sandvik_2.jpg",
-      "title": "BLUEFIRE JELLYFISH",
-      "line1": "Cyanea lamarckii in Brofjorden, Sweden, pulled in tight to swim. Its bell grows to about 10–20 cm.",
-      "line2": "24 June 2021  ·  Photo: W.carter  ·  CC BY-SA 4.0",
-      "crop": [
-        0.5,
-        0.5,
-        1.0
-      ],
-      "panel": 0.75
-    },
-    {
-      "file": "12-moon-jellies-caught",
-      "by": "W.carter",
-      "licence": "CC-BY-SA-4.0",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Three_moon_jellyfishes_captured_by_a_lion%27s_mane_jellyfish_1.jpg",
-      "page": "https://commons.wikimedia.org/wiki/File:Three_moon_jellyfishes_captured_by_a_lion%27s_mane_jellyfish_1.jpg",
-      "title": "CAUGHT",
-      "line1": "Three moon jellyfish caught by a young lion's mane, which will eat them one by one. Rågårdsdal, Sweden.",
-      "line2": "5 June 2020  ·  Photo: W.carter  ·  CC BY-SA 4.0",
-      "crop": [
-        0.5,
-        0.5,
-        1.0
-      ],
-      "panel": 0.75
-    }
+ "accent": "#4FC8FF",
+ "screensaver": {
+  "from": "04-japanese-sea-nettle",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--zoom",
+   "--mean",
+   "0.16",
+   "--detail",
+   "2",
+   "--color",
+   "theme"
   ]
+ },
+ "wallpapers": [
+  {
+   "file": "01-warty-comb-jelly",
+   "by": "Bruno C. Vellutini",
+   "licence": "CC-BY-SA-3.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Comb_jelly.tif",
+   "page": "https://commons.wikimedia.org/wiki/File:Comb_jelly.tif",
+   "title": "WARTY COMB JELLY",
+   "line1": "Mnemiopsis leidyi, the sea walnut. Light breaks into rainbows on its comb rows, which glow blue-green when disturbed.",
+   "line2": "23 February 2013  ·  Photo: Bruno C. Vellutini  ·  CC BY-SA 3.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "02-white-spotted-jellyfish",
+   "by": "Alexander Svensson",
+   "licence": "CC-BY-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/White-spotted_Jellyfish_%2839878698384%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:White-spotted_Jellyfish_(39878698384).jpg",
+   "title": "WHITE-SPOTTED JELLYFISH",
+   "line1": "Phyllorhiza punctata under blue light, every white spot lit. Native to the western Pacific, from Australia to Japan.",
+   "line2": "26 February 2018  ·  Photo: Alexander Svensson (Flickr)  ·  CC BY 2.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "03-golden-jellies",
+   "by": "Andrey Biksaleev",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE.jpg",
+   "title": "GOLDEN JELLIES",
+   "line1": "Jellyfish glowing gold against black water. The photographer called them sea gold.",
+   "line2": "9 July 2019  ·  Photo: Andrey Biksaleev  ·  CC BY 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": 0.75
+  },
+  {
+   "file": "04-japanese-sea-nettle",
+   "by": "Paul Harrison",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Japanese_sea_nettle_5106.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Japanese_sea_nettle_5106.jpg",
+   "title": "JAPANESE SEA NETTLE",
+   "line1": "Chrysaora pacifica at the Vancouver Aquarium. It lives in the northwest Pacific, from Japan and Korea to China.",
+   "line2": "18 January 2015  ·  Photo: Paul Harrison  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "05-moon-jellyfish",
+   "by": "W.carter",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Moon_jellyfish_in_R%C3%A5g%C3%A5rdsdal_4.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Moon_jellyfish_in_R%C3%A5g%C3%A5rdsdal_4.jpg",
+   "title": "MOON JELLYFISH",
+   "line1": "Aurelia aurita in Åbyfjorden, Sweden, about 12 cm across. The four rings are its gonads, seen through the bell.",
+   "line2": "5 June 2020  ·  Photo: W.carter  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "06-deep-sea-isopod",
+   "by": "Peter Marriott, NIWA",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Brucerolis_brandtae_on_Hikurangi_Margin.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Brucerolis_brandtae_on_Hikurangi_Margin.jpg",
+   "title": "DEEP-SEA ISOPOD",
+   "line1": "Brucerolis brandtae, about 5 cm long, brought up from just over 900 m deep off the east coast of New Zealand.",
+   "line2": "6 February 2014  ·  Photo: Peter Marriott, NIWA  ·  CC BY 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "07-lions-mane-jellyfish",
+   "by": "W.carter",
+   "licence": "CC0-1.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lion%27s_mane_jellyfish_in_Gullmarn_fjord_at_S%C3%A4mstad_3.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Lion%27s_mane_jellyfish_in_Gullmarn_fjord_at_S%C3%A4mstad_3.jpg",
+   "title": "LION'S MANE JELLYFISH",
+   "line1": "Cyanea capillata in Gullmarn fjord, Sweden: one of the largest jellyfish known. This one is 10–12 cm across.",
+   "line2": "13 July 2019  ·  Photo: W.carter  ·  CC0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "08-white-spotted-bell",
+   "by": "Johannes Maximilian",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Phyllorhiza_punctata_in_Tiergarten_Sch%C3%B6nbrunn_24_July_2020_JM_%285%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Phyllorhiza_punctata_in_Tiergarten_Sch%C3%B6nbrunn_24_July_2020_JM_(5).jpg",
+   "title": "WHITE-SPOTTED JELLYFISH",
+   "line1": "The spotted bell of Phyllorhiza punctata up close, at Tiergarten Schönbrunn in Vienna.",
+   "line2": "24 July 2020  ·  Photo: Johannes Maximilian  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "09-monterey-jellies",
+   "by": "Pedro Szekely",
+   "licence": "CC-BY-SA-2.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jellyfish_%2844791540314%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Jellyfish_(44791540314).jpg",
+   "title": "MONTEREY JELLIES",
+   "line1": "Jellyfish trailing their frilled arms through the blue of the Monterey Bay Aquarium, California.",
+   "line2": "11 October 2018  ·  Photo: Pedro Szekely (Flickr)  ·  CC BY-SA 2.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "10-harp-comb-jelly",
+   "by": "YockeyT",
+   "licence": "CC0-1.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Harp_Comb_Jelly_1.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Harp_Comb_Jelly_1.png",
+   "title": "HARP COMB JELLY",
+   "line1": "Lyrocteis imperatoris, a comb jelly up to 15 cm tall, shaped like a lyre, that lives on the sea floor. Okinawa Churaumi Aquarium.",
+   "line2": "28 April 2024  ·  Photo: YockeyT  ·  CC0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": 0.75
+  },
+  {
+   "file": "11-bluefire-jellyfish",
+   "by": "W.carter",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Sideview_of_contracted_bluefire_jellyfish_in_Brofjorden_at_Sandvik_2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sideview_of_contracted_bluefire_jellyfish_in_Brofjorden_at_Sandvik_2.jpg",
+   "title": "BLUEFIRE JELLYFISH",
+   "line1": "Cyanea lamarckii in Brofjorden, Sweden, pulled in tight to swim. Its bell grows to about 10–20 cm.",
+   "line2": "24 June 2021  ·  Photo: W.carter  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": 0.75
+  },
+  {
+   "file": "12-moon-jellies-caught",
+   "by": "W.carter",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Three_moon_jellyfishes_captured_by_a_lion%27s_mane_jellyfish_1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Three_moon_jellyfishes_captured_by_a_lion%27s_mane_jellyfish_1.jpg",
+   "title": "CAUGHT",
+   "line1": "Three moon jellyfish caught by a young lion's mane, which will eat them one by one. Rågårdsdal, Sweden.",
+   "line2": "5 June 2020  ·  Photo: W.carter  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "panel": 0.75
+  }
+ ]
 }

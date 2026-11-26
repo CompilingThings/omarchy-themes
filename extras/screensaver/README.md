@@ -12,11 +12,14 @@ scripts make it follow the theme: each theme's own picture, in the theme's colou
 Each works without the other: the hook alone gives each theme its picture in ttfx's colours; the stand-in alone
 colours whatever picture is there. Undo: delete the two files.
 
-The pictures are braille text art (each character a 2 x 4 grid of dots) made from one of the theme's wallpapers:
+The pictures are braille text art (each character a 2 x 4 grid of dots) made from one of the theme's wallpapers by
+[`src/asciiart.py`](../../src/asciiart.py); the wallpaper and the settings are in the theme's `wallpapers.json`
+(`"screensaver": {"from": "02-spore-rosettes", "args": [...]}`), so each one can be made again. Every theme's
+picture is drawn in its own colours (`--color theme`: each character takes the theme colour nearest the photo's
+colour there); the stand-in sees those colours and keeps them, so the effect only animates the picture in.
 
 ```sh
-python3 src/asciiart.py themes/spore-garden/backgrounds/07-hazel-mildew.jpg themes/spore-garden/screensaver.txt \
-  --cols 100 --rows 24 --box 0.14,0.0,0.70,0.9 --level 0.3 --gamma 0.7 --title "Spore Garden"
+python3 src/asciiart.py --theme spore-garden      # writes themes/spore-garden/screensaver.txt
 ```
 
 Omarchy's screensaver window (JetBrains Mono at 18 pt, full screen) is 111 x 27 characters on a 2560 x 1440 screen at

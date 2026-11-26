@@ -1,5 +1,18 @@
 {
  "accent": "#A98BFF",
+ "screensaver": {
+  "from": "02-kitt-peak-1972",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--mean",
+   "0.14",
+   "--detail",
+   "2",
+   "--color",
+   "theme"
+  ]
+ },
  "wallpapers": [
   {
    "file": "01-three-strikes",

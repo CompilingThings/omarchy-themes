@@ -30,8 +30,9 @@ python3 tools/credits.py --check
 
 Optional, when the theme takes them unchanged from an Omarchy theme: `neovim.lua`, `vscode.json`. Optional too:
 `screensaver.txt`, the theme's text art for the screensaver, made from one of its wallpapers with `src/asciiart.py`
-(shown by [`extras/screensaver`](extras/screensaver/README.md)); its `wallpapers.json` then names that wallpaper as
-`"screensaver"`, so the art carries its photo's credit and licence. No other files: Omarchy ignores them, and an
+(shown by [`extras/screensaver`](extras/screensaver/README.md)); its `wallpapers.json` then names that wallpaper and
+the settings as `"screensaver": {"from": ..., "args": [...]}`, so the art can be made again and carries its photo's
+credit and licence. No other files: Omarchy ignores them, and an
 unexpected file is usually a leftover.
 
 **Colours.** Contrast is measured as in [WCAG 2.2](https://www.w3.org/TR/WCAG22/#dfn-contrast-ratio) against

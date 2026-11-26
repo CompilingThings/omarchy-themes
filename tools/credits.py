@@ -47,11 +47,11 @@ def preview_source(slug):
 
 
 def screensaver_source(slug):
-    """The wallpaper a theme's screensaver.txt (text art) was made from: wallpapers.json "screensaver"."""
+    """The wallpaper a theme's screensaver.txt (text art) was made from: wallpapers.json "screensaver" "from"."""
     if not (T.ROOT / "themes" / slug / "screensaver.txt").exists():
         return None
     spec = T.wallpapers(slug)
-    return next(w for w in spec["wallpapers"] if w["file"] == spec["screensaver"])
+    return next(w for w in spec["wallpapers"] if w["file"] == spec["screensaver"]["from"])
 
 
 def source(w):

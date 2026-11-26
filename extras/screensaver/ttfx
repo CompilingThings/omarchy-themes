@@ -4,7 +4,8 @@
 # Omarchy's screensaver runs `ttfx -i ~/.config/omarchy/branding/screensaver.txt ... --random-effect` with ttfx's own
 # colours. Installed as /usr/local/bin/ttfx (ahead of /usr/bin on the PATH), this stand-in changes only that one call:
 # it picks one of the techie effects below and passes it the current theme's colours (the two colours of the focused
-# window's border, its bright text and its muted grey), then holds the finished picture for a while. Every other use
+# window's border, its bright text and its muted grey; a picture that carries its own colours keeps them), then
+# holds the finished picture for a while. Every other use
 # of ttfx goes straight to the real one. Remove the file to undo it.
 set -u
 real=/usr/bin/ttfx
@@ -28,6 +29,8 @@ B=${B:-$A} F=${F:-FFFFFF} D=${D:-555555}
 # The call without --random-effect; the effect and its colours go after these options.
 args=()
 for a in "$@"; do [[ $a == --random-effect ]] || args+=("$a"); done
+# A picture with its own colours (asciiart.py --color) keeps them: the effect's colours only animate it in.
+grep -q $'\033\[' "$art" && args+=(--existing-color-handling always)
 
 final=(--final-gradient-stops "$A" "$B" --final-gradient-direction diagonal)
 effects=(
