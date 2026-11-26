@@ -1,0 +1,48 @@
+mode = "dark"
+
+# Heartstone: mineral growing where it should not, in the heart and the kidney, seen with Sergio Bertazzo's
+# density-dependent colour electron microscope: round grains in heart tissue, a grain caught in a web of fibres,
+# the crystals of kidney stones, and two mirrored pictures of calcified heart tissue. A near-black background, pale
+# text, the hot pink of the fibre web as the accent and the window border turning from it into kidney-stone orange.
+
+accent = "#E8509A"
+selection = "#2E1A28"
+muted = "#5E5460"
+
+background = "#0A080B"
+dark_background = "#070507"
+darker_background = "#030203"
+lighter_background = "#1C161C"
+
+foreground = "#F0E8EE"
+dark_foreground = "#9A8E98"
+light_foreground = "#D6CCD4"
+bright_foreground = "#FFFFFF"
+
+# The focused window: fibre-web pink turning to kidney-stone orange
+hyprland_active_border = "rgba(e8509aff) rgba(f0862aff) 45deg"
+hyprland_inactive_border = "rgba(1c161ccc)"
+
+# red: the red mineral of the mirrored heart, wallpaper 05
+red = "#E84850"
+# orange: the orange crystals of the kidney stone, wallpaper 03
+orange = "#F0862A"
+# yellow: the yellow fibres of the heart panorama, wallpaper 06
+yellow = "#E0C83A"
+# green: the green glow round the kidney-stone crystals, wallpaper 03
+green = "#6CCC4A"
+# cyan: the cyan soft tissue of the mirrored heart, wallpaper 05
+cyan = "#48D0D8"
+# blue: the pale blue grains in heart tissue, wallpaper 01
+blue = "#7088F0"
+# magenta: the violet fibres of the web, wallpaper 02
+magenta = "#C060F0"
+# brown: a warm brown, kept in the same clear range
+brown = "#B07A3A"
+
+bright_red = "#F6AAB0"
+bright_yellow = "#F2E6A0"
+bright_green = "#BCEAA8"
+bright_cyan = "#AEEEF2"
+bright_blue = "#C0CAF8"
+bright_magenta = "#E4C0F8"

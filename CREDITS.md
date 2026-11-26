@@ -273,6 +273,19 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 
 `screensaver.txt`: text art of `03-pondweed-tip` (`src/asciiart.py`), so by KarlGaff, CC BY 4.0, like that wallpaper.
 
+## Heartstone
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-calcified-particles.jpg` | Sergio Bertazzo | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:DDC-SEM_of_cardiac_tissue_-_blue.jpg) |
+| `02-particle-web.jpg` | Sergio Bertazzo | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:DDC-SEM_of_cardiac_tissue_-7.jpg) |
+| `03-kidney-stone.jpg` | Sergio Bertazzo | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:DDC-SEM_of_kidney_stone_-_1.jpg) |
+| `04-stone-surface.jpg` | Sergio Bertazzo | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:DDC-SEM_of_kidney_stone_-_orange.jpg) |
+| `05-mirrored-heart.jpg` | Sergio Bertazzo | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:DDC-SEM_of_cardiac_tissue_in_red_-1.jpg) |
+| `06-heart-panorama.jpg` | Sergio Bertazzo | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Mirrored_DDC-SEM_of_cardiac_tissue_-2.jpg) |
+
+`screensaver.txt`: text art of `06-heart-panorama` (`src/asciiart.py`), so by Sergio Bertazzo, CC BY-SA 4.0, like that wallpaper.
+
 ## Inner Space
 
 | Wallpaper | By | Licence | Source |

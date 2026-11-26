@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Heartstone: six colour electron micrographs by Sergio Bertazzo from Wikimedia Commons, where colour shows how
+  dense each part is (mineral grains in heart tissue, kidney-stone crystals, calcified heart tissue mirrored);
+  fibre pink and kidney-stone orange, with its own screensaver
 - Stowaway: six parasites of fish in dark-field light by Brandon Antonio Segura Torres and Priscilla Vieto Bonilla,
   from Wikimedia Commons (flukes from perch and puyen, gill worms), each laid on its side; fluke magenta and womb gold,
   with its own screensaver

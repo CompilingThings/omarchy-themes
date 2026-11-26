@@ -1,0 +1,110 @@
+{
+ "accent": "#E8509A",
+ "screensaver": {
+  "from": "06-heart-panorama",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--detail",
+   "3",
+   "--mean",
+   "0.32",
+   "--edges",
+   "0.3",
+   "--color",
+   "theme"
+  ]
+ },
+ "wallpapers": [
+  {
+   "file": "01-calcified-particles",
+   "by": "Sergio Bertazzo",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/DDC-SEM_of_cardiac_tissue_-_blue.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:DDC-SEM_of_cardiac_tissue_-_blue.jpg",
+   "title": "CALCIFIED PARTICLES",
+   "line1": "Round mineral grains, pale blue, in heart tissue; colour shows how dense each part is.",
+   "line2": "11 November 2013  ·  Photo: Sergio Bertazzo  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1
+   ]
+  },
+  {
+   "file": "02-particle-web",
+   "by": "Sergio Bertazzo",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/DDC-SEM_of_cardiac_tissue_-7.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:DDC-SEM_of_cardiac_tissue_-7.jpg",
+   "title": "A GRAIN IN THE WEB",
+   "line1": "One round mineral grain caught in the fibres of heart tissue.",
+   "line2": "9 May 2013  ·  Photo: Sergio Bertazzo  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1
+   ]
+  },
+  {
+   "file": "03-kidney-stone",
+   "by": "Sergio Bertazzo",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/DDC-SEM_of_kidney_stone_-_1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:DDC-SEM_of_kidney_stone_-_1.jpg",
+   "title": "KIDNEY STONE",
+   "line1": "The crystals of a kidney stone; colour shows how dense each part is.",
+   "line2": "16 February 2014  ·  Photo: Sergio Bertazzo  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1
+   ]
+  },
+  {
+   "file": "04-stone-surface",
+   "by": "Sergio Bertazzo",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/DDC-SEM_of_kidney_stone_-_orange.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:DDC-SEM_of_kidney_stone_-_orange.jpg",
+   "title": "KIDNEY STONE",
+   "line1": "Another part of a kidney stone, close up, in the same electron microscope.",
+   "line2": "16 February 2014  ·  Photo: Sergio Bertazzo  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1
+   ]
+  },
+  {
+   "file": "05-mirrored-heart",
+   "by": "Sergio Bertazzo",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/DDC-SEM_of_cardiac_tissue_in_red_-1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:DDC-SEM_of_cardiac_tissue_in_red_-1.jpg",
+   "title": "CALCIFIED HEART",
+   "line1": "Heart tissue, its mineral in red and its soft tissue in blue, mirrored.",
+   "line2": "2 August 2011  ·  Photo: Sergio Bertazzo  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1
+   ]
+  },
+  {
+   "file": "06-heart-panorama",
+   "by": "Sergio Bertazzo",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Mirrored_DDC-SEM_of_cardiac_tissue_-2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mirrored_DDC-SEM_of_cardiac_tissue_-2.jpg",
+   "title": "CALCIFIED HEART",
+   "line1": "Heart tissue and its mineral grains, mirrored into one picture.",
+   "line2": "12 May 2013  ·  Photo: Sergio Bertazzo  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1
+   ]
+  }
+ ]
+}
