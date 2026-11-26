@@ -66,6 +66,14 @@ src/build thunderhead            # the photos (~100 MB) download once into ~/.ca
 omarchy theme set thunderhead
 ```
 
+## Screensaver
+
+![The Thunderhead screensaver](../../docs/images/screensavers/thunderhead.png)
+
+`screensaver.txt` is the `02-kitt-peak-1972` wallpaper redrawn as braille text art (`src/asciiart.py`), each dot in the nearest of
+the theme's colours. `./install` copies it with the theme; once [extras/screensaver](../../extras/screensaver/README.md)
+is set up, Omarchy's screensaver shows it with an animated effect (laser etch, matrix rain, VHS glitch and others).
+
 ## Credits and licences
 
 Every wallpaper carries its photographer and licence on its label; the table above links each photo's page.

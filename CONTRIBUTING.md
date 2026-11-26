@@ -32,8 +32,9 @@ Optional, when the theme takes them unchanged from an Omarchy theme: `neovim.lua
 `screensaver.txt`, the theme's text art for the screensaver, made from one of its wallpapers with `src/asciiart.py`
 (shown by [`extras/screensaver`](extras/screensaver/README.md)); its `wallpapers.json` then names that wallpaper and
 the settings as `"screensaver": {"from": ..., "args": [...]}`, so the art can be made again and carries its photo's
-credit and licence. No other files: Omarchy ignores them, and an
-unexpected file is usually a leftover.
+credit and licence. Every theme has one: use `--color theme` so it is drawn in the theme's colours, pick a picture
+with real detail that still reads at 111 x 27 cells, and run `tools/screensavers.py` for the picture on its README
+page (`## Screensaver`). No other files: Omarchy ignores them, and an unexpected file is usually a leftover.
 
 **Colours.** Contrast is measured as in [WCAG 2.2](https://www.w3.org/TR/WCAG22/#dfn-contrast-ratio) against
 `background`: `foreground` at least 7:1 (level AAA for body text); `accent` and the twelve terminal colours (`red`

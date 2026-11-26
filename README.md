@@ -3,11 +3,11 @@
 [![check](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml/badge.svg)](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml)
 [![MIT licence](https://img.shields.io/badge/code-MIT-blue)](LICENSE)
 
-**Thirty-one themes for [Omarchy](https://omarchy.org):** the planets, the Sun and the Moon in real spacecraft photos,
+**Thirty-two themes for [Omarchy](https://omarchy.org), each with its own animated screensaver:** the planets, the Sun and the Moon in real spacecraft photos,
 the northern lights over Norway, mushrooms from forests round the world, insects up close, and under the microscope the animals in a drop of pond water, the same animals glowing in colour on black, crystals and slices of rock in polarised light, the bare silicon inside old chips, plant stems sliced thin and glowing, brains, eyes and cells lit with glowing dyes, viruses coloured in from the electron microscope, the immune cells that fight them, butterfly wings scale by scale, and insects glowing under violet light, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
 Every wallpaper is 4K and carries a small label saying what it shows and who made it.
 
-![All twenty-eight themes](docs/images/gallery.jpg)
+![All the themes](docs/images/gallery.jpg)
 
 | | Theme | What it is |
 |---|---|---|
@@ -82,10 +82,31 @@ replaces a theme it put there itself.
   icon colour. The terminal is slightly see-through over the wallpaper.
 - **Readable colours.** Text is at least 7:1 against its background (most themes over 15:1) and every terminal
   colour at least 4.5:1, measured as in [WCAG 2.2](https://www.w3.org/TR/WCAG22/#dfn-contrast-ratio).
+- **A screensaver:** one of its pictures redrawn as text art in the theme's colours, played in with an animated
+  effect (see [Screensavers](#screensavers) below).
 - **A boot screen:** the Omarchy logo in the theme's accent colour, ready for `omarchy plymouth set by theme <theme>`.
 - **Credits** on every picture, and in [CREDITS.md](CREDITS.md) with each licence.
 
 Low Orbit's first wallpaper is a 60-second video, played by owe, Omarchy's video wallpaper engine.
+
+## Screensavers
+
+![Every theme's screensaver](docs/images/screensavers.jpg)
+
+Omarchy's screensaver draws a text picture with an animated effect. Each theme here brings its own picture: one of its
+wallpapers redrawn as braille text art (each character a grid of 2 x 4 dots), every dot in the theme's colours.
+`./install` copies it with the theme. Two small scripts in [extras/screensaver](extras/screensaver/README.md) make
+Omarchy use it: a hook that swaps in the picture when you change theme, and a stand-in for the effect program that
+picks one of nine techie effects (laser etch, matrix rain, VHS glitch and others) and colours it to match.
+
+```sh
+mkdir -p ~/.config/omarchy/hooks/theme-set.d
+cp extras/screensaver/theme-set ~/.config/omarchy/hooks/theme-set.d/20-omarchy-themes-screensaver
+sudo install -m 755 extras/screensaver/ttfx /usr/local/bin/ttfx     # optional: the techie effects
+omarchy theme set nordlys                                            # the hook runs on every theme change
+```
+
+Each theme's page shows its picture. To undo, delete the two files; the picture you had before comes back.
 
 ## Making the wallpapers
 

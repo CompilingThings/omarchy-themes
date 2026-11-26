@@ -50,6 +50,14 @@ omarchy theme set nordlys
   part a 3:2 screen shows; the same script makes every photo theme in this repository.
 - `src/build nordlys` makes them again from the photos (~110 MB, downloaded once into `~/.cache/omarchy-themes/nordlys`).
 
+## Screensaver
+
+![The Nordlys screensaver](../../docs/images/screensavers/nordlys.png)
+
+`screensaver.txt` is the `1-flakstad-lofoten` wallpaper redrawn as braille text art (`src/asciiart.py`), each dot in the nearest of
+the theme's colours. `./install` copies it with the theme; once [extras/screensaver](../../extras/screensaver/README.md)
+is set up, Omarchy's screensaver shows it with an animated effect (laser etch, matrix rain, VHS glitch and others).
+
 ## Credits and licences
 
 The photos come from Wikimedia Commons. [CREDITS.md](../../CREDITS.md) lists every wallpaper's author, licence and source. Every wallpaper

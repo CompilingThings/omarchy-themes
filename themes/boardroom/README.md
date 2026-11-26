@@ -36,6 +36,14 @@ omarchy theme set boardroom
 Parts without a 3D model in KiCad's library show as bare pads (for example the LattePanda module's socket on the
 main board).
 
+## Screensaver
+
+![The Boardroom screensaver](../../docs/images/screensavers/boardroom.png)
+
+`screensaver.txt` is the `2-main-v1` wallpaper redrawn as braille text art (`src/asciiart.py`), each dot in the nearest of
+the theme's colours. `./install` copies it with the theme; once [extras/screensaver](../../extras/screensaver/README.md)
+is set up, Omarchy's screensaver shows it with an animated effect (laser etch, matrix rain, VHS glitch and others).
+
 ## Credits
 
 The wallpapers and the boards they show are by CompilingThings, shared under CC BY 4.0 (see

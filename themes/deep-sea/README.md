@@ -63,6 +63,14 @@ src/build deep-sea               # the photos (~150 MB) download once into ~/.ca
 omarchy theme set deep-sea
 ```
 
+## Screensaver
+
+![The Deep Sea screensaver](../../docs/images/screensavers/deep-sea.png)
+
+`screensaver.txt` is the `04-japanese-sea-nettle` wallpaper redrawn as braille text art (`src/asciiart.py`), each dot in the nearest of
+the theme's colours. `./install` copies it with the theme; once [extras/screensaver](../../extras/screensaver/README.md)
+is set up, Omarchy's screensaver shows it with an animated effect (laser etch, matrix rain, VHS glitch and others).
+
 ## Credits and licences
 
 Every wallpaper carries its photographer and licence on its label; the table above links each photo's page.

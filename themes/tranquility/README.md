@@ -35,6 +35,14 @@ omarchy theme set tranquility
   part a 3:2 screen shows; the same script makes every photo theme in this repository.
 - `src/build tranquility` makes them again from the photos (~15 MB, downloaded once into `~/.cache/omarchy-themes/tranquility`).
 
+## Screensaver
+
+![The Tranquility screensaver](../../docs/images/screensavers/tranquility.png)
+
+`screensaver.txt` is the `6-hadley-delta` wallpaper redrawn as braille text art (`src/asciiart.py`), each dot in the nearest of
+the theme's colours. `./install` copies it with the theme; once [extras/screensaver](../../extras/screensaver/README.md)
+is set up, Omarchy's screensaver shows it with an animated effect (laser etch, matrix rain, VHS glitch and others).
+
 ## Credits
 
 The photos come from NASA. [CREDITS.md](../../CREDITS.md) lists every wallpaper's author, licence and source. NASA material "generally [is] not

@@ -46,6 +46,14 @@ omarchy theme set red-planet
   part a 3:2 screen shows; the same script makes every photo theme in this repository.
 - `src/build red-planet` makes them again from the photos (~140 MB, downloaded once into `~/.cache/omarchy-themes/red-planet`).
 
+## Screensaver
+
+![The Red Planet screensaver](../../docs/images/screensavers/red-planet.png)
+
+`screensaver.txt` is the `2-korolev-crater` wallpaper redrawn as braille text art (`src/asciiart.py`), each dot in the nearest of
+the theme's colours. `./install` copies it with the theme; once [extras/screensaver](../../extras/screensaver/README.md)
+is set up, Omarchy's screensaver shows it with an animated effect (laser etch, matrix rain, VHS glitch and others).
+
 ## Credits and licences
 
 The photos come from NASA and DLR. [CREDITS.md](../../CREDITS.md) lists every wallpaper's author, licence and source.

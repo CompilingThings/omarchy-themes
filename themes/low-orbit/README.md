@@ -48,6 +48,14 @@ while no window covers the desktop.
   Black Marble maps and Solar System Scope's clouds, lit by a fixed Sun, with the same label as the photos. One render
   takes about 45 minutes at low priority on a ThinkPad T480 (measured 2026-11-18); see [src/README.md](../../src/README.md).
 
+## Screensaver
+
+![The Low Orbit screensaver](../../docs/images/screensavers/low-orbit.png)
+
+`screensaver.txt` is the `1-space-station` wallpaper redrawn as braille text art (`src/asciiart.py`), each dot in the nearest of
+the theme's colours. `./install` copies it with the theme; once [extras/screensaver](../../extras/screensaver/README.md)
+is set up, Omarchy's screensaver shows it with an animated effect (laser etch, matrix rain, VHS glitch and others).
+
 ## Credits
 
 The photos come from NASA. [CREDITS.md](../../CREDITS.md) lists every wallpaper's author, licence and source. NASA

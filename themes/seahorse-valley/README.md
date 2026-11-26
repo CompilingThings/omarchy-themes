@@ -52,6 +52,14 @@ cool colours (blue, cyan or green), its light text colour, its warm colours (yel
 that order, back to dark. Where a ramp needed a step between the darkest background and the blue, it uses a 35 % mix of
 the two. The sky is dark and only the edges of each fractal light up, so terminal text stays easy to read.
 
+## Screensaver
+
+![The Seahorse Valley screensaver](../../docs/images/screensavers/seahorse-valley.png)
+
+`screensaver.txt` is the `8-buddhabrot` wallpaper redrawn as braille text art (`src/asciiart.py`), each dot in the nearest of
+the theme's colours. `./install` copies it with the theme; once [extras/screensaver](../../extras/screensaver/README.md)
+is set up, Omarchy's screensaver shows it with an animated effect (laser etch, matrix rain, VHS glitch and others).
+
 ## Credits
 
 The fractals are drawn here from their formulas; nothing is downloaded. The colours come from the themes that ship

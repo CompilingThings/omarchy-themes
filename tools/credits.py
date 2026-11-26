@@ -90,10 +90,14 @@ def reuse():
             ann(f"themes/{slug}/backgrounds/{name}", holder(w), w["licence"])
         w = screensaver_source(slug)
         if w:
-            ann(f"themes/{slug}/screensaver.txt", holder(w), w["licence"])
+            ann([f"themes/{slug}/screensaver.txt", f"docs/images/screensavers/{slug}.png"], holder(w), w["licence"])
         w = preview_source(slug)
         ann(f"themes/{slug}/preview.png", holder(w), w["licence"])
         ann(f"docs/images/{slug}.jpg", holder(w), w["licence"])
+    arts = [w for w in map(screensaver_source, T.themes()) if w]
+    if arts:
+        ann("docs/images/screensavers.jpg", sorted({holder(w) for w in arts}),
+            " AND ".join(sorted({w["licence"] for w in arts})))
     firsts = [preview_source(s) for s in T.themes()]
     ann("docs/images/gallery.jpg", sorted({holder(w) for w in firsts}),
         " AND ".join(sorted({w["licence"] for w in firsts})))

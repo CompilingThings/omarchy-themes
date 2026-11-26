@@ -41,6 +41,14 @@ src/build spore-garden          # the photos (~110 MB) download once into ~/.cac
 omarchy theme set spore-garden
 ```
 
+## Screensaver
+
+![The Spore Garden screensaver](../../docs/images/screensavers/spore-garden.png)
+
+`screensaver.txt` is the `02-spore-rosettes` wallpaper redrawn as braille text art (`src/asciiart.py`), each dot in the nearest of
+the theme's colours. `./install` copies it with the theme; once [extras/screensaver](../../extras/screensaver/README.md)
+is set up, Omarchy's screensaver shows it with an animated effect (laser etch, matrix rain, VHS glitch and others).
+
 ## Credits and licences
 
 Every wallpaper carries its photographer and licence on its label; the table above links each photo's page.

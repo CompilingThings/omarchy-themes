@@ -75,7 +75,7 @@ SPDX-FileCopyrightText = "Strekeisen"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 [[annotations]]
-path = "themes/bedrock/screensaver.txt"
+path = ["themes/bedrock/screensaver.txt", "docs/images/screensavers/bedrock.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "Strekeisen"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
@@ -135,7 +135,7 @@ SPDX-FileCopyrightText = "2026 CompilingThings"
 SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
-path = "themes/boardroom/screensaver.txt"
+path = ["themes/boardroom/screensaver.txt", "docs/images/screensavers/boardroom.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "2026 CompilingThings"
 SPDX-License-Identifier = "CC-BY-4.0"
@@ -237,7 +237,7 @@ SPDX-FileCopyrightText = "Senthi Aathavan Senthilverl"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 [[annotations]]
-path = "themes/cold-blood/screensaver.txt"
+path = ["themes/cold-blood/screensaver.txt", "docs/images/screensavers/cold-blood.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "Bernard Dupont"
 SPDX-License-Identifier = "CC-BY-SA-2.0"
@@ -339,7 +339,7 @@ SPDX-FileCopyrightText = "Wayne Boo, USGS Bee Inventory and Monitoring Lab"
 SPDX-License-Identifier = "LicenseRef-USGS-Public-Domain"
 
 [[annotations]]
-path = "themes/compound-eye/screensaver.txt"
+path = ["themes/compound-eye/screensaver.txt", "docs/images/screensavers/compound-eye.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "USGS Bee Inventory and Monitoring Lab"
 SPDX-License-Identifier = "LicenseRef-USGS-Public-Domain"
@@ -405,7 +405,7 @@ SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI"
 SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
-path = "themes/deep-field/screensaver.txt"
+path = ["themes/deep-field/screensaver.txt", "docs/images/screensavers/deep-field.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI"
 SPDX-License-Identifier = "CC-BY-4.0"
@@ -495,7 +495,7 @@ SPDX-FileCopyrightText = "W.carter"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 [[annotations]]
-path = "themes/deep-sea/screensaver.txt"
+path = ["themes/deep-sea/screensaver.txt", "docs/images/screensavers/deep-sea.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "Paul Harrison"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
@@ -561,7 +561,7 @@ SPDX-FileCopyrightText = "VektorF"
 SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
-path = "themes/die-shot/screensaver.txt"
+path = ["themes/die-shot/screensaver.txt", "docs/images/screensavers/die-shot.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "VektorF"
 SPDX-License-Identifier = "CC-BY-4.0"
@@ -651,7 +651,7 @@ SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonill
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 [[annotations]]
-path = "themes/eight-eyes/screensaver.txt"
+path = ["themes/eight-eyes/screensaver.txt", "docs/images/screensavers/eight-eyes.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "Mikron86"
 SPDX-License-Identifier = "CC-BY-4.0"
@@ -741,7 +741,7 @@ SPDX-FileCopyrightText = "Reinhold Möller (Ermell)"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 [[annotations]]
-path = "themes/fairy-ring/screensaver.txt"
+path = ["themes/fairy-ring/screensaver.txt", "docs/images/screensavers/fairy-ring.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "karode13 (Mushroom Observer)"
 SPDX-License-Identifier = "CC-BY-SA-3.0"
@@ -825,7 +825,7 @@ SPDX-FileCopyrightText = "NIAID"
 SPDX-License-Identifier = "CC-BY-2.0"
 
 [[annotations]]
-path = "themes/front-line/screensaver.txt"
+path = ["themes/front-line/screensaver.txt", "docs/images/screensavers/front-line.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "NIAID"
 SPDX-License-Identifier = "CC-BY-2.0"
@@ -915,7 +915,7 @@ SPDX-FileCopyrightText = "Anatoly Mikhaltsov"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 [[annotations]]
-path = "themes/glass-house/screensaver.txt"
+path = ["themes/glass-house/screensaver.txt", "docs/images/screensavers/glass-house.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "Anatoly Mikhaltsov"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
@@ -981,7 +981,7 @@ SPDX-FileCopyrightText = "NASA/Johns Hopkins APL/Southwest Research Institute"
 SPDX-License-Identifier = "LicenseRef-NASA-Media"
 
 [[annotations]]
-path = "themes/grand-tour/screensaver.txt"
+path = ["themes/grand-tour/screensaver.txt", "docs/images/screensavers/grand-tour.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "NASA/JPL/Space Science Institute"
 SPDX-License-Identifier = "LicenseRef-NASA-Media"
@@ -1053,7 +1053,7 @@ SPDX-FileCopyrightText = "Ian P Newton & Paul L Appleton"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 [[annotations]]
-path = "themes/inner-space/screensaver.txt"
+path = ["themes/inner-space/screensaver.txt", "docs/images/screensavers/inner-space.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "Syed07"
 SPDX-License-Identifier = "CC-BY-4.0"
@@ -1107,7 +1107,7 @@ SPDX-FileCopyrightText = "KarlGaff"
 SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
-path = "themes/kaleidoscope/screensaver.txt"
+path = ["themes/kaleidoscope/screensaver.txt", "docs/images/screensavers/kaleidoscope.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "KarlGaff"
 SPDX-License-Identifier = "CC-BY-4.0"
@@ -1209,7 +1209,7 @@ SPDX-FileCopyrightText = "Alexander Klepnev"
 SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
-path = "themes/lantern/screensaver.txt"
+path = ["themes/lantern/screensaver.txt", "docs/images/screensavers/lantern.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "Alexander Klepnev"
 SPDX-License-Identifier = "CC-BY-4.0"
@@ -1275,7 +1275,7 @@ SPDX-FileCopyrightText = "NASA"
 SPDX-License-Identifier = "LicenseRef-NASA-Media"
 
 [[annotations]]
-path = "themes/low-orbit/screensaver.txt"
+path = ["themes/low-orbit/screensaver.txt", "docs/images/screensavers/low-orbit.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "NASA/Roscosmos"
 SPDX-License-Identifier = "LicenseRef-NASA-Media"
@@ -1359,7 +1359,7 @@ SPDX-FileCopyrightText = "Andrei Savitsky"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 [[annotations]]
-path = "themes/neon-pond/screensaver.txt"
+path = ["themes/neon-pond/screensaver.txt", "docs/images/screensavers/neon-pond.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "Andrei Savitsky"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
@@ -1425,7 +1425,7 @@ SPDX-FileCopyrightText = "Christoph Strässler"
 SPDX-License-Identifier = "CC-BY-SA-2.0"
 
 [[annotations]]
-path = "themes/nordlys/screensaver.txt"
+path = ["themes/nordlys/screensaver.txt", "docs/images/screensavers/nordlys.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "Johannes Groll (Unsplash)"
 SPDX-License-Identifier = "CC0-1.0"
@@ -1521,7 +1521,7 @@ SPDX-FileCopyrightText = "Janek Lass"
 SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
-path = "themes/pond-drop/screensaver.txt"
+path = ["themes/pond-drop/screensaver.txt", "docs/images/screensavers/pond-drop.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "Janek Lass"
 SPDX-License-Identifier = "CC-BY-4.0"
@@ -1623,7 +1623,7 @@ SPDX-FileCopyrightText = "SergRussu"
 SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
-path = "themes/prism/screensaver.txt"
+path = ["themes/prism/screensaver.txt", "docs/images/screensavers/prism.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "Alexander Klepnev"
 SPDX-License-Identifier = "CC-BY-4.0"
@@ -1689,7 +1689,7 @@ SPDX-FileCopyrightText = "NASA/JPL/USGS"
 SPDX-License-Identifier = "LicenseRef-NASA-Media"
 
 [[annotations]]
-path = "themes/red-planet/screensaver.txt"
+path = ["themes/red-planet/screensaver.txt", "docs/images/screensavers/red-planet.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "ESA/DLR/FU Berlin"
 SPDX-License-Identifier = "CC-BY-SA-3.0-IGO"
@@ -1773,7 +1773,7 @@ SPDX-FileCopyrightText = "Kirill Mikhaylyuk"
 SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
-path = "themes/scale-wing/screensaver.txt"
+path = ["themes/scale-wing/screensaver.txt", "docs/images/screensavers/scale-wing.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
@@ -1863,7 +1863,7 @@ SPDX-FileCopyrightText = "2026 CompilingThings"
 SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
-path = "themes/seahorse-valley/screensaver.txt"
+path = ["themes/seahorse-valley/screensaver.txt", "docs/images/screensavers/seahorse-valley.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "2026 CompilingThings"
 SPDX-License-Identifier = "CC-BY-4.0"
@@ -1953,7 +1953,7 @@ SPDX-FileCopyrightText = "Wilson A. Bentley (The Met)"
 SPDX-License-Identifier = "CC0-1.0"
 
 [[annotations]]
-path = "themes/snow-crystal/screensaver.txt"
+path = ["themes/snow-crystal/screensaver.txt", "docs/images/screensavers/snow-crystal.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "Wilson A. Bentley (The Met)"
 SPDX-License-Identifier = "CC0-1.0"
@@ -2019,7 +2019,7 @@ SPDX-FileCopyrightText = "NASA/Joel Kowsky"
 SPDX-License-Identifier = "LicenseRef-NASA-Media"
 
 [[annotations]]
-path = "themes/solar-max/screensaver.txt"
+path = ["themes/solar-max/screensaver.txt", "docs/images/screensavers/solar-max.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "NASA/SDO, AIA"
 SPDX-License-Identifier = "LicenseRef-NASA-Media"
@@ -2085,7 +2085,7 @@ SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonill
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 [[annotations]]
-path = "themes/spore-garden/screensaver.txt"
+path = ["themes/spore-garden/screensaver.txt", "docs/images/screensavers/spore-garden.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "Aurora Storlazzi"
 SPDX-License-Identifier = "CC-BY-4.0"
@@ -2145,7 +2145,7 @@ SPDX-FileCopyrightText = "ESA/Webb, NASA, CSA, K. Luhman, C. Alves De Oliveira, 
 SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
-path = "themes/stardust/screensaver.txt"
+path = ["themes/stardust/screensaver.txt", "docs/images/screensavers/stardust.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "NASA, ESA, CSA, STScI, J. DePasquale (STScI)"
 SPDX-License-Identifier = "CC-BY-4.0"
@@ -2229,7 +2229,7 @@ SPDX-FileCopyrightText = "Andrei Savitsky"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 [[annotations]]
-path = "themes/stem-glow/screensaver.txt"
+path = ["themes/stem-glow/screensaver.txt", "docs/images/screensavers/stem-glow.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "Anatoly Mikhaltsov"
 SPDX-License-Identifier = "CC-BY-4.0"
@@ -2331,7 +2331,7 @@ SPDX-FileCopyrightText = "Bene Riobó"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 [[annotations]]
-path = "themes/thunderhead/screensaver.txt"
+path = ["themes/thunderhead/screensaver.txt", "docs/images/screensavers/thunderhead.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "Gary Ladd / KPNO / NOIRLab / NSF / AURA"
 SPDX-License-Identifier = "CC-BY-4.0"
@@ -2361,7 +2361,7 @@ SPDX-FileCopyrightText = "2026 CompilingThings"
 SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
-path = "themes/traceroute/screensaver.txt"
+path = ["themes/traceroute/screensaver.txt", "docs/images/screensavers/traceroute.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "2026 CompilingThings"
 SPDX-License-Identifier = "CC-BY-4.0"
@@ -2427,7 +2427,7 @@ SPDX-FileCopyrightText = "NASA"
 SPDX-License-Identifier = "LicenseRef-NASA-Media"
 
 [[annotations]]
-path = "themes/tranquility/screensaver.txt"
+path = ["themes/tranquility/screensaver.txt", "docs/images/screensavers/tranquility.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "NASA (photo: Jim Irwin)"
 SPDX-License-Identifier = "LicenseRef-NASA-Media"
@@ -2511,7 +2511,7 @@ SPDX-FileCopyrightText = "CDC and NIAID"
 SPDX-License-Identifier = "CC-BY-2.0"
 
 [[annotations]]
-path = "themes/viral/screensaver.txt"
+path = ["themes/viral/screensaver.txt", "docs/images/screensavers/viral.png"]
 precedence = "override"
 SPDX-FileCopyrightText = "NIAID"
 SPDX-License-Identifier = "CC-BY-2.0"
@@ -2527,6 +2527,12 @@ path = "docs/images/viral.jpg"
 precedence = "override"
 SPDX-FileCopyrightText = "NIAID"
 SPDX-License-Identifier = "CC-BY-2.0"
+
+[[annotations]]
+path = "docs/images/screensavers.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = ["2026 CompilingThings", "Alexander Klepnev", "Anatoly Mikhaltsov", "Andrei Savitsky", "Aurora Storlazzi", "Bernard Dupont", "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla", "ESA/DLR/FU Berlin", "Gary Ladd / KPNO / NOIRLab / NSF / AURA", "Janek Lass", "Johannes Groll (Unsplash)", "KarlGaff", "Mikron86", "NASA (photo: Jim Irwin)", "NASA, ESA, CSA, STScI", "NASA, ESA, CSA, STScI, J. DePasquale (STScI)", "NASA/JPL/Space Science Institute", "NASA/Roscosmos", "NASA/SDO, AIA", "NIAID", "Paul Harrison", "Strekeisen", "Syed07", "USGS Bee Inventory and Monitoring Lab", "VektorF", "Wilson A. Bentley (The Met)", "karode13 (Mushroom Observer)"]
+SPDX-License-Identifier = "CC-BY-2.0 AND CC-BY-4.0 AND CC-BY-SA-2.0 AND CC-BY-SA-3.0 AND CC-BY-SA-3.0-IGO AND CC-BY-SA-4.0 AND CC0-1.0 AND LicenseRef-NASA-Media AND LicenseRef-USGS-Public-Domain"
 
 [[annotations]]
 path = "docs/images/gallery.jpg"

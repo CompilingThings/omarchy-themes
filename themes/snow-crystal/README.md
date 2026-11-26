@@ -54,6 +54,14 @@ omarchy theme set snow-crystal
 
 Building needs numpy and scipy as well as Pillow, to find and cut the round plates.
 
+## Screensaver
+
+![The Snow Crystal screensaver](../../docs/images/screensavers/snow-crystal.png)
+
+`screensaver.txt` is the `02-hexagonal-plate` wallpaper redrawn as braille text art (`src/asciiart.py`), each dot in the nearest of
+the theme's colours. `./install` copies it with the theme; once [extras/screensaver](../../extras/screensaver/README.md)
+is set up, Omarchy's screensaver shows it with an animated effect (laser etch, matrix rain, VHS glitch and others).
+
 ## Credits and licences
 
 Every wallpaper carries the photographer and licence on its label; the table above links each picture's page.
