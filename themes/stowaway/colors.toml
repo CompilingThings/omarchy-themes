@@ -1,0 +1,48 @@
+mode = "dark"
+
+# Stowaway: parasites of fish under the microscope, each laid on its side on black in dark-field light: flukes
+# from the gut of perch and puyen, one stained red, one with pink eggs, one with its womb packed gold, and gill worms
+# in blue and in blue and red. A near-black background, pale text, the fluke's magenta as the accent and the window
+# border turning from it into the gold of the packed womb.
+
+accent = "#C060E0"
+selection = "#2A1A30"
+muted = "#5C5464"
+
+background = "#09080B"
+dark_background = "#060507"
+darker_background = "#020203"
+lighter_background = "#1A1620"
+
+foreground = "#ECE6F2"
+dark_foreground = "#958CA0"
+light_foreground = "#D0C8DA"
+bright_foreground = "#FFFFFF"
+
+# The focused window: fluke magenta turning to the gold of the packed womb
+hyprland_active_border = "rgba(c060e0ff) rgba(e0b030ff) 45deg"
+hyprland_inactive_border = "rgba(1a1620cc)"
+
+# red: the red stain of the first fluke, wallpaper 01
+red = "#E8406A"
+# orange: the orange heart of the gill worm, wallpaper 03
+orange = "#E8803C"
+# yellow: the gold of the packed womb, wallpaper 06
+yellow = "#E8C038"
+# green: a soft green, kept in the same clear range
+green = "#88C070"
+# cyan: the pale blue of the gill worm's tail, wallpaper 03
+cyan = "#60B8D8"
+# blue: the blue gill worm, wallpaper 04
+blue = "#6A80F0"
+# magenta: the violet fluke with pink eggs, wallpaper 02
+magenta = "#C060E0"
+# brown: the brown of the gill worm's head, wallpaper 03
+brown = "#A87A3A"
+
+bright_red = "#F6A8BC"
+bright_yellow = "#F4E09C"
+bright_green = "#C6E4B8"
+bright_cyan = "#B4E0F0"
+bright_blue = "#C2CCF8"
+bright_magenta = "#E6C0F2"

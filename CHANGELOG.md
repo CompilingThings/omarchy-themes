@@ -8,6 +8,10 @@ picture or colour a patch).
 
 ### Added
 
+- Stowaway: six parasites of fish in dark-field light by Brandon Antonio Segura Torres and Priscilla Vieto Bonilla,
+  from Wikimedia Commons (flukes from perch and puyen, gill worms), each laid on its side; fluke magenta and womb gold,
+  with its own screensaver
+- `src/photowall.py`: "turn" in "fit" lays a long, thin subject on its side
 - Green Room: six photos of leaf cells under the microscope from Wikimedia Commons (tulip stomata in polarised light,
   Canadian pondweed packed with chloroplasts, leaf cells glowing in fluorescence, a leaf's structural cells);
   chlorophyll green and polarised magenta, with its own screensaver

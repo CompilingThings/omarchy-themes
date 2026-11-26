@@ -570,6 +570,19 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 
 `screensaver.txt`: text art of `06-pine-needle` (`src/asciiart.py`), so by Anatoly Mikhaltsov, CC BY 4.0, like that wallpaper.
 
+## Stowaway
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-acanthostomoides.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Par%C3%A1sito_trematodes_Acanthostomoides_apophalliformis.jpg) |
+| `02-allocreadium.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Par%C3%A1sito_digeneo_Allocreadium_patagonicum.jpg) |
+| `03-dactylogyrus.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Par%C3%A1sito_monogeneo_Dactylogyrus_extensus.jpg) |
+| `04-gyrodactylus.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Par%C3%A1sito_monogeneo_Gyrodactylus_sp.jpg) |
+| `05-homalometron.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Par%C3%A1sito_digeneo_Homalometron_papilliferum.jpg) |
+| `06-steganoderma.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Par%C3%A1sito_Steganoderma_szidati.jpg) |
+
+`screensaver.txt`: text art of `03-dactylogyrus` (`src/asciiart.py`), so by Brandon Antonio Segura Torres & Priscilla Vieto Bonilla, CC BY-SA 4.0, like that wallpaper.
+
 ## Surface Tension
 
 | Wallpaper | By | Licence | Source |

@@ -2517,6 +2517,60 @@ SPDX-FileCopyrightText = "Anatoly Mikhaltsov"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 [[annotations]]
+path = "themes/stowaway/backgrounds/01-acanthostomoides.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/stowaway/backgrounds/02-allocreadium.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/stowaway/backgrounds/03-dactylogyrus.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/stowaway/backgrounds/04-gyrodactylus.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/stowaway/backgrounds/05-homalometron.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/stowaway/backgrounds/06-steganoderma.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = ["themes/stowaway/screensaver.txt", "docs/images/screensavers/stowaway.png"]
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "themes/stowaway/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "docs/images/stowaway.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
 path = "themes/surface-tension/backgrounds/01-soap-film.jpg"
 precedence = "override"
 SPDX-FileCopyrightText = "KarlGaff"

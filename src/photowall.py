@@ -33,7 +33,9 @@ wallpapers.json: {"accent": "#rrggbb", "wallpapers": [{"file", "by", "licence", 
          lit box shows round it. "cutout": true or a number (default 24, the colour distance from the edge colour that
          counts as subject): the subject is cut out of its plain background (the largest piece, its holes filled, so
          a see-through glass shell keeps its inside) and set alone on the field, for a light microscope background
-         turned black with "field" (Glass House's diatoms); needs numpy and scipy.
+         turned black with "field" (Glass House's diatoms); needs numpy and scipy. "turn": 90 or -90 turns the
+         photo (after "box") a quarter turn anticlockwise or clockwise, to lay a long, thin subject on its side
+         (Stowaway's flukes).
 Writes <backgrounds dir>/<file>.jpg at 3840x2160 and <preview.png> (the first photo, 1280x720).
 """
 import hashlib
@@ -173,6 +175,8 @@ def fit(path, dest, opt):
     if "box" in opt:
         x0, y0, x1, y1 = opt["box"]
         im = im.crop((round(x0 * w), round(y0 * h), round(x1 * w), round(y1 * h)))
+    if opt.get("turn") in (90, -90):   # a long, thin subject laid on its side to fill a wide screen
+        im = im.transpose(Image.ROTATE_90 if opt["turn"] == 90 else Image.ROTATE_270)
     w, h = im.size
     k = min(H * opt.get("h", 0.94) / h, W * opt.get("w", 0.96) / w)
     nw, nh = round(w * k), round(h * k)
