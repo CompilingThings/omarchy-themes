@@ -406,6 +406,19 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 
 `screensaver.txt`: text art of `08-blue-shimmer` (`src/asciiart.py`), so by Brandon Antonio Segura Torres & Priscilla Vieto Bonilla, CC BY-SA 4.0, like that wallpaper.
 
+## Sceptre
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-potassium-dichromate.jpg` | Lobastov BM | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Scepter_crystals_of_potassium_dichromate.JPG) |
+| `02-ammonium-nitrate.jpg` | Lobastov BM | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Ammonium_nitrate.JPG) |
+| `03-sugar.jpg` | Alexander Klepnev | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:%D0%91%D0%B0%D0%B1%D0%BE%D1%87%D0%BA%D0%B0_%D0%B8_%D0%BA%D1%80%D0%B5%D1%81%D1%82.jpg) |
+| `04-methylene-violet.jpg` | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Cristales_de_violeta_de_metileno_alcalino.jpg) |
+| `05-potato-starch.jpg` | MarekMiś | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Skrobia.jpg) |
+| `06-sea-minerals.jpg` | Massimo Brizzi | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Multiple_star-shaped_marine_minerals_,_200x_polarized_microscope._Massimo_Brizzi_2021.jpg) |
+
+`screensaver.txt`: text art of `01-potassium-dichromate` (`src/asciiart.py`), so by Lobastov BM, CC BY-SA 4.0, like that wallpaper.
+
 ## Seahorse Valley
 
 | Wallpaper | By | Licence | Source |

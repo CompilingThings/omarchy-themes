@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Sceptre: six crystals standing alone on black (potassium dichromate sceptres, ammonium nitrate needles, sugar,
+  methylene violet, potato starch, a star of sea minerals), all new to these themes, from the science photo
+  competitions on Wikimedia Commons; dichromate orange and ice cyan, with its own screensaver
 - Kaleidoscope: six chemicals crystallising in polarised light (malic acid, a film growing from one seed point,
   vanillin, Epsom salt, a liquid crystal's smectic phase, nicotinic acid), all new to these themes, from the science
   photo competitions on Wikimedia Commons; Epsom violet and malic gold

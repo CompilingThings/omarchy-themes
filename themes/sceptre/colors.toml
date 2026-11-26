@@ -1,0 +1,48 @@
+mode = "dark"
+
+# Sceptre: crystals grown in a drop on a microscope slide, standing alone on black: the sceptres of potassium
+# dichromate, needles of ammonium nitrate, sugar, a ring of methylene violet, potato starch grains and a star of sea
+# minerals. Near-black as the background, warm pale text, the flame orange of the dichromate sceptres as the accent,
+# and the window border turning from it into the ice cyan of their stems. Colours sampled from the theme's own photos.
+
+accent = "#F4632A"
+selection = "#33190E"
+muted = "#5F5852"
+
+background = "#090706"
+dark_background = "#050403"
+darker_background = "#020101"
+lighter_background = "#1C1612"
+
+foreground = "#F0E9E2"
+dark_foreground = "#9C928A"
+light_foreground = "#D6CCC2"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the flame orange of the dichromate sceptres turning to the ice cyan of their stems
+hyprland_active_border = "rgba(f4632aff) rgba(5cd0d6ff) 45deg"
+hyprland_inactive_border = "rgba(1c1612cc)"
+
+# red: the red tip of a dichromate sceptre, wallpaper 01
+red = "#EC4A2E"
+# orange: the flame orange of the dichromate sceptres, wallpaper 01
+orange = "#F78A1E"
+# yellow: the yellow sceptres of dichromate, wallpaper 01
+yellow = "#F2D84A"
+# green: the green crystal at the edge of the dichromate, wallpaper 01
+green = "#7CC23A"
+# cyan: the ice cyan of the dichromate stems and the nitrate needles, wallpapers 01 and 02
+cyan = "#5CD0D6"
+# blue: the blue in the starch grains and the sugar, wallpapers 03 and 05
+blue = "#4A7CF0"
+# magenta: the magenta at the heart of the sugar crystals, wallpaper 03
+magenta = "#D84CB0"
+# brown: the gold-brown ring of methylene violet, wallpaper 04
+brown = "#C8984A"
+
+bright_red = "#F6AE9E"
+bright_yellow = "#F8EDA8"
+bright_green = "#CDE8A8"
+bright_cyan = "#B2ECEE"
+bright_blue = "#B6C8F8"
+bright_magenta = "#F0B6E0"

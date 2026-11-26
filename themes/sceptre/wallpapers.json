@@ -1,0 +1,115 @@
+{
+ "accent": "#F4632A",
+ "screensaver": {
+  "from": "01-potassium-dichromate",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--mean",
+   "0.30",
+   "--detail",
+   "3",
+   "--edges",
+   "0.4",
+   "--color",
+   "theme"
+  ]
+ },
+ "wallpapers": [
+  {
+   "file": "01-potassium-dichromate",
+   "by": "Lobastov BM",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Scepter_crystals_of_potassium_dichromate.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Scepter_crystals_of_potassium_dichromate.JPG",
+   "title": "POTASSIUM DICHROMATE",
+   "line1": "Sceptre crystals of potassium dichromate grown into a drop of solution, crossed polarisers, 1.5 mm across.",
+   "line2": "4 September 2015  ·  Photo: Lobastov BM  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.62,
+    1.0
+   ]
+  },
+  {
+   "file": "02-ammonium-nitrate",
+   "by": "Lobastov BM",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ammonium_nitrate.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Ammonium_nitrate.JPG",
+   "title": "AMMONIUM NITRATE",
+   "line1": "Needle crystals of ammonium nitrate caught while growing into a drop of solution, crossed polarisers, 1.5 mm across.",
+   "line2": "4 September 2015  ·  Photo: Lobastov BM  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "03-sugar",
+   "by": "Alexander Klepnev",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/%D0%91%D0%B0%D0%B1%D0%BE%D1%87%D0%BA%D0%B0_%D0%B8_%D0%BA%D1%80%D0%B5%D1%81%D1%82.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%B0%D0%B1%D0%BE%D1%87%D0%BA%D0%B0_%D0%B8_%D0%BA%D1%80%D0%B5%D1%81%D1%82.jpg",
+   "title": "SUGAR",
+   "line1": "Sugar crystals in polarised light (the photographer named it \"Butterfly and Cross\").",
+   "line2": "17 May 2015  ·  Photo: Alexander Klepnev  ·  CC BY-SA 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "04-methylene-violet",
+   "by": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Cristales_de_violeta_de_metileno_alcalino.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cristales_de_violeta_de_metileno_alcalino.jpg",
+   "title": "METHYLENE VIOLET",
+   "line1": "A ring of crystals of the dye methylene violet left by a drying drop, polarised light.",
+   "line2": "26 June 2025  ·  Photo: Brandon Antonio Segura Torres & Priscilla Vieto Bonilla  ·  CC BY-SA 4.0",
+   "fit": {
+    "field": "#000000",
+    "h": 0.96,
+    "x": 0.42,
+    "y": 0.5,
+    "feather": 0.04
+   }
+  },
+  {
+   "file": "05-potato-starch",
+   "by": "MarekMiś",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Skrobia.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Skrobia.jpg",
+   "title": "POTATO STARCH",
+   "line1": "Grains of potato starch, each one a tiny crystal shell, dark field and polarised light at 200x.",
+   "line2": "22 March 2019  ·  Photo: MarekMiś  ·  CC BY 4.0",
+   "crop": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "06-sea-minerals",
+   "by": "Massimo Brizzi",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Multiple_star-shaped_marine_minerals_%2C_200x_polarized_microscope._Massimo_Brizzi_2021.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Multiple_star-shaped_marine_minerals_,_200x_polarized_microscope._Massimo_Brizzi_2021.jpg",
+   "title": "SEA MINERALS",
+   "line1": "A star of minerals from the sea, many crystals grown from one centre, polarised light at 200x.",
+   "line2": "10 November 2021  ·  Photo: Massimo Brizzi  ·  CC BY 4.0",
+   "fit": {
+    "field": "#000000",
+    "cutout": 30,
+    "h": 0.94,
+    "x": 0.42,
+    "y": 0.5,
+    "feather": 0.02
+   }
+  }
+ ]
+}
