@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Green Room: six photos of leaf cells under the microscope from Wikimedia Commons (tulip stomata in polarised light,
+  Canadian pondweed packed with chloroplasts, leaf cells glowing in fluorescence, a leaf's structural cells);
+  chlorophyll green and polarised magenta, with its own screensaver
 - Colony: six bacterial colonies growing across agar, photographed through a microscope's eyepiece by Korinna, from
   Wikimedia Commons (a Bacillus subtilis fractal, blue Bacillus, tree-like colonies, a red colony); Bacillus blue and
   colony red, with its own screensaver

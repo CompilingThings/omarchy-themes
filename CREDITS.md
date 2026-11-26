@@ -260,6 +260,19 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 
 `screensaver.txt`: text art of `1-saturn` (`src/asciiart.py`), so by NASA/JPL/Space Science Institute, NASA media guidelines, like that wallpaper.
 
+## Green Room
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-tulip-stomata.jpg` | MarekMiś | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Aparaty_szparkowe.jpg) |
+| `02-pondweed.jpg` | KarlGaff | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Canadian_Pond_Weed.jpg) |
+| `03-pondweed-tip.jpg` | KarlGaff | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Canadian_Pond_Weed_Leaf_Tip.jpg) |
+| `04-leaf-cells.jpg` | Ivan Bachev | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Leaf_cells_-_03.jpg) |
+| `05-leaf-glow.jpg` | Ivan Bachev | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Leaf_cells_-_02.jpg) |
+| `06-leaf-skeleton.jpg` | Pyre42 | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Cells_in_Leaf.jpg) |
+
+`screensaver.txt`: text art of `03-pondweed-tip` (`src/asciiart.py`), so by KarlGaff, CC BY 4.0, like that wallpaper.
+
 ## Inner Space
 
 | Wallpaper | By | Licence | Source |

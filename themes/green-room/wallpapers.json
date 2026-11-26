@@ -1,0 +1,114 @@
+{
+ "accent": "#6CC04A",
+ "screensaver": {
+  "from": "03-pondweed-tip",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--box",
+   "0.4,0.0,1.0,0.9",
+   "--mean",
+   "0.24",
+   "--detail",
+   "3",
+   "--edges",
+   "0.7",
+   "--color",
+   "theme"
+  ]
+ },
+ "wallpapers": [
+  {
+   "file": "01-tulip-stomata",
+   "by": "MarekMiś",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Aparaty_szparkowe.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Aparaty_szparkowe.jpg",
+   "title": "STOMATA",
+   "line1": "Breathing pores in the skin of a tulip leaf, seen in polarised light at 100x.",
+   "line2": "19 March 2019  ·  Photo: MarekMiś  ·  CC BY 4.0"
+  },
+  {
+   "file": "02-pondweed",
+   "by": "KarlGaff",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Canadian_Pond_Weed.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Canadian_Pond_Weed.jpg",
+   "title": "CANADIAN PONDWEED",
+   "line1": "Cells of an Elodea leaf packed with chloroplasts beside the central vein, polarised light, 100x.",
+   "line2": "24 October 2021  ·  Photo: KarlGaff  ·  CC BY 4.0"
+  },
+  {
+   "file": "03-pondweed-tip",
+   "by": "KarlGaff",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Canadian_Pond_Weed_Leaf_Tip.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Canadian_Pond_Weed_Leaf_Tip.jpg",
+   "title": "LEAF TIP",
+   "line1": "The tip of an Elodea leaf, every cell filled with chloroplasts, polarised light, 100x.",
+   "line2": "24 October 2021  ·  Photo: KarlGaff  ·  CC BY 4.0"
+  },
+  {
+   "file": "04-leaf-cells",
+   "by": "Ivan Bachev",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Leaf_cells_-_03.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Leaf_cells_-_03.jpg",
+   "title": "LEAF VEINS",
+   "line1": "Leaf cells under the microscope, veins running across them.",
+   "line2": "2 December 2012  ·  Photo: Ivan Bachev  ·  CC BY 4.0"
+  },
+  {
+   "file": "05-leaf-glow",
+   "by": "Ivan Bachev",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Leaf_cells_-_02.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Leaf_cells_-_02.jpg",
+   "title": "LEAF CELLS",
+   "line1": "The skin cells of a leaf, their walls glowing green under the microscope.",
+   "line2": "29 November 2013  ·  Photo: Ivan Bachev  ·  CC BY 4.0",
+   "fit": {
+    "field": "#000000",
+    "box": [
+     0,
+     0.16,
+     1,
+     0.83
+    ],
+    "h": 0.9,
+    "x": 0.34,
+    "y": 0.5,
+    "oval": [
+     0.84,
+     0.96
+    ]
+   }
+  },
+  {
+   "file": "06-leaf-skeleton",
+   "by": "Pyre42",
+   "licence": "CC-BY-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Cells_in_Leaf.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cells_in_Leaf.jpg",
+   "title": "STRUCTURAL CELLS",
+   "line1": "The thick-walled cells that hold a leaf up, with its xylem and phloem, the plant's pipes.",
+   "line2": "6 December 2017  ·  Photo: Pyre42  ·  CC BY 4.0",
+   "fit": {
+    "field": "#000000",
+    "box": [
+     0.265,
+     0,
+     0.75,
+     1
+    ],
+    "h": 0.9,
+    "x": 0.34,
+    "y": 0.5,
+    "oval": [
+     0.84,
+     0.96
+    ]
+   }
+  }
+ ]
+}

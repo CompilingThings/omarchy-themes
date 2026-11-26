@@ -1107,6 +1107,60 @@ SPDX-FileCopyrightText = "NASA/JPL/Space Science Institute"
 SPDX-License-Identifier = "LicenseRef-NASA-Media"
 
 [[annotations]]
+path = "themes/green-room/backgrounds/01-tulip-stomata.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "MarekMiś"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/green-room/backgrounds/02-pondweed.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "KarlGaff"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/green-room/backgrounds/03-pondweed-tip.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "KarlGaff"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/green-room/backgrounds/04-leaf-cells.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Ivan Bachev"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/green-room/backgrounds/05-leaf-glow.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Ivan Bachev"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/green-room/backgrounds/06-leaf-skeleton.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "Pyre42"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = ["themes/green-room/screensaver.txt", "docs/images/screensavers/green-room.png"]
+precedence = "override"
+SPDX-FileCopyrightText = "KarlGaff"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "themes/green-room/preview.png"
+precedence = "override"
+SPDX-FileCopyrightText = "MarekMiś"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "docs/images/green-room.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "MarekMiś"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
 path = "themes/inner-space/backgrounds/01-hippocampus.jpg"
 precedence = "override"
 SPDX-FileCopyrightText = "Luisa Demarchi, Ilaria Bertocchi, Alessandra Oberto"

@@ -1,0 +1,48 @@
+mode = "dark"
+
+# Green Room: the cells of leaves under the microscope (Robert Hooke named cells after small rooms): the
+# breathing pores in a tulip leaf's skin in polarised light, Canadian pondweed packed with chloroplasts, a leaf tip,
+# a leaf's veins in fluorescence, and the thick-walled cells that hold a leaf up. Dark green-black background, pale
+# text, chlorophyll green as the accent and the window border turning from it into the magenta of polarised light.
+
+accent = "#6CC04A"
+selection = "#1E2E1C"
+muted = "#56604E"
+
+background = "#080B08"
+dark_background = "#050705"
+darker_background = "#020302"
+lighter_background = "#151C14"
+
+foreground = "#E6EEE0"
+dark_foreground = "#8C9884"
+light_foreground = "#C8D4C0"
+bright_foreground = "#FFFFFF"
+
+# The focused window: chlorophyll green turning to polarised-light magenta
+hyprland_active_border = "rgba(6cc04aff) rgba(c866d8ff) 45deg"
+hyprland_inactive_border = "rgba(151c14cc)"
+
+# red: the red skin of the tulip leaf, wallpaper 01
+red = "#E85C44"
+# orange: the orange light between the tulip's pores, wallpaper 01
+orange = "#E8883C"
+# yellow: the golden structural cells, wallpaper 06
+yellow = "#E8C040"
+# green: chlorophyll green, wallpapers 03 and 04
+green = "#94C83A"
+# cyan: the glowing green-blue veins, wallpaper 04
+cyan = "#4CC0A8"
+# blue: a clear blue, kept in the same bright range
+blue = "#6C9AE8"
+# magenta: the polarised-light magenta of the pondweed, wallpaper 02
+magenta = "#C866D8"
+# brown: the brown cell walls, wallpaper 06
+brown = "#B07A2C"
+
+bright_red = "#F6AE9E"
+bright_yellow = "#F4E2A4"
+bright_green = "#CCE8A8"
+bright_cyan = "#AEE6DA"
+bright_blue = "#C0D2F4"
+bright_magenta = "#E8C0F0"
