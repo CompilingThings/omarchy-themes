@@ -1,0 +1,48 @@
+mode = "dark"
+
+# Bone White: animal skulls photographed on black in a museum studio: a babirusa with tusks through its snout,
+# a mandrill, a yellow baboon, a warthog, a Siberian musk deer with sabre teeth and an eastern woolly lemur. The black
+# of the photos as the background, warm pale text, bone ivory as the accent, and the window border turning from it
+# into the amber of old tusk. Colours sampled from the theme's own photos, the rest kept in the same warm, worn range.
+
+accent = "#E2CFA0"
+selection = "#2E281E"
+muted = "#5E5850"
+
+background = "#0A0908"
+dark_background = "#060505"
+darker_background = "#020202"
+lighter_background = "#1C1915"
+
+foreground = "#EEE8DC"
+dark_foreground = "#9A9284"
+light_foreground = "#D4CCBC"
+bright_foreground = "#FFFFFF"
+
+# The focused window: bone ivory turning to the amber of old tusk
+hyprland_active_border = "rgba(e2cfa0ff) rgba(b07a3cff) 45deg"
+hyprland_inactive_border = "rgba(1c1915cc)"
+
+# red: a warm red in the same worn range as the bone
+red = "#D25E4A"
+# orange: the orange-brown stain at the root of the babirusa's tusks, wallpaper 01
+orange = "#DC8A48"
+# yellow: the yellowed ivory of the tusks, wallpapers 01 and 04
+yellow = "#E2C27A"
+# green: a muted sage, kept in the same worn range
+green = "#8AB070"
+# cyan: the cool grey-blue of the bone in shadow, wallpaper 05
+cyan = "#7CB8B8"
+# blue: a dusty blue, kept in the same worn range
+blue = "#7C98C8"
+# magenta: a muted mauve, kept in the same worn range
+magenta = "#B87CA8"
+# brown: the brown stain round the mandrill's teeth, wallpaper 02
+brown = "#A8763E"
+
+bright_red = "#F0AE9E"
+bright_yellow = "#F4E2B4"
+bright_green = "#C6DEB6"
+bright_cyan = "#BEE0DE"
+bright_blue = "#C0CEE8"
+bright_magenta = "#E2BED8"

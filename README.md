@@ -3,8 +3,8 @@
 [![check](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml/badge.svg)](https://github.com/CompilingThings/omarchy-themes/actions/workflows/check.yml)
 [![MIT licence](https://img.shields.io/badge/code-MIT-blue)](LICENSE)
 
-**Thirty-five themes for [Omarchy](https://omarchy.org), each with its own animated screensaver:** the planets, the Sun and the Moon in real spacecraft photos,
-the northern lights over Norway, mushrooms from forests round the world, insects up close, and under the microscope the animals in a drop of pond water, the same animals glowing in colour on black, crystals and slices of rock in polarised light, crystals standing alone on black, bubbles and soap films, mineral specimens in the studio, the bare silicon inside old chips, plant stems sliced thin and glowing, brains, eyes and cells lit with glowing dyes, viruses coloured in from the electron microscope, the immune cells that fight them, butterfly wings scale by scale, and insects glowing under violet light, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
+**Thirty-six themes for [Omarchy](https://omarchy.org), each with its own animated screensaver:** the planets, the Sun and the Moon in real spacecraft photos,
+the northern lights over Norway, mushrooms from forests round the world, insects up close, and under the microscope the animals in a drop of pond water, the same animals glowing in colour on black, crystals and slices of rock in polarised light, crystals standing alone on black, bubbles and soap films, mineral specimens in the studio, animal skulls on black, the bare silicon inside old chips, plant stems sliced thin and glowing, brains, eyes and cells lit with glowing dyes, viruses coloured in from the electron microscope, the immune cells that fight them, butterfly wings scale by scale, and insects glowing under violet light, frog and reptile eyes, glowing jellyfish, single snowflakes photographed a century ago, lightning and thunderstorms, fractals drawn from their formulas, and the circuit boards of a homemade computer.
 Every wallpaper is 4K and carries a small label saying what it shows and who made it.
 
 ![All the themes](docs/images/gallery.jpg)
@@ -12,6 +12,7 @@ Every wallpaper is 4K and carries a small label saying what it shows and who mad
 | | Theme | What it is |
 |---|---|---|
 | <img src="docs/images/bedrock.jpg" alt="Bedrock" width="240"> | [**Bedrock**](themes/bedrock/README.md) | Rock sliced thin and seen between crossed polarisers: olivine, kyanite, serpentine veins, myrmekite; gold and cyan |
+| <img src="docs/images/bone-white.jpg" alt="Bone White" width="240"> | [**Bone White**](themes/bone-white/README.md) | Animal skulls on black: a babirusa, a mandrill, a baboon, a warthog, a musk deer with sabre teeth, a woolly lemur; bone ivory and tusk amber |
 | <img src="docs/images/boardroom.jpg" alt="Boardroom" width="240"> | [**Boardroom**](themes/boardroom/README.md) | KiCad 3D renders of a cyberdeck's six boards on a purple drawing sheet; purple, white and gold |
 | <img src="docs/images/cold-blood.jpg" alt="Cold Blood" width="240"> | [**Cold Blood**](themes/cold-blood/README.md) | Frogs, lizards, snakes and crocodiles up close, every scale and eye pattern sharp; tree frog red and pit viper green |
 | <img src="docs/images/compound-eye.jpg" alt="Compound Eye" width="240"> | [**Compound Eye**](themes/compound-eye/README.md) | Insect faces in extreme close-up, mostly from the USGS Bee Lab; cuckoo wasp green and iridescent blue |

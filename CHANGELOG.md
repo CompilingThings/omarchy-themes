@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Bone White: six animal skulls photographed on black by Didier Descouens (a babirusa, a mandrill, a yellow baboon, a
+  warthog, a Siberian musk deer, an eastern woolly lemur), from Wikimedia Commons' featured pictures; bone ivory and
+  tusk amber, with its own screensaver
 - Mother Lode: six mineral specimens photographed in the studio by Ivar Leidus (azurite, wulfenite, gypsum with green
   herbertsmithite, celestine, mimetite, vanadinite), from Wikimedia Commons' featured pictures; ultramarine and
   wulfenite orange, with its own screensaver

@@ -53,6 +53,19 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 
 `screensaver.txt`: text art of `2-main-v1` (`src/asciiart.py`), so by CompilingThings, CC BY 4.0, like that wallpaper.
 
+## Bone White
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-babirusa.jpg` | Didier Descouens | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Babyrousa_celebensis_-_Crane.jpg) |
+| `02-mandrill.jpg` | Didier Descouens | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Mandrilperspective6.jpg) |
+| `03-baboon.jpg` | Didier Descouens | CC BY-SA 3.0 | [source](https://commons.wikimedia.org/wiki/File:Cynocephalus_Perspective.jpg) |
+| `04-warthog.jpg` | Didier Descouens | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Phacoch%C3%A8re9.jpg) |
+| `05-musk-deer.jpg` | Didier Descouens | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Porte_musc_Profil_2.jpg) |
+| `06-woolly-lemur.jpg` | Didier Descouens | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Avahi_5_face_noir.jpg) |
+
+`screensaver.txt`: text art of `01-babirusa` (`src/asciiart.py`), so by Didier Descouens, CC BY-SA 4.0, like that wallpaper.
+
 ## Cold Blood
 
 | Wallpaper | By | Licence | Source |

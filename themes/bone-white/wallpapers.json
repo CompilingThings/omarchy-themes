@@ -1,0 +1,126 @@
+{
+ "accent": "#E2CFA0",
+ "screensaver": {
+  "from": "01-babirusa",
+  "args": [
+   "--hide",
+   "0.40,0.84,1,1",
+   "--box",
+   "0.14,0.1,0.74,0.82",
+   "--mean",
+   "0.24",
+   "--detail",
+   "3",
+   "--edges",
+   "0.7",
+   "--color",
+   "theme"
+  ]
+ },
+ "wallpapers": [
+  {
+   "file": "01-babirusa",
+   "by": "Didier Descouens",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Babyrousa_celebensis_-_Crane.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Babyrousa_celebensis_-_Crane.jpg",
+   "title": "BABIRUSA",
+   "line1": "Skull of a male North Sulawesi babirusa, a wild pig whose upper tusks grow up through its snout, 37 cm long.",
+   "line2": "10 August 2010  ·  Photo: Didier Descouens  ·  CC BY-SA 4.0",
+   "fit": {
+    "field": "#000000",
+    "h": 0.9,
+    "w": 0.84,
+    "x": 0.42,
+    "y": 0.5,
+    "feather": 0.03
+   }
+  },
+  {
+   "file": "02-mandrill",
+   "by": "Didier Descouens",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mandrilperspective6.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mandrilperspective6.jpg",
+   "title": "MANDRILL",
+   "line1": "Skull of a male mandrill from Guinea, three-quarter view, 20 cm long.",
+   "line2": "18 March 2011  ·  Photo: Didier Descouens  ·  CC BY-SA 4.0",
+   "fit": {
+    "field": "#000000",
+    "h": 0.96,
+    "x": 0.42,
+    "y": 0.5,
+    "feather": 0.03
+   }
+  },
+  {
+   "file": "03-baboon",
+   "by": "Didier Descouens",
+   "licence": "CC-BY-SA-3.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Cynocephalus_Perspective.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cynocephalus_Perspective.jpg",
+   "title": "YELLOW BABOON",
+   "line1": "Skull of a young yellow baboon with its mouth open, three-quarter view, 12 cm long.",
+   "line2": "28 November 2010  ·  Photo: Didier Descouens  ·  CC BY-SA 3.0",
+   "fit": {
+    "field": "#000000",
+    "h": 0.96,
+    "x": 0.42,
+    "y": 0.5,
+    "feather": 0.03
+   }
+  },
+  {
+   "file": "04-warthog",
+   "by": "Didier Descouens",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Phacoch%C3%A8re9.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Phacoch%C3%A8re9.jpg",
+   "title": "WARTHOG",
+   "line1": "Skull of a male warthog from Senegal, its curved tusks, 40 cm long.",
+   "line2": "9 January 2011  ·  Photo: Didier Descouens  ·  CC BY-SA 4.0",
+   "fit": {
+    "field": "#000000",
+    "h": 0.96,
+    "x": 0.42,
+    "y": 0.5,
+    "feather": 0.03
+   }
+  },
+  {
+   "file": "05-musk-deer",
+   "by": "Didier Descouens",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Porte_musc_Profil_2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Porte_musc_Profil_2.jpg",
+   "title": "SIBERIAN MUSK DEER",
+   "line1": "Skull of a Siberian musk deer in profile: a deer with no antlers and long sabre-like upper teeth, 17.5 cm long.",
+   "line2": "29 March 2011  ·  Photo: Didier Descouens  ·  CC BY-SA 4.0",
+   "fit": {
+    "field": "#000000",
+    "h": 0.9,
+    "w": 0.84,
+    "x": 0.42,
+    "y": 0.5,
+    "feather": 0.03
+   }
+  },
+  {
+   "file": "06-woolly-lemur",
+   "by": "Didier Descouens",
+   "licence": "CC-BY-SA-4.0",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Avahi_5_face_noir.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Avahi_5_face_noir.jpg",
+   "title": "EASTERN WOOLLY LEMUR",
+   "line1": "Skull of an eastern woolly lemur from Madagascar, face on, its big eye sockets, 6 cm long.",
+   "line2": "22 December 2010  ·  Photo: Didier Descouens  ·  CC BY-SA 4.0",
+   "fit": {
+    "field": "#000000",
+    "h": 0.96,
+    "x": 0.42,
+    "y": 0.5,
+    "feather": 0.03
+   }
+  }
+ ]
+}
