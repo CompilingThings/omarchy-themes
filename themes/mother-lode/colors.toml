@@ -1,0 +1,48 @@
+mode = "dark"
+
+# Mother Lode: mineral specimens photographed in the studio, each a few centimetres across: azurite, wulfenite,
+# gypsum with green herbertsmithite, celestine, mimetite and vanadinite. Graphite as the background, pale neutral text,
+# the ultramarine of azurite as the accent, and the window border turning from it into the orange of wulfenite.
+# Colours sampled from the theme's own photos.
+
+accent = "#606CF4"
+selection = "#1E2142"
+muted = "#5A5C62"
+
+background = "#0D0E10"
+dark_background = "#08090A"
+darker_background = "#030304"
+lighter_background = "#1B1C20"
+
+foreground = "#ECECEE"
+dark_foreground = "#96989E"
+light_foreground = "#CFD0D4"
+bright_foreground = "#FFFFFF"
+
+# The focused window: the ultramarine of azurite turning to the orange of wulfenite
+hyprland_active_border = "rgba(606cf4ff) rgba(f07a2aff) 45deg"
+hyprland_inactive_border = "rgba(1b1c20cc)"
+
+# red: the red heart of the vanadinite plates, wallpaper 06
+red = "#DC4E32"
+# orange: the orange-red of wulfenite, wallpaper 02
+orange = "#F07A2A"
+# yellow: the golden mimetite, wallpaper 05
+yellow = "#F2B42A"
+# green: the green herbertsmithite inside the gypsum, wallpaper 03
+green = "#3CC27A"
+# cyan: the sky blue of celestine, wallpaper 04
+cyan = "#7CC8E0"
+# blue: the ultramarine of azurite, wallpaper 01
+blue = "#5A70F0"
+# magenta: the violet glints in the azurite, wallpaper 01
+magenta = "#B85CC8"
+# brown: the rust brown of vanadinite, wallpaper 06
+brown = "#B8642E"
+
+bright_red = "#F2AE9E"
+bright_yellow = "#F8E0A0"
+bright_green = "#A8E6C2"
+bright_cyan = "#BCE4F0"
+bright_blue = "#B8C2F8"
+bright_magenta = "#E2B4EA"

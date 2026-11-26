@@ -8,6 +8,9 @@ picture or colour a patch).
 
 ### Added
 
+- Mother Lode: six mineral specimens photographed in the studio by Ivar Leidus (azurite, wulfenite, gypsum with green
+  herbertsmithite, celestine, mimetite, vanadinite), from Wikimedia Commons' featured pictures; ultramarine and
+  wulfenite orange, with its own screensaver
 - Surface Tension: six photos of bubbles under the microscope (soap islands on a soap bubble's film, air bubbles in
   melted, dried and squeezed polyvinyl alcohol, the walls of a foam, packed soap bubbles), from the science photo
   competitions on Wikimedia Commons; foam blue and soap-film magenta, with its own screensaver

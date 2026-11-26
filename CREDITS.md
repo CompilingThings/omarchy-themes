@@ -299,6 +299,19 @@ Every wallpaper prints its credit on its label (photos and fractals) or title bl
 
 `screensaver.txt`: text art of `1-space-station` (`src/asciiart.py`), so by NASA/Roscosmos, NASA media guidelines, like that wallpaper.
 
+## Mother Lode
+
+| Wallpaper | By | Licence | Source |
+|---|---|---|---|
+| `01-azurite.jpg` | Ivar Leidus | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Azurite_-_New_Nevada_Lode,_La_Sal,_Utah,_USA.jpg) |
+| `02-wulfenite.jpg` | Ivar Leidus | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Wulfenite_-_Red_Cloud_mine,_La_Paz_Co.,_Arizona,_USA.jpg) |
+| `03-gypsum.jpg` | Ivar Leidus | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Gypsum_-_Sieroszowice_mine,_Lubin,_Lower_Silesia,_Poland.jpg) |
+| `04-celestine.jpg` | Ivar Leidus | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Celestine_-_Sakoany_deposit,_Katsepy,_Mitsinjo,_Boeny,_Madagascar.jpg) |
+| `05-mimetite.jpg` | Ivar Leidus | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Mimetite_-_Congreso-Le%C3%B3n_mines,_San_Pedro_Corralitos,_Chihuahua,_Mexico.jpg) |
+| `06-vanadinite.jpg` | Ivar Leidus | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Vanadinite_-_ACF_mine,_Mibladen,_Morocco.jpg) |
+
+`screensaver.txt`: text art of `06-vanadinite` (`src/asciiart.py`), so by Ivar Leidus, CC BY-SA 4.0, like that wallpaper.
+
 ## Neon Pond
 
 | Wallpaper | By | Licence | Source |
